@@ -1,0 +1,17 @@
+Tropical Storm Andrea (AL012025), 23–24 June 2025
+
+Andrea was a short-lived tropical storm over the central Atlantic that did not affect land.
+
+Tropical Storm Andrea 23–24 JUNE 2025
+
+## BEST TRACK
+
+The “best track2” positions and intensities for Tropical Storm Andrea are listed in Table 1. The best track chart of Andrea’s path is given in Fig. 1, with the wind and pressure histories along with available observations3 shown in Figs. 2 and 3, respectively. There were no land-based or ship reports of winds of tropical storm force associated with Andrea. Origin Andrea had non-tropical origins. An area of low pressure developed along a decaying stationary front around 0000 UTC 22 June about 400 n mi east-southeast of Bermuda. Deep convection gradually organized near the well-defined center of circulation, and the system became a tropical depression by 0600 UTC 23 June when it was located about 425 n mi east of Bermuda. Peak Intensity and Minimum Pressure Andrea’s peak intensity of 35 kt from 1200 UTC 23 June to 1200 UTC 24 June was supported by several ASCAT passes during that time period that all showed maximum winds of around 35 kt. The estimated minimum central pressure of 1014 mb is based on the Knaff-Zehr-Courtney pressure-wind relationship. It should be noted that Andrea was a small system surrounded by high environmental pressure, which resulted in its relatively high central pressure.
+
+## CASUALTY AND DAMAGE STATISTICS
+
+There were no reports of damage or casualties associated with Andrea.
+
+## FORECAST AND WARNING VERIFICATION
+
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical Weather Outlook (TWO) forecast in each likelihood category. Figure 2 shows composites of 7-day TWO genesis areas for each category prior to the formation of Andrea. The small size of the system, its limited time over warm water, low to moderate wind shear conditions, and its non-tropical origins made predicting the genesis of Andrea challenging. It should be noted that the post-analyzed best track shows genesis 30 h sooner than what was done in real time. A review of satellite data suggests that the system developed and maintained just enough organized deep convection to justify the earlier formation time. No verification statistics are shown for Andrea since there were no verifying official forecasts. There were no coastal watches or warnings issued for Andrea.

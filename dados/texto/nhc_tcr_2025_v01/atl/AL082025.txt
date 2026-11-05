@@ -1,0 +1,1124 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE HUMBERTO 
+ 
+(AL082025) 
+ 
+24 September – 1 October 2025 
+ 
+Andrew B. Hagen 
+National Hurricane Center 
+11 December 2025 
+ 
+ 
+GOES-EAST INFRARED SATELLITE IMAGE OF HURRICANE HUMBERTO AT 2000 UTC 27 SEPTEMBER 2025 
+AROUND THE TIME OF ITS PEAK INTENSITY.  IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Humberto formed over the tropical Atlantic and peaked as a category 5 hurricane (on 
+the Saffir-Simpson Hurricane Wind Scale).  Although Humberto did not directly impact land, 
+it passed close enough to Bermuda to prompt a Tropical Storm Watch for the island. 
+ 
+=== page 2 ===
+Hurricane Humberto     2 
+ 
+Hurricane Humberto 
+ 
+24 SEPTEMBER – 1 OCTOBER 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+Humberto originated from a tropical wave that emerged off the west coast of Africa 
+between 18–19 September.  The wave was initially enveloped in dry, stable air until after it 
+crossed 40°W early on 22 September.  Convection increased the next day as broad cyclonic 
+turning was noted in the low-levels of the atmosphere.  Visible satellite imagery suggested that a 
+well-defined low-level circulation formed along with sufficiently organized deep convection on 24 
+September, and it is estimated that Tropical Storm Humberto formed by 1200 UTC that day about 
+525 n mi east-northeast of the northern Leeward Islands.  At the time of genesis, tropical-storm-
+force winds were already occurring in the eastern semicircle, based on scatterometer (ASCAT) 
+data from 12 h earlier.  The “best track” chart of Humberto’s path is given in Fig. 1, with the wind 
+and pressure histories shown in Figs. 2 and 3, respectively.  The best track positions and 
+intensities are listed in Table 11. 
+Initially, Humberto was in an environment of moderate westerly vertical wind shear, but it 
+was able to gradually strengthen on 25 September due to warm sea-surface temperatures (SSTs) 
+and a moist low- to mid-level troposphere.  Humberto intensified into a 60-kt tropical storm by 
+0000 UTC 26 September about 400 n mi northeast of the northern Leeward Islands.  The cyclone 
+moved generally west-northwestward during its first few days of existence along the southwestern 
+periphery of the subtropical ridge.  However, a mid-latitude upper-level trough to the north 
+temporarily weakened the ridge, which caused Humberto’s motion to slow to 5 kt or less from 
+1200 UTC 25 September until 0600 UTC 27 September.  Once the ridge strengthened again, 
+Humberto resumed moving at a more typical speed toward the west-northwest, passing well north 
+of the Leeward Islands late on 27 September.  The aforementioned westerly wind shear lessened 
+on 26 September, allowing an inner core to become established.  Humberto began a 42-h period 
+of rapid intensification from a 60-kt tropical storm to a 140-kt category 5 hurricane from 0000 UTC 
+26 September to 1800 UTC 27 September.  Humberto was located about 300 n mi north-northeast 
+of the northern Leeward Islands near the time it reached category 5 strength. 
+On 28 September, Humberto underwent an eyewall replacement cycle (ERC) as it turned 
+northwestward over the southwestern Atlantic Ocean.  The ERC was a very gradual process, 
+taking about 36 h to complete, and the hurricane displayed a double-eyewall structure for an 
+unusually long period of time.  At the time of peak intensity late on 27 September, convective 
+bands were already starting to organize into an outer ring-like formation (Fig. 4a).  By early 
+afternoon the next day, the outer convective ring was closed, strengthening, and contracting, but 
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Humberto     3 
+ 
+the inner ring was still prominent (Fig. 4b).  Several hours later, Synthetic Aperture Radar (SAR) 
+data from RADARSAT-2 at 2222 UTC 28 September (not shown) and wind data collected around 
+0000 UTC 29 September by the Air Force Reserve Hurricane Hunters both indicated a double 
+wind maxima structure, with winds in the outer eyewall stronger than the winds in the inner eyewall 
+in all quadrants.  A Weather System Follow-on Microwave (WSF-M) pass from this period also 
+showed a weakening inner eyewall (Fig. 4c), consistent with the other data indicating the outer 
+eyewall was becoming dominant. 
+As a result of the ERC, Humberto weakened from 140 kt at 0000 UTC 28 September to 
+120 kt 24 h later.  After the ERC completed, Air Force Hurricane Hunter aircraft data indicated 
+that Humberto re-strengthened slightly to a 125-kt hurricane by 1200 UTC 29 September while 
+located about 315 n mi south-southwest of Bermuda.  Thereafter, increasing wind shear and 
+gradually decreasing SSTs led to rapid weakening as Humberto turned northward, well to the 
+west of Bermuda, in between the subtropical ridge to its east and Hurricane Imelda to its west-
+southwest.  Hurricanes Humberto and Imelda made their closest approach to each other around 
+1800 UTC 30 September, with Imelda centered about 405 n mi southwest of Humberto.  Figure 
+5 shows the two hurricanes over the western Atlantic about 11 h later when they were 460 n mi 
+apart.  On 1 October, Humberto accelerated east-northeastward towards a digging mid-latitude 
+trough and transitioned to an extratropical cyclone with 65-kt winds at 1200 UTC as it merged 
+with a front, about 230 n mi north of Bermuda.  Humberto’s surface circulation then became 
+extremely elongated and dissipated within the frontal boundary later that day.  It is interesting to 
+note that Hurricane Imelda merged with the same powerful mid-latitude trough and associated 
+cold front the next day. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Humberto (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison.  Observations also include flight-level, stepped 
+frequency microwave radiometer (SFMR), and dropwindsonde observations from four flights of 
+the 53rd Weather Reconnaissance Squadron of the U.S. Air Force Reserve Command (Fig. 6).  
+Data and imagery from NOAA polar-orbiting satellites including the Advanced Microwave 
+Sounding Unit (AMSU), the NASA Global Precipitation Mission (GPM), the European Space 
+Agency’s Advanced Scatterometer (ASCAT), the Defense Meteorological Satellite Program 
+(DMSP) satellites, and the Time-Resolved Observations of Precipitation structure and storm 
+Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were also useful 
+in constructing the best track of Humberto.  Surface observations from Oshen C-Star Uncrewed 
+Surface Vessels (USVs) were also helpful in constructing the best track of Humberto. 
+Ship and buoy reports of winds of tropical storm force associated with Humberto are given 
+in Table 2.  Humberto did not produce any sustained tropical-storm-force winds on land, but two 
+=== page 4 ===
+Hurricane Humberto     4 
+ 
+weather stations on Bermuda recorded wind gusts up to 36 kt from Humberto on 30 September 
+and 1 October. 
+When Hurricanes Humberto and Imelda made their closest approach to each other, it was 
+the 2nd closest together two hurricanes have been in the Atlantic basin HURDAT database since 
+1851, and the closest since the beginning of the satellite era in the mid-1960s when records are 
+considered more complete (Michael Lowry, personal communication). 
+ 
+Winds and Pressure 
+ 
+The peak intensity of 140 kt from 1800 UTC 27 September through 0000 UTC 28 
+September is based on a subjective Dvorak Current Intensity estimate of 140 kt from TAFB, as 
+well as the UW-CIMSS ADT, SATCON, and DPRINT objective intensity methods, all of which 
+peaked at 140 kt. 
+ 
+The first reconnaissance flight into Humberto occurred around 0000 UTC 29 September, 
+about 24 h after the estimated peak intensity.  During those 24 h, satellite imagery and microwave 
+images show that Humberto was likely weakening as it went through an ERC.  A dropsonde from 
+that flight measured a pressure of 929 mb with 10-kt winds in the eye, implying a central pressure 
+of 928 mb, which is 14 mb below what the KZC pressure-wind relationship2 gives for the 120-kt 
+intensity at the time.  Given that the KZC was running high, Humberto’s lifetime minimum pressure 
+(during the time of the 140-kt peak intensity 24 h earlier) is estimated to be around 918 mb, which 
+is a bit lower than the suggested KZC pressure value.  It should be noted that there is greater 
+than normal uncertainty in Humberto’s lifetime minimum pressure value since there were no in-
+situ measurements during the time of peak intensity. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+There were no reports of damage or casualties associated with Humberto. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+The system that became Humberto was introduced into the Tropical Weather Outlook 
+(TWO) with good lead time, but confidence in genesis did not increase until much closer to the 
+time of formation (Table 3).  The wave from which Humberto developed was introduced in the 
+Tropical Weather Outlook (TWO) nearly seven days prior to formation.  However, the formation 
+probabilities in the 7-day TWO were raised to the medium category (40%-60%) only 3 days before 
+genesis, and to the high category (>60%) 2 days prior to the formation of Humberto.  The 48-h 
+                                                
+2 KZC pressure-wind relationships incorporate intensity, storm size, latitude, forward speed, and the value 
+of the outermost closed isobar. 
+=== page 5 ===
+Hurricane Humberto     5 
+ 
+probabilities were introduced 60 h prior to formation, but were raised to the high category only 12 
+h prior to genesis.  The location of Humberto’s genesis was not included in the forecast ellipses 
+that were issued 120–162 h prior to genesis, as the western edge of those ellipses did not extend 
+far enough west.  However, starting 114 h prior to genesis, every genesis area correctly captured 
+the location of genesis (Fig. 7). 
+A verification of NHC official track forecasts for Humberto is given in Table 4a.  Official 
+track forecast errors were lower than the mean official errors for the previous 5-yr period at all 
+verifying times.  The OFCL forecasts were especially impressive on days 3–5 (outperforming the 
+NHC 5-year means by 25–55%), considering that the forecasts were more difficult than average 
+at those time ranges (due to the larger than average OCD5 errors).  A homogeneous comparison 
+of the official track errors with selected guidance models is given in Table 4b.  The Google 
+DeepMind Ensemble Mean (GDMI) was the best performing track model from 12–48 h, and the 
+GFS model (GFSI) was generally the best performing model from 60–120 h.  Both of the 
+aforementioned models outperformed the NHC forecast for the track of Humberto.  It should be 
+noted that the GDMI model was sometimes not available early enough to be utilized by NHC 
+forecasters.  The European model (EMXI) performed quite poorly compared with the other 
+dynamical track models. 
+A verification of NHC official intensity forecasts for Humberto is given in Table 5a.  Official 
+intensity forecast errors were significantly greater than the mean official errors for the previous 5-
+yr period at all lead times.  The OCD5 errors were much larger than climatology through 96 h, 
+which indicates that predicting Humberto’s intensity was much more difficult than average.  NHC 
+(and all of the models) under-forecasted Humberto’s intensity for the first several forecasts (Figs. 
+8a-8d).  NHC correctly forecast that Humberto would undergo a period of rapid intensification on 
+3 of its first 6 forecasts.  However, those first 6 forecasts did not show Humberto becoming 
+stronger than a category 3.  After peak intensity, NHC’s intensity forecasts were too high, and 
+Humberto weakened faster than expected.  A homogeneous comparison of the official intensity 
+errors with selected guidance models is given in Table 5b and illustrated in Figure 8.  The Florida 
+State Superensemble (FSSE) was the best-performing intensity model from 12–72 h (Fig. 8b), 
+and it outperformed NHC’s official forecast by a significant margin at 36–72 h.  The HCCA (Fig. 
+8c), GDMI (Fig. 8d), HAFS and HWRF models were also strong performers, relative to the rest of 
+the guidance. 
+ 
+Watches and warnings associated with Humberto are given in Table 6.  A Tropical Storm 
+Watch was issued for Bermuda late on 28 September.  The watch for Humberto was discontinued 
+and replaced with a Hurricane Watch for Hurricane Imelda late on 29 September, which was 
+forecast to more directly impact the island. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Lisa Bucci of NHC assisted in the creation of Figure 8.  Dr. Philippe Papin of NHC 
+created Figures 1 and 7. 
+ 
+=== page 6 ===
+Hurricane Humberto     6 
+ 
+Table 1. 
+Best track for Hurricane Humberto, 24 September–1 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+24 / 1200 
+19.1 
+53.6 
+1008 
+35 
+tropical storm 
+24 / 1800 
+19.8 
+54.5 
+1008 
+35 
+" 
+25 / 0000 
+20.4 
+55.4 
+1007 
+40 
+" 
+25 / 0600 
+20.9 
+56.2 
+1006 
+45 
+" 
+25 / 1200 
+21.3 
+56.5 
+1002 
+50 
+" 
+25 / 1800 
+21.5 
+56.7 
+998 
+55 
+" 
+26 / 0000 
+21.7 
+56.9 
+993 
+60 
+" 
+26 / 0600 
+21.9 
+57.0 
+984 
+70 
+hurricane 
+26 / 1200 
+22.1 
+57.4 
+978 
+80 
+" 
+26 / 1800 
+22.2 
+57.8 
+966 
+95 
+" 
+27 / 0000 
+22.1 
+58.4 
+949 
+115 
+" 
+27 / 0600 
+22.2 
+58.9 
+938 
+125 
+" 
+27 / 1200 
+22.5 
+59.7 
+932 
+130 
+" 
+27 / 1800 
+22.7 
+60.7 
+919 
+140 
+" 
+28 / 0000 
+23.1 
+61.6 
+918 
+140 
+" 
+28 / 0600 
+23.7 
+62.7 
+921 
+135 
+" 
+28 / 1200 
+24.2 
+63.8 
+926 
+125 
+" 
+28 / 1800 
+25.1 
+64.8 
+926 
+125 
+" 
+29 / 0000 
+25.8 
+65.8 
+928 
+120 
+" 
+29 / 0600 
+26.7 
+66.6 
+933 
+120 
+" 
+29 / 1200 
+27.5 
+67.3 
+938 
+125 
+" 
+29 / 1800 
+28.5 
+67.9 
+948 
+115 
+" 
+=== page 7 ===
+Hurricane Humberto     7 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+30 / 0000 
+29.5 
+68.6 
+961 
+100 
+" 
+30 / 0600 
+31.0 
+69.4 
+967 
+90 
+" 
+30 / 1200 
+32.5 
+69.8 
+977 
+70 
+" 
+30 / 1800 
+33.5 
+69.9 
+979 
+70 
+" 
+01 / 0000 
+34.6 
+69.0 
+979 
+70 
+" 
+01 / 0600 
+35.7 
+67.5 
+979 
+70 
+" 
+01 / 1200 
+36.1 
+65.5 
+981 
+65 
+extratropical 
+01 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+28 / 0000 
+23.1 
+61.6 
+918 
+140 
+minimum pressure 
+and maximum winds 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Humberto     8 
+ 
+Table 2. 
+Selected ship and buoy reports with winds of at least 34 kt for Hurricane Humberto, 
+24 September–1 October 2025. 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind dir/ 
+speed (kt) 
+Pressure 
+(mb) 
+30 / 1500 
+C6EO4 
+33.0 
+72.1 
+030 / 35 
+1012.0 
+30 / 1700 
+C6EO4 
+33.3 
+71.9 
+020 / 40 
+1013.0 
+01 / 0652 
+VDCY 
+40.6 
+69.2 
+040 / 36 
+ 
+NOAA Buoys 
+27 / 0207 
+41044 
+21.6 
+58.6 
+253 / 42 
+999.3 
+ 
+ 
+Table 3. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category.  Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+60 
+162 
+Medium (40%-60%) 
+24 
+72 
+High (>60%) 
+12 
+48 
+ 
+ 
+ 
+=== page 9 ===
+Hurricane Humberto     9 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Humberto, 24 September–1 October 2025.  
+Mean errors for the previous 5-yr period are shown for comparison. Official errors 
+that are smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.0 
+27.8 
+35.2 
+42.6 
+53.6 
+66.5 
+76.9 
+83.9 
+OCD5 
+41.6 
+83.9 
+135.9 
+195.1 
+267.5 
+333.0 
+464.3 
+548.7 
+Forecasts 
+25 
+23 
+21 
+19 
+17 
+15 
+11 
+7 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+ 
+=== page 10 ===
+Hurricane Humberto     10 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Humberto, 24 September–1 October 2025.  Errors smaller than the 
+NHC official forecast are shown in boldface type.  The number of official forecasts 
+shown here will generally be smaller than that shown in Table 4a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.2 
+25.9 
+35.8 
+42.9 
+56.6 
+75.9 
+100.4 
+120.0 
+OCD5 
+38.0 
+76.9 
+124.6 
+187.5 
+267.2 
+340.2 
+498.6 
+593.5 
+GFSI 
+20.0 
+23.0 
+28.3 
+31.7 
+38.9 
+43.6 
+75.1 
+67.8 
+HWFI 
+19.0 
+29.7 
+47.0 
+61.9 
+82.1 
+105.0 
+165.7 
+162.3 
+HMNI 
+18.9 
+29.6 
+44.5 
+53.6 
+64.0 
+80.4 
+95.3 
+130.1 
+HFAI 
+19.6 
+25.9 
+37.1 
+55.6 
+73.3 
+91.4 
+105.7 
+155.9 
+HFBI 
+19.7 
+21.3 
+33.1 
+46.8 
+63.8 
+77.4 
+83.6 
+136.3 
+GDMI 
+15.3 
+20.7 
+26.9 
+30.8 
+43.0 
+54.4 
+77.6 
+103.6 
+EMXI 
+19.8 
+35.9 
+51.8 
+77.1 
+106.3 
+141.6 
+207.6 
+231.7 
+NVGI 
+28.5 
+32.4 
+54.9 
+76.2 
+108.4 
+146.9 
+247.5 
+236.1 
+CMCI 
+20.9 
+27.6 
+35.1 
+47.0 
+57.6 
+61.2 
+89.1 
+111.2 
+CTCI 
+17.8 
+32.4 
+55.3 
+67.6 
+74.8 
+91.2 
+135.5 
+87.7 
+TVCA 
+17.1 
+22.3 
+35.2 
+46.0 
+63.5 
+83.8 
+111.1 
+101.6 
+TVCX 
+16.5 
+23.0 
+36.1 
+47.5 
+65.6 
+87.7 
+114.6 
+107.6 
+GFEX 
+16.5 
+23.6 
+34.2 
+48.9 
+69.8 
+92.2 
+137.7 
+145.1 
+TVDG 
+16.5 
+21.9 
+33.8 
+43.3 
+61.8 
+83.3 
+113.7 
+106.8 
+HCCA 
+17.0 
+22.5 
+35.3 
+49.7 
+67.5 
+91.0 
+120.7 
+119.7 
+FSSE 
+17.1 
+22.3 
+35.5 
+55.6 
+77.3 
+96.1 
+130.9 
+90.4 
+AEMI 
+20.0 
+24.5 
+27.9 
+35.1 
+52.6 
+71.4 
+116.3 
+131.0 
+TABS 
+44.7 
+82.2 
+131.2 
+188.2 
+246.0 
+321.4 
+487.3 
+613.3 
+TABM 
+28.2 
+40.4 
+45.2 
+53.6 
+57.2 
+64.2 
+54.0 
+81.0 
+TABD 
+22.9 
+39.5 
+75.5 
+105.8 
+138.0 
+174.1 
+259.2 
+360.0 
+Forecasts 
+20 
+18 
+17 
+15 
+13 
+11 
+7 
+3 
+=== page 11 ===
+Hurricane Humberto     11 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Humberto, 24 September–1 October 2025.  Mean 
+errors for the previous 5-yr period are shown for comparison.  Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+8.6 
+15.7 
+22.6 
+26.3 
+28.2 
+26.3 
+21.8 
+15.0 
+OCD5 
+12.6 
+22.4 
+31.3 
+39.6 
+44.8 
+44.6 
+36.5 
+18.9 
+Forecasts 
+25 
+23 
+21 
+19 
+17 
+15 
+11 
+7 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Humberto     12 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Humberto, 24 September–1 October 2025.  Errors smaller than the 
+NHC official forecast are shown in boldface type.  The number of official forecasts 
+shown here will generally be smaller than that shown in Table 5a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+8.6 
+16.6 
+21.7 
+21.2 
+20.7 
+18.8 
+20.6 
+20.0 
+OCD5 
+12.9 
+24.1 
+32.2 
+37.2 
+39.3 
+36.9 
+27.5 
+6.0 
+HWFI 
+12.0 
+19.0 
+21.6 
+21.0 
+17.5 
+15.7 
+22.5 
+36.0 
+HMNI 
+12.1 
+19.2 
+23.6 
+24.0 
+22.1 
+18.4 
+20.2 
+25.2 
+HFAI 
+10.8 
+16.6 
+19.3 
+20.1 
+18.6 
+12.6 
+19.6 
+11.0 
+HFBI 
+11.2 
+16.5 
+21.4 
+21.2 
+17.3 
+11.1 
+20.6 
+11.2 
+GDMI 
+11.1 
+16.4 
+19.8 
+19.2 
+16.5 
+16.2 
+12.1 
+9.2 
+DSHP 
+11.7 
+18.0 
+21.5 
+25.3 
+26.2 
+27.3 
+27.1 
+6.8 
+LGEM 
+11.7 
+19.1 
+25.3 
+27.2 
+27.1 
+26.2 
+27.4 
+11.0 
+ICON 
+11.2 
+18.1 
+22.3 
+23.6 
+21.5 
+20.8 
+21.9 
+18.5 
+IVCN 
+11.0 
+17.2 
+21.4 
+22.4 
+19.3 
+16.5 
+19.2 
+10.2 
+IVDR 
+10.8 
+17.4 
+21.6 
+21.9 
+18.7 
+15.5 
+17.9 
+10.8 
+CTCI 
+10.2 
+18.4 
+22.1 
+23.2 
+16.6 
+11.2 
+8.2 
+9.0 
+GFSI 
+11.8 
+19.7 
+23.2 
+25.1 
+25.6 
+23.3 
+16.2 
+8.2 
+EMXI 
+14.1 
+24.9 
+34.8 
+37.8 
+34.4 
+29.8 
+26.9 
+33.5 
+HCCA 
+10.7 
+14.7 
+18.3 
+20.8 
+19.4 
+16.7 
+20.4 
+20.5 
+FSSE 
+10.6 
+14.1 
+17.1 
+17.4 
+14.9 
+9.8 
+18.1 
+23.2 
+Forecasts 
+21 
+19 
+18 
+16 
+14 
+12 
+8 
+4 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Humberto     13 
+ 
+Table 6. 
+Watch and warning summary for Hurricane Humberto, 24 September–1 October 
+2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+28 / 2100 
+Tropical Storm Watch issued 
+Bermuda 
+29 / 2100 
+Tropical Storm Watch 
+discontinued for Humberto and 
+replaced with Hurricane Watch for 
+Imelda 
+Bermuda 
+ 
+ 
+=== page 14 ===
+Hurricane Humberto     14 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Humberto, 24 September–1 October 2025. 
+=== page 15 ===
+Hurricane Humberto     15 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Humberto, 24 
+September–1 October 2025. Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment 
+factors for observations from 700 mb, 850 mb, and 925 mb, respectively. Dropwindsonde observations include actual 10 m 
+winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC. 
+=== page 16 ===
+Hurricane Humberto     16 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Humberto, 24 September–1 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time.  
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies.  KZC P-W refers to pressure 
+estimates derived using the Knaff-Zehr-Courtney pressure-wind relationship.  Dashed vertical lines correspond to 0000 UTC. 
+=== page 17 ===
+Hurricane Humberto     17 
+ 
+    
+ 
+      
+Figure 4. 
+A comparison of the 89-GHz microwave images in chronological order to illustrate Humberto’s eyewall replacement cycle: a) 
+GPMI image at 27 September at 2142 UTC, b) AMSR2 image at 28/1738 UTC, and c) WSF-M image at 28/2235 UTC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 18 ===
+Hurricane Humberto     18 
+ 
+ 
+Figure 5. 
+GOES-E infrared satellite image showing both Hurricane Humberto (center) and Hurricane Imelda (lower left) at 0450 UTC 1 
+October.  Humberto was centered about 460 n mi to the northeast of Imelda at the time. 
+ 
+=== page 19 ===
+Hurricane Humberto     19 
+ 
+ 
+Figure 6. 
+Air Force Reserve Hurricane Hunter aircraft flight tracks (colored lines) from reconnaissance missions into Humberto from 28–
+30 September 2025.  The black markers denote center fixes, and the blue triangles indicate dropsonde locations.  The color 
+coding of the flight tracks represents the observed flight-level wind speed in knots at that location (see legend). 
+=== page 20 ===
+Hurricane Humberto     20 
+ 
+ 
+Figure 7. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Hurricane Humberto for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, 
+and (d) high (>60%) category. The location of genesis is indicated by the black star. 
+=== page 21 ===
+Hurricane Humberto     21 
+ 
+ 
+ 
+Figure 8. 
+Intensity forecasts for Hurricane Humberto.  The colored lines are the forecasts, with the black line the verifying values. Top left 
+(8a) is the NHC forecast (OFCL), top right (8b) FSSE, bottom left (8c) HCCA and bottom right (8d) GDMI. 

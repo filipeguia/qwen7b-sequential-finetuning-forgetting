@@ -1,0 +1,146 @@
+{
+  "semente": 17,
+  "placa_inicio": {
+    "temp_c": "65",
+    "clock_mhz": "480",
+    "watts": "19.50"
+  },
+  "geracao_lote": {
+    "1": {
+      "tokens_s": 8.5,
+      "segundos": 3.8,
+      "pico_gb": 5.2,
+      "reservado_gb": 5.34,
+      "livre_placa_gb": 1.35
+    },
+    "8": {
+      "tokens_s": 78.9,
+      "segundos": 3.2,
+      "pico_gb": 5.38,
+      "reservado_gb": 5.5,
+      "livre_placa_gb": 1.17
+    },
+    "16": {
+      "tokens_s": 156.4,
+      "segundos": 3.3,
+      "pico_gb": 5.44,
+      "reservado_gb": 5.52,
+      "livre_placa_gb": 1.17
+    },
+    "32": {
+      "tokens_s": 262.9,
+      "segundos": 3.9,
+      "pico_gb": 5.56,
+      "reservado_gb": 5.65,
+      "livre_placa_gb": 1.05
+    }
+  },
+  "prompt_longo": {
+    "1": {
+      "tokens_prompt": 1604,
+      "segundos": 15.4,
+      "s_por_questao": 15.4,
+      "pico_gb": 6.03,
+      "reservado_gb": 6.19,
+      "livre_placa_gb": 0.51
+    },
+    "4": {
+      "tokens_prompt": 1604,
+      "segundos": 107.1,
+      "s_por_questao": 26.8,
+      "pico_gb": 8.5,
+      "reservado_gb": 8.88,
+      "livre_placa_gb": 0.0
+    }
+  },
+  "lm_eval": {
+    "mmlu": {
+      "questoes": 57,
+      "segundos": 717.4,
+      "s_por_questao": 12.59,
+      "pico_gb": 7.36,
+      "reservado_gb": 9.49,
+      "livre_placa_gb": 0.0
+    },
+    "gsm8k": {
+      "questoes": 8,
+      "segundos": 212.4,
+      "s_por_questao": 26.55,
+      "pico_gb": 6.19,
+      "reservado_gb": 9.49,
+      "livre_placa_gb": 0.0
+    }
+  },
+  "parametros_treinaveis_m": 20.2,
+  "treino_formatos": {
+    "1x256": {
+      "s_por_microlote": 1.52,
+      "tokens_s": 169,
+      "pico_gb": 5.85,
+      "reservado_gb": 9.6,
+      "livre_placa_gb": 0.0
+    },
+    "2x128": {
+      "s_por_microlote": 1.48,
+      "tokens_s": 173,
+      "pico_gb": 5.85,
+      "reservado_gb": 9.6,
+      "livre_placa_gb": 0.0
+    },
+    "4x128": {
+      "s_por_microlote": 3.16,
+      "tokens_s": 162,
+      "pico_gb": 6.34,
+      "reservado_gb": 9.6,
+      "livre_placa_gb": 0.0
+    },
+    "2x256": {
+      "s_por_microlote": 3.37,
+      "tokens_s": 152,
+      "pico_gb": 6.34,
+      "reservado_gb": 9.6,
+      "livre_placa_gb": 0.0
+    }
+  },
+  "treino_longo_1x256": {
+    "microlotes": 150,
+    "s_medio_por_bloco_de_30": [
+      1.62,
+      1.66,
+      1.66,
+      1.67,
+      1.65
+    ],
+    "leituras_placa": [
+      {
+        "microlote": 0,
+        "temp_c": "86",
+        "clock_mhz": "1455",
+        "watts": "84.14",
+        "s_ultimo": 1.47
+      },
+      {
+        "microlote": 50,
+        "temp_c": "86",
+        "clock_mhz": "1485",
+        "watts": "78.02",
+        "s_ultimo": 1.67
+      },
+      {
+        "microlote": 100,
+        "temp_c": "87",
+        "clock_mhz": "1335",
+        "watts": "78.59",
+        "s_ultimo": 1.65
+      }
+    ],
+    "pico_gb": 5.85,
+    "reservado_gb": 9.6,
+    "livre_placa_gb": 0.0
+  },
+  "placa_fim": {
+    "temp_c": "87",
+    "clock_mhz": "1470",
+    "watts": "79.06"
+  }
+}

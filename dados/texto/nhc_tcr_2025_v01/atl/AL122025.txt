@@ -1,0 +1,752 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM LORENZO 
+ 
+(AL122025) 
+ 
+13–15 October 2025 
+ 
+John L. Beven II 
+National Hurricane Center 
+20 November 2025 
+ 
+ 
+GOES-19 GEOCOLOR IMAGE OF LORENZO AT 1800 UTC 13 OCTOBER 2025.                                                 
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Lorenzo was a tropical storm in the eastern and central tropical Atlantic that stayed 
+far away from land. 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Lorenzo. 
+=== page 2 ===
+Tropical Storm Lorenzo     2 
+ 
+Tropical Storm Lorenzo 
+ 
+13–15 OCTOBER 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Tropical Storm Lorenzo are listed in Table 
+1. The best track chart of Lorenzo’s path is given in Fig. 1, with the wind and pressure histories 
+along with available observations3 shown in Figs. 2 and 3, respectively. 
+There were no surface reports of tropical-storm-force winds from Lorenzo. 
+Origin 
+Lorenzo formed from a low-latitude tropical wave that moved westward from the coast of 
+Africa on 9 October. The system first showed signs of convective organization on 11 October, 
+and the next day it developed an area of 35-kt winds to the northeast of a vorticity center 
+embedded within a sharp trough.  At about 0600 UTC 13 October, a well-defined circulation 
+developed accompanied by organized convection, and it is estimated that Tropical Storm Lorenzo 
+formed at that time about 900 n mi west of the Cabo Verde Islands. 
+Peak Intensity and Minimum Pressure 
+Lorenzo’s peak intensity of 50 kt is supported by multiple ASCAT overpasses showing 
+maximum vectors of around 45 kt near 0000 UTC 14 October, along with the likelihood that the 
+maximum winds were undersampled. 
+The estimated minimum central pressure of 1000 mb is based on the Knaff-Zehr-Courtney 
+wind-pressure relationship for a storm of Lorenzo’s intensity and size. 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Lorenzo. 
+=== page 3 ===
+Tropical Storm Lorenzo     3 
+ 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Lorenzo. 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. Temporally, the development of 
+Lorenzo was not well anticipated, with the system not being introduced into the TWO until 48 h 
+before genesis and the system not being given a high probability of development in the 7-day 
+outlook until the last 6 h before genesis occurred. Figure 4 shows composites of 7-day TWO 
+genesis areas for each category prior to the formation of Lorenzo. While the number of genesis 
+forecasts is low, the genesis location was consistently inside the forecast areas. 
+A verification of NHC official track forecasts for Lorenzo is given in Table 3a. Official track 
+forecast errors were greater than the mean official errors for the previous 5-yr period at the 12- 
+and 24-h forecast times, but were less than the 5-yr mean errors at the 36- and 48-h forecast 
+times. It should be noted that Lorenzo was only a tropical cyclone for 54 h, so the number of 
+forecasts is small. A homogeneous comparison of the official track errors with selected guidance 
+models is given in Table 3b. Many of the track guidance models had lower average errors than 
+the official forecast, but again the number of forecasts was small and results are not very 
+meaningful. 
+A verification of NHC official intensity forecasts for Lorenzo is given in Table 4a. Official 
+intensity forecast errors were greater than the mean official errors for the previous 5-yr period. A 
+homogeneous comparison of the official intensity errors with selected guidance models is given 
+in Table 4b. Many of the guidance models had lower average errors than the official forecast at 
+the 24-, 36-, and 48-h forecast times. Examination of the individual forecasts (not shown) indicates 
+that the official intensity forecasts were too low on 13 October and then too high on 14–15 October 
+since Lorenzo weakened faster than originally forecast. 
+There were no coastal watches or warnings issued for Lorenzo. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Philippe Papin created the Graphical Tropical Weather Outlook verification graphic. 
+ 
+ 
+=== page 4 ===
+Tropical Storm Lorenzo     4 
+ 
+Table 1. 
+Best track for Tropical Storm Lorenzo, 13–15 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+13 / 0600 
+13.8 
+39.7 
+1005 
+40 
+tropical storm 
+13 / 1200 
+14.4 
+40.6 
+1003 
+45 
+" 
+13 / 1800 
+15.0 
+41.5 
+1002 
+45 
+" 
+14 / 0000 
+15.8 
+42.4 
+1000 
+50 
+" 
+14 / 0600 
+16.9 
+43.6 
+1000 
+50 
+" 
+14 / 1200 
+17.6 
+44.7 
+1004 
+40 
+" 
+14 / 1800 
+18.3 
+45.3 
+1005 
+35 
+" 
+15 / 0000 
+19.2 
+45.5 
+1005 
+35 
+" 
+15 / 0600 
+20.1 
+45.3 
+1004 
+35 
+" 
+15 / 1200 
+21.1 
+44.5 
+1004 
+35 
+" 
+15 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+14 / 0000 
+15.8 
+42.4 
+1000 
+50 
+minimum pressure 
+and maximum winds 
+ 
+ 
+ 
+ 
+=== page 5 ===
+Tropical Storm Lorenzo     5 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+42 
+48 
+Medium (40%-60%) 
+24 
+36 
+High (>60%) 
+N/A 
+6 
+ 
+ 
+ 
+=== page 6 ===
+Tropical Storm Lorenzo     6 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Lorenzo, 13–15 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+29.3 
+50.1 
+39.3 
+31.3 
+ 
+ 
+ 
+ 
+OCD5 
+60.8 
+87.4 
+112.4 
+167.9 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Lorenzo     7 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Lorenzo, 13–15 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts shown 
+here will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+31.9 
+51.4 
+34.2 
+28.7 
+ 
+ 
+ 
+ 
+OCD5 
+62.7 
+93.3 
+125.1 
+183.1 
+ 
+ 
+ 
+ 
+GFSI 
+30.9 
+45.0 
+39.3 
+43.1 
+ 
+ 
+ 
+ 
+HWFI 
+39.2 
+47.0 
+36.1 
+86.4 
+ 
+ 
+ 
+ 
+HMNI 
+45.6 
+55.8 
+27.7 
+87.4 
+ 
+ 
+ 
+ 
+HFAI 
+33.0 
+47.7 
+25.8 
+49.2 
+ 
+ 
+ 
+ 
+HFBI 
+40.4 
+41.7 
+25.5 
+41.2 
+ 
+ 
+ 
+ 
+EMXI 
+42.3 
+63.0 
+52.1 
+33.6 
+ 
+ 
+ 
+ 
+CMCI 
+36.9 
+37.0 
+46.7 
+64.1 
+ 
+ 
+ 
+ 
+TVCA 
+32.2 
+41.0 
+22.5 
+50.4 
+ 
+ 
+ 
+ 
+TVCX 
+31.9 
+39.4 
+22.6 
+50.4 
+ 
+ 
+ 
+ 
+GFEX 
+31.1 
+41.6 
+22.4 
+39.6 
+ 
+ 
+ 
+ 
+TVDG 
+30.9 
+38.7 
+18.1 
+45.2 
+ 
+ 
+ 
+ 
+HCCA 
+31.2 
+41.9 
+28.3 
+33.3 
+ 
+ 
+ 
+ 
+FSSE 
+32.3 
+44.1 
+26.9 
+39.2 
+ 
+ 
+ 
+ 
+AEMI 
+34.4 
+43.3 
+34.8 
+67.2 
+ 
+ 
+ 
+ 
+TABS 
+40.0 
+56.8 
+60.0 
+61.6 
+ 
+ 
+ 
+ 
+TABM 
+42.7 
+50.0 
+41.1 
+137.4 
+ 
+ 
+ 
+ 
+TABD 
+46.5 
+53.4 
+37.4 
+123.8 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Lorenzo     8 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Lorenzo, 13–15 October 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.6 
+10.0 
+12.5 
+15.0 
+ 
+ 
+ 
+ 
+OCD5 
+5.6 
+13.0 
+21.5 
+22.5 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Lorenzo     9 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Lorenzo, 13–15 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts shown 
+here will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.7 
+10.0 
+13.3 
+15.0 
+ 
+ 
+ 
+ 
+OCD5 
+6.3 
+15.4 
+22.7 
+24.0 
+ 
+ 
+ 
+ 
+HWFI 
+6.4 
+11.4 
+14.7 
+7.0 
+ 
+ 
+ 
+ 
+HMNI 
+8.7 
+8.8 
+15.3 
+5.0 
+ 
+ 
+ 
+ 
+HFAI 
+5.9 
+3.0 
+3.7 
+1.0 
+ 
+ 
+ 
+ 
+HFBI 
+6.9 
+3.8 
+2.0 
+3.0 
+ 
+ 
+ 
+ 
+DSHP 
+7.4 
+13.2 
+14.7 
+14.0 
+ 
+ 
+ 
+ 
+LGEM 
+8.1 
+12.6 
+11.7 
+9.0 
+ 
+ 
+ 
+ 
+ICON 
+7.7 
+11.6 
+14.7 
+9.0 
+ 
+ 
+ 
+ 
+IVCN 
+7.4 
+8.2 
+10.7 
+6.0 
+ 
+ 
+ 
+ 
+IVDR 
+7.3 
+7.2 
+9.0 
+5.0 
+ 
+ 
+ 
+ 
+GFSI 
+6.9 
+3.8 
+3.7 
+4.0 
+ 
+ 
+ 
+ 
+EMXI 
+7.4 
+5.6 
+2.3 
+3.0 
+ 
+ 
+ 
+ 
+HCCA 
+6.9 
+8.2 
+8.7 
+6.0 
+ 
+ 
+ 
+ 
+FSSE 
+5.9 
+7.4 
+10.3 
+8.0 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Lorenzo     10 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Lorenzo, 13–15 October 2025.  
+=== page 11 ===
+Tropical Storm Lorenzo     11 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Lorenzo, 13–15 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 12 ===
+Tropical Storm Lorenzo     12 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Lorenzo, 13–15 October 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 13 ===
+Tropical Storm Lorenzo     13 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Lorenzo for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star.  

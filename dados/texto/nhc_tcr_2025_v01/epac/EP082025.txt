@@ -1,0 +1,1672 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+HURRICANE HENRIETTE 
+ 
+(EP082025) 
+ 
+4–13 August 2025 
+ 
+Alex Gibbs  
+National Hurricane Center 
+24 November 2025 
+ 
+ 
+GOES-WEST VISIBLE SATELLITE IMAGE OF HURRICANE HENRIETTE AT 0300 UTC 11 AUGUST 2025, NEAR THE 
+TIME OF ITS PEAK INTENSITY. IMAGE COURTESY NOAA/NESDIS/RAMMB/CIRA. 
+ 
+Henriette was a hurricane that formed well southwest of the Baja California Peninsula 
+and did not bring any direct impacts to land. The system briefly became a remnant low as 
+it approached and crossed into the central Pacific basin, but later reorganized and 
+intensified into a Category 1 hurricane as it passed well north of Hawaii.  
+ 
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Henriette. 
+=== page 2 ===
+Hurricane Henriette     2 
+ 
+Hurricane Henriette 
+4–13 August 2025 
+ 
+ 
+BEST TRACK 
+ 
+ 
+The “best track2” positions and intensities for Hurricane Henriette are listed in Table 1. The 
+“best track” chart of Henriette’s path is given in Fig. 1, with the wind and pressure histories along 
+with available observations3 shown in Figs. 2 and 3, respectively.  
+There were no ship observations of tropical-storm-force winds associated with Henriette. 
+Origin 
+Henriette originated from a tropical wave that moved off the coast of Africa on 16 July and 
+crossed Central America around 28–30 July. The system emerged over the eastern Pacific and 
+continued westward for a few days, eventually evolving into a broad area of low pressure while 
+producing disorganized convection. Showers and thunderstorms associated with this system 
+gradually became better organized when the disturbance was located well southwest of the Baja 
+California Peninsula on 3 August. It is estimated that the system became a tropical depression at 
+0600 UTC 4 August, when scatterometer data revealed a well-defined surface circulation and 
+deep convection consolidated over the center. The cyclone strengthened into a 35-kt tropical 
+storm about 6 h later. 
+Peak Intensity and Minimum Pressure 
+Henriette’s estimated peak intensity of 75 kt around 1200 UTC 11 August is based on a 
+blend of subjective Dvorak intensity estimates from HFO, JTWC, and SAB, along with objective 
+estimates from UW-CIMSS. The estimated minimum central pressure of 986 mb is based 
+primarily on the Knaff–Zehr–Courtney (KZC) pressure–wind relationship. It should be noted that 
+ 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Central 
+Pacific Hurricane Center (PHFO), the Joint Typhoon Warning Center (JTWC), Tropical Analysis and 
+Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique 
+(ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute for 
+Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Henriette. 
+=== page 3 ===
+Hurricane Henriette     3 
+ 
+tropical cyclones reaching their peak intensity this far north of Hawaii, where cooler waters, drier 
+air, and stronger vertical wind shear generally prevail, are rare.  
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+ 
+There were no reports of damage or casualties associated with Henriette. 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. The tropical wave that eventually 
+became Henriette was introduced in the TWO with sufficient lead time, with low probabilities of 
+formation (<30%) in the 2- and 7-day periods about 84 h and 144 h prior to genesis, respectively. 
+These probabilities were gradually increased as the system began to consolidate and become 
+more organized, with high formation probabilities (>60%) introduced about 30 h prior to genesis 
+in the 2-day period and about 96 h prior in the 7-day period. Composites of the 7-day TWO 
+genesis areas (Fig. 4) show that the spatial extent of the genesis region remained consistent 
+through time, with the medium (40–60%) and high (>60%) probability contours centered very near 
+the genesis location. As a result, the forecasts of Henriette’s formation location were highly 
+accurate, with the cyclone forming near the center of the depicted genesis areas, yielding a 100% 
+hit rate. It should also be noted that while Henriette weakened into a post-tropical low and then 
+re-intensified in the central Pacific, NHC continued to issue official forecasts, maintaining forecast 
+continuity while the system did not meet the criteria of a tropical cyclone. 
+A verification of the NHC official track forecasts for Henriette is provided in Tables 3a and 
+5a covering the eastern and central North Pacific basins, respectively. In both basins, the official 
+track forecast errors were lower than the mean official errors from the previous 5-year period at 
+all forecast times. A homogeneous comparison of the official track errors with selected guidance 
+models is provided in Tables 3b and 5b. Several models outperformed the official NHC forecast 
+through 36 h in the eastern Pacific; however, from 48 h through 120 h, the official forecasts were 
+generally more accurate than the majority of the guidance. In the central Pacific, the official 
+forecasts were typically more accurate than the guidance models at most forecast times.    
+A verification of the NHC official intensity forecasts for Henriette is provided in Tables 4a 
+and 6a covering the eastern and central North Pacific basins, respectively. In the eastern Pacific, 
+the official intensity forecast errors were lower than the mean official errors from the previous 5-
+year period at all forecast times. In the central Pacific, the official errors were lower than the 5-
+year period from 60 h to 72 h. A homogeneous comparison of the official intensity errors with 
+selected guidance models is provided in Tables 4b and 6b. Several models outperformed the 
+official NHC forecasts during the 36–60 h forecast periods in the eastern Pacific. In the central 
+=== page 4 ===
+Hurricane Henriette     4 
+ 
+Pacific, several models outperformed the official forecasts through 60 h, with the FSSE and HFAI 
+showing smaller errors than the official forecasts at all time periods.   
+There were no coastal watches or warnings issued for Henriette. 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Philippe Papin (NHC) created the Graphical TWO verification figure. 
+ 
+ 
+=== page 5 ===
+Hurricane Henriette     5 
+ 
+Table 1. 
+Best track for Hurricane Henriette, 4–13 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+04 / 0600 
+13.4 
+117.5 
+1008 
+ 30 
+ tropical depression  
+04 / 1200 
+14.1 
+118.8 
+1006 
+ 35 
+ tropical storm  
+04 / 1800 
+14.6 
+120.0 
+1004 
+ 40 
+        
+"       
+ 
+05 / 0000 
+15.1 
+121.2 
+1003 
+ 45 
+        
+"       
+ 
+05 / 0600 
+15.7 
+122.4 
+1003 
+ 45 
+        
+"       
+ 
+05 / 1200 
+16.3 
+123.7 
+1003 
+ 45 
+        
+"       
+ 
+05 / 1800 
+16.8 
+124.9 
+1003 
+ 45 
+        
+"       
+ 
+06 / 0000 
+17.4 
+126.1 
+1003 
+ 45 
+ "           
+06 / 0600 
+17.7 
+127.4 
+1003 
+ 45 
+        
+"       
+ 
+06 / 1200 
+17.9 
+128.9 
+1004 
+ 45 
+        
+"       
+ 
+06 / 1800 
+18.0 
+130.3 
+1004 
+ 45 
+        
+"       
+ 
+07 / 0000 
+18.1 
+131.7 
+1004 
+ 45 
+        
+"       
+ 
+07 / 0600 
+18.3 
+133.1 
+1004 
+ 45 
+            "       
+ 
+07 / 1200 
+18.5 
+134.6 
+1004 
+ 45 
+        
+"       
+ 
+07 / 1800 
+18.7 
+136.1 
+1007 
+ 35 
+        
+"       
+ 
+08 / 0000 
+18.9 
+137.7 
+1007 
+ 35 
+        
+"       
+ 
+08 / 0600 
+19.1 
+139.3 
+1008 
+ 35 
+          low        
+08 / 1200 
+19.5 
+140.8 
+1008 
+ 35 
+        
+"       
+ 
+08 / 1800 
+19.8 
+142.3 
+1009 
+ 30 
+        
+"       
+ 
+09 / 0000 
+20.0 
+143.9 
+1009 
+ 30 
+        
+"       
+ 
+09 / 0600 
+20.4 
+145.1 
+1009 
+ 30 
+ tropical depression  
+=== page 6 ===
+Hurricane Henriette     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+09 / 1200 
+21.1 
+146.3 
+1009 
+ 30 
+        
+"       
+ 
+09 / 1800 
+21.8 
+147.5 
+1008 
+ 35 
+ tropical storm  
+10 / 0000 
+22.6 
+148.6 
+1005 
+ 40 
+        
+"       
+ 
+10 / 0600 
+23.4 
+149.8 
+1002 
+ 45 
+        
+"       
+ 
+10 / 1200 
+24.2 
+150.9 
+ 998 
+ 55 
+        
+"       
+ 
+10 / 1800 
+25.2 
+151.9 
+ 993 
+ 65 
+hurricane 
+11 / 0000 
+26.2 
+153.2 
+ 990 
+ 70 
+        
+"       
+ 
+11 / 0600 
+27.2 
+154.4 
+ 990 
+ 70 
+        
+"       
+ 
+11 / 1200 
+28.3 
+155.8 
+ 986 
+ 75 
+        
+"       
+ 
+11 / 1800 
+29.3 
+157.2 
+ 986 
+ 75 
+        
+"       
+ 
+12 / 0000 
+30.3 
+158.4 
+ 987 
+ 70 
+        
+"       
+ 
+12 / 0600 
+31.3 
+159.6 
+ 990 
+ 65 
+        
+"       
+ 
+12 / 1200 
+32.3 
+161.0 
+ 994 
+ 60 
+ tropical storm  
+12 / 1800 
+33.6 
+162.3 
+ 999 
+ 55 
+        
+"       
+ 
+13 / 0000 
+34.7 
+163.7 
+1001 
+ 50 
+        
+"       
+ 
+13 / 0600 
+36.0 
+165.0 
+1006 
+ 40 
+          low        
+13 / 1200 
+37.4 
+166.3 
+1011 
+ 35 
+        
+"       
+ 
+13 / 1800 
+39.0 
+167.6 
+1014 
+ 30 
+        
+"       
+ 
+14 / 0000 
+40.5 
+168.3 
+1014 
+ 30 
+        
+"       
+ 
+14 / 0600 
+42.1 
+168.4 
+1016 
+ 25 
+  "           
+14 / 1200 
+ - 
+  - 
+   - 
+  - 
+ dissipated   
+11/1200 
+28.3 
+155.8 
+986 
+75 
+minimum pressure & 
+maximum winds 
+=== page 7 ===
+Hurricane Henriette     7 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+84 
+144 
+Medium (40%-60%) 
+54 
+126 
+High (>60%) 
+30 
+96 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Henriette     8 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Henriette in the eastern North Pacific basin, 4–
+13 August 2025. Mean errors for the previous 5-yr period are shown for 
+comparison. Official errors that are smaller than the 5-yr means are shown in 
+boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.5 
+25.0 
+26.8 
+20.4 
+19.0 
+27.0 
+23.8 
+64.9 
+OCD5 
+20.3 
+51.5 
+87.9 
+126.6 
+166.4 
+223.9 
+386.2 
+496.0 
+Forecasts 
+14 
+12 
+12 
+12 
+12 
+12 
+12 
+16 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Hurricane Henriette     9 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Henriette in the eastern North Pacific basin, 4–13 August 2025. 
+Errors smaller than the NHC official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 3a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.5 
+26.1 
+27.1 
+20.7 
+18.8 
+26.9 
+23.2 
+69.8 
+OCD5 
+22.2 
+53.3 
+89.5 
+124.7 
+167.0 
+222.4 
+384.8 
+501.7 
+GFSI 
+17.3 
+24.8 
+26.0 
+21.4 
+26.5 
+45.5 
+58.9 
+71.4 
+HMNI 
+17.9 
+24.6 
+34.4 
+38.5 
+50.8 
+71.8 
+82.4 
+96.4 
+HWFI 
+23.2 
+37.1 
+33.9 
+29.7 
+41.7 
+51.6 
+91.7 
+152.1 
+EMXI 
+18.9 
+30.3 
+35.4 
+36.0 
+27.5 
+25.5 
+54.8 
+85.9 
+CMCI 
+17.4 
+25.0 
+25.1 
+24.6 
+30.0 
+38.7 
+69.7 
+108.7 
+NVGI 
+26.1 
+59.6 
+84.3 
+111.7 
+144.1 
+164.6 
+160.6 
+281.8 
+CTCI 
+15.2 
+24.2 
+25.8 
+20.0 
+19.2 
+33.1 
+78.4 
+147.5 
+AEMI 
+18.1 
+26.6 
+29.3 
+25.2 
+31.9 
+46.2 
+53.7 
+65.3 
+HCCA 
+17.2 
+25.5 
+25.6 
+24.2 
+27.0 
+31.3 
+28.5 
+67.1 
+FSSE 
+16.3 
+24.6 
+26.6 
+25.0 
+25.4 
+23.4 
+27.2 
+77.5 
+TVCX 
+15.0 
+23.7 
+25.8 
+22.6 
+21.6 
+28.9 
+32.8 
+69.1 
+GFEX 
+16.6 
+26.1 
+27.3 
+25.8 
+21.0 
+30.5 
+44.1 
+73.7 
+TVCE 
+15.2 
+23.3 
+25.5 
+22.3 
+21.6 
+30.3 
+32.4 
+70.6 
+TVDG 
+15.3 
+22.9 
+26.0 
+23.3 
+22.1 
+30.4 
+30.9 
+65.7 
+TABD 
+26.6 
+55.1 
+98.7 
+138.6 
+173.5 
+203.6 
+234.9 
+235.3 
+TABM 
+19.7 
+35.6 
+51.5 
+64.3 
+80.6 
+95.5 
+125.8 
+147.7 
+TABS 
+19.1 
+33.6 
+53.0 
+63.6 
+75.8 
+79.9 
+96.0 
+122.3 
+HFAI 
+16.0 
+26.9 
+34.5 
+38.9 
+39.3 
+40.3 
+34.9 
+81.9 
+HFBI 
+16.2 
+26.2 
+30.6 
+28.4 
+28.7 
+36.0 
+44.8 
+82.1 
+Forecasts 
+12 
+10 
+10 
+10 
+11 
+11 
+11 
+14 
+=== page 10 ===
+Hurricane Henriette     10 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Henriette in the eastern North Pacific basin, 4–13 
+August 2025. Mean errors for the previous 5-yr period are shown for comparison. 
+Official errors that are smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+2.9 
+3.8 
+5.4 
+6.7 
+6.2 
+6.7 
+7.1 
+13.1 
+OCD5 
+3.4 
+4.5 
+5.8 
+6.8 
+11.4 
+14.9 
+23.8 
+21.9 
+Forecasts 
+14 
+12 
+12 
+12 
+12 
+12 
+12 
+16 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Henriette     11 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Henriette in the eastern North Pacific basin, 4–13 August 2025. 
+Errors smaller than the NHC official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 4a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.3 
+4.0 
+5.5 
+7.0 
+6.8 
+6.4 
+7.7 
+12.5 
+OCD5 
+3.8 
+4.7 
+5.7 
+6.6 
+11.3 
+14.3 
+25.6 
+22.4 
+GFSI 
+4.0 
+5.1 
+5.2 
+5.3 
+7.4 
+10.1 
+13.8 
+11.6 
+HMNI 
+4.5 
+5.1 
+5.4 
+6.9 
+9.9 
+9.9 
+6.5 
+14.4 
+HWFI 
+5.0 
+4.1 
+3.0 
+3.5 
+6.5 
+9.0 
+20.8 
+14.9 
+EMXI 
+3.8 
+4.4 
+4.5 
+5.0 
+7.4 
+9.5 
+12.8 
+10.9 
+CTCI 
+3.4 
+4.3 
+3.5 
+4.7 
+5.9 
+8.4 
+12.4 
+17.1 
+HCCA 
+3.9 
+6.1 
+10.0 
+7.9 
+5.5 
+4.5 
+9.0 
+10.9 
+FSSE 
+3.7 
+4.3 
+5.4 
+6.8 
+8.4 
+6.5 
+10.3 
+16.9 
+DSHP 
+4.2 
+3.9 
+3.8 
+4.5 
+8.5 
+15.1 
+28.5 
+28.3 
+LGEM 
+4.4 
+5.2 
+5.0 
+5.8 
+8.4 
+16.9 
+31.4 
+30.8 
+ICON 
+4.2 
+4.1 
+3.2 
+3.7 
+4.4 
+8.3 
+19.0 
+16.8 
+IVCN 
+3.8 
+4.0 
+3.6 
+4.1 
+4.8 
+6.1 
+14.0 
+12.0 
+IVDR 
+3.8 
+4.0 
+4.1 
+4.8 
+5.5 
+5.8 
+12.0 
+11.6 
+HFAI 
+3.8 
+3.7 
+4.9 
+8.2 
+10.8 
+8.2 
+9.8 
+12.5 
+HFBI 
+4.7 
+4.8 
+7.4 
+10.3 
+12.5 
+9.0 
+13.8 
+17.6 
+Forecasts 
+12 
+10 
+10 
+10 
+11 
+11 
+11 
+14 
+ 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Henriette     12 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Henriette in the central North Pacific basin, 4–
+13 August 2025. Mean errors for the previous eastern Pacific 5-yr period are 
+shown for comparison. Official errors that are smaller than the 5-yr means are 
+shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+12.4 
+16.4 
+16.8 
+15.7 
+28.8 
+31.1 
+ 
+ 
+OCD5 
+31.1 
+87.3 
+178.0 
+284.3 
+388.7 
+485.8 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+ 
+ 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Henriette     13 
+ 
+Table 5b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Henriette in the central North Pacific basin, 4–13 August 2025. Errors 
+smaller than the NHC official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+12.4 
+16.4 
+16.8 
+15.7 
+28.8 
+31.1 
+ 
+ 
+OCD5 
+31.1 
+87.3 
+178.0 
+284.3 
+388.7 
+485.8 
+ 
+ 
+GFSI 
+13.1 
+17.0 
+17.8 
+19.5 
+30.6 
+33.2 
+ 
+ 
+HMNI 
+15.8 
+32.0 
+38.8 
+51.5 
+83.0 
+96.2 
+ 
+ 
+HWFI 
+15.0 
+28.6 
+37.9 
+46.5 
+73.6 
+136.5 
+ 
+ 
+EMXI 
+13.4 
+26.0 
+32.6 
+36.4 
+57.9 
+47.3 
+ 
+ 
+CMCI 
+15.0 
+22.4 
+26.9 
+41.6 
+68.6 
+78.7 
+ 
+ 
+NVGI 
+18.3 
+36.6 
+57.1 
+84.8 
+103.8 
+123.7 
+ 
+ 
+CTCI 
+16.2 
+29.2 
+43.8 
+73.3 
+114.2 
+162.6 
+ 
+ 
+AEMI 
+14.2 
+21.8 
+27.1 
+32.6 
+47.8 
+73.9 
+ 
+ 
+HCCA 
+13.2 
+23.5 
+27.2 
+34.1 
+38.4 
+40.6 
+ 
+ 
+FSSE 
+13.9 
+21.3 
+29.4 
+40.5 
+47.8 
+53.7 
+ 
+ 
+TVCX 
+12.2 
+19.3 
+21.6 
+23.1 
+39.0 
+47.7 
+ 
+ 
+GFEX 
+11.1 
+16.9 
+21.6 
+20.8 
+39.9 
+31.3 
+ 
+ 
+TVCE 
+12.5 
+20.1 
+21.3 
+22.6 
+40.3 
+50.9 
+ 
+ 
+TVDG 
+12.5 
+18.5 
+20.6 
+19.9 
+34.4 
+38.4 
+ 
+ 
+TABD 
+23.3 
+47.7 
+71.4 
+107.9 
+152.7 
+196.6 
+ 
+ 
+TABM 
+22.2 
+44.3 
+69.5 
+100.7 
+144.2 
+189.3 
+ 
+ 
+TABS 
+18.6 
+37.5 
+55.3 
+75.2 
+97.5 
+123.3 
+ 
+ 
+HFAI 
+13.4 
+21.1 
+25.4 
+31.3 
+30.2 
+36.7 
+ 
+ 
+HFBI 
+14.6 
+22.0 
+22.1 
+25.5 
+35.2 
+57.7 
+ 
+ 
+GDMI 
+8.9 
+17.5 
+20.9 
+19.3 
+33.7 
+49.2 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+ 
+=== page 14 ===
+Hurricane Henriette     14 
+ 
+Table 6a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Henriette in the central North Pacific basin, 4–13 
+August 2025. Mean errors for the previous eastern Pacific 5-yr period are shown 
+for comparison. Official errors that are smaller than the 5-yr means are shown in 
+boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+9.3 
+16.7 
+20.0 
+16.2 
+10.0 
+5.0 
+ 
+ 
+OCD5 
+12.7 
+22.8 
+38.4 
+39.2 
+47.0 
+42.0 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+ 
+ 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 15 ===
+Hurricane Henriette     15 
+ 
+Table 6b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Henriette in the central North Pacific basin, 4–13 August 2025. Errors 
+smaller than the NHC official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+9.3 
+16.7 
+20.0 
+16.2 
+10.0 
+5.0 
+ 
+ 
+OCD5 
+12.7 
+22.8 
+38.4 
+39.2 
+47.0 
+42.0 
+ 
+ 
+GFSI 
+8.0 
+13.1 
+17.0 
+17.2 
+13.8 
+13.5 
+ 
+ 
+HMNI 
+11.2 
+18.8 
+20.8 
+20.5 
+16.0 
+14.2 
+ 
+ 
+HWFI 
+7.8 
+13.8 
+17.8 
+16.2 
+9.7 
+7.2 
+ 
+ 
+EMXI 
+8.5 
+14.9 
+19.3 
+20.9 
+18.2 
+15.5 
+ 
+ 
+CTCI 
+7.3 
+11.1 
+14.6 
+15.0 
+9.8 
+6.8 
+ 
+ 
+HCCA 
+6.4 
+11.2 
+13.8 
+16.1 
+10.8 
+4.0 
+ 
+ 
+FSSE 
+7.2 
+12.2 
+16.2 
+13.5 
+6.8 
+2.2 
+ 
+ 
+DSHP 
+9.3 
+16.3 
+21.5 
+23.1 
+20.5 
+17.5 
+ 
+ 
+LGEM 
+9.6 
+16.6 
+22.5 
+27.1 
+30.7 
+29.8 
+ 
+ 
+ICON 
+9.1 
+16.0 
+20.5 
+21.2 
+18.0 
+13.2 
+ 
+ 
+IVCN 
+7.7 
+12.9 
+16.6 
+15.9 
+12.2 
+6.0 
+ 
+ 
+IVDR 
+7.4 
+12.5 
+15.8 
+14.5 
+10.7 
+4.8 
+ 
+ 
+HFAI 
+7.0 
+10.2 
+11.8 
+7.8 
+5.0 
+4.0 
+ 
+ 
+HFBI 
+6.1 
+7.4 
+7.8 
+8.1 
+7.2 
+7.0 
+ 
+ 
+GDMI 
+6.4 
+10.8 
+13.1 
+14.6 
+15.0 
+12.8 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+=== page 16 ===
+Hurricane Henriette     16 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Henriette, 4–13 August 2025.  
+ 
+=== page 17 ===
+Hurricane Henriette     17 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Henriette, 4–13 August 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+ 
+=== page 18 ===
+Hurricane Henriette     18 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Henriette, 4–13 August 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff–Zehr–Courtney (KZC) pressure–wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+ 
+=== page 19 ===
+Hurricane Henriette     19 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Henriette for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 
+ 
+ 

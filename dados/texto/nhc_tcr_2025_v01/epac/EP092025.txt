@@ -1,0 +1,909 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM IVO 
+ 
+(EP092025) 
+ 
+6–11 August 2025 
+ 
+John L. Beven II 
+National Hurricane Center 
+23 October 2025 
+ 
+ 
+GOES-18 GEOCOLOR IMAGE OF IVO AT 1800 UTC 08 AUGUST. IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Ivo was a small tropical storm that passed just offshore of the southwestern coast of 
+Mexico. 
+                                               
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Ivo. 
+=== page 2 ===
+Tropical Storm Ivo     2 
+ 
+Tropical Storm Ivo 
+ 
+6–11 AUGUST 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Tropical Storm Ivo are listed in Table 1. The 
+best track chart of Ivo’s path is given in Fig. 1, with the wind and pressure histories along with 
+available observations3 shown in Figs. 2 and 3, respectively.  
+There were no reliable reports of tropical-storm force winds associated with Ivo. 
+Origin 
+Ivo formed from a low-pressure area that developed along the monsoon trough southwest 
+of Costa Rica on 4 August, a development likely related to a tropical wave that crossed Panama 
+on 3 August. The system moved west-northwestward parallel to the coast of Central America and 
+southeastern Mexico with increasing organization, and a tropical depression developed near 1200 
+UTC 6 August about 295 n mi southeast of Acapulco, Mexico. 
+Peak Intensity and Minimum Pressure 
+Ivo’s peak intensity of 55 kt at 1800 UTC 8 August and 0000 UTC 9 August is based on a 
+blend of subjective and objective Dvorak Technique intensity estimates. It should be noted in Fig. 
+2 that two scatterometer overpasses occurred near the time of the peak intensity that indicated 
+lower winds. However, the scatterometer was unlikely to have resolved the maximum winds in 
+Ivo’s small inner core, which was apparent in a microwave image at 1600 UTC 8 August (Fig. 4). 
+The estimated minimum central pressure of 998 mb is based on the Knaff-Zehr-Courtney 
+wind-pressure relationship for Ivo’s peak intensity and small size at that time. 
+                                               
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Ivo. 
+=== page 3 ===
+Tropical Storm Ivo     3 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of casualties associated with Ivo. The Meteorological Service of 
+Mexico reports that Ivo produced rains of 1–3 inches along portions of the southwestern coast of 
+Mexico with local amounts around 5 inches. Media reports indicate that these rains caused minor 
+damage from freshwater flooding and mudslides. 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. The formation of Ivo was generally 
+well forecast, with the system being introduced into the 7-day TWO 126 h before genesis and the 
+2-day TWO 54 h before genesis. Figure 5 shows composites of 7-day TWO genesis areas for 
+each category (low <40%, medium 40-60%, and high >60%) prior to the formation of Ivo. The 
+spatial forecast generally caught the genesis location well, although the formation location was 
+near the northeastern edge of the genesis forecast areas. 
+A verification of NHC official track forecasts for Ivo is given in Table 3a. Official track 
+forecast errors were greater than the mean official errors for the previous 5-yr period for the 
+forecast times from 12–72 h, and less than the 5-yr mean at 96 h. A homogeneous comparison 
+of the official track errors with selected guidance models is given in Table 3b. Many of the track 
+guidance models had lower average errors than the official forecast, with two of the better 
+performers being the regional hurricane models HAFS-A (HFAI) and COAMPS-TC (CTCI). 
+Another good performer was the experimental Google DeepMind AI model (GDMI), which had 
+lower mean errors than the official forecast at all forecast periods. Examination of the individual 
+official forecasts (not shown) shows that they followed the general motion of the storm well. 
+However, several of the forecasts had larger errors during a period when Ivo’s low-level center 
+was difficult to track and the estimated operational positions differed from the best track positions. 
+A verification of NHC official intensity forecasts for Ivo is given in Table 4a. Official intensity 
+forecast errors were lower than the mean official errors for the previous 5-yr period. However, the 
+official forecasts had larger average errors than Climatology-Persistence (OCD5) at the 24–60 h 
+forecast times, indicating these forecasts had no skill. A homogeneous comparison of the official 
+intensity errors with selected guidance models is given in Table 4b. Several of the intensity 
+guidance models had lower average errors than the official forecasts at most forecast times, 
+including the intensity consensus (IVCN), the HFIP Correct Consensus (HCCA), and the Florida 
+State Superensemble (FSSE). Examination of the individual official forecasts (not shown) 
+indicates they had a consistent high bias, with Ivo not becoming as strong as forecast. 
+Although Ivo was close to the coast of Mexico, no coastal watches or warnings were 
+issued due to the small size of the cyclone. 
+ 
+=== page 4 ===
+Tropical Storm Ivo     4 
+ 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Philippe Papin (NHC) created the Graphical Tropical Weather Outlook verification figure. 
+ 
+ 
+=== page 5 ===
+Tropical Storm Ivo     5 
+ 
+Table 1. 
+Best track for Tropical Storm Ivo, 6–11 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+06 / 1200 
+13.0 
+96.5 
+1009 
+30 
+tropical depression 
+06 / 1800 
+13.8 
+98.2 
+1008 
+35 
+tropical storm 
+07 / 0000 
+14.7 
+99.9 
+1007 
+35 
+" 
+07 / 0600 
+15.8 
+101.5 
+1006 
+40 
+" 
+07 / 1200 
+17.2 
+103.2 
+1004 
+45 
+" 
+07 / 1800 
+18.3 
+105.0 
+1001 
+50 
+" 
+08 / 0000 
+19.3 
+106.6 
+1001 
+50 
+" 
+08 / 0600 
+20.0 
+108.1 
+1001 
+50 
+" 
+08 / 1200 
+20.2 
+109.5 
+1000 
+50 
+" 
+08 / 1800 
+20.3 
+110.7 
+999 
+55 
+" 
+09 / 0000 
+20.5 
+111.3 
+998 
+55 
+" 
+09 / 0600 
+20.7 
+111.9 
+999 
+50 
+" 
+09 / 1200 
+20.8 
+112.5 
+1001 
+50 
+" 
+09 / 1800 
+20.9 
+113.1 
+1002 
+45 
+" 
+10 / 0000 
+21.1 
+113.7 
+1003 
+45 
+" 
+10 / 0600 
+21.3 
+114.5 
+1004 
+40 
+" 
+10 / 1200 
+21.6 
+115.6 
+1005 
+35 
+" 
+10 / 1800 
+22.0 
+116.6 
+1006 
+35 
+" 
+11 / 0000 
+22.3 
+117.4 
+1007 
+30 
+tropical depression 
+11 / 0600 
+22.6 
+118.2 
+1008 
+30 
+remnant low 
+11 / 1200 
+23.0 
+119.1 
+1009 
+25 
+" 
+11 / 1800 
+23.3 
+120.0 
+1010 
+20 
+" 
+=== page 6 ===
+Tropical Storm Ivo     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+12 / 0000 
+23.5 
+121.0 
+1010 
+20 
+" 
+12 / 0600 
+ 
+ 
+ 
+ 
+dissipated 
+09 / 0000 
+20.5 
+111.3 
+998 
+55 
+maximum winds and 
+minimum pressure 
+ 
+   
+ 
+ 
+=== page 7 ===
+Tropical Storm Ivo     7 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+54 
+126 
+Medium (40%-60%) 
+30 
+102 
+High (>60%) 
+18 
+42 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Ivo     8 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Ivo, 6–11 August 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+30.5 
+47.9 
+55.9 
+66.5 
+76.5 
+79.9 
+63.4 
+ 
+OCD5 
+49.0 
+104.8 
+140.2 
+168.7 
+170.3 
+136.0 
+94.5 
+ 
+Forecasts 
+16 
+14 
+12 
+10 
+8 
+6 
+2 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Ivo     9 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Ivo, 6–11 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+30.3 
+46.1 
+54.7 
+71.2 
+81.1 
+74.5 
+63.5 
+ 
+OCD5 
+49.4 
+101.8 
+134.2 
+166.7 
+150.0 
+138.6 
+79.8 
+ 
+GFSI 
+25.1 
+36.4 
+45.5 
+74.9 
+115.4 
+112.5 
+126.7 
+ 
+HWFI 
+38.7 
+59.1 
+77.1 
+106.1 
+166.1 
+187.4 
+223.5 
+ 
+HMNI 
+32.7 
+47.2 
+59.6 
+79.7 
+88.2 
+98.8 
+58.5 
+ 
+HFAI 
+27.5 
+39.7 
+40.7 
+57.1 
+66.8 
+68.0 
+96.3 
+ 
+HFBI 
+32.9 
+49.2 
+50.3 
+67.2 
+85.5 
+79.8 
+45.5 
+ 
+EMXI 
+34.0 
+54.4 
+67.0 
+87.5 
+84.3 
+110.8 
+131.1 
+ 
+NVGI 
+35.4 
+54.7 
+53.6 
+61.1 
+61.1 
+87.0 
+30.3 
+ 
+CMCI 
+30.2 
+43.6 
+44.1 
+60.4 
+62.7 
+94.5 
+75.4 
+ 
+CTCI 
+24.6 
+37.7 
+38.4 
+54.4 
+62.7 
+70.4 
+247.2 
+ 
+TVCE 
+28.6 
+40.5 
+44.5 
+63.8 
+81.4 
+81.0 
+71.6 
+ 
+TVCX 
+28.8 
+40.1 
+45.9 
+64.6 
+83.4 
+84.4 
+74.7 
+ 
+GFEX 
+29.0 
+40.6 
+52.5 
+79.0 
+100.4 
+110.0 
+126.8 
+ 
+TVDG 
+29.3 
+41.0 
+47.4 
+66.7 
+86.3 
+85.9 
+82.9 
+ 
+HCCA 
+31.4 
+45.8 
+53.5 
+74.2 
+86.3 
+76.6 
+21.2 
+ 
+FSSE 
+29.4 
+41.5 
+47.3 
+71.6 
+87.0 
+84.3 
+45.7 
+ 
+AEMI 
+28.1 
+40.8 
+48.4 
+76.6 
+107.2 
+108.0 
+53.7 
+ 
+GDMI 
+27.6 
+40.5 
+45.9 
+52.9 
+56.8 
+53.3 
+56.5 
+ 
+TABS 
+39.2 
+65.7 
+79.5 
+101.9 
+153.3 
+168.0 
+211.8 
+ 
+TABM 
+37.1 
+57.9 
+76.1 
+102.5 
+119.6 
+141.0 
+98.9 
+ 
+TABD 
+38.9 
+65.3 
+78.6 
+97.5 
+96.6 
+105.1 
+96.0 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+5 
+5 
+1 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Ivo     10 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Ivo, 6–11 August 2025. Mean errors for the 
+previous 5-yr period are shown for comparison. Official errors that are smaller than 
+the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.4 
+7.9 
+10.4 
+10.5 
+7.5 
+6.7 
+7.5 
+ 
+OCD5 
+4.6 
+5.4 
+8.2 
+6.8 
+6.8 
+8.0 
+22.0 
+ 
+Forecasts 
+16 
+14 
+12 
+10 
+8 
+6 
+2 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+=== page 11 ===
+Tropical Storm Ivo     11 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Ivo, 6–11 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.7 
+8.5 
+10.5 
+10.0 
+7.0 
+5.0 
+10.0 
+ 
+OCD5 
+4.6 
+5.2 
+7.9 
+6.6 
+6.0 
+7.2 
+24.0 
+ 
+HWFI 
+5.6 
+8.0 
+11.8 
+10.8 
+11.0 
+12.6 
+36.0 
+ 
+HMNI 
+6.5 
+12.3 
+17.2 
+20.8 
+23.4 
+16.4 
+3.0 
+ 
+HFAI 
+5.3 
+7.5 
+9.4 
+12.7 
+14.0 
+13.0 
+12.0 
+ 
+HFBI 
+3.7 
+8.0 
+8.8 
+10.0 
+7.8 
+6.6 
+8.0 
+ 
+DSHP 
+4.6 
+9.1 
+15.5 
+21.1 
+24.6 
+23.0 
+18.0 
+ 
+LGEM 
+5.3 
+6.4 
+10.4 
+12.9 
+15.2 
+17.0 
+17.0 
+ 
+ICON 
+4.7 
+4.2 
+6.6 
+7.2 
+5.8 
+8.2 
+17.0 
+ 
+IVCN 
+3.9 
+4.2 
+5.7 
+7.1 
+4.4 
+2.4 
+4.0 
+ 
+IVDR 
+3.9 
+5.0 
+6.8 
+8.4 
+7.0 
+4.4 
+2.0 
+ 
+CTCI 
+4.8 
+7.5 
+12.2 
+16.6 
+24.6 
+22.2 
+19.0 
+ 
+GFSI 
+5.0 
+7.6 
+9.1 
+9.4 
+7.4 
+7.0 
+7.0 
+ 
+EMXI 
+5.5 
+9.8 
+14.5 
+16.3 
+19.4 
+18.6 
+9.0 
+ 
+HCCA 
+4.3 
+5.0 
+6.6 
+7.6 
+6.0 
+9.6 
+6.0 
+ 
+FSSE 
+3.3 
+3.4 
+6.5 
+7.9 
+10.8 
+9.4 
+5.0 
+ 
+GDMI 
+5.5 
+4.6 
+5.2 
+5.3 
+3.8 
+2.8 
+12.0 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+5 
+5 
+1 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Tropical Storm Ivo     12 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Ivo, 6–11 August 2025. 
+=== page 13 ===
+Tropical Storm Ivo     13 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Ivo, 6–11 August 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 14 ===
+Tropical Storm Ivo     14 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Ivo, 6–11 August 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 15 ===
+Tropical Storm Ivo     15 
+ 
+ 
+Figure 4. 
+37 GHz horizontal polarization image of Ivo at 1600 UTC 8 October from the NASA/JAXA GPM satellite. Image courtesy of the 
+Naval Research Laboratory, Monterey, CA.  
+=== page 16 ===
+Tropical Storm Ivo     16 
+ 
+ 
+Figure 5. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of Ivo 
+for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high (>60%) 
+category. The location of genesis is indicated by the black star.  

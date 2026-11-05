@@ -1,0 +1,157 @@
+{
+ "atl/dev/principal": {
+  "n": 24,
+  "acertos": 10,
+  "pct": 41.7
+ },
+ "atl/dev/principal/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/number": {
+  "n": 13,
+  "acertos": 4,
+  "pct": 30.8
+ },
+ "atl/dev/principal/other": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "atl/dev/principal/phrase": {
+  "n": 4,
+  "acertos": 4,
+  "pct": 100.0
+ },
+ "atl/dev/principal/place": {
+  "n": 3,
+  "acertos": 1,
+  "pct": 33.3
+ },
+ "atl/dev/principal/time": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao": {
+  "n": 24,
+  "acertos": 8,
+  "pct": 33.3
+ },
+ "atl/dev/reformulacao/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/number": {
+  "n": 13,
+  "acertos": 3,
+  "pct": 23.1
+ },
+ "atl/dev/reformulacao/other": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/phrase": {
+  "n": 4,
+  "acertos": 3,
+  "pct": 75.0
+ },
+ "atl/dev/reformulacao/place": {
+  "n": 3,
+  "acertos": 2,
+  "pct": 66.7
+ },
+ "atl/dev/reformulacao/time": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal": {
+  "n": 24,
+  "acertos": 1,
+  "pct": 4.2
+ },
+ "epac/dev/principal/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal/number": {
+  "n": 9,
+  "acertos": 1,
+  "pct": 11.1
+ },
+ "epac/dev/principal/phrase": {
+  "n": 5,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal/place": {
+  "n": 4,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal/time": {
+  "n": 4,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao": {
+  "n": 24,
+  "acertos": 1,
+  "pct": 4.2
+ },
+ "epac/dev/reformulacao/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao/number": {
+  "n": 9,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao/phrase": {
+  "n": 5,
+  "acertos": 1,
+  "pct": 20.0
+ },
+ "epac/dev/reformulacao/place": {
+  "n": 4,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao/time": {
+  "n": 4,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "_meta": {
+  "adaptador": "runs\\M1_piloto2_s17_v01\\epoca_4",
+  "segundos": 23.8,
+  "itens": 96
+ }
+}

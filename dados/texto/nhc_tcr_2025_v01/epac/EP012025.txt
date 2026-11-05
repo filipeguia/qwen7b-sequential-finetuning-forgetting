@@ -1,0 +1,694 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM ALVIN 
+ 
+(EP012025) 
+ 
+28–31 May 2025 
+ 
+Brad J. Reinhart 
+National Hurricane Center 
+20 June 2025 
+ 
+ 
+GOES-WEST INFRARED SATELLITE IMAGE OF TROPICAL STORM ALVIN AT 1800 UTC 29 MAY 2025, NEAR 
+THE TIME OF ITS PEAK INTENSITY. IMAGE COURTESY NOAA/NESDIS/STAR. 
+Alvin was a tropical storm that formed offshore of the coast of southwestern Mexico 
+and did not bring any notable impacts to land. 
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Alvin. 
+=== page 2 ===
+Tropical Storm Alvin     2 
+ 
+Tropical Storm Alvin 
+28–31 May 2025​
+ 
+​
+BEST TRACK 
+​
+​
+The “best track2” positions and intensities for Tropical Storm Alvin are listed in Table 1. 
+The “best track” chart of Alvin’s path is given in Fig. 1, with the wind and pressure histories 
+along with available observations3 shown in Figs. 2 and 3, respectively. There were no credible 
+ship observations of tropical-storm-force winds associated with Alvin. 
+​
+A Mexican Navy automated weather station on Socorro Island reported a sustained wind 
+of 23 kt and a gust of 31 kt at 2240 UTC 30 May while Alvin passed well east of the island. 
+Origin 
+Alvin originated from a large disturbance along the eastern North Pacific monsoon 
+trough. The broad disturbance moved generally westward to west-northwestward on 26–27 May 
+while its shower and thunderstorm activity gradually became better organized. Scatterometer 
+wind data and satellite images indicate that a well-defined circulation center developed later on 
+28 May, and it is estimated that a tropical depression formed by 1800 UTC that day, about 410 n 
+mi southwest of Acapulco, Mexico. 
+Peak Intensity and Minimum Pressure 
+Alvin’s estimated peak intensity of 50 kt from 1800 UTC 29 May to 0000 UTC 30 May is 
+based on scatterometer wind data and UW-CIMSS objective intensity estimates. A 1551 UTC 
+29 May scatterometer pass over Alvin showed peak winds of 45 kt, which supports a 50-kt 
+intensity given the known resolution limitations of the instrument. The ADT and SATCON 
+estimates during this period ranged from 47–55 kt, while the subjective Dvorak classifications 
+from SAB and TAFB peaked at T3.0/45 kt. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced 
+Dvorak Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative 
+Institute for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from 
+NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA 
+Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of 
+Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among 
+others, were also useful in constructing the best track of Alvin. 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+=== page 3 ===
+Tropical Storm Alvin     3 
+ 
+The estimated minimum central pressure of 999 mb is based on the Knaff-Zehr-Courtney 
+(KZC) pressure-wind relationship.​
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+​
+There were no reports of damage or casualties associated with Alvin. 
+​
+FORECAST AND WARNING VERIFICATION​
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. Overall, NHC genesis forecasts 
+provided excellent lead time for Alvin’s formation in both the 2- and 7-day outlooks. Figure 4 
+shows composites of 7-day TWO genesis areas for each category prior to the formation of Alvin. 
+While most of the genesis areas correctly captured the location of Alvin’s formation, some of the 
+high-category areas were farther north of where genesis ultimately occurred. 
+A verification of NHC official track forecasts for Alvin is given in Table 3a. Official track 
+forecast errors were lower than or comparable to the mean official errors for the previous 5-yr 
+period at all forecast times. A homogeneous comparison of the official track errors with selected 
+guidance models is given in Table 3b. 
+A verification of NHC official intensity forecasts for Alvin is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-yr period at 
+all forecast times. A homogeneous comparison of the official intensity errors with selected 
+guidance models is given in Table 4b. 
+There were no coastal watches or warnings issued for Alvin. 
+ 
+ACKNOWLEDGEMENTS​
+ 
+Dr. Philippe Papin (NHC) created the Graphical TWO verification figure. 
+ 
+=== page 4 ===
+Tropical Storm Alvin     4 
+ 
+Table 1.​
+Best track for Tropical Storm Alvin, 28–31 May 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind​
+Speed (kt) 
+Stage 
+28 / 1800 
+11.5 
+104.4 
+1006 
+30 
+tropical depression 
+29 / 0000 
+12.4 
+104.9 
+1006 
+30 
+" 
+29 / 0600 
+13.0 
+105.6 
+1005 
+30 
+" 
+29 / 1200 
+13.7 
+106.2 
+1003 
+40 
+tropical storm 
+29 / 1800 
+14.6 
+106.9 
+999 
+50 
+" 
+30 / 0000 
+15.4 
+107.6 
+999 
+50 
+" 
+30 / 0600 
+16.1 
+108.3 
+1000 
+45 
+" 
+30 / 1200 
+16.9 
+108.7 
+1001 
+45 
+" 
+30 / 1800 
+17.7 
+108.9 
+1001 
+45 
+" 
+31 / 0000 
+18.7 
+109.0 
+1003 
+40 
+" 
+31 / 0600 
+19.6 
+109.2 
+1005 
+35 
+low 
+31 / 1200 
+20.4 
+109.5 
+1006 
+30 
+" 
+31 / 1800 
+21.1 
+109.7 
+1006 
+30 
+" 
+01 / 0000 
+21.8 
+109.7 
+1007 
+25 
+" 
+01 / 0600 
+22.4 
+109.4 
+1007 
+25 
+" 
+01 / 1200 
+  
+  
+  
+  
+dissipated 
+29 / 1800 
+14.6 
+106.9 
+999 
+50 
+minimum pressure 
+& maximum winds 
+ 
+ 
+=== page 5 ===
+Tropical Storm Alvin     5 
+ 
+Table 2.​
+Number of hours in advance of formation of Alvin associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+78 
+198 
+Medium (40%-60%) 
+54 
+168 
+High (>60%) 
+48 
+120 
+ 
+ 
+ 
+Table 3a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Alvin, 28–31 May 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.8 
+25.4 
+44.4 
+50.7 
+61.1 
+ 
+ 
+ 
+OCD5 
+41.2 
+90.7 
+147.4 
+210.3 
+415.0 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+=== page 6 ===
+Tropical Storm Alvin     6 
+ 
+Table 3b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Alvin, 28–31 May 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.8 
+25.4 
+44.4 
+50.7 
+61.1 
+OCD5 
+41.2 
+90.7 
+147.4 
+210.3 
+415.0 
+GFSI 
+26.9 
+44.0 
+67.8 
+90.0 
+122.7 
+HWFI 
+20.6 
+28.9 
+50.7 
+66.0 
+168.3 
+HMNI 
+21.1 
+32.6 
+57.6 
+79.7 
+136.0 
+HFAI 
+19.6 
+31.1 
+55.6 
+78.6 
+148.0 
+HFBI 
+19.8 
+28.2 
+56.7 
+83.5 
+154.8 
+EMXI 
+17.9 
+28.9 
+51.6 
+77.7 
+111.7 
+CMCI 
+29.2 
+50.4 
+67.7 
+83.2 
+108.6 
+TVCE 
+17.7 
+24.1 
+51.1 
+69.5 
+136.3 
+TVCX 
+16.3 
+25.0 
+50.4 
+68.9 
+128.0 
+GFEX 
+19.2 
+33.0 
+49.1 
+70.4 
+114.1 
+TVDG 
+17.5 
+27.1 
+52.0 
+71.4 
+129.2 
+HCCA 
+17.7 
+26.6 
+46.5 
+58.4 
+104.5 
+AEMI 
+29.6 
+48.3 
+74.2 
+102.0 
+168.4 
+TABS 
+38.6 
+73.8 
+126.9 
+170.1 
+182.7 
+TABM 
+34.5 
+68.9 
+110.5 
+151.8 
+179.6 
+TABD 
+44.8 
+94.4 
+132.7 
+167.8 
+180.6 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Alvin     7 
+ 
+Table 4a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Alvin, 28–31 May 2025. Mean errors for the 
+previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.0 
+2.9 
+7.0 
+8.3 
+5.0 
+ 
+ 
+ 
+OCD5 
+8.2 
+9.0 
+9.6 
+11.0 
+20.0 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+=== page 8 ===
+Tropical Storm Alvin     8 
+ 
+Table 4b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Alvin, 28–31 May 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.0 
+2.9 
+7.0 
+8.3 
+5.0 
+ 
+ 
+ 
+OCD5 
+8.2 
+9.0 
+9.6 
+11.0 
+20.0 
+ 
+ 
+ 
+HWFI 
+5.8 
+4.0 
+7.2 
+4.0 
+0.0 
+ 
+ 
+ 
+HMNI 
+4.7 
+2.1 
+5.2 
+7.0 
+6.0 
+ 
+ 
+ 
+HFAI 
+5.4 
+3.0 
+1.8 
+7.7 
+13.0 
+ 
+ 
+ 
+HFBI 
+5.7 
+3.3 
+2.2 
+4.3 
+8.0 
+ 
+ 
+ 
+DSHP 
+7.6 
+6.6 
+13.4 
+23.0 
+34.0 
+ 
+ 
+ 
+LGEM 
+8.3 
+6.4 
+11.8 
+12.3 
+26.0 
+ 
+ 
+ 
+ICON 
+6.4 
+2.9 
+7.6 
+8.7 
+17.0 
+ 
+ 
+ 
+IVCN 
+5.7 
+1.7 
+5.8 
+7.7 
+15.0 
+ 
+ 
+ 
+IVDR 
+5.2 
+1.7 
+4.4 
+6.3 
+11.0 
+ 
+ 
+ 
+GFSI 
+5.6 
+3.3 
+3.8 
+4.0 
+4.0 
+ 
+ 
+ 
+EMXI 
+6.0 
+6.7 
+5.6 
+7.0 
+6.0 
+ 
+ 
+ 
+HCCA 
+7.4 
+4.3 
+8.0 
+9.0 
+13.0 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Alvin     9 
+ 
+ 
+Figure 1.​
+Best track positions for Tropical Storm Alvin, 28–31 May 2025. 
+=== page 10 ===
+Tropical Storm Alvin     10 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Alvin, 28–31 May 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+ 
+=== page 11 ===
+Tropical Storm Alvin     11 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Alvin, 28–31 May 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+ 
+=== page 12 ===
+Tropical Storm Alvin     12 
+ 
+ 
+Figure 4.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Alvin for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

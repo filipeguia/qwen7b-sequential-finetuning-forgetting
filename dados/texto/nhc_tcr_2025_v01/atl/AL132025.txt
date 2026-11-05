@@ -1,0 +1,5072 @@
+=== page 1 ===
+ 
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE MELISSA 
+ 
+(AL132025) 
+ 
+21–31 October 2025 
+ 
+Larry A. Kelly, José Álamo1, and Aidan D. Mahoney 
+National Hurricane Center 
+19 May 20262 
+ 
+ 
+GOES-EAST GEOCOLOR IMAGE OF HURRICANE MELISSA NEAR LANDFALL IN JAMAICA 
+ AT 1400 UTC 28 OCTOBER 2025.  IMAGE COURTESY OF NOAA/CIRA/CSU. 
+ 
+Melissa, one of the strongest hurricanes on record in the Atlantic basin, reached 
+category 5 intensity (on the Saffir-Simpson Hurricane Wind Scale) with a minimum 
+central pressure of 892 mb and brought catastrophic wind and storm surge impacts to 
+portions of western Jamaica. Melissa’s slow motion also produced heavy rainfall and 
+catastrophic flood impacts across portions of the Greater Antilles. As of this writing, 
+Melissa is responsible for 93 fatalities. 
+                                                
+1 NOAA/NWS/NCEP Weather Prediction Center, College Park, MD 
+2 This version revises the fatality totals by removing fatalities in the Dominican Republic and Cuba that are 
+no longer classified as associated with Melissa. Fatalities in Panama have been added. Damage cost 
+estimates for Jamaica have also been updated. These updates are based on revised information provided 
+by the respective governments. Original report dated 25 February 2026. 
+=== page 2 ===
+Hurricane Melissa     2 
+ 
+Table of Contents 
+SYNOPTIC HISTORY ................................................................................................3 
+METEOROLOGICAL STATISTICS ...........................................................................5 
+Winds and Pressure ................................................................................................6 
+Jamaica .................................................................................................................6 
+Cuba ......................................................................................................................7 
+Bahamas ...............................................................................................................8 
+Records .................................................................................................................8 
+Storm Surge ............................................................................................................9 
+Rainfall and Flooding ...............................................................................................9 
+Jamaica ...............................................................................................................10 
+Cuba ....................................................................................................................10 
+Haiti .....................................................................................................................10 
+Dominican Republic ............................................................................................11 
+Bahamas & Turks and Caicos Islands ................................................................11 
+Lesser Antilles, Puerto Rico & U.S. Virgin Islands ..............................................11 
+CASUALTY AND DAMAGE STATISTICS ..............................................................12 
+Jamaica .................................................................................................................12 
+Haiti .......................................................................................................................13 
+Dominican Republic ...............................................................................................14 
+Cuba ......................................................................................................................14 
+Bahamas ...............................................................................................................14 
+Bermuda ................................................................................................................15 
+Elsewhere ..............................................................................................................15 
+FORECAST AND WARNING CRITIQUE ................................................................15 
+Genesis .................................................................................................................15 
+Track Forecast .......................................................................................................16 
+Intensity Forecast ..................................................................................................16 
+Rainfall Forecast ....................................................................................................17 
+Tropical Cyclone Wind Watches and Warnings ....................................................19 
+IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND PUBLIC 
+COMMUNICATION ..................................................................................................19 
+Media and Social Media Summary ........................................................................19 
+Communication with Emergency Management Summary .....................................19 
+ACKNOWLEDGEMENTS .......................................................................................20 
+REFERENCES ........................................................................................................20 
+ 
+=== page 3 ===
+Hurricane Melissa     3 
+ 
+Hurricane Melissa 
+ 
+21–31 OCTOBER 2025 
+ 
+SYNOPTIC HISTORY 
+The origin of Melissa can be traced back to a convectively active tropical wave that 
+emerged from the west coast of Africa on 13 October and moved quickly westward across the 
+tropical Atlantic at 15–18 kt during the next several days. The disturbance’s forward motion 
+slowed as it moved across the Lesser Antilles, the Virgin Islands, and Puerto Rico on                       
+19–20 October, and during this time the system generated a large area of showers and 
+thunderstorms accompanied by gusty winds and heavy rainfall. The convective organization of 
+the wave gradually improved on 20 October, and satellite-derived wind data that day indicated 
+that the system was already producing tropical-storm-force winds, although it lacked a well-
+defined low-level center. Despite the presence of moderate westerly vertical wind shear, the 
+system continued to generate deep convection, and a closed, well-defined low-level circulation 
+developed by 0600 UTC 21 October, marking the formation of Tropical Storm Melissa about             
+275 n mi south of Port-au-Prince, Haiti. The system was producing maximum sustained winds of 
+40 kt at the time of genesis. The “best track” chart of Melissa’s path is given in Figs. 1a and 1b, 
+with the wind and pressure histories shown in Figs. 2 and 3, respectively. The best track positions 
+and intensities are listed in Table 13. 
+Between 22–24 October, Melissa remained within a region of weak steering flow between 
+a mid-level ridge to the north and a trough over the western Caribbean Sea, which caused the 
+storm to meander slowly northwestward. Persistent moderate southwesterly vertical wind shear 
+displaced most of the convection to the east of the low-level center, limiting intensification. Late 
+on 24 October and into the following day, the shear began to relax and Melissa became better 
+organized with a more vertically aligned circulation. A central dense overcast developed and deep 
+convection wrapped around the center, which supported further intensification through the next 
+morning, and Melissa became a hurricane by 1800 UTC 25 October when it was centered about 
+150 n mi south of Jamaica. During this period, the tropical cyclone made a slow but sharp cyclonic 
+turn, initially moving eastward on 24 October, but then turning northward and then westward by 
+25 October as a narrow mid-level ridge built to the north of the system. 
+Rapid intensification ensued as Melissa moved over very warm waters with high oceanic 
+heat content. Microwave imagery showed that the inner core became better organized with an 
+eyewall evident by late on 25 October. Aircraft reconnaissance data confirmed these 
+observations, showing a quick drop in central pressure, increasing flight-level winds, and a 
+contracting radius of maximum winds. By 0600 UTC 26 October, the cyclone had intensified            
+45 kt in 24 h to become a major hurricane.  Melissa’s intensification continued with a distinct           
+10-n-mi-wide eye becoming evident, and the hurricane reached an intensity of 120 kt (category 4 
+                                                
+3 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 4 ===
+Hurricane Melissa     4 
+ 
+on the Saffir-Simpson Hurricane Wind Scale) by 1800 UTC that day when it was located south of 
+Jamaica. Additional strengthening occurred while Melissa continued moving slowly westward, 
+and aircraft reconnaissance data indicated that the hurricane reached category 5 intensity by 
+1200 UTC 27 October when it was located about 120 n mi southwest of Kingston, Jamaica. 
+The ridge that steered Melissa slowly westward began to weaken as a trough moved 
+across the Gulf of America and approached the western Caribbean Sea late on 27 October.  This 
+pattern caused Melissa to turn sharply north-northeastward. While land-based radar data from 
+Jamaica showed signs of an eyewall replacement cycle (Fig. 4), the double eyewall structure was 
+transient on radar, and aircraft data never showed the formation of an outer wind maximum. 
+Satellite images in Figure 5 show the intensification as the system traversed south of Jamaica. 
+On the morning of 28 October, the eye diameter had grown slightly to about 15 n mi with multiple 
+mesovortices noted, and Geostationary Lightning Mapper (GLM) satellite data revealed an 
+immense amount of lightning occurring in the eyewall at a rate of 600 flashes per 30 minutes (Fig. 
+6). Aircraft reconnaissance data showed that Melissa was still strengthening as it neared Jamaica 
+and by 1200 UTC 28 October, Melissa reached an estimated peak intensity of 165 kt, making it 
+one of the strongest hurricanes on record in the Atlantic basin.  Dropsonde data from an Air Force 
+Reserve Hurricane Hunter aircraft indicated that the pressure had fallen to 892 mb.  At the time 
+of its peak intensity, Melissa was located about 40 n mi south-southwest of New Hope, Jamaica. 
+In the last few hours before landfall, the core of the hurricane began to interact with 
+southwestern Jamaica, which caused the satellite presentation to degrade. The once clear eye 
+started to fill, and cloud tops warmed on infrared satellite imagery.  Melissa made landfall as an 
+estimated 160-kt category 5 hurricane near New Hope, Jamaica, around 1725 UTC 28 October.  
+With this intensity, Melissa is the strongest hurricane on record to make landfall in Jamaica and 
+is tied for the strongest hurricane (in terms of maximum sustained wind speed) to make landfall 
+in the Atlantic basin (with Dorian [2019] in the Bahamas and the Labor Day Hurricane [1935] in 
+the Florida Keys). As the center of Melissa moved north-northeastward over the mountainous 
+terrain of western Jamaica, the hurricane weakened and emerged off the northern coast of the 
+island as a category 3 hurricane around 2100 UTC 28 October. 
+  
+Melissa moved north-northeastward between Jamaica and Cuba with an increasing 
+forward speed between the approaching trough to the west and a ridge to the east. Although the 
+inner core briefly showed signs of reorganization, Melissa’s faster forward motion and limited time 
+over water between Jamaica and Cuba resulted in little change in intensity before the hurricane 
+made landfall near the city of Chivirico, Santiago de Cuba, at 0720 UTC 29 October with an 
+estimated intensity of 100 kt (category 3) and an estimated central pressure of 954 mb. Melissa’s 
+center emerged off the north coast of Cuba around 1300 UTC 29 October as a category 1 
+hurricane with an estimated intensity of 80 kt.  
+ 
+Once over the southwestern Atlantic, Melissa accelerated northeastward toward the 
+southeastern Bahamas. Increasing wind shear combined with the storm’s faster forward motion 
+disrupted Melissa’s structure, with NOAA Tail Doppler Radar (TDR) data indicating increasing tilt 
+between the low- and mid-level centers. As a result, the strongest winds and heaviest rainfall 
+were displaced to the north and east of the low-level center. The hurricane’s outer wind field also 
+began to expand around this time.  Melissa made its first landfall in the Bahamas on Long Island 
+at 2215 UTC 29 October with an intensity of 80 kt. The storm made a second landfall at 0200 UTC 
+30 October on San Salvador Island at the same intensity. During the morning of 30 October,  a 
+=== page 5 ===
+Hurricane Melissa     5 
+ 
+burst of deep convection caused the hurricane to briefly re-intensify. Satellite imagery showed the 
+eye becoming better defined while aircraft reconnaissance data indicated Melissa reached an 
+intensity of 90 kt around 1200 UTC 30 October when it was located about 260 n mi north of the 
+southeastern Bahamas.  
+As the hurricane moved across the western Atlantic, its forward speed increased to nearly 
+40 kt. Vertical wind shear also increased and the system moved over cooler sea-surface 
+temperatures, which caused gradual weakening of the peak winds as the wind field continued to 
+expand.  Melissa’s center passed about 120 n mi west-northwest of Bermuda early on 31 October, 
+bringing strong tropical-storm-force sustained winds and hurricane-force wind gusts to that island. 
+Melissa quickly lost tropical characteristics while traveling over much cooler waters north 
+of Bermuda and became an extratropical cyclone by 1200 UTC 31 October about 350 n mi north-
+northeast of Bermuda. The swiftly moving extratropical cyclone then opened up into a trough of 
+low pressure by 1200 UTC 1 November while it passed southeast of Newfoundland.  The 
+remnants of Melissa merged with a larger baroclinic trough over the North Atlantic about a day 
+later. 
+ 
+METEOROLOGICAL STATISTICS 
+Observations in Melissa (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison. Observations also include flight-level and 
+dropwindsonde observations from 19 flights of the 53rd Weather Reconnaissance Squadron of 
+the U.S. Air Force Reserve Command and from 15 flights of the NOAA Hurricane Hunters, which 
+includes one research mission of the G-IV jet (Figs. 7a and 7b). Data and imagery from NOAA 
+polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA 
+Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer 
+(ASCAT), the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-
+Resolved Observations of Precipitation structure and storm Intensity with a Constellation of 
+Smallsats (TROPICS) satellites, among others, were also useful in constructing the best track of 
+Melissa. 
+Ship reports with winds of tropical storm force associated with Melissa are given in Table 
+2, and selected surface observations from buoys and land-based stations are given in Table 3. 
+ 
+ 
+ 
+ 
+ 
+=== page 6 ===
+Hurricane Melissa     6 
+ 
+Winds and Pressure 
+Melissa’s estimated peak intensity of 165 kt and minimum central pressure of 892 mb at 
+1200 UTC 28 October are based primarily on data collected by Air Force Reserve and NOAA 
+Hurricane Hunter aircraft. The satellite presentation of Melissa peaked in the hours leading up to 
+1200 UTC 28 October when the storm was located about 40 n mi south-southwest of the 
+southwestern coast of Jamaica. However, both the Air Force Reserve C-130J and NOAA P-3 
+aircraft were unable to fully sample all quadrants of the storm’s circulation, including the northeast 
+quadrant where the strongest winds were likely occurring. During these missions, the maximum 
+10-second average flight-level wind was 173 kt measured by the NOAA P-3 aircraft at 700 mb at 
+1351 UTC 28 October in the southern eyewall, which supports a surface wind estimate of 156 kt 
+using the standard flight-level reduction. The NOAA aircraft also deployed an eyewall dropsonde 
+that recorded a mean wind of 188 kt in the lowest 150 m of the atmosphere which corresponds to 
+an estimated surface wind of 157 kt. The dropsonde also measured a mean boundary layer wind 
+of 192 kt in the lowest 500 m that reduces to a 154 kt surface wind. AiDT and ADT objective 
+satellite intensity estimates peaked at 174 and 185 kt, respectively, and SATCON estimates 
+peaked at 174 kt  around 1210 UTC that day.  Based on a blend of the satellite estimates, flight-
+level wind and dropsonde data, and the fact that the area of strongest winds was likely not 
+sampled by reconnaissance aircraft, Melissa’s peak intensity is estimated to be 165 kt at 
+1200 UTC 28 October. It should be noted that NHC best track intensity estimates typically have 
+an uncertainty of around ±10%.   
+The dropsonde that measured a mean wind of 188 kt in the lowest 150 m, recorded an 
+instantaneous peak wind of 219 kt (representative of a wind gust) at an altitude of 906 mb, which 
+is the strongest wind ever recorded by a dropsonde in a tropical cyclone (Fig. 8).  
+Additional data collected by the NOAA reconnaissance aircraft includes Tail Doppler 
+Radar (TDR) and experimental Rain Ocean Atmosphere Radar System (ROARS) that were not 
+explicitly used in determining the peak intensity of Melissa.  These data provide additional context 
+regarding the extreme winds observed in the storm. The ROARS instrument sampled an 
+instantaneous wind of 241 kt, along with a cluster of 1-second winds near 194 kt at approximately 
+500 m in the southern eyewall around 1352 UTC. However, these values represent instantaneous 
+winds and do not correspond to a 1-minute sustained surface wind. TDR data collected by the P-
+3 aircraft indicated peak winds exceeding 170 kt at approximately 500–1000 ft (150–300 m) above 
+the surface (Figs. 9a and 9b).  However, there are currently no standards for reducing those winds 
+to obtain a 10-m (surface) wind estimate.  Collectively, these observations provide valuable insight 
+into the upper bounds of wind speeds that can occur within the eyewall of a category 5 hurricane. 
+The minimum central pressure of 892 mb at 1200 UTC 28 October is based on a 
+dropsonde released by the Air Force Reserve aircraft that reported a pressure of 893 mb with a 
+surface wind of 13 kt around 1324 UTC 28 October (Fig. 10). 
+Jamaica 
+There were no reconnaissance aircraft data available in the few hours before Melissa’s 
+landfall in Jamaica. The hurricane’s intensity at landfall near New Hope in Westmoreland Parish 
+is estimated at 160 kt, slightly below the estimated peak intensity based on the earlier aircraft 
+reconnaissance data and the degraded satellite presentation as the circulation began to interact 
+with the terrain of Jamaica. The highest wind gust reported in Jamaica was 114 kt at the New 
+=== page 7 ===
+Hurricane Melissa     7 
+ 
+Hope Primary School at 1600 UTC 28 October before the sensor tower failed (Fig. 11). Melissa 
+made landfall in an area of Jamaica with limited wind observing stations.  Therefore, no reporting 
+stations measured sustained hurricane-force winds within the area impacted by the eyewall. 
+Aircraft reconnaissance data and dropsonde observations indicated the potential for extremely 
+strong wind gusts which likely occurred over parts of western Jamaica, especially in areas of high 
+terrain. 
+The estimated minimum pressure of 897 mb at landfall in Jamaica is based on aircraft 
+reconnaissance data collected before landfall, observations from the New Hope Primary School 
+site, and data recorded by Josh Morgerman (iCyclone) in Crawford, Jamaica. The New Hope 
+Primary School reported an instantaneous pressure of 913.5 mb at 1700 UTC about 25 minutes 
+before landfall about 2 n mi from the landfall location. Data from the sensor in Crawford (iCyclone), 
+located approximately 5 n mi east of the estimated landfall location, recorded a minimum pressure 
+of 926 mb just inside the southeastern edge of the eye at 1720 UTC (Fig. 12). Both Air Force 
+Reserve and NOAA Hurricane Hunter aircraft data indicated an approximate 35-40 mb pressure 
+difference between the center and the radius of maximum winds (RMW) in the eyewall over a 
+distance of roughly 5-8 n mi during the final mission before landfall. Using a blend of these data 
+and the fact that Melissa is estimated to have weakened slightly before landfall, the estimated 
+minimum pressure at landfall in Jamaica is 897 mb.  
+In post-analysis, it is estimated that Melissa’s landfall occurred slightly later (1725 UTC) 
+than the operational estimate of 1700 UTC. This assessment is based on a post-analysis of radar 
+data from Pilón, Cuba (not shown), and Grand Cayman (not shown), parallax corrections applied 
+to GOES-19 1-minute high-resolution satellite imagery, and available surface observations. The 
+last radar image available from Jamaica, provided by the Meteorological Service of Jamaica in 
+post-analysis (Fig. 13) at 1653 UTC, shows the center of Hurricane Melissa still offshore. 
+Much of central and western Jamaica experienced hurricane-force winds, with notable 
+gusts in Trelawny, St. James Parish, and St. Ann Parish, including peak values near Hampden 
+(105 kt) and Bamboo (90 kt). Eastern portions of the island, including Kingston, experienced 
+sustained tropical-storm-force winds with occasional hurricane-force gusts, with the strongest 
+gust reported near Woodford (69 kt) in St. Andrew Parish. An estimate of the wind swath over the 
+island is provided in Figure 14. 
+Cuba 
+ 
+Direct observations of surface winds and pressure near the landfall location in Cuba were 
+limited. Melissa’s maximum sustained winds at landfall in the province of Santiago de Cuba are 
+estimated to have been 100 kt, with a corresponding estimated minimum central pressure of             
+954 mb. These estimates are based on earlier limited aircraft reconnaissance data and satellite 
+intensity estimates. The Air Force Reserve Hurricane Hunter mission prior to landfall in Cuba 
+sampled the eyewall at 0443 UTC and found a maximum 700-mb flight-level wind of 106 kt. 
+Applying the standard reduction factor from that altitude yields an estimated surface wind of 
+roughly 95 kt. However, UW-CIMSS ADT, SATCON analyses, and subjective Dvorak 
+classifications yielded higher estimates than the aircraft measurements. A blend of these satellite 
+techniques and the in-situ aircraft observations supports a landfall intensity estimate of 100 kt. 
+The landfall pressure estimate is based on a blend of the Knaff-Zehr-Courtney (KZC) pressure 
+=== page 8 ===
+Hurricane Melissa     8 
+ 
+wind relationship, and an earlier Air Force Reserve dropsonde which recorded a minimum 
+pressure of 952 mb at 0453 UTC 29 October. 
+ 
+After landfall, the hurricane passed directly over the town of Contramaestre. As the 
+eyewall approached that location, a local weather station registered a wind gust of 101 kt. The 
+eye passed directly over that location between 0845 and 0856 UTC when the station recorded 
+calm conditions with a pressure of 967.7 mb. The highest reported sustained wind, 70 kt, and 
+wind gust, 118 kt, in Cuba were recorded at an elevated station Gran Piedra, in the province of 
+Santiago de Cuba.  
+Bahamas 
+ 
+ Melissa made two landfalls in the southeastern Bahamas.  The first occurred on Long 
+Island near Buckley’s Settlement at 2215 UTC 29 October, with the second landfall on San 
+Salvador Island at 0200 UTC 30 October. The estimated intensity at both landfalls is 80 kt based 
+primarily on aircraft reconnaissance data that found maximum 700-mb flight-level winds of 97 kt 
+and a lower-than-standard adjustment factor, based on the cyclone’s broadening structure.  The 
+strongest winds recorded in the Bahamas were east of the center in Pitts Town on Crooked Island, 
+where sustained hurricane-force winds of 66 kt and a gust to 77 kt were measured.  Based on 
+satellite data, the center of Melissa moved directly over the Weather Underground site IBUCKL60 
+located near Buckley’s Settlement, which recorded a minimum pressure of 966 mb. It is noted 
+that this site had an estimated 6-mb low bias prior to and after Melissa’s passage as compared 
+to nearby sites and model data. Accounting for that bias, data from that site is in good agreement 
+with a dropsonde released from an Air Force Reserve aircraft, which reported a pressure of 
+971 mb with a surface wind of 8 kt around 2341 UTC 29 October.  
+Records 
+Melissa set a variety of meteorological records for Atlantic and global tropical cyclones. 
+Atlantic Basin 
+• 
+165-kt peak maximum sustained winds (tied for 1st with Allen [1980]) 
+• 
+160-kt maximum sustained winds at landfall in Jamaica tied for strongest 
+landfall (Labor Day [1935]), Dorian [2019]) 
+• 
+892 mb minimum central pressure (Tied with Labor Day [892mb, 1935] for 
+3rd lowest  behind Wilma [882mb, 2005], and Gilbert [888 mb, 1988]) 
+• 
+897 mb minimum central pressure at landfall in Jamaica is the 2nd lowest 
+landfall pressure behind Labor Day (892 mb, 1935) 
+Global 
+• 
+Highest instantaneous wind measured by dropsonde 219 kt (Previous 
+record Super Typhoon Megi [209 kt, 2010]) 
+=== page 9 ===
+Hurricane Melissa     9 
+ 
+Storm Surge4 
+ 
+Melissa produced a devastating storm surge along the southwestern coast of Jamaica, as 
+evidenced from damage documented by ground-based photographs (Fig. 15) and aerial imagery 
+collected by NOAA’s National Geodetic Survey using NOAA aircraft. The imagery highlights 
+significant structural damage, displaced vessels, and debris lines along the immediate coast. 
+However, no water level gauge observations were available in Jamaica, and no high-water marks 
+have been collected at the time of this report, making it difficult to quantify peak water levels. To 
+address this gap, a storm surge hindcast (not shown) was used to supplement the limited 
+observational record.  Maximum storm surge heights are estimated to have reached 7 to 11 ft 
+above normally dry ground (AGL), primarily east of Melissa’s landfall location, within the area of 
+Crawford and Black River. The storm surge was accompanied by large and destructive waves 
+along the immediate coastline. Elsewhere along the Jamaican coast, storm surge inundation was 
+largely confined to coves and bays, including along the north coast of Jamaica near Montego Bay 
+and Falmouth where water levels are estimated to have reached between 2 and 4 ft AGL, 
+respectively. 
+Cuba’s eastern provinces of Santiago de Cuba and Guantanamo and the southeastern 
+islands of the Bahamas also experienced significant storm surge and wave impacts from Melissa. 
+Figure 16 shows structural damage from storm surge and wave action in Guama, Santiago de 
+Cuba. Unfortunately, no storm surge measurements were available for these areas. 
+Rainfall and Flooding 
+ 
+Hurricane Melissa produced several days of heavy rainfall and widespread flooding across 
+portions of the Greater Antilles. Rainfall began while the system was still a tropical wave moving 
+through the Lesser Antilles, Puerto Rico, and the U.S. Virgin Islands, and later as it  affected 
+Hispaniola, Jamaica, eastern Cuba, and parts of the Bahamas as a tropical cyclone. The 
+extended duration of the event led to compounding hydrologic impacts. 
+The most extreme storm-total rainfall occurred across southern Hispaniola, where 
+localized accumulations exceeded over 35 inches (900 mm) in parts of southern Haiti.   Rainfall 
+totals surpassed over 27 inches (700 mm) in southwestern portions of the Dominican Republic. 
+In Jamaica, storm-total rainfall locally exceeded over 32 inches (800 mm) over the interior 
+highlands. Elsewhere, repeated outer rainbands produced around 8 to 15 inches of rainfall across 
+eastern Cuba and surrounding areas, contributing to significant flash and river flooding and 
+landslides in mountainous terrain. 
+                                                
+4 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal 
+rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in 
+terms of height above normal tide levels. Because storm surge represents the deviation from normal water 
+levels, it is not referenced to a vertical datum. Storm tide is defined as the water level due to the 
+combination of storm surge and the astronomical tide, and is expressed in terms of height above a vertical 
+datum, i.e. the North American Vertical Datum of 1988 (NAVD88) or Mean Lower Low Water (MLLW). 
+Inundation is the total water level that occurs on normally dry ground as a result of the storm tide, and is 
+expressed in terms of height above ground level. At the coast, normally dry land is roughly defined as areas 
+higher than the normal high tide line, or Mean Higher High Water (MHHW). 
+=== page 10 ===
+Hurricane Melissa     10 
+ 
+Jamaica 
+The heaviest rainfall associated with Melissa occurred along and to the east of the track 
+of the center, where the island’s topography enhanced precipitation. Many stations reported 
+storm-total rainfall of 8 to 15 inches (~200 to 370 mm), with locally higher amounts in the interior 
+and higher terrain that exceeded 24 inches (~600 mm). The highest reported storm total was 
+32.17 inches (817.1 mm) at Knock Patrick (Manchester Parish). Other notable totals included 
+26.31 inches (668.2 mm) at Dam Head (St. Catherine Parish) and 25.47 inches (647 mm) at 
+Ingleside (Manchester Parish). 
+Due to the prolonged heavy rainfall, rivers and streams overflowed their banks, resulting 
+in freshwater flooding in flood-prone communities and across multiple river basins. Flooding 
+impacts were especially notable in areas connected to the Black River basin, where accumulated 
+runoff from upstream locations contributed to elevated water levels and inundation in downstream 
+locations. In Montego Bay, rivers overflowed their banks as they were not able to drain quick 
+enough due to the impacts from heavy rainfall. 
+Cuba 
+ Storm-total rainfall across eastern Cuba was substantial, with many stations across 
+Santiago de Cuba, Granma, and adjacent provinces reporting totals of 12 to 19 inches (~300–
+470 mm) with numerous locations exceeding 20 inches (500 mm). Localized maxima surpassed 
+24 inches (600 mm), with the highest reported storm total reaching 26.38 inches (670 mm) at 
+Vega Murcia, followed by 24.21 inches (615 mm) at El Sitio. 
+The heavy rainfall resulted in significant river rises and flash flooding, particularly in areas 
+of steep terrain and downstream of drainage basins. Communities in low-lying areas saw rapid 
+rises in water. The most significant impacts were concentrated across portions of Santiago de 
+Cuba and Granma. Flooding was also reported along the Río Cauto basin and its tributaries. 
+Haiti 
+Haiti experienced the highest rainfall totals associated with Melissa, with the most 
+significant impacts concentrated across the southern peninsula. Repeated rainbands affected the 
+same areas over multiple days, which increased runoff into rivers and ravines. Official rainfall 
+observations from the Unité Hydrométéorologique d’Haïti indicate storm-total accumulations of  8 
+to 20 inches (200 to 500 mm) across the Sud, Grand’Anse, Sud Est, and Nippes departments, 
+with narrow corridors exceeding 28 inches (700 mm) where repeated rainbands persisted. The 
+highest reported storm total was 36.77 inches (934 mm) at Camp Perrin (Sud Department). Other 
+notable maxima included 35.16 inches (893 mm) at Saint Louis du Sud, 33.72 inches (856.5 mm) 
+at Annette (Grand’Anse), and 32.90 inches (835.6 mm) at Vieux Bourg d’Aquin. 
+National situation reports documented widespread freshwater flooding along 
+the Voldrogue, Grande Anse, Dame Marie, and Roseaux rivers in Grand’Anse; the Pascale, 
+Grande Rivière, and Tibakadé rivers in Nippes; the Bioche, Moreau, and Ti Penn rivers in Sud 
+Est; the ravine du Sud and rivière de Cavaillon in the Sud Department; and the Léogâne, 
+Courjolle, La Digue, Grise, and Boucassin rivers in the Ouest Department. Elevated water levels 
+were also reported along the fleuve de l’Artibonite. 
+=== page 11 ===
+Hurricane Melissa     11 
+ 
+Dominican Republic 
+         Heavy rainfall affected portions of the Dominican Republic for several days as rainbands 
+repeatedly affected areas along and south of the Cordillera Central and into the Greater Santo 
+Domingo region. Orographic enhancement along the southern slopes of the Cordillera Central 
+contributed to locally higher totals and sharp gradients over relatively short distances. Rainfall 
+observations from the Instituto Dominicano de Meteorología (INDOMET) (Fig. 17) indicate that 
+storm-total rainfall commonly ranged from approximately 8 to 15 inches (~200 to 360 mm) at many 
+locations. Significant totals were recorded in the metropolitan area, including 19.98 inches (507.4 
+mm) at Centro de los Héroes (EMA) and 17.84 inches (453.1 mm) at Santo Domingo Este. The 
+highest reported storm total was 29.02 inches (737.2 mm) at Polo (Barahona Province). 
+As multiple days of rainfall persisted, rivers, streams, and drainage channels steadily rose, 
+leading to significant freshwater flooding in numerous areas, particularly within southward-
+draining basins descending from the Cordillera Central into more populated lowlands. The most 
+pronounced impacts occurred in areas influenced by the Río Mahomita and in downstream 
+communities within the Valdesia and Nizao river systems. 
+Bahamas & Turks and Caicos Islands 
+         Melissa’s faster forward motion limited the rainfall accumulations across the Bahamas. 
+There were limited Bahamian rainfall reports available but the highest totals were 6.17 inches 
+(157 mm) near George Town and 7.78 inches (198 mm) in Cockburn Town. 
+Lesser Antilles, Puerto Rico & U.S. Virgin Islands 
+The system moved through the southern and central Lesser Antilles as a strong tropical 
+wave during 18–20 October, with rainfall lingering over St. Lucia into the 22nd. Locally heavy 
+rainfall was reported across portions of the island chain, particularly in Trinidad and Tobago, St. 
+Vincent and the Grenadines, and St. Lucia. Specific rainfall totals from these locations are not 
+available as of this writing.  
+Outer rainbands associated with Melissa affected Puerto Rico and the U.S. Virgin Islands 
+between 20 and 25 October. Gauge-adjusted Multi-Radar Multi-Sensor System (MRMS) radar 
+estimates from the National Weather Service in San Juan indicated storm-total rainfall generally 
+2 to 6 inches (50–150 mm) across much of Puerto Rico, with the highest accumulations focused 
+along the southern slopes of the Cordillera Central and portions of the southeastern interior. The 
+maximum radar-adjusted storm total in Puerto Rico was 9.58 inches (243 mm) at Mulas, Patillas. 
+Rainfall across northern Puerto Rico, Vieques, Culebra, and the U.S. Virgin Islands generally 
+remained below 2 inches (~50 mm) (Fig. 18). Localized freshwater flooding was reported in low-
+lying areas. 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Melissa     12 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+As of this writing, Melissa is known to be responsible for at least 93 fatalities5. A breakdown 
+of the number of direct and indirect deaths is not known, however, many of these deaths are likely 
+to be directly attributed to the cyclone’s winds, rains, and storm surge. A breakdown of the deaths 
+by country includes: 
+Country 
+Known Fatalities 
+Jamaica 
+45 
+Haiti 
+43 
+Elsewhere 
+5 
+Total 
+93 
+ 
+Jamaica 
+Areas of southwestern Jamaica that experienced the inner core of Melissa included St. 
+Elizabeth, St. James, Trelawny, Westmoreland, Hanover, and Manchester parishes, where 
+structural damage was extreme and widespread. Extreme winds destroyed virtually all wooden 
+structures, stripped roofs from most buildings, and even caused severe damage to concrete 
+construction. Vegetation suffered extreme damage not only near the coast but in mountainous 
+areas across the entirety of western Jamaica as the eyewall passed over the island.  Trees in that 
+area were completely defoliated, and in several locations the force of the wind was sufficient to 
+strip bark from trunks and scour paint from walls and buildings. In coastal towns such as New 
+Hope, Crawford, and Black River, the impact was especially severe, and nearly all roofs were 
+blown off homes in that area, making them uninhabitable. Public services and critical 
+infrastructure were severely compromised. Several hospitals sustained serious structural 
+damage, particularly in the western and southern parishes, and some became non-operational, 
+significantly curtailing the island’s capacity to provide urgent care and medical services.  
+In the wake of the storm’s passage, vast areas of Jamaica were inundated by freshwater 
+flooding. In many low-lying or flood-prone parishes over the southern and western portions of the 
+island, entire communities were submerged. Landslides and flash flooding destabilized the 
+terrain, making hillsides unsafe and causing major disruption to mobility and access. Roads, 
+bridges, and transportation networks were flooded, washed out or blocked by landslides and 
+debris, making many areas inaccessible. Slope failures and debris flows impacted the Blue 
+Mountains and several western/interior parishes, with major flooding affecting St. Elizabeth, 
+Manchester and surrounding areas. Communication networks were heavily disrupted, and power 
+outages affected a substantial portion of the population.  
+                                                
+5 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions from 
+downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 13 ===
+Hurricane Melissa     13 
+ 
+Beyond housing and infrastructure, the economic and agricultural sectors suffered deep 
+losses. According to statements by Jamaica’s Minister of Agriculture, Fisheries and Mining, 
+roughly 41,390 hectares of farmland were affected. Over 70,000 farmers, including those relying 
+on vegetable, vine, and other crops suffered losses, with key crops such as tomatoes, lettuce, 
+carrots, peppers, melons, and cantaloupe taking a major hit. The coffee sector sustained damage 
+to about 40 percent of trees with a 45 percent loss of production estimated at a value of $833.8 
+million. The livestock sector also had heavy losses with more than 1.25 million animals perishing, 
+including poultry, small ruminants, and cattle. Fisheries and aquaculture facilities, fish farms, and 
+related infrastructure also sustained heavy damage, impacting both local food supply and 
+incomes. 
+  
+As of 26 March 2026, the estimated physical damage to buildings, housing, infrastructure, 
+and agriculture across Jamaica was $12.2 billion USD based on estimates from the World Bank 
+Country Director for the Caribbean. The damage estimate represents 41 percent of Jamaica’s 
+2024 gross domestic product. The scale of destruction has been estimated as among the worst 
+ever recorded for Jamaica. Infrastructure damage, collapsed homes, ruined hospitals, disrupted 
+roads, flooding and power outages combined to generate a nationwide humanitarian crisis with 
+recovery and relief operations still ongoing as of this writing. 
+Government officials in Jamaica reported that Melissa caused 45 fatalities. The southwest 
+parish of St. Elizabeth recorded the highest number of storm-related deaths, with 18 fatalities, 
+followed by Westmoreland, which reported 15 deaths. A detailed breakdown of the causes of the 
+fatalities is not available, therefore it is unclear how many of the reported fatalities were the result 
+of direct effects of the hurricane and how many were associated with indirect causes. 
+As waters receded, public health risks emerged due to stagnant, contaminated 
+floodwaters that disrupted sanitation systems and created conditions favorable for the outbreak 
+of waterborne diseases. In the weeks following the hurricane, the government confirmed an 
+outbreak of Leptospirosis (a bacterial infection spread through water or contaminated soil) with 
+confirmed and suspected cases tied to exposure during cleanup and recovery operations. 
+Jamaica declared a health emergency, with multiple fatalities attributed to the outbreak. The 
+number of deaths related to these outbreaks is unknown as of this writing, and the fatalities that 
+occurred due to Leptospirosis are not included in the casualty table above. 
+Haiti 
+Melissa caused devastating impacts across Haiti due to prolonged heavy rainfall and 
+widespread flooding. Tens of thousands of residents were forced to leave their homes, many 
+sheltering in schools and public buildings. Thousands of homes were damaged, or destroyed, 
+while roads and bridges were washed out, isolating several areas and hindering relief operations. 
+Flooding also disrupted health facilities and damaged drinking water and sanitation systems, 
+heightening the risk of waterborne diseases. Agricultural losses were extensive, with crops and 
+irrigation systems damaged, further threatening food security in already vulnerable regions. 
+ 
+The government of Haiti reported at least 43 deaths with others still missing. One of the 
+hardest hit communities was in the southwestern coastal town of Petit-Goave, where 25 of those 
+deaths occurred. Details on the causes of these fatalities are not known as of this writing.  
+=== page 14 ===
+Hurricane Melissa     14 
+ 
+Dominican Republic 
+Heavy rainfall from Melissa caused widespread flooding and infrastructure impacts across 
+several provinces in the Dominican Republic. Official situation reports documented freshwater 
+flooding associated with rising rivers, streams, and drainage channels, particularly across 
+southern and southwestern provinces. Nationwide, 823 homes were flooded, 21 were partially 
+affected, and 2 were destroyed. Flooding also disrupted water services, with 29 aqueducts 
+rendered completely out of service, affecting approximately 250,000 users. Localized impacts 
+included fallen trees and road obstructions in Barahona and Bharuch, but no injuries were 
+reported. In San José de Ocoa, overflowing streams and ravines flooded multiple homes, 
+displaced residents in several neighborhoods, and temporarily obstructed roadways. In Peravia, 
+flooding of the Cañada 30 de Mayo stream resulted in 16 homes being inundated. 
+ Although some media reports indicated fatalities associated with Melissa in the 
+Dominican Republic, the assessment provided by government officials reported no fatalities 
+attributed to the storm. 
+Cuba 
+ 
+Melissa brought heavy rainfall and flooding, a damaging storm surge, and destructive 
+winds to portions of eastern Cuba.  These were some of same areas that were impacted by heavy 
+rainfall and flooding caused by the disturbance that became Hurricane Imelda6 about one month 
+prior.  Melissa caused considerable damage, flooding and catastrophic landslides across eastern 
+Cuba. Streets were covered in debris, with uprooted trees, roofs off houses and flooding of entire 
+towns, with over 900,000 homes damaged or destroyed. Storm surge in Guama caused major 
+structural damage. The region lost much of its power and communication services. In Santiago 
+de Cuba province, housing damage was particularly severe, with 95,000 homes affected, 2,300 
+total collapses, and 6,000 complete roof failures. An oil refinery in Santiago de Cuba was 
+damaged as well as hospitals and medical facilities. The Antonio Maceo Airport was damaged 
+and took a few weeks to reopen. Damage estimates in agriculture reached 158,000 hectares, and 
+hundreds of heads of cattle were lost. Landslides and river overflow, especially along the Cauto 
+River basin, caused prolonged isolation of multiple communities. 
+ 
+At the U.S. Naval Base in Guantanamo Bay, there were several downed trees and homes 
+considered uninhabitable due to damage. There was also some water damage due to flooded 
+roadways, and power and water services were disrupted for about a day. 
+  
+Although some media reports indicated fatalities associated with Melissa, the assessment 
+provided by government officials reported no fatalities attributed to the storm.  
+Bahamas 
+ 
+Melissa began to impact the southeastern Bahamas on 29 October, bringing hurricane- 
+force winds, heavy rainfall and flooding to primarily the southeastern portions of the island chain. 
+Throughout that area, trees were uprooted, with several utility poles knocked down leading to 
+                                                
+6 Reinhart, Brad J. “Tropical Cyclone Report: Hurricane Imelda.” National Oceanic and Atmospheric 
+Administration 
+/ 
+National 
+Weather 
+Service 
+/ 
+National 
+Hurricane 
+Center, 
+27 
+Jan. 
+2026, 
+https://www.nhc.noaa.gov/data/tcr/AL092025_Imelda.pdf 
+=== page 15 ===
+Hurricane Melissa     15 
+ 
+power outages. The strong winds caused damage to roofs across many of the islands. When the 
+system made landfall on Long Island, heavy rainfall and storm surge flooding caused the 
+Deadman’s Cay airport to become flooded. Several roads were impassable due to debris and 
+flooded roadways. The power station on Long Island was severely damaged. On San Salvador 
+Island, where Melissa made a second landfall, there were 18 downed power poles, and the island 
+was left without power and with poor communication services.  
+Bermuda 
+ 
+Across Bermuda, the hurricane’s impacts were generally minor, consisting mainly of 
+scattered debris, downed power lines, and several utility poles downed due to strong winds. This 
+led to power outages across portions of the island. There were no reported casualties associated 
+with Melissa in Bermuda. 
+Elsewhere 
+The Turks & Caicos Islands experienced outer rainbands with gusty winds and heavy 
+showers, but there were no reports of damage. 
+In Puerto Rico, outer rainbands of the incipient disturbance of Melissa produced gusty 
+winds with some power lines downed and tree damage reported in Yauco, Penuelas, Bayamon, 
+and Cabo Rojo. Emergency management officials reported flooding in the Maria Antonia area of 
+Guanica as well as Calle San Thomas in Ponce. Floodwaters covered multiple roadways, but no 
+structural damage was reported. 
+In Panama, moisture associated with Melissa and its broader synoptic flow produced 
+heavy rainfall and flooding that contributed to three fatalities. 
+During recovery efforts from Melissa, a small plane bound for a relief mission in Jamaica 
+crashed in Coral Springs, Florida, on 10 November shortly after taking off from Fort Lauderdale 
+Executive Airport, killing two occupants on board. These 2 fatalities are considered indirect deaths 
+associated with Melissa. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+Genesis 
+The potential for tropical cyclone development was first highlighted in the Global Tropical 
+Hazards Outlook by the NOAA Climate Prediction Center on 30 September in the week three 
+period (Fig. 19). The potential development area was expanded eastward in the week two outlook 
+to the central and western Caribbean Sea on 7 October. 
+During the 7-day period covered by NHC’s Tropical Weather Outlook (TWO), the genesis 
+of Melissa was predicted, though with less than desirable lead time (Table 4). The wave from 
+which Melissa developed was introduced in the TWO 108 h prior to genesis with a low chance of 
+formation for the 7-day period. The 7-day probabilities were raised to the medium and high 
+=== page 16 ===
+Hurricane Melissa     16 
+ 
+categories 54 h and 36 h before genesis, respectively. A low probability of formation was indicated 
+in the 2-day period in two separate periods prior to genesis. The first was at 0000 UTC 17 October, 
+about 102 h before formation, and persisted for 18 h. Non-zero probabilities were re-introduced 
+in the 2-day outlook with a low development probability at 1800 UTC 18 October, approximately 
+60 h prior to genesis. The 2-day probabilities were raised to the medium and high categories 18 
+h and 12 h before genesis, respectively. The location of Melissa’s genesis was well forecast (Fig. 
+20), with all of the Graphical Tropical Weather Outlook formation areas accurately capturing the 
+development location of the cyclone in the central Caribbean Sea. 
+Track Forecast 
+A verification of NHC official track forecasts for Melissa is given in Table 5a. Official track 
+forecast errors were much lower than the mean official errors for the previous 5-yr period for all 
+forecast times. A homogeneous comparison of the official track errors with selected guidance 
+models is given in Table 5b and Figures 21a and 21b. The early track forecasts were complex 
+with a pronounced bifurcation of the track models. When Melissa first developed, the future track 
+seemed dependent on the tropical cyclone’s structure and just how fast the system would become 
+vertically aligned and intensify. As depicted in Figure 22, the stronger and more vertically deep 
+solutions (like the GFS) showed a track more toward the north and east, moving the system 
+quickly into a weakness in the subtropical ridge over Hispaniola. Meanwhile, the ECMWF and 
+Google DeepMind models maintained an initially weaker, sheared system, with a slower, 
+meandering motion in the Caribbean Sea, and showed the system drifting farther west before 
+significant strengthening occurred. The NHC forecasts discounted the more northern solutions 
+and more closely followed guidance that depicted the slower motion over the central Caribbean 
+Sea.  These forecasts were quite accurate, as the NHC track forecast issued four days before 
+landfall correctly showed Melissa striking western Jamaica with a forecast error of just 11 n mi at 
+96 h, far below the typical error for a 4-day forecast (Fig. 23). Overall NHC track forecasts were 
+highly skillful, with skill exceeding 80 percent relative to climatology-persistence (OCD5) beyond 
+48 h (Fig. 24). The official forecast outperformed nearly all available model guidance at all forecast 
+lead times. The exception was the Google DeepMind ensemble mean (GDMI) which performed 
+remarkably well at all time periods and was considerably more skillful than most of the other track 
+guidance. The NHC OFCL forecasts were comparable to GDMI through 96 h, but performed 
+slightly better than GDMI at 120 h. 
+The track forecast skill was notable for a category 5 hurricane, and the NHC track 
+forecasts had lower mean errors compared to a majority of other cases for the RI periods of these 
+hurricanes (Fig. 25).  Melissa’s forecast was much more skillful compared to NHC’s skill average 
+from 2020-2024 (Fig. 26).  
+Intensity Forecast 
+A verification of NHC official intensity forecasts (OFCL) for Melissa is given in Table 6a. 
+Although OFCL intensity forecast errors were higher than the mean official errors for the previous 
+5-yr period at all forecast times, the NHC forecasts were quite skillful (Fig. 27) as OCD5 
+(climatology and persistence) errors were up to 6 times greater than the long-term mean, 
+indicating that the intensity forecasts for Melissa were very difficult.  A homogeneous comparison 
+of the official intensity errors with selected guidance models is given in Table 6b and Figures 28a 
+and 28b. NHC intensity forecasts had lower mean errors than all of the guidance models through 
+=== page 17 ===
+Hurricane Melissa     17 
+ 
+96 h, and only a few of the hurricane regional models and IVCN beat the NHC forecast at 120 h. 
+An analysis of the distribution of 1–3-day forecast intensity errors of systems that rapidly intensity 
+into Category 5 hurricanes indicates that OFCL intensity errors for Melissa were among the lowest 
+on record. Melissa's forecasts during the RI period exhibited a much lower negative bias relative 
+to the full distribution of RI periods for Category 5 hurricanes (Fig. 29).  Figure 30 shows NHC 
+intensity forecast performance during RI as compared to the intensity guidance. 
+As Melissa meandered south of Jamaica, the cyclone underwent a pronounced period of 
+RI on 25–26 October while traversing very warm waters (30-31°C) with high oceanic heat content 
+around 125-150 kJ/cm2. At the same time, vertical wind shear decreased to around 10 kt, allowing 
+the storm’s vortex to become vertically aligned, as observed by TDR data. Nearly all statistical RI 
+guidance consistently indicated significant strengthening, and regional hurricane models, 
+including HAFS-A and HAFS-B, also depicted substantial intensification. The Google DeepMind 
+model (GDMI) performed very well in forecasting both intensity and RI.  By early on 24 October, 
+all GDMI members indicated that Melissa would become a major hurricane, with uncertainty more 
+on the timing of rapid intensification rather than whether it would occur. The GDMI guidance in 
+conjunction with NWS regional hurricane models (HAFS-A, HAFS-B, HWRF, and HMON) 
+increased forecaster confidence in predicting RI at unusually long lead times. NHC forecasts 
+called for Melissa to rapidly strengthen and reach major hurricane status, noting the potential for 
+even higher intensity prior to interaction with Jamaica or eastern Cuba.  
+The NHC intensity forecasts beginning on 22 October were particularly noteworthy since 
+they explicitly indicated rapid intensification (RI) between days 3 and 4 of the forecast period. This 
+signal became even more significant in the 1500 UTC 24 October advisory, issued roughly four 
+days before landfall, when Melissa was still only a 40-kt tropical storm. At that time, NHC forecast 
+not only strengthening to a strong Category 4 hurricane, but also a track near or directly over 
+western Jamaica. Subsequent forecasts provided nearly three days of advance notice prior to 
+landfall that Melissa would make landfall as a powerful Category 5 hurricane, marking the first 
+time NHC had ever predicted a storm to reach Category 5 strength from that low of an initial 
+intensity (80 kt - Category 1). As shown in Figure 26, forecast skill for Melissa’s intensity forecasts 
+substantially exceeded the preceding five-year mean (2020–24), and the NHC forecasts had more 
+skill than all intensity guidance through 96 h.  
+When compared with the three most recent prior Category 5 landfalling hurricanes within 
+NHC’s area of responsibility—Michael (2018), Dorian (2019), and Otis (2023)—the forecasts for 
+Melissa stand out for their superior depiction of peak intensity at landfall (Fig. 31). 
+ 
+Rainfall Forecast 
+Melissa’s rainfall forecast proved particularly challenging due to its slow, meandering 
+motion and evolving structure. The storm’s sluggish progression allowed rainbands to train over 
+the same areas for extended periods, with heavy rainfall beginning well before the closest 
+approach of the center and continuing afterward, significantly lengthening the duration of impacts. 
+At the same time, global model guidance exhibited substantial cross- and along-track spread, 
+leading to large differences in the placement of the heaviest rainfall and noticeable cycle-to-cycle 
+shifts in forecast maxima, which complicated messaging to regional partners. 
+=== page 18 ===
+Hurricane Melissa     18 
+ 
+Most of the severe flooding occurred within outer rainbands well removed from the center 
+rather than within the inner core. A deep moisture plume interacting with steep terrain over 
+Hispaniola and eastern Cuba, particularly along the higher elevations of the Cordillera Central in 
+the Dominican Republic, and pre-existing boundaries focused low-level convergence into narrow 
+corridors of intense orographic rainfall that models struggled to resolve. Because rainfall and 
+flooding impacts accumulated over more than a week, standard short-range QPF products did 
+not fully convey the cumulative storm-total threat. As a result, the rainfall forecast period was 
+extended from the typical three days to four days to better capture the higher-confidence, 
+prolonged rainfall impacts associated with Melissa. 
+Jamaica 
+Rainfall predictions across Jamaica were more challenging as uncertainty was greater 
+regarding the exact track. Early rainfall forecasts depicted the axis of maximum rainfall over 
+central to eastern Jamaica, with forecast totals locally exceeding 20 to 30 inches (500–750 mm) 
+with isolated higher amounts under scenarios in which the storm remained near or just south of 
+the island during its slow-moving westward phase (Fig. 32). As it became more apparent that the 
+storm would track slightly farther south and west, the forecast was updated to shift the axis of 
+heaviest rainfall toward the central and western portions of Jamaica (Fig. 33). Verification showed 
+that observed rainfall totals over eastern Jamaica were generally lower than early forecast 
+maxima, with many locations receiving on the order of 6 to 14 inches (150–350 mm). In contrast, 
+central and western portions of Jamaica experienced higher accumulations, with a few stations 
+reporting totals exceeding 24 inches (600 mm) and localized maxima near 32 inches (800 mm). 
+Haiti & Dominican Republic 
+  Early rainfall forecasts for Haiti and the Dominican Republic consistently highlighted the 
+potential for widespread heavy rainfall totals of 8 to 12 inches (200–300 mm) across southern 
+Hispaniola, with locally higher extreme amounts possible. As Melissa strengthened and slowed 
+markedly during 23–25 October, forecast rainfall totals were steadily increased in subsequent 
+forecasts to account for the prolonged duration of impacts. This led to substantially higher forecast 
+maxima of 20 to 30 inches (500–750 mm) for portions of southwestern Haiti and 15 to 20 inches 
+(400–500 mm) across southern portions of the Dominican Republic. Observed rainfall ultimately 
+reached or exceeded the upper end of the forecast range across parts of southern Hispaniola. 
+Cuba 
+The rainfall forecast for eastern and southern Cuba remained fairly steady throughout the 
+forecast period, forecasting 16 to 20 inches (400–500 mm) with isolated higher amounts over the 
+provinces of Granma, Santiago de Cuba and Guantánamo. The area with the forecasted 
+maximum rainfall shifted slightly westward as Melissa’s forecast track shifted westward. Other 
+areas in Cuba, mainly north and east of the peak forecast area, over the province of Holguín had 
+a rainfall forecast generally between 8 to 16 inches (200–400 mm). The rainfall forecast for 
+eastern Cuba verified fairly well, correctly identifying the southern and southeastern provinces as 
+the most likely to receive higher rainfall totals. 
+ 
+ 
+=== page 19 ===
+Hurricane Melissa     19 
+ 
+ 
+Tropical Cyclone Wind Watches and Warnings 
+Tropical cyclone wind watches and warnings associated with Melissa are given in Table 
+7. The lead times associated with Tropical Storm Watches and Warnings and Hurricane Watches 
+and Warnings for Haiti and Jamaica were unusually long due to Melissa’s slow motion, forecast 
+uncertainty, and the track’s proximity to those islands, as small changes in the short-term forward 
+speed and track had the potential to bring  strong winds  to those islands significantly sooner than 
+shown in NHC’s deterministic forecast. For Jamaica, a Tropical Storm Watch was issued roughly 
+seven days before landfall, followed by a Tropical Storm Warning and Hurricane Watch about five 
+days before direct wind impacts began. A Hurricane Warning was issued for Jamaica about three 
+days before landfall. For Haiti, a Hurricane Watch was issued seven days prior to the storm’s 
+closest approach, with a Tropical Storm Warning issued five days beforehand. These extended 
+watch and warning periods reflected both the uncertainty in Melissa’s track and the early impacts 
+from its outer rainbands well before the core of the system neared the islands or made landfall. 
+ 
+IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND 
+PUBLIC COMMUNICATION 
+ 
+Media and Social Media Summary 
+ 
+ Although Melissa did not pose a direct threat to the United States, the storm generated 
+substantial interest from U.S. and international media outlets. NHC staff conducted 41 interviews 
+in English and 12 in Spanish. The attention on Melissa grew as it went through rapid intensification 
+and became the 4th major hurricane of the season. There were numerous web and print stories 
+published in both English and Spanish.  
+Social media coverage for this event included five short videos (reels) posted on NHC 
+social media platforms. The first reel, released on 21 October, highlighted the pre-genesis 
+disturbance in the Caribbean. The second reel followed the next day, coinciding with the system’s 
+development into a tropical storm. The most widely viewed reel was posted on 25 October, three 
+days before landfall, and garnered 710,000 views across Facebook, Instagram, YouTube and X 
+as Melissa became a major hurricane. Altogether, the reels reached a combined total of 2.5 million 
+views. NHC hosted 12 livestreams during the period from 21–30 October, and these live 
+broadcasts accumulated 584,000 views. 
+Communication with Emergency Management Summary 
+ 
+As the tropical cyclone Regional Specialized Meteorological Center (RSMC) for the World 
+Meteorological Organization Regional Association IV, NHC supported national meteorological 
+agencies in the affected areas and coordinated forecast and hazard information along with tropical 
+storm and hurricane watches and warnings throughout the region. NHC provided several briefings 
+to national and international governmental agencies supporting key decision makers within the 
+=== page 20 ===
+Hurricane Melissa     20 
+ 
+region. The NHC’s Tropical Analysis and Forecast Branch provided 18 impact-based decision 
+support briefings to the U.S. Coast Guard Southeast District from 21–30 October.  
+ACKNOWLEDGEMENTS 
+ 
+The authors would like to thank those at NHC for their contributions to this report: Dr. 
+Philippe Papin provided the genesis figure and forecast comparison of Category 5 landfalls; Dr. 
+Wallace Hogsett provided the track and intensity verification figures, and wind swath; Dr. Lisa 
+Bucci provided aircraft reconnaissance map; John Cangialosi  calculated the record statistics and 
+figures; Dr. Cody Fritz and Laura Alaka contributed to the storm surge analysis and figures; Dr. 
+Chris Landsea supplied the TAFB briefing information; NOAA Public Affairs, Maria Torres 
+provided the media and social media information; and the Hurricane Specialist Unit peer reviewed 
+the report. The authors would also like to acknowledge Jonathon Zawislak from the NOAA Aircraft 
+Operations Center (AOC) for detailed reconnaissance data analysis; NOAA Ocean Winds team, 
+Paul Chang and Zorena Jelenek, for data analysis of remote sensing data, including ROARS; and 
+Paul Reasor of the NOAA Atlantic Oceanographic and Meteorological Laboratory (AOML) for TDR 
+analysis; Dr. Levi Cowan for dropsonde figures;  Dr. Patrick Duran, NASA Marshall Space Flight 
+Center, Short-Term Prediction Research and Transition Center for the GLM data analysis. Data 
+provided by the meteorological services of Jamaica, Cuba, Bahamas, Bermuda, the Dominican 
+Republic, and Haiti were critical to the post-analysis and documentation of impacts in this report. 
+The authors also wish to thank Josh Morgerman (iCyclone) for providing data, detailed damage 
+reports, and photographic documentation near the landfall location. 
+ 
+ 
+REFERENCES 
+ 
+https://reliefweb.int/report/cuba/cuba-hurricane-melissa-flash-update-no-7-14-november-2025 
+https://www.jamaicaobserver.com/2025/11/11/hurricane-melissa-death-toll-jamaica-rises-45/ 
+https://www.caribbeannationalweekly.com/news/32-hurricane-melissa-deaths-still-under-
+investigation-in-jamaica/ 
+https://apnews.com/article/melissa-haiti-jamaica-hurricane-storm-caribbean-
+bbc009020e6a2a8150ccecc5b6370833 
+https://www.unicef.org/media/176811/file/UNICEF%20Caribbean%20Multi-
+Country%20Humanitarian%20Situation%20Report%20No.%203%20%28Hurricane%20Melissa
+%29%2C%2012%20November-01%20December%202025.pdf. 
+https://www.paho.org/en/situation-reports 
+ 
+=== page 21 ===
+Hurricane Melissa     21 
+ 
+ 
+Table 1. 
+Best track for Hurricane Melissa, 21–31 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+21 / 0600 
+14.0 
+70.0 
+1003 
+40 
+tropical storm 
+21 / 1200 
+14.0 
+71.4 
+1003 
+45 
+" 
+21 / 1800 
+14.0 
+72.4 
+1003 
+45 
+" 
+22 / 0000 
+14.1 
+73.3 
+1003 
+45 
+" 
+22 / 0600 
+14.2 
+73.5 
+1002 
+45 
+" 
+22 / 1200 
+14.3 
+73.7 
+1002 
+45 
+" 
+22 / 1800 
+14.3 
+74.1 
+1002 
+45 
+" 
+23 / 0000 
+14.3 
+74.5 
+1002 
+45 
+" 
+23 / 0600 
+14.7 
+74.8 
+1003 
+40 
+" 
+23 / 1200 
+15.2 
+75.0 
+1003 
+40 
+" 
+23 / 1800 
+15.5 
+75.3 
+1002 
+40 
+" 
+24 / 0000 
+15.7 
+75.5 
+1002 
+40 
+" 
+24 / 0600 
+15.8 
+75.3 
+1002 
+40 
+" 
+24 / 1200 
+15.9 
+75.1 
+1000 
+45 
+" 
+24 / 1800 
+15.9 
+74.8 
+997 
+50 
+" 
+25 / 0000 
+16.1 
+74.7 
+993 
+55 
+" 
+25 / 0600 
+16.3 
+74.7 
+986 
+60 
+" 
+25 / 1200 
+16.4 
+74.9 
+984 
+60 
+" 
+25 / 1800 
+16.4 
+75.3 
+976 
+75 
+hurricane 
+26 / 0000 
+16.4 
+75.7 
+971 
+90 
+" 
+26 / 0600 
+16.3 
+76.0 
+958 
+105 
+" 
+26 / 1200 
+16.3 
+76.4 
+952 
+115 
+" 
+26 / 1800 
+16.3 
+76.9 
+944 
+120 
+" 
+27 / 0000 
+16.3 
+77.3 
+934 
+125 
+" 
+27 / 0600 
+16.3 
+77.7 
+923 
+135 
+" 
+27 / 1200 
+16.3 
+78.0 
+912 
+145 
+" 
+27 / 1800 
+16.4 
+78.3 
+906 
+155 
+" 
+28 / 0000 
+16.5 
+78.6 
+909 
+155 
+" 
+=== page 22 ===
+Hurricane Melissa     22 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+28 / 0600 
+16.9 
+78.4 
+900 
+155 
+" 
+28 / 1200 
+17.5 
+78.1 
+892 
+165 
+" 
+28 / 1725 
+18.1 
+78.0 
+897 
+160 
+" 
+28 / 1800 
+18.2 
+78.0 
+910 
+145 
+" 
+29 / 0000 
+18.8 
+77.1 
+953 
+105 
+" 
+29 / 0600 
+19.7 
+76.4 
+952 
+105 
+" 
+29 / 0720 
+20.0 
+76.2 
+954 
+100 
+" 
+29 / 1200 
+20.9 
+75.8 
+968 
+85 
+" 
+29 / 1800 
+22.1 
+75.4 
+972 
+80 
+" 
+29 / 2215 
+23.1 
+75.0 
+972 
+80 
+" 
+30 / 0000 
+23.5 
+74.8 
+970 
+80 
+" 
+30 / 0200 
+24.0 
+74.5 
+970 
+80 
+" 
+30 / 0600 
+25.0 
+73.8 
+968 
+85 
+" 
+30 / 1200 
+26.7 
+72.7 
+965 
+90 
+" 
+30 / 1800 
+28.9 
+70.9 
+967 
+85 
+" 
+31 / 0000 
+31.3 
+68.7 
+970 
+80 
+" 
+31 / 0600 
+34.5 
+65.5 
+972 
+75 
+" 
+31 / 1200 
+37.7 
+62.1 
+972 
+75 
+extratropical 
+31 / 1800 
+40.6 
+58.9 
+972 
+70 
+" 
+01 / 0000 
+43.7 
+56.0 
+971 
+70 
+" 
+01 / 0600 
+46.6 
+51.3 
+968 
+65 
+" 
+01 / 1200 
+ 
+ 
+ 
+ 
+dissipated 
+28 / 1200 
+17.5 
+78.1 
+892 
+165 
+maximum wind and 
+minimum pressure 
+28 / 1725 
+18.1 
+78.0 
+897 
+160 
+Landfall near New 
+Hope, Jamaica 
+29 / 0720 
+20.0 
+76.2 
+954 
+100 
+Landfall near 
+Chivirico, Cuba 
+29 / 2215 
+23.1 
+75.0 
+972 
+80 
+Landfall on Long 
+Island, Bahamas 
+30 / 0200 
+24.0 
+74.5 
+970 
+80 
+Landfall on San 
+Salvador Island, 
+Bahamas 
+=== page 23 ===
+Hurricane Melissa     23 
+ 
+ 
+Table 2. 
+Selected ship reports with winds of at least 34 kt for Hurricane Melissa, 21–31 
+October 2025. 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind dir/ 
+speed (kt) 
+Pressure 
+(mb) 
+21 / 1157 
+C6XS7 
+14.2 
+70.8 
+070 / 68 (65m) 
+1003.0 
+24 / 1500 
+GDQMGE 
+17.5 
+81.1 
+050 / 43 
+1006.6 
+26 / 0400 
+5UEVFZ 
+17.9 
+82.6 
+030 / 45 
+1008.9 
+31 / 0200 
+V7DM2 
+33.6 
+73.1 
+270 / 40 
+1004.4 
+31 / 0500 
+V7DM2 
+32.7 
+73.0 
+260 / 37 
+1007.5 
+31 / 1600 
+V7A608 
+39.8 
+69.2 
+270 / 36 
+992.0 
+31 / 1223 
+VCPK 
+45.9 
+62.9 
+070 / 38 
+- 
+31 / 1623 
+VCPK 
+45.9 
+62.1 
+100 / 41 
+- 
+31 / 1700 
+VCPK 
+45.8 
+61.7 
+110 / 40 
+- 
+31 / 1723 
+VCPK 
+45.9 
+61.8 
+100 / 36 
+- 
+31 / 1753 
+VCPK 
+45.8 
+61.7 
+110 / 40 
+- 
+31 / 1924 
+VCPK 
+45.7 
+61.4 
+120 / 36 
+- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 24 ===
+Hurricane Melissa     24 
+ 
+ 
+Table 3. 
+Selected surface observations for Hurricane Melissa, 21-31 October 2025. 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+JAMAICA 
+International Civil Aviation Organization (ICAO) Sites 
+Sangster International 
+Airport, Montego Bay 
+(MKJS) 
+(18.50N, 77.91W) 
+*no data after 28/1000 
+28/1000 
+998.0 
+28/0800 
+40 
+56 
+ 
+ 
+ 
+ 
+Norman Manley International 
+Airport, Kingston (MKJP) 
+(17.94N, 76.77W) 
+28/2100 
+995.9 
+28/1900 
+41 
+50 
+ 
+ 
+ 
+ 
+Automated Weather Stations (AWS) 
+Clarendon Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Clarendon College 
+28/2100 
+990.2 
+28/2100 
+22 
+(2 m) 
+50 
+ 
+ 
+ 
+9.83 
+Crofts Hill 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.43 
+Edwin Allen 
+28/2100 
+985.2 
+29/0300 
+9 
+(2 m) 
+29 
+ 
+ 
+ 
+11.33 
+Kemps Hill High 
+(17.84N, 77.28W) 
+28/1900 
+992.2 
+28/1900 
+25 
+(10 m) 
+54 
+ 
+ 
+ 
+11.80 
+Kendal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.07 
+Mason River 
+(18.20N, 77.26W) 
+28/2100 
+984.1 
+28/2000 
+25 
+(10 m) 
+68 
+ 
+ 
+ 
+13.16 
+M.R Rada 
+(17.98N, 77.25W) 
+28/2100 
+982.5 
+28/2100 
+17 
+(2 m) 
+49 
+ 
+ 
+ 
+13.49 
+May Pen  
+28/2000 
+991.7 
+28/1300 
+21 
+(10 m) 
+49 
+ 
+ 
+ 
+11.10 
+Mitchell Town 
+(17.81N, 77.20W) 
+28/2000 
+994.1 
+28/1900 
+27 
+(10 m) 
+52 
+ 
+ 
+ 
+11.02 
+Mony Musk 
+(17.81N, 77.25W) 
+28/1900 
+993.6 
+28/2000 
+24 
+(10 m) 
+49 
+ 
+ 
+ 
+11.13 
+Mt Airy 
+28/2000 
+987.5 
+28/2000 
+31 
+(10 m) 
+67 
+ 
+ 
+ 
+20.88 
+Mt Liberty 
+28/2000 
+987.5 
+28/2100 
+16 
+(2 m) 
+53 
+ 
+ 
+ 
+13.90 
+Mt Peto 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.07 
+Rocky Point 
+(17.78N, 77.26W) 
+28/2000 
+993.2 
+28/2000 
+30 
+(10 m) 
+57 
+ 
+ 
+ 
+9.02 
+Salt River 
+(17.83N, 77.18W) 
+28/2000 
+994.8 
+28/2100 
+20 
+(10 m) 
+45 
+ 
+ 
+ 
+11.97 
+Vernamfield 
+(17.89N, 77.31W) 
+28/1900 
+990.8 
+28/1800 
+18 
+(2 m) 
+45 
+ 
+ 
+ 
+11.35 
+Hanover Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 25 ===
+Hurricane Melissa     25 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Esher Primary 
+28/1900 
+986.1 
+28/1900 
+49 
+(10 m) 
+73 
+ 
+ 
+ 
+5.45 
+Green Island 
+(18.38N, 78.27W) 
+28/1900 
+985.2 
+28/2000 
+38 
+(10 m) 
+72 
+ 
+ 
+ 
+5.75 
+Rhodes Hall 
+(18.37N, 78.30W) 
+28/1800 
+986 
+28/1900 
+20 
+(2 m) 
+43 
+ 
+ 
+ 
+5.11 
+Kingston & St. 
+Andrew Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jacks Hill 
+(18.05N, 76.76W) 
+28/2000 
+993.4 
+28/0600 
+20 
+(2 m) 
+49 
+ 
+ 
+ 
+7.87 
+Jacra 
+28/2300 
+997.3 
+29/0200 
+20 
+(2 m) 
+41 
+ 
+ 
+ 
+10.35 
+Mavis Bank 
+(18.03N, 76.65W) 
+28/2300 
+993.6 
+28/1400 
+10 
+(2 m) 
+37 
+ 
+ 
+ 
+22.32 
+Mona Reservoir 
+(18.01N, 76.76W) 
+28/2000 
+998 
+28/1800 
+30 
+(10 m) 
+57 
+ 
+ 
+ 
+6.44 
+NMIA 
+(17.93N, 76.78W) 
+28/2100 
+996 
+28/0900 
+37 
+(10 m) 
+51 
+ 
+ 
+ 
+8.48 
+UWI 
+ 
+ 
+28/2125 
+27 
+(10 m) 
+55 
+ 
+ 
+ 
+10.84 
+Woodford 
+(18.07N, 76.75W) 
+28/2000 
+993.7 
+28/1800 
+37 
+(10 m) 
+69 
+ 
+ 
+ 
+7.35 
+Manchester Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Devon Pri 
+(17.89N, 77.50W) 
+28/2000 
+975.4 
+28/1800 
+28 
+(2 m) 
+54 
+ 
+ 
+ 
+16.70 
+Cross Keys 
+(18.38N, 78.27W) 
+28/1900 
+988.8 
+28/1500 
+31 
+(10 m) 
+64 
+ 
+ 
+ 
+16.66 
+Grove Place 
+(18.12N, 77.52W) 
+28/2000 
+982 
+28/1800 
+38 
+(10 m) 
+74 
+ 
+ 
+ 
+ 
+Ingleside 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25.47 
+Knock Patrick (WRA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32.17 
+Marshall Pen Sutton 
+(18.06N, 77.53W) 
+28/2000 
+982.8 
+28/1900 
+8 
+(2 m) 
+32 
+ 
+ 
+ 
+18.94 
+Siri 
+ 
+ 
+28/2210 
+39 
+(10 m) 
+55 
+ 
+ 
+ 
+24.78 
+Portland Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bybrook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.11 
+Happy Grove 
+(18.01N, 76.27W) 
+ 
+ 
+29/0400 
+17 
+(10 m) 
+46 
+ 
+ 
+ 
+7.62 
+Shirley Castle 
+(18.15N, 76.61W) 
+29/0000 
+990 
+29/0100 
+12 
+(2 m) 
+40 
+ 
+ 
+ 
+13.90 
+St. Mary Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fort George 
+(18.23N, 76.77W) 
+29/0000 
+990.7 
+28/2200 
+17 
+(10 m) 
+57 
+ 
+ 
+ 
+ 
+Halifax Farm 
+28/2300 
+986 
+28/2100 
+25 
+(10 m) 
+62 
+ 
+ 
+ 
+15.92 
+St. Thomas Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 26 ===
+Hurricane Melissa     26 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Hordley Estate 
+28/2100 
+996 
+29/0300 
+13 
+(10 m) 
+30 
+ 
+ 
+ 
+7.22 
+Serge Island 
+(17.95N, 76.48W) 
+28/2300 
+998 
+28/2100 
+15 
+(10 m) 
+45 
+ 
+ 
+ 
+11.75 
+Yallahs 
+(17.88N, 76.59W) 
+28/2000 
+998 
+28/2000 
+27 
+(10 m) 
+46 
+ 
+ 
+ 
+10.37 
+St. Ann Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aabuthnott Gallimore HS 
+28/2100 
+979.3 
+28/2100 
+37 
+(10 m) 
+72 
+ 
+ 
+ 
+15.65 
+Colgate 
+28/2200 
+974.7 
+28/2300 
+11 
+(2 m) 
+36 
+ 
+ 
+ 
+12.30 
+Bamboo 
+(18.40N, 77.28W) 
+28/2200 
+972.5 
+28/2300 
+45 
+(10 m) 
+90 
+ 
+ 
+ 
+4.43* 
+Dunns River 
+28/2300 
+979.4 
+28/2300 
+28 
+(10 m) 
+57 
+ 
+ 
+ 
+10.28 
+Nine Miles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.00 
+Minards 
+(18.41N, 77.38W) 
+28/2200 
+965.9 
+28/2200 
+44 
+(2 m) 
+85 
+ 
+ 
+ 
+10.66 
+Moneague 
+(18.26N, 77.11W) 
+28/2300 
+986.5 
+29/0000 
+32 
+(10 m) 
+63 
+ 
+ 
+ 
+13.09 
+St. Catherine Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Amity Hall 
+28/2100 
+993.5 
+28/2100 
+17 
+(2 m) 
+37 
+ 
+ 
+ 
+9.84 
+Bois Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.01 
+Bybrook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.22 
+Colbeck 
+28/2000 
+991.9 
+28/2100 
+16 
+(2 m) 
+36 
+ 
+ 
+ 
+10.80 
+Dam Head 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.31 
+Innswood 
+(17.98N, 77.00W) 
+28/1800 
+996.1 
+28/1000 
+20 
+(10 m) 
+44 
+ 
+ 
+ 
+7.63 
+Greater Portmore 
+(17.93N, 76.90W) 
+28/2000 
+994.2 
+28/1000 
+31 
+(10 m) 
+51 
+ 
+ 
+ 
+8.84 
+New Works Farm 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.31 
+Tulloch Estate 
+(18.11N, 76.98W) 
+28/2300 
+991.9 
+28/2300 
+25 
+(? m) 
+51 
+ 
+ 
+ 
+11.05 
+Twickenham Park 
+(18.00N, 76.94W) 
+28/2200 
+995.7 
+28/1800 
+19 
+(10 m) 
+42 
+ 
+ 
+ 
+7.65 
+Windsor Farm 
+28/2100 
+992.7 
+28/2100 
+22 
+(2 m) 
+42 
+ 
+ 
+ 
+9.07 
+Worthy Park 
+(18.14N, 77.15W) 
+28/2200 
+989.0 
+28/2200 
+24 
+(10 m) 
+55 
+ 
+ 
+ 
+15.33 
+St. Elizabeth Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appleton Estate 
+(18.17N, 77.72W) 
+28/2000 
+964.6 
+28/1800 
+40 
+(10 m) 
+96 
+ 
+ 
+ 
+ 
+Beacon Irrigation 
+28/1600 
+978.3 
+28/1600 
+48 
+(2 m) 
+77 
+ 
+ 
+ 
+6.99* 
+=== page 27 ===
+Hurricane Melissa     27 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Comma Pen 
+(17.92N, 77.59W) 
+28/1700 
+984.9 
+28/1600 
+21 
+(2 m) 
+50 
+ 
+ 
+ 
+ 
+Crawford (iCyclone) 
+(18.04N, 77.91W) 
+28/1720 
+926.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lewisville High 
+28/1800 
+925.5 
+28/1600 
+30 
+(10 m) 
+97 
+ 
+ 
+ 
+10.45 
+Mayfield All Age 
+(17.88N, 77.67W) 
+28/1500 
+980.2 
+28/1500 
+42 
+(2 m) 
+70 
+ 
+ 
+ 
+16.69 
+Mountainside Primary 
+School  
+(17.98N, 77.75W) 
+28/1700 
+974.8 
+28/1700 
+56 
+(10 m) 
+90 
+ 
+ 
+ 
+20.01 
+Newcombe Valley Primary 
+(17.92N, 77.76W) 
+28/1500 
+972.5 
+28/1500 
+54 
+(10 m) 
+93 
+ 
+ 
+ 
+ 
+Santa Cruz 
+(18.04N, 77.70W) 
+28/1800 
+980 
+28/1700 
+30 
+(2 m) 
+60 
+ 
+ 
+ 
+ 
+St. James Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kempshot 
+(18.40N, 77.87W) 
+28/2000 
+950.7 
+28/2000 
+23 
+(2 m) 
+70 
+ 
+ 
+ 
+15.67 
+Sangster International 
+Airport 
+(18.50N, 77.92W) 
+28/1520 
+992.9 
+28/1250 
+45 
+(10 m) 
+64 
+ 
+ 
+ 
+ 
+Trelawny Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Braco 
+(18.47N, 77.49W) 
+28/2200 
+958.7 
+28/2300 
+16 
+(2 m) 
+48 
+ 
+ 
+ 
+ 
+Hampden 
+(18.44N, 77.75W) 
+28/2000 
+958 
+28/2000 
+57 
+(10 m) 
+105 
+ 
+ 
+ 
+ 
+Lowe River 
+(18.31N, 77.52W) 
+28/2100 
+976 
+28/2100 
+28 
+(2 m) 
+72 
+ 
+ 
+ 
+16.18 
+Orange Valley 
+(18.47N, 77.73W) 
+28/2100 
+960.2 
+28/2000 
+44 
+(10 m) 
+88 
+ 
+ 
+ 
+9.29 
+Sawyers 
+(18.38N, 77.49W) 
+28/2100 
+966.7 
+28/2300 
+16 
+(2 m) 
+45 
+ 
+ 
+ 
+9.80 
+Westmoreland 
+Parish 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frome 
+(18.29N, 78.15W) 
+28/1800 
+975.0 
+28/1800 
+43 
+(? m) 
+88 
+ 
+ 
+ 
+ 
+New Hope Primary 
+(18.09N, 77.97W) 
+28/1700 
+913.5 
+28/1600 
+47 
+(10 m) 
+114 
+ 
+ 
+ 
+ 
+Negril Point L/H 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.11 
+Retreat 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.03 
+Sav RADA 
+28/1800 
+971 
+28/1800 
+56 
+(2 m) 
+93 
+ 
+ 
+ 
+12.17 
+CUBA 
+International Civil Aviation Organization (ICAO) Sites 
+=== page 28 ===
+Hurricane Melissa     28 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Aeropuerto Internacional 
+Antonio Maceo y Grajales, 
+Santiago de Cuba (MUCU) 
+(19.99N, 75.84W) 
+*No data after 28/2350 
+ 
+ 
+28/2250 
+23 
+39 
+ 
+ 
+ 
+ 
+Leeward Point Field, 
+Guantanamo Bay (MUGM) 
+(19.99N, 75.84W) 
+*Data gap 29/0751-2151 
+29/0751 
+996.5 
+29/0751 
+51 
+65 
+ 
+ 
+ 
+6.50 
+Surface Observations Reported by Instituto de Meteorología de Cuba (INSMET) 
+Santiago de Cuba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contramaestre (78363) 
+29/0900 
+967.7 
+29/0230 
+59 
+(10-min) 
+101 
+ 
+ 
+ 
+14.71 
+Universidad de Santiago de 
+Cuba (78364) 
+29/0900 
+992.4 
+ 
+ 
+ 
+ 
+ 
+ 
+11.42 
+Gran Piedra (78366) 
+ 
+ 
+29/0150 
+70 
+(10-min) 
+118 
+ 
+ 
+ 
+13.20 
+Vega Murcia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+26.38 
+El Sitio 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.21 
+Aguada 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23.03 
+Belleza 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22.71 
+Mata Indio 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22.67 
+Duaba 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.90 
+Los Negros 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.50 
+San Fermin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.59 
+Las Porzas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.35 
+Pr Gilbert 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.08 
+La Estrella 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.72 
+Loudes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.70 
+Las Coloradas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.53 
+Correo Baire 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.72 
+Trucucu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.24 
+El Frances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.16 
+Seboruco 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.95 
+Holguín 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La Jíquima (78362) 
+29/0850 
+982.3 
+29/0930 
+43 
+(10-min) 
+59 
+ 
+ 
+ 
+9.09 
+Cabo Lucrecia (78365) 
+29/1430 
+980.0 
+ 
+ 
+ 
+ 
+ 
+ 
+5.59 
+=== page 29 ===
+Hurricane Melissa     29 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Guaro (78370) 
+29/1200 
+983.4 
+29/1145 
+62 
+(10-min) 
+68 
+ 
+ 
+ 
+10.84 
+Holguín (78372) 
+29/1250 
+971.6 
+ 
+ 
+ 
+ 
+ 
+ 
+12.48 
+Velasco (78378) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.84 
+Granma 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cabo Cruz (78360) 
+29/0200 
+997.9 
+29/0242 
+38 
+(10-min) 
+58 
+ 
+ 
+ 
+2.70 
+Manzanillo (78359) 
+29/0600 
+996 
+29/0500 
+41 
+(10-min) 
+50 
+ 
+ 
+ 
+3.61 
+Jucarito (78361) 
+29/0900 
+999.0 
+29/0200 
+47 
+(10-min) 
+68 
+ 
+ 
+ 
+4.04 
+Veguitas (78377) 
+29/0900 
+990.3 
+29/0500 
+32 
+(10-min) 
+51 
+ 
+ 
+ 
+7.43 
+Estacion de aforo El Platano 
+(Guisa) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.08 
+Santa Rita 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.94 
+Chargo Redondo (Jiguani) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.31 
+Guantánamo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Punta de Maisí (78369) 
+29/0830 
+999.8 
+29/1457 
+53 
+(10-min) 
+62 
+ 
+ 
+ 
+2.40 
+Jamal (78356) 
+29/1100 
+995.7 
+ 
+ 
+ 
+ 
+ 
+ 
+4.98 
+El Valle de Caujerí (78319) 
+29/0500 
+977.8 
+ 
+ 
+ 
+ 
+ 
+ 
+6.71 
+Palenque de Yateras 
+(78334) 
+29/0900 
+992.4 
+ 
+ 
+ 
+ 
+ 
+ 
+6.22 
+Guantánamo (78368) 
+29/0200 
+992.4 
+29/0230 
+41 
+(10-min) 
+52 
+ 
+ 
+ 
+7.20 
+Las Tunas 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Las Tunas (78357) 
+29/0900 
+996.1 
+29/0945 
+38 
+(10-min) 
+46 
+ 
+ 
+ 
+6.14 
+Puerto Padre (78358) 
+29/0950 
+996.0 
+29/0410 
+49 
+(10-min) 
+58 
+ 
+ 
+ 
+5.67 
+BERMUDA 
+International Civil Aviation Organization (ICAO) Sites 
+L. F. Wade International 
+Airport (TXKF) 
+(32.36N, 64.68W) 
+31/0355 
+996.9 
+31/0355 
+43 
+60 
+ 
+ 
+ 
+ 
+Surface Stations 
+National Museum of 
+Bermuda (NMB) 
+(32.33N, 64.83W) 
+31/0332 
+991.9 
+31/0345 
+68 
+(46 m) 
+86 
+ 
+ 
+ 
+ 
+AviMet 30 
+End of TXKF Runway 30 
+(32.36N, 64.67W) 
+31/0340 
+995.8 
+31/0422 
+54 
+70 
+ 
+ 
+ 
+0.05 
+=== page 30 ===
+Hurricane Melissa     30 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+AviMet 12 
+End of TXKF Runway 12 
+(32.37N, 64.69W) 
+31/0417 
+995.4 
+31/0343 
+47 
+62 
+ 
+ 
+ 
+ 
+ESSO Pier 
+(32.37N, 64.70W) 
+31/0336 
+996.3 
+31/0730 
+37 
+(4.6 m) 
+55 
+ 
+ 
+ 
+ 
+MAROPS 
+(32.38N, 64.68W) 
+31/0340 
+997 
+31/0340 
+66 
+(88 m) 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+HAITI 
+International Civil Aviation Organization (ICAO) Sites 
+Toussaint Louverture 
+International Airport, Port-au-
+Prince (MTPP) 
+(18.58N, 72.29W) 
+28/2200 
+1005.8 
+25/2200 
+25 
+36 
+ 
+ 
+ 
+ 
+Surface Observations Reported by Unité HydroMétéorologique d'Haïti (U.H.M) 
+Sud 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Camp Perrin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36.77 
+Saint Louis de Sud 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35.16 
+Vieux Bourg D’Aquin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32.90 
+Chantal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31.51 
+Saint Jean du Sud 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31.33 
+Port Salut 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30.41 
+Le Pretre 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.79 
+Arniquet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.57 
+Torbeck 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.54 
+Fond des Blancs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.52 
+Marceline 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.26 
+Maniche 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27.54 
+Zanglais d’Aquin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+24.19 
+Clonard 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23.73 
+La Biche 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23.02 
+Grand Anse 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annette 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+33.72 
+Sud Est 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bainet 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+28.88 
+Nippes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 31 ===
+Hurricane Melissa     31 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Fond Tortue 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27.67 
+Fond des Negres 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27.05 
+DOMINICAN REPUBLIC 
+Surface Observations Reported by Instituto de Dominicano de Meteorología (INDOMET) 
+Barahona 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Polo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+29.02 
+ARPT. Maria Montez 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.11 
+Enriquillo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.52 
+Cabral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.37 
+Distrito Nacional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Centro de Los Heroes (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.98 
+Los Prados (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.33 
+Los Cacicazgos (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.28 
+Prolongacion 27 de Febrero 
+(EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.50 
+Ensanche Paraiso 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.20 
+Cerros de Arroyo Hondo 
+(EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.30 
+Jardin Bontanico Nacional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.20 
+Bella Vista (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.34 
+Santo Domingo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Santo Doming Este 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.84 
+ARPT. La Isabela 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.20 
+San Cristobal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Antonio (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.19 
+Parque Industrial Itabo 
+(EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.39 
+San Cristobal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.89 
+Pedernales 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oviedo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.15 
+Peravia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Escondido 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.61 
+Bani (EMA) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11.34 
+THE BAHAMAS 
+=== page 32 ===
+Hurricane Melissa     32 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Public/Other 
+Sea Horse Shores #83, Pitts 
+Town (IPITTSTO2) 
+(22.83N, 74.34W) 
+29/2224 
+980.7 
+29/2029 
+66 
+77 
+ 
+ 
+ 
+ 
+Indian Hole Point, Long 
+Island (ILONGI16) 
+(23.36N, 75.15W) 
+29/2319 
+968.8 
+30/0009 
+45 
+61 
+ 
+ 
+ 
+ 
+Buckley's 242, Buckley’s 
+Settlement (IBUCKL60) 
+(23.16N, 75.09W) 
+29/2243 
+966.5 
+29/2054 
+35 
+44 
+ 
+ 
+ 
+ 
+George Town, San Salvador 
+Island 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.17 
+Cockburn Town 9.7NE 
+(BHS-SS-7) 
+(24.11N, 74.45W) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.78 
+MARINE OBSERVATIONS 
+Buoys 
+44011 Georges Bank 
+(NOAA/NDBC) 
+(41.09N, 66.55N) 
+31/0940 
+990.9 
+01/0030 
+37 
+48 
+ 
+ 
+ 
+ 
+44137 East Scotia Slope 
+(Environment Canada) 
+(42.26N, 62.03N) 
+01/0400 
+993.1 
+01/0300 
+37 
+ 
+ 
+ 
+ 
+ 
+44139 Banqureau Banks 
+(Environment Canada) 
+(44.24N, 57.10N) 
+01/0300 
+986.6 
+01/0300 
+35 
+ 
+ 
+ 
+ 
+ 
+44150 La Have Bank 
+(Environment Canada) 
+(42.50N, 64.02N) 
+01/0600 
+991.5 
+01/0300 
+39 
+ 
+ 
+ 
+ 
+ 
+ 
+a  Date/time is for sustained wind when both sustained and gust are listed. 
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based reports are 2 min; buoy averaging 
+periods are 8 min. For Jamaica AWS Stations, the sustained wind is an average over one hour. Anemometer 
+height is 10 m unless otherwise noted.  
+c  Storm surge is water height above normal astronomical tide level. 
+d  For most locations, storm tide is water height above the North American Vertical Datum of 1988 (NAVD88).  Storm 
+tide is water height above Mean Lower Low Water (MLLW) for NOS stations in Puerto Rico, the U.S. Virgin Islands, 
+and Barbados. 
+e  Estimated inundation is the maximum height of water above ground.   
+ 
+ 
+=== page 33 ===
+Hurricane Melissa     33 
+ 
+Table 4. 
+Number of hours in advance of formation of Melissa associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. Parentheses indicate the time before genesis that category was 
+introduced a second time. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+102 (60) 
+108 
+Medium (40%-60%) 
+18 
+54 
+High (>60%) 
+12 
+36 
+ 
+ 
+ 
+=== page 34 ===
+Hurricane Melissa     34 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Melissa, 21–31 October 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.9 
+28.7 
+36.2 
+40.3 
+50.9 
+62.5 
+66.2 
+87.7 
+OCD5 
+44.9 
+99.0 
+162.4 
+233.8 
+305.3 
+373.9 
+429.7 
+434.5 
+Forecasts 
+38 
+36 
+34 
+32 
+30 
+28 
+24 
+20 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 35 ===
+Hurricane Melissa     35 
+ 
+Table 5b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Melissa, 21–31 October 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.9 
+28.7 
+36.2 
+40.3 
+50.9 
+62.5 
+66.2 
+87.7 
+OCD5 
+44.9 
+99.0 
+162.4 
+233.8 
+305.3 
+373.9 
+429.7 
+434.5 
+GFSI 
+27.9 
+47.0 
+68.2 
+97.5 
+139.2 
+185.9 
+309.2 
+472.4 
+HWFI 
+24.3 
+38.2 
+57.3 
+80.0 
+114.3 
+155.9 
+263.4 
+435.8 
+HMNI 
+24.5 
+38.5 
+54.4 
+70.0 
+98.9 
+133.4 
+206.4 
+296.8 
+HFAI 
+25.8 
+38.9 
+50.5 
+59.1 
+74.7 
+94.5 
+111.4 
+145.9 
+HFBI 
+28.4 
+40.8 
+52.4 
+61.7 
+79.3 
+94.9 
+118.3 
+156.0 
+EMXI 
+21.5 
+36.7 
+53.5 
+66.1 
+82.1 
+91.6 
+88.1 
+140.2 
+CMCI 
+28.9 
+46.9 
+64.0 
+78.8 
+102.5 
+129.9 
+163.1 
+184.3 
+CTCI 
+27.6 
+43.9 
+61.3 
+75.1 
+96.0 
+119.7 
+160.4 
+218.7 
+TVCA 
+22.0 
+32.0 
+44.6 
+55.5 
+76.0 
+97.2 
+128.3 
+179.3 
+TVCX 
+21.1 
+31.9 
+45.2 
+56.2 
+75.7 
+95.1 
+123.1 
+168.5 
+GFEX 
+21.6 
+32.6 
+47.5 
+60.9 
+83.7 
+109.1 
+156.2 
+229.6 
+TVDG 
+21.4 
+33.1 
+47.1 
+58.1 
+78.7 
+101.2 
+138.7 
+200.1 
+HCCA 
+19.5 
+29.6 
+38.1 
+43.4 
+59.1 
+78.3 
+95.2 
+124.9 
+FSSE 
+22.9 
+36.2 
+49.1 
+59.9 
+72.8 
+98.9 
+158.9 
+243.6 
+AEMI 
+21.7 
+33.3 
+45.7 
+57.2 
+79.2 
+105.4 
+146.9 
+167.9 
+TABS 
+50.1 
+91.7 
+127.1 
+147.9 
+166.2 
+207.2 
+329.2 
+456.7 
+TABM 
+29.0 
+47.8 
+73.5 
+101.9 
+141.0 
+184.9 
+320.8 
+524.5 
+TABD 
+28.4 
+60.4 
+103.1 
+147.2 
+198.6 
+259.6 
+411.2 
+610.5 
+GDMI 
+16.8 
+21.6 
+29.7 
+32.6 
+37.4 
+43.4 
+63.4 
+113.2 
+Forecasts 
+38 
+36 
+34 
+32 
+30 
+28 
+24 
+20 
+ 
+=== page 36 ===
+Hurricane Melissa     36 
+ 
+Table 6a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Melissa, 21–31 October 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.7 
+9.3 
+9.9 
+11.1 
+11.3 
+12.5 
+17.5 
+26.5 
+OCD5 
+10.8 
+17.9 
+27.2 
+31.6 
+39.2 
+45.8 
+56.5 
+70.5 
+Forecasts 
+38 
+36 
+34 
+32 
+30 
+28 
+24 
+20 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 37 ===
+Hurricane Melissa     37 
+ 
+Table 6b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Melissa, 21–31 October 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 6a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.7 
+9.3 
+9.9 
+11.1 
+11.3 
+12.5 
+17.5 
+26.5 
+OCD5 
+10.8 
+17.9 
+27.2 
+31.6 
+39.2 
+45.8 
+56.5 
+70.5 
+HWFI 
+8.7 
+13.2 
+21.0 
+25.2 
+24.5 
+22.6 
+23.5 
+35.0 
+HMNI 
+8.4 
+14.0 
+20.2 
+27.3 
+32.2 
+31.9 
+28.9 
+22.5 
+HFAI 
+7.9 
+10.2 
+12.5 
+14.0 
+18.0 
+21.2 
+22.4 
+22.5 
+HFBI 
+9.0 
+11.2 
+13.6 
+16.0 
+19.7 
+23.3 
+24.0 
+21.1 
+DSHP 
+10.0 
+14.2 
+17.3 
+22.7 
+26.6 
+30.1 
+33.0 
+34.8 
+LGEM 
+10.2 
+15.2 
+19.1 
+22.8 
+25.1 
+29.6 
+33.9 
+38.0 
+ICON 
+8.4 
+12.3 
+17.4 
+22.3 
+25.0 
+26.4 
+26.5 
+29.2 
+IVCN 
+8.3 
+11.6 
+16.0 
+19.8 
+23.0 
+24.2 
+25.0 
+26.3 
+IVDR 
+8.1 
+11.6 
+16.3 
+20.2 
+23.0 
+24.3 
+25.4 
+27.5 
+CTCI 
+8.6 
+13.8 
+21.2 
+28.5 
+33.9 
+37.2 
+46.7 
+46.9 
+GFSI 
+10.2 
+16.5 
+24.7 
+31.4 
+34.8 
+38.9 
+46.2 
+52.5 
+EMXI 
+10.9 
+18.2 
+24.8 
+31.1 
+34.7 
+34.7 
+35.5 
+41.2 
+HCCA 
+9.0 
+11.1 
+15.3 
+18.3 
+22.1 
+24.3 
+24.1 
+26.6 
+FSSE 
+8.2 
+10.0 
+13.6 
+17.9 
+20.6 
+22.9 
+23.2 
+26.6 
+GDMI 
+7.5 
+9.9 
+13.4 
+14.8 
+14.6 
+16.4 
+20.4 
+31.4 
+Forecasts 
+38 
+36 
+34 
+32 
+30 
+28 
+24 
+20 
+ 
+ 
+=== page 38 ===
+Hurricane Melissa     38 
+ 
+Table 7. 
+Watch and warning summary for Hurricane Melissa, 21–31 October 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+21/ 1500 
+Tropical Storm Watch issued 
+Jamaica 
+21/ 1500 
+Hurricane Watch issued 
+Dominican Republic/Haiti Border 
+westward to Port-Au-Prince, Haiti 
+23/ 1200 
+Tropical Storm Watch upgraded 
+To Tropical Storm Warning 
+Jamaica 
+23/ 1200 
+Hurricane Watch issued 
+Jamaica 
+23/ 1800 
+Tropical Storm Warning issued 
+Dominican Republic/Haiti Border 
+westward to Port-Au-Prince, Haiti 
+25/ 0300 
+Hurricane Watch upgraded to 
+Hurricane Warning 
+Jamaica 
+25/ 2100 
+Hurricane Watch Issued 
+Cuban Provinces Granma, Santiago de 
+Cuba, Guantanamo, and Holguin. 
+26/ 2100 
+Hurricane Watch upgraded to 
+Hurricane Warning 
+Cuban Provinces Granma, Santiago de 
+Cuba, Guantanamo, and Holguin. 
+26/ 2100 
+Tropical Storm Warning issued 
+Cuban province of Las Tunas 
+27/ 0300 
+Tropical Storm Warning issued 
+Port-Au-Prince, Haiti northward to 
+Dominican Republic/Haiti Border 
+27/ 0300 
+Hurricane Watch discontinued 
+Haiti 
+27/ 0900 
+Hurricane Watch issued 
+Central and Southeastern Bahamas 
+27/ 0900 
+Hurricane Watch issued 
+Turks & Caicos Islands 
+27/ 2100 
+Hurricane Watch upgraded to 
+Hurricane Warning 
+Central and Southeastern Bahamas 
+27/ 2100 
+Tropical Storm Warning issued 
+Turks & Caicos Islands 
+28/ 1500 
+Tropical Storm Warning issued 
+Cuban Province of Camaguey 
+28/ 1500 
+Tropical Storm Warning upgraded 
+to Hurricane Warning 
+Cuban Province of Las Tunas 
+28/ 1500 
+Hurricane Watch discontinued 
+Turks & Caicos Islands 
+28/ 2100 
+Hurricane Watch issued 
+Bermuda 
+29/ 0300 
+Hurricane Warning changed to 
+Tropical Storm Warning 
+Jamaica 
+29/ 1200 
+Tropical Storm Warning 
+discontinued 
+Jamaica 
+=== page 39 ===
+Hurricane Melissa     39 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+29/ 1500 
+Hurricane Watch upgraded 
+to Hurricane Warning 
+Bermuda 
+29/ 2100 
+Tropical Storm Warning 
+discontinued 
+All of Cuba 
+29/ 2100 
+Tropical Storm Warning 
+discontinued 
+All of Haiti 
+29/ 2100 
+Hurricane Warning discontinued 
+All of Cuba 
+30/ 0900 
+Tropical Storm Warning 
+discontinued 
+Turks & Caicos Islands 
+30/ 0900 
+Hurricane Warning discontinued 
+All of Bahamas 
+31/ 0900 
+Hurricane Warning discontinued 
+Bermuda 
+ 
+ 
+=== page 40 ===
+Hurricane Melissa     40 
+ 
+ 
+Figure 1a. 
+Best track positions for Hurricane Melissa, 21–31 October 2025. The track during the extratropical stage is partially based on 
+analyses from the NOAA Ocean Prediction Center. 
+=== page 41 ===
+Hurricane Melissa     41 
+ 
+ 
+Figure 1b. 
+Best track positions for Hurricane Melissa, 21–31 October 2025. Zoomed in view of the Caribbean. 
+=== page 42 ===
+Hurricane Melissa     42 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Melissa, 21–31 October 
+2025. Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment factors for observations 
+from 700 mb, 850 mb, and 925 mb, respectively. Dropwindsonde observations include actual 10 m winds (sfc), as well as 
+surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique 
+estimates represent the Current Intensity at the nominal observation time. SATCON intensity estimates are from the 
+Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC, and solid vertical lines 
+correspond to landfalls. 
+=== page 43 ===
+Hurricane Melissa     43 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Melissa, 21–31 October 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC, and solid vertical 
+lines correspond to landfalls. 
+=== page 44 ===
+Hurricane Melissa     44 
+ 
+ 
+ 
+Figure 4.  
+Radar images courtesy of Meteorological Services of Jamaica of Hurricane Melissa showing storm from25-28 October 
+tracking south of the island. In the bottom left, early on 27 October the double eyewall feature was noted but never resulted in 
+an eyewall replacement cycle.  
+=== page 45 ===
+Hurricane Melissa     45 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5.  
+GOES-19 infrared satellite images showing the rapid intensification of Hurricane Melissa from 25 October (left) - 28 October 
+(right). A 105-kt increase in winds and a 90-mb decrease in central pressure was noted in roughly a 3-day timeframe. Images 
+courtesy of NOAA/NESDIS/STAR. 
+ 
+=== page 46 ===
+Hurricane Melissa     46 
+ 
+ 
+ 
+Figure 6. 
+Goes-East Geostationary Lightning Mapper (GLM) flash count aggregated over 30-min periods for Hurricane Melissa, 25–30 
+October 2025. Image courtesy Dr. Patrick Duran, NASA Marshall Space Flight Center, Short-Term Prediction Research and 
+Transition Center. Note the peak in GLM flash counts centered around 1200 UTC 28 October when Melissa reached its peak 
+intensity.  A second peak in flash counts is noted about 0000 UTC 29 October when Melissa approached eastern Cuba. 
+ 
+ 
+=== page 47 ===
+Hurricane Melissa     47 
+ 
+ 
+Figure 7a.  
+Air Force Reserve and NOAA Hurricane Hunter aircraft flight tracks (red) from all reconnaissance missions into Melissa. The 
+black markers denote center fixes, and the blue triangles indicate dropsonde locations. The color coding of the flight tracks is 
+based on the observed flight-level wind speed with the color legend to the right of the map representing the color associated 
+with the various wind speeds in knots.  
+=== page 48 ===
+Hurricane Melissa     48 
+ 
+ 
+Figure 7b.  
+Air Force Reserve and NOAA Hurricane Hunter aircraft flight tracks (red) from reconnaissance missions into Melissa zoomed 
+in to show more detail of flights in the Caribbean Sea. The black markers denote center fixes, and the blue triangles indicate 
+dropsonde locations. The color coding of the flight tracks is based on the observed flight-level wind speed with the color legend 
+to the right of the map representing the color associated with the various wind speeds in knots.  
+=== page 49 ===
+Hurricane Melissa     49 
+ 
+ 
+Figure 8.  
+Image of record-breaking dropsonde released by NOAA Hurricane Hunters at 1350 UTC 28 October. Image courtesy Dr. Levi 
+Cowan. 
+=== page 50 ===
+Hurricane Melissa     50 
+ 
+ 
+ 
+ 
+Figure 9a.  
+NOAA Aircraft Tail Doppler Radar (TDR) pass at an elevation of 0.5 km (left) and 3.0 km (right) from 28 October.  Note: The 
+maximum wind speed exceeds the scale. Image courtesy NOAA/AOML/HRD. 
+ 
+ 
+ 
+=== page 51 ===
+Hurricane Melissa     51 
+ 
+ 
+ 
+ 
+ 
+Figure 9b.  
+Profile of the winds from the NOAA P-3 Aircraft Tail Doppler Radar (TDR) on 28 October. Image courtesy Dr. Lisa Bucci 
+(NHC) and Dr. Paul Reasor (NOAA/HRD). 
+ 
+ 
+=== page 52 ===
+Hurricane Melissa     52 
+ 
+ 
+ 
+Figure 10.  
+Image of center dropsonde released by Air Force Reserve Hurricane Hunters at 1302 UTC 28 October. Image courtesy Dr. 
+Levi Cowan. 
+=== page 53 ===
+Hurricane Melissa     53 
+ 
+ 
+ 
+ 
+Figure 11. 
+Before and after images of New Hope Primary School Sensor, which recorded a pressure of 913.5 mb at 1700 UTC 28 October. 
+Image courtesy of Meteorological Services of Jamaica. 
+ 
+ 
+ 
+ 
+=== page 54 ===
+Hurricane Melissa     54 
+ 
+ 
+Figure 12. 
+Pressure measurements from Crawford, Jamaica. Data and Image courtesy of Josh Morgerman – iCyclone. 
+ 
+=== page 55 ===
+Hurricane Melissa     55 
+ 
+ 
+Figure 13. 
+Image of the Jamaica Radar located in Kingston, Jamaica (left). The last radar image (right) of Hurricane Melissa prior to landfall 
+at 1653 UTC 28 October. Images courtesy of Meteorological Services of Jamaica. 
+ 
+ 
+=== page 56 ===
+Hurricane Melissa     56 
+ 
+ 
+Figure 14. 
+Approximate wind radii swath and best track (dotted-line) for Hurricane Melissa, 21–31 October 2025 in the Caribbean and 
+southwestern Atlantic.  
+=== page 57 ===
+Hurricane Melissa     57 
+ 
+ 
+Figure 15.  
+Aerial [overflight] imagery collected by NOAA’s National Geodetic Survey following the landfall of Hurricane Melissa and 
+corresponding ground-based damage photographs from the perspective of Galleon Beach and Black River. (a) NOAA imagery 
+of Galleon Beach while (b) shows a ground-based image [credit: Josh Morgerman, iCyclone] from that same location looking 
+east over Crawford Cove.  (c) NOAA imagery of Black River while (d) shows an aerial drone image of the same location [credit: 
+Christopher Burgess, CEAC Solutions Company]. The yellow ‘X’ in the overflight imagery is used as a reference point for the 
+adjacent ground-based photographs. The imagery highlights the storm surge damage resulting from Hurricane Melissa’s 
+landfall. 
+=== page 58 ===
+Hurricane Melissa     58 
+ 
+ 
+ 
+ 
+ 
+Figure 16.  
+Photos taken from Guama, Cuba about 11 n mi east of Melissa’s official landfall location. Imagery shows major structural 
+damage and debris along the immediate coast from the combination of storm surge and waves. Credit: Instituto de Meteorología 
+de Cuba (INSMET). 
+ 
+ 
+ 
+=== page 59 ===
+Hurricane Melissa     59 
+ 
+ 
+ 
+Figure 17.  
+Dominican Republic rainfall totals from Hurricane Melissa from 21–30 October 2025. Image provided by Instituto Domincano 
+de Meterologia Division de Hidrometeorologia (INDOMET). 
+=== page 60 ===
+Hurricane Melissa     60 
+ 
+ 
+Figure 18.  
+Radar estimated rainfall accumulations for Puerto Rico and USVI from 20–25 October. Data courtesy of NSSL. 
+=== page 61 ===
+Hurricane Melissa     61 
+ 
+ 
+ 
+Figure 19.  
+The NOAA Global Tropics Hazards Outlook for regions where tropical cyclogenesis was favored for the area where Melissa 
+formed on 21 October is shown in the Week-3 (top) issued on 30 September and Week-2 (bottom) issued on 7 October. Favored 
+areas for tropical cyclone development are shown in red. Images provided by the NOAA Climate Prediction Center. 
+ 
+=== page 62 ===
+Hurricane Melissa     62 
+ 
+ 
+ 
+Figure 20. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Hurricane Melissa for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and 
+(d) high (>60%) category. The location of genesis is indicated by the black star. 
+=== page 63 ===
+Hurricane Melissa     63 
+ 
+ 
+Figure 21a. 
+Full track comparison for selected models OFCL(top left), GFSI (top right), EMXI (bottom left) GDMI (bottom right) vs best track 
+for Hurricane Melissa, 21–31 October 2025. The best track is given by the thick black solid line with positions given at 6 h 
+interval.  
+=== page 64 ===
+Hurricane Melissa     64 
+ 
+ 
+ Figure 21b. 
+Track comparison zoomed into the Caribbean for selected models OFCL (top left), GFSI (top right), EMXI (bottom left) GDMI 
+(bottom right) vs. best track for Hurricane Melissa, 21–31 October 2025. The best track is given by the thick black solid line with 
+positions given at 6 h interval. 
+=== page 65 ===
+Hurricane Melissa     65 
+ 
+ 
+Figure 22. 
+Track guidance at 1200 UTC 21 October  for the first NHC official forecast (navy blue bold line) for Melissa. The best track 
+through 1200 UTC 26 October in shown by the black bold line. 
+=== page 66 ===
+Hurricane Melissa     66 
+ 
+ 
+ 
+ 
+Figure 23. 
+Track (left) and Intensity (right) guidance at 1200 UTC 24 October, about 4 days prior to landfall in Jamaica. The NHC 
+forecast is the navy-blue bold line and the best track (left) and Melissa’s intensity (right) through 1200 UTC 29 October is 
+shown by the black bold line. 
+ 
+=== page 67 ===
+Hurricane Melissa     67 
+ 
+ 
+Figure 24. 
+ Official forecast and selected model forecast track skill relative to OCD5 for Hurricane Melissa, 21–31 October 2025. 
+=== page 68 ===
+Hurricane Melissa     68 
+ 
+ 
+ 
+Figure 25.  
+Official NHC forecast track for rapid intensification periods, 24h (top left), 48h (top right), 72h (bottom) of Category 5 Hurricanes 
+(1970-2025). Hurricane Melissa forecasts are plotted in green. 
+=== page 69 ===
+Hurricane Melissa     69 
+ 
+ 
+ 
+ 
+Figure 26.  
+Official NHC forecast track skill (left) and intensity skill (right) vs 5-yr Atlantic basin average (2020-24) for Hurricane Melissa, 
+21–31 October 2025. 
+ 
+ 
+=== page 70 ===
+Hurricane Melissa     70 
+ 
+ 
+Figure 27. Official forecast and selected model forecast intensity skill relative to OCD5 for Hurricane Melissa, 21–31 October 2025. 
+ 
+=== page 71 ===
+Hurricane Melissa     71 
+ 
+ 
+ 
+ 
+Figure 28a. Official NHC intensity forecasts (OFCL) vs best track intensity for Hurricane Melissa, 21–31 October 2025. 
+=== page 72 ===
+Hurricane Melissa     72 
+ 
+ 
+Figure 28b. 
+Model intensity forecast GDMI (top left), HCCA (top right), HFAI (bottom left), HFBI (bottom right) vs. best track for Hurricane 
+Melissa, 21–31 October 2025. 
+ 
+=== page 73 ===
+Hurricane Melissa     73 
+ 
+ 
+Figure 29.  
+Official NHC forecast intensity for rapid intensification periods, 24h (top left), 48h (top right), 72h (bottom) of Category 5 
+Hurricanes (1990-2025). Hurricane Melissa forecasts are plotted in green. 
+=== page 74 ===
+Hurricane Melissa     74 
+ 
+ 
+Figure 30. 
+Roebber performance diagram of NHC official forecast (OFCL) and intensity models of rapid intensification for Melissa (30 kt/35 
+mph within a 24-hour period). Probability of detection is given by the ratio of hits to the total number of times the events occurred. 
+False Alarm Ratio (FAR) is given by the ratio of false alarms to the total number of forecast events. Image created by Jon 
+Martinez NOAA/CIRA. 
+=== page 75 ===
+Hurricane Melissa     75 
+ 
+ 
+Figure 31. 
+Comparison of NHC intensity forecasts (grey line) for the four most recent Category 5 hurricane landfalls. The final best track 
+for each tropical cyclone is provided by the thick black line. Image created by Dr. Philippe Papin (NHC). 
+=== page 76 ===
+Hurricane Melissa     76 
+ 
+ 
+ 
+Figure 32.  
+WPC International rainfall forecast issued 2100 UTC 25 October 2025. Note the forecast for extreme rainfall totals across 
+portions of southern Hispaniola and maximum totals in eastern Jamaica. 
+=== page 77 ===
+Hurricane Melissa     77 
+ 
+ 
+Figure 33.  
+WPC International rainfall forecast issued 2100 UTC 27 October 2025. The heavy rainfall forecast was shifted west due to the 
+track of Hurricane Melissa staying farther south and west than originally forecast, causing less extreme rainfall totals along 
+eastern portions of Jamaica. 
+=== page 78 ===
+Hurricane Melissa     78 
+ 
+ 
+ 
+Figure 34. 
+Map of Jamaica showing Parishes. Image courtesy of The Statistical Institute of Jamaica. 
+=== page 79 ===
+Hurricane Melissa     79 
+ 
+ 
+Figure 35. 
+NOAA overflight imagery of damage in portions of Jamaica. Images courtesy of NOAA’s National Geodetic Survey. 
+=== page 80 ===
+Hurricane Melissa     80 
+ 
+ 
+ 
+Figure 36.  
+Post-Hurricane Melissa images showing catastrophic damage in Crawford, Jamaica. Images courtesy of Josh Morgerman – 
+iCyclone. 
+=== page 81 ===
+Hurricane Melissa     81 
+ 
+ 
+ 
+Figure 37.  
+Post-Hurricane Melissa images showing catastrophic damage in Crawford-Galleon Beach, Jamaica. Images courtesy of Josh 
+Morgerman – iCyclone. 
+ 
+=== page 82 ===
+Hurricane Melissa     82 
+ 
+ 
+ 
+ 
+Figure 38.  
+Before (left) and after (right) images of Hurricane Melissa damage in Crawford, Jamaica. Images courtesy of Josh Morgerman 
+– iCyclone. 
+ 
+ 
+=== page 83 ===
+Hurricane Melissa     83 
+ 
+ 
+Figure 39.  
+Post-Hurricane Melissa images showing catastrophic damage in Black River, Jamaica. Images courtesy of Josh Morgerman – 
+iCyclone. 
+ 
+=== page 84 ===
+Hurricane Melissa     84 
+ 
+ 
+ 
+Figure 40.  
+Post-Hurricane Melissa drone imagery showing catastrophic damage in Black River, Jamaica. Images courtesy of Christopher 
+Burgess, CEAC Solutions Company. 
+ 
+=== page 85 ===
+Hurricane Melissa     85 
+ 
+ 
+ 
+Figure 41.  
+Catastrophic damage in White House, Jamaica after Hurricane Melissa. Images courtesy of Josh Morgerman – iCyclone. 
+ 
+=== page 86 ===
+Hurricane Melissa     86 
+ 
+ 
+ 
+Figure 42.  
+A drone view shows streets covered with mud on 29 October, after Hurricane Melissa passed the Catherine Hall community in 
+Montego Bay, Jamaica. Image courtesy Sandra Stojanovic/Reuters. 
+ 
+ 
+=== page 87 ===
+Hurricane Melissa     87 
+ 
+ 
+Figure 43.  
+View of part of Santiago de Cuba city after the passage of Hurricane Melissa on 29 October causing damage and flooding to 
+homes and streets in Santiago de Cuba province. Image courtesy of Luis Alejandro Pirez, AFP Via Getty Images. 

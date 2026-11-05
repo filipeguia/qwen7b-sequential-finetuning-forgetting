@@ -1,0 +1,865 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM SONIA 
+ 
+(EP182025) 
+ 
+24–28 October 2025 
+ 
+Brad J. Reinhart 
+National Hurricane Center 
+5 December 2025 
+ 
+ 
+GOES-WEST INFRARED SATELLITE IMAGE OF TROPICAL STORM SONIA AT 1200 UTC 25 OCTOBER 2025. 
+IMAGE COURTESY NOAA/NESDIS/STAR. 
+Sonia was a tropical storm that moved over central and western portions of the 
+eastern Pacific basin and did not impact land. 
+ 
+ 
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Sonia. 
+=== page 2 ===
+Tropical Storm Sonia     2 
+ 
+Tropical Storm Sonia 
+24–28 October 2025​
+ 
+​
+BEST TRACK 
+​
+​
+The “best track2” positions and intensities for Tropical Storm Sonia are listed in Table 1. 
+The “best track” chart of Sonia’s path is given in Fig. 1, with the wind and pressure histories 
+along with available observations3 shown in Figs. 2 and 3, respectively.​
+ 
+There were no ship reports of tropical-storm-force winds associated with Sonia. 
+Origin 
+Sonia originated from a tropical wave that moved across Central America on 16–17 
+October. The wave entered the eastern Pacific basin on 18 October and moved westward at 
+about 10 kt over the next several days while producing disorganized showers and 
+thunderstorms. A surface trough became evident in scatterometer data on 22–23 October, and 
+convection gradually organized along this feature while the low-level circulation became tighter 
+and better defined. It is estimated that a tropical depression formed by 0600 UTC 24 October, 
+about 615 n mi south-southwest of the southern tip of the Baja California peninsula. 
+Peak Intensity and Minimum Pressure 
+Sonia’s peak intensity of 45 kt from 1200 UTC 25 October to 1200 UTC 26 October is 
+supported by T3.0/45-kt Dvorak classifications from TAFB and a blend of UW-CIMSS SATCON, 
+AiDT, and D-MINT estimates that peaked between 44–48 kt during this period. A 0548 UTC 26 
+October ASCAT-C pass showed peak winds of 41 kt, which also supports a 45-kt intensity 
+estimate after accounting for undersampling due to the coarse resolution of the instrument. 
+The estimated minimum central pressure of 1001 mb is based on pressure estimates 
+from TAFB Dvorak classifications and the Knaff-Zehr-Courtney pressure-wind relationship.​
+ 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced 
+Dvorak Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative 
+Institute for Meteorological Satellite Studies/University of Wisconsin-Madison.  Data and imagery from 
+NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA 
+Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of 
+Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among 
+others, were also useful in constructing the best track of Sonia. 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+ 
+=== page 3 ===
+Tropical Storm Sonia     3 
+ 
+CASUALTY AND DAMAGE STATISTICS​
+ 
+​
+There were no reports of damage or casualties associated with Sonia. 
+​
+FORECAST AND WARNING VERIFICATION​
+ 
+Table 2 provides the number of hours in advance of formation for the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. The 7-day NHC genesis forecasts 
+provided sufficient lead times. The 2-day forecasts were not as skillful, as Sonia did not reach 
+the high category before genesis occurred. Figure 4 shows that all of the 7-day TWO genesis 
+areas captured the location where Sonia formed. 
+A verification of NHC official track forecasts for Sonia is given in Table 3a. Official track 
+forecast errors were lower than the mean official errors for the previous 5-yr period at all 
+forecast times. A homogeneous comparison of the official track errors with selected guidance 
+models is given in Table 3b. The NHC forecasts performed very well, beating the individual 
+models at most forecast times and remaining competitive with the consensus aids. 
+A verification of NHC official intensity forecasts for Sonia is given in Table 4a. Official 
+intensity forecast errors were lower than or comparable to the mean official errors for the 
+previous 5-yr period at all forecast times except 36 h. A homogeneous comparison of the official 
+intensity errors with selected guidance models is given in Table 4b. The ECMWF (EMXI) and 
+Google DeepMind (GDMI) were the top performing intensity models. 
+There were no coastal watches or warnings issued for Sonia. 
+ 
+ACKNOWLEDGEMENTS​
+ 
+Dr. Philippe Papin (NHC) created the GTWO verification graphic (Fig. 4). 
+ 
+ 
+=== page 4 ===
+Tropical Storm Sonia     4 
+ 
+Table 1.​
+Best track for Tropical Storm Sonia, 24–28 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+24 / 0600 
+13.1 
+113.4 
+1007 
+30 
+tropical depression 
+24 / 1200 
+13.2 
+114.5 
+1007 
+30 
+" 
+24 / 1800 
+13.2 
+115.6 
+1006 
+30 
+" 
+25 / 0000 
+13.2 
+116.4 
+1005 
+35 
+tropical storm 
+25 / 0600 
+13.3 
+117.2 
+1004 
+40 
+" 
+25 / 1200 
+13.4 
+117.9 
+1002 
+45 
+" 
+25 / 1800 
+13.4 
+118.7 
+1001 
+45 
+" 
+26 / 0000 
+13.4 
+119.0 
+1001 
+45 
+" 
+26 / 0600 
+13.4 
+119.2 
+1002 
+45 
+" 
+26 / 1200 
+13.5 
+119.4 
+1002 
+45 
+" 
+26 / 1800 
+13.7 
+119.5 
+1004 
+40 
+" 
+27 / 0000 
+13.9 
+119.7 
+1004 
+40 
+" 
+27 / 0600 
+14.0 
+120.3 
+1004 
+40 
+" 
+27 / 1200 
+13.9 
+120.8 
+1005 
+35 
+" 
+27 / 1800 
+14.0 
+121.3 
+1005 
+35 
+" 
+28 / 0000 
+14.3 
+121.8 
+1005 
+35 
+" 
+28 / 0600 
+14.7 
+122.4 
+1004 
+40 
+" 
+28 / 1200 
+15.0 
+123.1 
+1004 
+40 
+" 
+28 / 1800 
+15.2 
+123.9 
+1006 
+35 
+" 
+29 / 0000 
+15.3 
+124.8 
+1007 
+30 
+low 
+29 / 0600 
+15.3 
+125.6 
+1008 
+30 
+" 
+29 / 1200 
+15.4 
+126.6 
+1009 
+25 
+" 
+29 / 1800 
+15.5 
+127.8 
+1009 
+25 
+" 
+30 / 0000 
+  
+  
+  
+  
+dissipated 
+25 / 1800 
+13.4 
+118.7 
+1001 
+45 
+minimum pressure 
+and maximum winds 
+ 
+=== page 5 ===
+Tropical Storm Sonia     5 
+ 
+Table 2.​
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+132 
+132 
+Medium (40%-60%) 
+24 
+114 
+High (>60%) 
+– 
+72 
+ 
+ 
+ 
+Table 3a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Sonia, 24–28 October 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+20.1 
+27.2 
+27.8 
+33.7 
+36.1 
+33.5 
+13.3 
+ 
+OCD5 
+32.4 
+67.3 
+107.7 
+138.6 
+172.6 
+216.7 
+254.7 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+7 
+5 
+1 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+=== page 6 ===
+Tropical Storm Sonia     6 
+ 
+Table 3b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Sonia, 24–28 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 3a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+21.1 
+28.8 
+28.7 
+33.4 
+38.1 
+32.5 
+ 
+ 
+OCD5 
+32.5 
+67.6 
+103.6 
+129.3 
+159.0 
+198.5 
+ 
+ 
+GFSI 
+20.4 
+29.9 
+41.2 
+58.5 
+79.6 
+81.3 
+ 
+ 
+HWFI 
+22.2 
+34.7 
+42.1 
+70.1 
+119.0 
+146.5 
+ 
+ 
+HMNI 
+20.9 
+28.7 
+36.6 
+57.7 
+87.3 
+114.3 
+ 
+ 
+HFAI 
+19.5 
+22.3 
+35.9 
+56.7 
+80.3 
+90.2 
+ 
+ 
+HFBI 
+18.8 
+27.6 
+36.6 
+59.1 
+73.1 
+85.2 
+ 
+ 
+EMXI 
+23.4 
+45.2 
+63.2 
+66.9 
+70.0 
+69.5 
+ 
+ 
+CMCI 
+25.1 
+39.3 
+59.3 
+88.3 
+113.6 
+141.0 
+ 
+ 
+CTCI 
+21.6 
+33.9 
+39.6 
+50.7 
+69.9 
+59.3 
+ 
+ 
+GDMI 
+21.2 
+32.8 
+33.7 
+35.0 
+41.3 
+38.3 
+ 
+ 
+TVCE 
+17.8 
+22.3 
+26.6 
+38.0 
+60.8 
+69.0 
+ 
+ 
+TVCX 
+18.2 
+22.8 
+28.8 
+40.3 
+59.8 
+66.6 
+ 
+ 
+GFEX 
+17.9 
+29.3 
+36.1 
+40.4 
+47.2 
+46.6 
+ 
+ 
+TVDG 
+17.7 
+23.4 
+27.3 
+39.1 
+60.1 
+66.9 
+ 
+ 
+HCCA 
+17.9 
+27.2 
+28.4 
+34.7 
+40.9 
+48.5 
+ 
+ 
+FSSE 
+17.6 
+27.9 
+27.9 
+28.1 
+44.0 
+45.4 
+ 
+ 
+AEMI 
+21.9 
+30.4 
+32.1 
+45.3 
+62.0 
+56.5 
+ 
+ 
+TABS 
+25.0 
+35.3 
+36.8 
+40.8 
+45.8 
+66.9 
+ 
+ 
+TABM 
+27.3 
+43.7 
+60.3 
+52.7 
+48.4 
+25.8 
+ 
+ 
+TABD 
+38.7 
+77.4 
+120.6 
+147.5 
+173.7 
+190.4 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Sonia     7 
+ 
+Table 4a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Sonia, 24–28 October 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.7 
+7.7 
+11.4 
+11.7 
+10.0 
+8.0 
+5.0 
+ 
+OCD5 
+6.0 
+6.6 
+9.7 
+10.4 
+16.7 
+16.8 
+15.0 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+7 
+5 
+1 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Sonia     8 
+ 
+Table 4b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Sonia, 24–28 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 4a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.7 
+7.5 
+12.0 
+12.5 
+10.8 
+6.2 
+ 
+ 
+OCD5 
+5.9 
+6.3 
+10.1 
+11.6 
+18.3 
+18.0 
+ 
+ 
+HWFI 
+3.4 
+6.6 
+11.5 
+17.1 
+15.5 
+8.5 
+ 
+ 
+HMNI 
+4.6 
+7.4 
+10.7 
+13.4 
+12.3 
+4.5 
+ 
+ 
+HFAI 
+5.4 
+7.8 
+9.5 
+10.0 
+7.3 
+6.0 
+ 
+ 
+HFBI 
+3.0 
+3.9 
+7.6 
+11.0 
+15.0 
+10.8 
+ 
+ 
+DSHP 
+5.6 
+9.1 
+12.9 
+12.9 
+9.2 
+6.2 
+ 
+ 
+LGEM 
+5.8 
+8.5 
+11.0 
+11.4 
+7.7 
+5.5 
+ 
+ 
+ICON 
+4.6 
+7.3 
+11.6 
+13.2 
+10.5 
+5.2 
+ 
+ 
+IVCN 
+4.5 
+6.6 
+10.6 
+11.8 
+9.8 
+5.2 
+ 
+ 
+IVDR 
+4.5 
+6.5 
+10.2 
+11.6 
+10.3 
+5.2 
+ 
+ 
+CTCI 
+6.0 
+8.4 
+12.4 
+13.0 
+8.3 
+3.2 
+ 
+ 
+GFSI 
+5.6 
+7.8 
+8.6 
+8.1 
+8.7 
+6.8 
+ 
+ 
+EMXI 
+4.4 
+5.1 
+5.3 
+3.4 
+3.3 
+2.5 
+ 
+ 
+GDMI 
+4.2 
+3.9 
+5.0 
+4.6 
+4.8 
+4.2 
+ 
+ 
+HCCA 
+4.5 
+7.2 
+12.9 
+16.4 
+13.8 
+8.0 
+ 
+ 
+FSSE 
+4.9 
+7.5 
+11.5 
+12.4 
+10.7 
+4.5 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Sonia     9 
+ 
+ 
+Figure 1.​
+Best track positions for Tropical Storm Sonia, 24–28 October 2025. 
+ 
+ 
+=== page 10 ===
+Tropical Storm Sonia     10 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Sonia, 24–28 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+ 
+ 
+=== page 11 ===
+Tropical Storm Sonia     11 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Sonia, 24–28 October 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure 
+estimates derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+ 
+ 
+=== page 12 ===
+Tropical Storm Sonia     12 
+ 
+ 
+ 
+Figure 4.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Sonia for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 
+ 

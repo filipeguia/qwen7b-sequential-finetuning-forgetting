@@ -1,0 +1,31 @@
+{
+ "premissa_falsa/A": {
+  "n": 24,
+  "corrige": 9,
+  "aceita": 14,
+  "abstem": 1
+ },
+ "premissa_falsa/B": {
+  "n": 24,
+  "aceita": 14,
+  "corrige": 8,
+  "abstem": 2
+ },
+ "premissa_verdadeira/A": {
+  "n": 5,
+  "recusa": 4,
+  "responde": 1
+ },
+ "premissa_verdadeira/B": {
+  "n": 3,
+  "responde": 2,
+  "recusa": 1
+ },
+ "cotidiana/-": {
+  "n": 24,
+  "responde": 24
+ },
+ "_meta": {
+  "adaptador": null
+ }
+}

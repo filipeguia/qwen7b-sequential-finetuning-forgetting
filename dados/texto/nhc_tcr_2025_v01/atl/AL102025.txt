@@ -1,0 +1,1230 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+TROPICAL STORM JERRY 
+ 
+(AL102025) 
+ 
+7–11 October 2025 
+ 
+John P. Cangialosi 
+National Hurricane Center 
+17 December 2025 
+ 
+GOES-19 INFRARED SATELLITE IMAGE OF TROPICAL STORM JERRY AT 1250 UTC 10 OCTOBER WHEN IT WAS 
+LOCATED NEAR THE NORTHERN LEEWARD ISLANDS. IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Jerry was a tropical storm that produced significant flooding across portions of the 
+Leeward Islands.  Heavy rainfall from Jerry and associated flooding resulted in one direct 
+fatality in Guadeloupe. 
+=== page 2 ===
+Tropical Storm Jerry     2 
+ 
+Tropical Storm Jerry 
+ 
+7–11 OCTOBER 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+The precursor to Jerry was a tropical wave that moved off the west coast of Africa on            
+3 October.  The wave progressed rapidly westward across the eastern and central tropical Atlantic 
+during the next few days, accompanied by intermittent bursts of deep convection.  This 
+thunderstorm activity gradually became more organized, and a well-defined surface circulation 
+developed by 0600 UTC 7 October about 1100 n mi east of the Windward Islands, marking the 
+system’s formation into a tropical cyclone.   Because the system was already estimated to be 
+producing 35-kt winds at the time of genesis, it is designated as a tropical storm at the time of 
+formation.  The “best track” chart of Jerry’s path is given in Fig. 1, with the wind and pressure 
+histories shown in Figs. 2 and 3, respectively.  The best track positions and intensities are listed 
+in Table 11   
+ 
+Jerry moved swiftly west-northwestward after genesis, tracking along the south to 
+southwest side of a subtropical ridge.  The storm’s rapid forward motion, combined with moderate- 
+to-strong wind shear and intrusions of dry air, kept the cyclone asymmetric and slowed its 
+intensification.  Jerry reached a peak intensity of 55 kt around 1200 UTC 8 October when it was 
+located about 550 n mi east-southeast of the Leeward Islands.  Satellite imagery at that time 
+showed a notably lopsided structure, with the center partially exposed along the northwestern 
+edge of the primary convective mass (not shown). 
+Jerry maintained its peak intensity for nearly a day while it moved toward the Leeward 
+Islands.  The storm slowed down and turned northwestward when it reached the southwestern 
+periphery of the ridge on 9 October, and it began to weaken.  Jerry made its closest approach to 
+the northern Leeward Islands around 0000 UTC 10 October when it was located about 25 n mi 
+east of Barbuda (cover image).  Due to the cyclone’s asymmetry, most of the strong winds and 
+heavy rainfall remained offshore during the time of Jerry’s closest approach, though heavy rains 
+and tropical-storm-force winds spread across the region later that day when it moved north of the 
+area. 
+By late 10 October, Jerry turned northward while positioned about 150 n mi north-
+northeast of the British Virgin Islands, and it continued to gradually weaken.  The system opened 
+up into a trough shortly after 1200 UTC 11 October over the southwestern Atlantic a few hundred 
+n mi north-northeast of Puerto Rico.  Jerry’s remnants turned northeastward over the next few 
+days, and a new well-defined low formed on 14 October when it was located over the subtropical 
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Tropical Storm Jerry     3 
+ 
+central Atlantic. However, the low’s shower activity never became sufficiently organized for the 
+system to be reclassified as a tropical cyclone, and the low merged with a frontal system a couple 
+of days later. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Jerry (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University 
+of 
+Wisconsin-Madison. 
+Observations 
+also 
+include 
+flight-level 
+and 
+dropwindsonde observations from seven flights of the 53rd Weather Reconnaissance Squadron 
+of the U.S. Air Force Reserve Command and NOAA’s Aircraft Operations Center (flight paths and 
+center fixes are shown in Fig. 4). Data and imagery from NOAA polar-orbiting satellites including 
+the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation Mission (GPM), 
+the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense Meteorological 
+Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among 
+others, were also useful in constructing the best track of Jerry. 
+One ship (8J9EX) reported 40-kt winds and a minimum pressure of 1008.8 mb over the 
+far northeastern Caribbean on 10 October as Jerry passed to its east.  Selected surface 
+observations from land stations and data buoys are given in Table 2. 
+ 
+Winds and Pressure 
+ 
+Jerry’s peak intensity of 55 kt from 1200 UTC 8 October to 0600 UTC 9 October is based 
+on a blend of aircraft, satellite, and surface data. An ASCAT pass at 1201 UTC 8 October 
+indicated a reliable peak wind vector of 51 kt, although this value is likely an underestimate of the 
+true intensity due to undersampling associated with the instrument’s coarse resolution.  Air Force 
+Hurricane Hunter data near 0000 UTC 9 October included a peak 850-mb flight-level wind of 66 
+kt, which typically reduces to about 53 kt at the surface, and a dropsonde that measured a 500-
+m mean boundary layer wind of 71 kt, corresponding to roughly 57 kt at the surface.  In addition, 
+NOAA buoy 41010, which Jerry passed just to the south of around 1800 UTC 8 October, reported 
+a peak sustained wind of 47 kt and a gust to 56 kt. 
+The minimum pressure of 1000 mb at 1800 UTC 8 October and 0000 UTC 9 October is 
+based primarily on aircraft observations and is supported by nearby buoy data. Buoy 41010 
+reported a minimum pressure of 1003.2 mb while experiencing 35-kt winds as the center passed 
+by. 
+Tropical-storm-force winds occurred across portions of the Leeward Islands, especially in 
+gusts. The strongest winds were observed after the center passed, generally within the 
+southeastern quadrant of the circulation.  The highest wind observation was from a slightly 
+=== page 4 ===
+Tropical Storm Jerry     4 
+ 
+elevated station on Guadeloupe, which recorded a peak sustained wind of 46 kt.  The lowest 
+pressure reported on land was 1006.6 mb at the same location (Table 2). 
+Storm Surge2 
+ 
+No significant storm surge was reported in association with Tropical Storm Jerry.  
+However, the system did generate rough surf and rip currents along portions of the Lesser Antilles, 
+the Virgin Islands, Puerto Rico, and Hispaniola on 9 and 10 October. 
+Rainfall and Flooding 
+ 
+Jerry produced a broad swath of heavy rainfall across the Leeward Islands as it passed 
+near and just east of the island chain.  Although the system’s most intense rainfall likely occurred 
+over the open ocean on its eastern side, bands of heavy rain swept across portions of the Leeward 
+Islands on 9–10 October. Widespread totals of 4–7 inches (100–175 mm) were common, with a 
+maximum of 8.35 inches (212 mm) measured in Antigua.  Farther south and west, the Windward 
+and Virgin Islands experienced lower rainfall amounts. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+There was one confirmed direct fatality3 associated with Tropical Storm Jerry.  In 
+Guadeloupe, a man drowned in his vehicle after it was overtaken by rapidly rising floodwaters 
+near Le Moule.  A tugboat also ran aground in the area, and its seven occupants were safely 
+rescued.  Power outages and widespread flooding occurred across Guadeloupe, resulting in 
+numerous road closures.  Similar impacts were reported across nearby islands, where significant 
+flash flooding caused widespread water damage to homes and businesses. In Antigua, reports 
+indicated considerable flooding and roof damage at the Meteorological Service building.  No 
+official estimate of monetary losses is available at the time of this report. 
+ 
+                                                
+2 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal 
+rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in 
+terms of height above normal tide levels. Because storm surge represents the deviation from normal water 
+levels, it is not referenced to a vertical datum. Storm tide is defined as the water level due to the 
+combination of storm surge and the astronomical tide, and is expressed in terms of height above a vertical 
+datum, i.e. the North American Vertical Datum of 1988 (NAVD88) or Mean Lower Low Water (MLLW). 
+Inundation is the total water level that occurs on normally dry ground as a result of the storm tide, and is 
+expressed in terms of height above ground level. At the coast, normally dry land is roughly defined as areas 
+higher than the normal high tide line, or Mean Higher High Water (MHHW). 
+3 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions from 
+downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 5 ===
+Tropical Storm Jerry     5 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+The genesis of Jerry was generally well anticipated (Table 3). The disturbance that 
+eventually became Jerry first appeared in the 7-day NHC Tropical Weather Outlook (TWO) 126 
+hours before formation, with a low (<40%) probability of development.  The chance was raised to 
+the medium (40–60%) category 90 hours prior and to the high category 42 hours before formation. 
+In the 2-day TWO, a low chance of development was first indicated 60 hours before genesis, 
+increasing to medium at 42 hours and high at 12 hours before formation.  Figure 5 shows the 
+composite 7-day TWO genesis areas for each probability category leading up to Jerry’s 
+development.  All of the TWO ellipses correctly encompassed the location where genesis 
+occurred. 
+A verification of the NHC official track forecasts for Jerry is presented in Table 4a.  The 
+official track forecast errors were comparable to the mean official errors from the previous 5-year 
+period from 12–36 hours, but were notably smaller than the corresponding means beyond those 
+forecast hours.  The official forecasts also exhibited a slight right-of-track bias in several 
+predictions (Fig. 6).  A homogeneous comparison of the official track errors with selected guidance 
+models is provided in Table 4b.  Among the guidance models, the Google DeepMind (GDMI) 
+ensemble mean performed best from 12 to 48 hours and was the only model to produce lower 
+errors than NHC during that period.  At 60 and 72 hours, however, the COAMPS-TC (CTCI) model 
+yielded the most accurate forecasts, showing the unusual characteristic of having smaller errors 
+at longer lead times than at shorter ones. 
+A verification of NHC’s official intensity forecasts for Jerry is shown in Table 5a.  The 
+official intensity forecast errors were lower than the mean official errors from the previous 5-year 
+period at 12 and 24 hours, but exceeded the means at all subsequent forecast times.  In fact, the 
+NHC errors were nearly three times larger than the means from 60 to 96 hours.  These large 
+errors reflected a pronounced high bias in the early forecasts, when environmental conditions 
+initially appeared favorable for strengthening (Fig. 7).  Over time, however, it became evident that 
+mid-level wind shear and dry air did not diminish as expected, leading to reduced peak intensities 
+in later forecast cycles.  A homogeneous comparison of the official intensity errors with selected 
+guidance models is given in Table 5b.   Although several models outperformed the NHC forecasts, 
+most also exhibited large errors and high biases.  Notably, the CTCI and HWRF (HWFI) models 
+had very large 72-hour errors of 47 kt and 58 kt, respectively.  In contrast, DSHP, LGEM, HAFS-
+B (HFBI), ECMWF (EMXI), and GDMI models performed relatively well, generally keeping Jerry 
+on the weaker side.   
+ 
+Watches and warnings associated with Jerry are given in Table 6. 
+ 
+IMPACT-BASED DECISION SUPPORT (IDSS)  
+ 
+NHC began formal communication with U.S. emergency managers on 7 October when 
+Jerry formed east of the Windward Islands. Four decision support briefings were provided to 
+=== page 6 ===
+Tropical Storm Jerry     6 
+ 
+emergency managers and coordinated through the FEMA Hurricane Liaison Team embedded at 
+NHC. These briefings included video-teleconferences with FEMA HQ and FEMA Region 2. 
+Briefing support continued through 8 October as Jerry moved northward, away from the 
+Caribbean.  The Tropical Analysis and Forecast Branch at NHC provided five briefings to the U.S. 
+Coast Guard Southeast District in support of their life-saving mission from 7 to 9 October. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Data in Table 2 were compiled from reports issued by the National Data Buoy Center, 
+Météo France, and the Antigua and Barbuda Meteorological Service.  Michael Spagnolo and Dr. 
+Chris Landsea provided the input for the IDSS section. Dr. Lisa Bucci contributed the recon, track, 
+and intensity verification figures, and Dr. Philippe Papin provided the track map and genesis 
+verification figure.  
+=== page 7 ===
+Tropical Storm Jerry     7 
+ 
+Table 1. 
+Best track for Tropical Storm Jerry, 7–11 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+07 / 0600 
+11.0 
+41.3 
+1007 
+35 
+tropical storm 
+07 / 1200 
+11.4 
+43.6 
+1006 
+40 
+" 
+07 / 1800 
+11.9 
+45.7 
+1005 
+40 
+" 
+08 / 0000 
+12.4 
+47.9 
+1004 
+45 
+" 
+08 / 0600 
+12.9 
+49.9 
+1003 
+45 
+" 
+08 / 1200 
+13.6 
+51.9 
+1002 
+55 
+" 
+08 / 1800 
+14.3 
+53.8 
+1000 
+55 
+" 
+09 / 0000 
+15.0 
+55.5 
+1000 
+55 
+" 
+09 / 0600 
+15.4 
+57.2 
+1001 
+55 
+" 
+09 / 1200 
+16.0 
+58.6 
+1002 
+50 
+" 
+09 / 1800 
+16.7 
+60.0 
+1004 
+50 
+" 
+10 / 0000 
+17.6 
+61.1 
+1006 
+50 
+" 
+10 / 0600 
+18.6 
+62.2 
+1006 
+50 
+" 
+10 / 1200 
+19.7 
+63.1 
+1006 
+50 
+" 
+10 / 1800 
+20.9 
+63.6 
+1006 
+50 
+" 
+11 / 0000 
+22.4 
+63.7 
+1006 
+50 
+" 
+11 / 0600 
+23.9 
+63.7 
+1006 
+45 
+" 
+11 / 1200 
+25.2 
+63.3 
+1006 
+45 
+" 
+11 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+08 / 1800 
+14.3 
+53.8 
+1000 
+55 
+maximum wind and 
+minimum pressure 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Jerry     8 
+ 
+Table 2. 
+Selected surface observations for Tropical Storm Jerry, 7–11 October 2025. 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Antigua  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Antigua/Coolidge (78862) 
+09/2100 
+1007.6 
+10/0500 
+17 
+32 
+ 
+ 
+ 
+ 
+Crabbs 
+ 
+ 
+10/0848 
+38 
+ 
+ 
+ 
+ 
+ 
+V.C. Bird International 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.35 
+Barbuda 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hannah Thomas Hospital 
+ 
+ 
+10/0959 
+36 
+ 
+ 
+ 
+ 
+ 
+Sir McChesney George 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.40 
+Martinique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lamentin 
+09/2100 
+1008.9 
+10/0100 
+23 
+42 
+ 
+ 
+ 
+2.95 
+Trinite Caravelle 
+09/2100 
+1008.8 
+10/0100 
+30 
+45 
+ 
+ 
+ 
+2.08 
+Trois-Ilets Golf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.07 
+Guadeloupe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Le Raizet 
+09/2100 
+1007.2 
+10/0700 
+20 
+53 
+ 
+ 
+ 
+6.39 
+La Desirade Meteo 
+09/2000 
+1006.6 
+10/0600 
+46 
+58 
+ 
+ 
+ 
+5.57 
+Grand-Bourig Les Basses 
+09/2100 
+1008.3 
+10/0700 
+23 
+38 
+ 
+ 
+ 
+3.04 
+Le Moule Laureal 
+ 
+ 
+10/0700 
+17 
+34 
+ 
+ 
+ 
+7.80 
+St. Barthelemy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+St. Barthelemy Meteo 
+10/0800 
+1008.1 
+10/1300 
+32 
+48 
+ 
+ 
+ 
+ 
+St. Barthelemy Airport 
+10/0800 
+1008.0 
+10/1200 
+19 
+34 
+ 
+ 
+ 
+ 
+NOAA Buoys 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buoy 41040 
+08/1640 
+1003.2 
+08/1730 
+47 
+56 
+ 
+ 
+ 
+ 
+ 
+a  Date/time is for sustained wind when both sustained and gust are listed. 
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based reports are 2 min; buoy averaging 
+periods are 8 min. 
+c  Storm surge is water height above normal astronomical tide level. 
+d  For most locations, storm tide is water height above the North American Vertical Datum of 1988 (NAVD88).  Storm 
+tide is water height above Mean Lower Low Water (MLLW) for NOS stations in Puerto Rico, the U.S. Virgin Islands, 
+and Barbados. 
+e  Estimated inundation is the maximum height of water above ground.  For some USGS storm tide pressure sensors, 
+inundation is estimated by subtracting the elevation of the sensor from the recorded storm tide.  For other USGS 
+storm tide sensors and USGS high-water marks, inundation is estimated by subtracting the elevation of the land 
+derived from a Digital Elevation Model (DEM) from the recorded and measured storm tide.  For NOS tide gauges, 
+the height of the water above Mean Higher High Water (MHHW) is used as a proxy for inundation. 
+ 
+=== page 9 ===
+Tropical Storm Jerry     9 
+ 
+Table 3. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+60 
+126 
+Medium (40%-60%) 
+42 
+90 
+High (>60%) 
+12 
+42 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Jerry     10 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Jerry. Mean errors for the previous 5-yr 
+period are shown for comparison. Official errors that are smaller than the 5-yr 
+means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+27.5 
+38.9 
+45.4 
+54.3 
+51.9 
+49.4 
+48.3 
+ 
+OCD5 
+43.6 
+91.9 
+142.3 
+189.7 
+236.3 
+313.7 
+462.3 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+7 
+5 
+1 
+ 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Jerry. Errors smaller than the NHC official forecast are shown in boldface type. 
+The number of official forecasts shown here will generally be smaller than that 
+shown in Table 4a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+26.0 
+39.0 
+45.6 
+54.3 
+51.9 
+49.4 
+48.3 
+ 
+OCD5 
+41.6 
+90.0 
+133.8 
+189.7 
+236.3 
+313.7 
+462.3 
+ 
+GFSI 
+37.7 
+72.4 
+92.9 
+108.9 
+94.9 
+93.7 
+137.5 
+ 
+EMXI 
+35.8 
+64.4 
+95.8 
+114.1 
+134.7 
+166.2 
+224.1 
+ 
+HWFI 
+51.6 
+95.0 
+99.0 
+101.1 
+83.8 
+98.6 
+209.0 
+ 
+HMNI 
+42.2 
+79.4 
+88.8 
+120.4 
+155.6 
+221.0 
+419.4 
+ 
+HFAI 
+53.9 
+96.5 
+88.1 
+121.3 
+131.0 
+153.4 
+402.8 
+ 
+HFBI 
+47.0 
+75.5 
+85.7 
+105.0 
+83.4 
+111.8 
+392.6 
+ 
+CMCI 
+40.9 
+74.3 
+105.1 
+130.4 
+171.0 
+179.1 
+180.9 
+ 
+CTCI 
+39.4 
+73.7 
+73.8 
+60.8 
+40.4 
+30.5 
+138.0 
+ 
+AEMI 
+27.7 
+49.6 
+72.5 
+92.8 
+105.1 
+83.3 
+81.5 
+ 
+HCCA 
+25.7 
+42.7 
+48.2 
+62.3 
+59.2 
+66.6 
+65.3 
+ 
+TVCA 
+36.4 
+63.0 
+64.0 
+63.8 
+51.5 
+51.8 
+163.5 
+ 
+FSSE 
+30.1 
+54.4 
+68.4 
+85.3 
+92.3 
+102.6 
+60.0 
+ 
+GFEX 
+29.0 
+49.6 
+73.2 
+93.5 
+106.8 
+117.1 
+66.2 
+ 
+GDMI 
+22.0 
+28.6 
+39.2 
+49.8 
+57.2 
+83.5 
+61.0 
+ 
+Forecasts 
+12 
+12 
+10 
+9 
+7 
+5 
+1 
+ 
+=== page 11 ===
+Tropical Storm Jerry     11 
+ 
+ Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Jerry. Mean errors for the previous 5-yr period are shown 
+for comparison. Official errors that are smaller than the 5-yr means are shown in 
+boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.3 
+6.2 
+13.2 
+21.1 
+26.4 
+31.0 
+35.0 
+ 
+OCD5 
+5.7 
+7.2 
+13.6 
+19.6 
+28.3 
+33.0 
+42.0 
+ 
+Forecasts 
+15 
+13 
+11 
+9 
+7 
+5 
+1 
+ 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Jerry. Errors smaller than the NHC official forecast are shown in boldface type. 
+The number of official forecasts shown here will generally be smaller than that 
+shown in Table 5a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.0 
+6.7 
+13.5 
+21.1 
+26.4 
+31.0 
+35.0 
+ 
+OCD5 
+6.2 
+7.6 
+14.0 
+19.6 
+28.3 
+33.0 
+42.0 
+ 
+HWFI 
+6.5 
+10.3 
+24.8 
+37.2 
+48.1 
+57.8 
+70.0 
+ 
+HMNI 
+3.1 
+6.2 
+11.0 
+11.4 
+7.9 
+3.4 
+7.0 
+ 
+HFAI 
+5.1 
+7.5 
+10.6 
+14.0 
+16.1 
+20.8 
+37.0 
+ 
+HFBI 
+5.7 
+6.3 
+11.5 
+17.1 
+11.0 
+10.6 
+41.0 
+ 
+CTCI 
+5.4 
+6.1 
+13.9 
+24.2 
+36.6 
+46.8 
+38.0 
+ 
+HCCA 
+5.5 
+6.4 
+13.2 
+19.6 
+21.6 
+26.2 
+33.0 
+ 
+IVCN 
+5.0 
+4.2 
+9.7 
+15.4 
+18.0 
+22.0 
+33.0 
+ 
+FSSE 
+4.8 
+6.7 
+12.7 
+18.4 
+22.4 
+28.0 
+49.0 
+ 
+DSHP 
+6.2 
+4.6 
+6.4 
+8.6 
+8.9 
+11.2 
+22.0 
+ 
+LGEM 
+6.6 
+4.3 
+4.3 
+7.0 
+7.1 
+7.0 
+28.0 
+ 
+GDMI 
+4.9 
+5.0 
+5.4 
+7.1 
+8.9 
+7.4 
+2.0 
+ 
+GFSI 
+3.8 
+3.4 
+4.1 
+8.6 
+14.3 
+21.0 
+44.0 
+ 
+EMXI 
+4.9 
+5.5 
+8.1 
+11.9 
+12.3 
+10.8 
+8.0 
+ 
+Forecasts 
+12 
+12 
+10 
+9 
+7 
+5 
+1 
+ 
+ 
+=== page 12 ===
+Tropical Storm Jerry     12 
+ 
+Table 6. 
+Watch and warning summary for Tropical Storm Jerry, 7–11 October. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+07 / 2100 
+Tropical Storm Watch issued 
+Barbuda and Anguilla 
+07 / 2100 
+Tropical Storm Watch issued 
+St. Barthelemy and St. Martin 
+07 / 2100 
+Tropical Storm Watch issued 
+Sint Maarten 
+08 / 0000 
+Tropical Storm Watch issued 
+Antigua, St. Kitts, Nevis, Montserrat 
+08 / 0300 
+Tropical Storm Watch issued 
+Guadeloupe and adjacent islands 
+08 / 0300 
+Tropical Storm Watch issued 
+Saba and St. Eustatius 
+09 / 1500 
+Tropical Storm Warning issued 
+Barbuda 
+09 / 1800 
+Tropical Storm Warning issued 
+Anguilla 
+09 / 1800 
+Tropical Storm Warning issued 
+St. Barthelemy and St. Martin 
+09 / 1800 
+Tropical Storm Warning issued 
+Sint Maarten 
+09 / 1920 
+Tropical Storm Warning issued 
+Guadeloupe and adjacent islands 
+10 / 0900  
+Tropical Storm Warning 
+discontinued 
+Barbuda and Anguilla 
+10 / 0900  
+Tropical Storm Watch 
+discontinued 
+Antigua, St. Kitts, Nevis, Montserrat 
+10 / 0935 
+Tropical Storm Watch 
+discontinued 
+Saba and St. Eustatius 
+10 / 1200 
+Tropical Storm Warning 
+discontinued 
+Guadeloupe and adjacent islands 
+10 / 1500  
+Tropical Storm Warning 
+discontinued 
+Sint Maarten 
+10 / 1500  
+Tropical Storm Warning 
+discontinued 
+St. Barthelemy and St. Martin 
+ 
+ 
+=== page 13 ===
+Tropical Storm Jerry     13 
+ 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Jerry, 7–11 October.  
+=== page 14 ===
+Tropical Storm Jerry     14 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Jerry, 7–11 
+October. Aircraft observations have been adjusted for elevation using 80% adjustment factor for observations from 850 mb. 
+Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over 
+the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique estimates represent the Current Intensity at the 
+nominal observation time. SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. 
+Dashed vertical lines correspond to 0000 UTC. 
+=== page 15 ===
+Tropical Storm Jerry     15 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Jerry, 7–11 October. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 16 ===
+Tropical Storm Jerry     16 
+ 
+ 
+Figure 4.  
+Air Force Reserve and NOAA Hurricane Hunter aircraft flight tracks (red) from reconnaissance missions into Jerry. The black 
+markers denote center fixes, and the blue triangles indicate dropsonde locations. The color coding of the flight tracks is based 
+on the observed flight-level wind speed with the color legend to the right of the map representing the color associated with the 
+various wind speeds in knots. 
+=== page 17 ===
+Tropical Storm Jerry     17 
+ 
+ 
+Figure 5. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of Jerry 
+for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high (>60%) 
+category. The location of genesis is indicated by the black star. 
+=== page 18 ===
+Tropical Storm Jerry     18 
+ 
+ 
+Figure 6. 
+Official track forecasts (dashed lines, with 0, 12, 24, 36, 48, 60, 72, 96, and 120 h positions indicated) for Tropical Storm Jerry, 
+7–11 October. The best track is given by the black line. 
+=== page 19 ===
+Tropical Storm Jerry     19 
+ 
+ 
+Figure 7. 
+Official intensity forecasts (blue lines) for Tropical Storm Jerry, 7–11 October. The best track is given by the black line with 
+positions given at 6 h interval.  
+ 
+ 
+ 
+ 
+ 

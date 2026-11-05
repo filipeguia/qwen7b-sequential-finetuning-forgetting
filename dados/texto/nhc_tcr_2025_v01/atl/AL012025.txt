@@ -1,0 +1,270 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM ANDREA 
+ 
+(AL012025) 
+ 
+23–24 June 2025 
+ 
+John P. Cangialosi 
+National Hurricane Center 
+12 August 2025 
+ 
+GOES-19 GEOCOLOR SATELLITE IMAGE OF TROPICAL STORM ANDREA AT 1200 UTC 24 JUNE.                            
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Andrea was a short-lived tropical storm over the central Atlantic that did not affect 
+land. 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Andrea. 
+=== page 2 ===
+Tropical Storm Andrea     2 
+ 
+Tropical Storm Andrea 
+ 
+23–24 JUNE 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Tropical Storm Andrea are listed in Table 1. 
+The best track chart of Andrea’s path is given in Fig. 1, with the wind and pressure histories along 
+with available observations3 shown in Figs. 2 and 3, respectively. 
+There were no land-based or ship reports of winds of tropical storm force associated with 
+Andrea. 
+Origin 
+Andrea had non-tropical origins.  An area of low pressure developed along a decaying 
+stationary front around 0000 UTC 22 June about 400 n mi east-southeast of Bermuda.  Deep 
+convection gradually organized near the well-defined center of circulation, and the system 
+became a tropical depression by 0600 UTC 23 June when it was located about 425 n mi east of 
+Bermuda. 
+Peak Intensity and Minimum Pressure 
+Andrea’s peak intensity of 35 kt from 1200 UTC 23 June to 1200 UTC 24 June was 
+supported by several ASCAT passes during that time period that all showed maximum winds of 
+around 35 kt. 
+The estimated minimum central pressure of 1014 mb is based on the Knaff-Zehr-Courtney 
+pressure-wind relationship.  It should be noted that Andrea was a small system surrounded by 
+high environmental pressure, which resulted in its relatively high central pressure. 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Andrea. 
+=== page 3 ===
+Tropical Storm Andrea     3 
+ 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Andrea. 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category.  Figure 2 shows composites of 7-
+day TWO genesis areas for each category prior to the formation of Andrea.  The small size of the 
+system, its limited time over warm water, low to moderate wind shear conditions, and its non-
+tropical origins made predicting the genesis of Andrea challenging.  It should be noted that the 
+post-analyzed best track shows genesis 30 h sooner than what was done in real time.  A review 
+of satellite data suggests that the system developed and maintained just enough organized deep 
+convection to justify the earlier formation time. 
+No verification statistics are shown for Andrea since there were no verifying official 
+forecasts. 
+There were no coastal watches or warnings issued for Andrea. 
+ 
+ 
+ 
+ 
+ 
+=== page 4 ===
+Tropical Storm Andrea     4 
+ 
+Table 1. 
+Best track for Tropical Storm Andrea, 23–24 June 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+22 / 0000 
+30.0 
+57.6 
+1017 
+20 
+low 
+22 / 0600 
+30.5 
+57.6 
+1017 
+20 
+" 
+22 / 1200 
+31.0 
+57.6 
+1017 
+25 
+" 
+22 / 1800 
+31.5 
+57.4 
+1017 
+25 
+" 
+23 / 0000 
+32.0 
+57.0 
+1016 
+30 
+" 
+23 / 0600 
+32.6 
+56.3 
+1015 
+30 
+tropical depression 
+23 / 1200 
+33.2 
+55.2 
+1014 
+35 
+tropical storm 
+23 / 1800 
+33.9 
+54.2 
+1014 
+35 
+" 
+24 / 0000 
+34.6 
+53.0 
+1014 
+35 
+" 
+24 / 0600 
+35.4 
+51.5 
+1014 
+35 
+" 
+24 / 1200 
+36.3 
+49.8 
+1014 
+35 
+" 
+24 / 1800 
+37.3 
+48.2 
+1014 
+35 
+low 
+25 / 0000 
+38.2 
+46.6 
+1015 
+30 
+" 
+25 / 0600 
+38.8 
+44.7 
+1015 
+30 
+" 
+25 / 1200 
+39.3 
+42.2 
+1015 
+30 
+" 
+25 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+23 / 1200 
+33.2 
+55.2 
+1014 
+35 
+maximum wind 
+and minimum 
+pressure 
+ 
+ 
+ 
+=== page 5 ===
+Tropical Storm Andrea     5 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+18 
+18 
+Medium (40%-60%) 
+6 
+6 
+High (>60%) 
+0 
+0 
+=== page 6 ===
+Tropical Storm Andrea     6 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Andrea, 23–24 June 2025.  
+=== page 7 ===
+Tropical Storm Andrea     7 
+ 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Andrea, 23–24 
+June 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 8 ===
+Tropical Storm Andrea     8 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Andrea, 23–24 June 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+ 
+ 
+=== page 9 ===
+Tropical Storm Andrea     9 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Andrea for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star.   

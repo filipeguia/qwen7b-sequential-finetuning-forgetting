@@ -1,0 +1,307 @@
+{
+ "atl/dev/principal": {
+  "n": 24,
+  "acertos": 7,
+  "pct": 29.2
+ },
+ "atl/dev/principal/date": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "atl/dev/principal/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/number": {
+  "n": 13,
+  "acertos": 6,
+  "pct": 46.2
+ },
+ "atl/dev/principal/other": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/phrase": {
+  "n": 4,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/place": {
+  "n": 3,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/principal/time": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao": {
+  "n": 24,
+  "acertos": 7,
+  "pct": 29.2
+ },
+ "atl/dev/reformulacao/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/number": {
+  "n": 13,
+  "acertos": 6,
+  "pct": 46.2
+ },
+ "atl/dev/reformulacao/other": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/phrase": {
+  "n": 4,
+  "acertos": 1,
+  "pct": 25.0
+ },
+ "atl/dev/reformulacao/place": {
+  "n": 3,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/dev/reformulacao/time": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "atl/prova/principal": {
+  "n": 120,
+  "acertos": 42,
+  "pct": 35.0
+ },
+ "atl/prova/principal/date": {
+  "n": 6,
+  "acertos": 2,
+  "pct": 33.3
+ },
+ "atl/prova/principal/name": {
+  "n": 11,
+  "acertos": 8,
+  "pct": 72.7
+ },
+ "atl/prova/principal/number": {
+  "n": 32,
+  "acertos": 8,
+  "pct": 25.0
+ },
+ "atl/prova/principal/phrase": {
+  "n": 30,
+  "acertos": 6,
+  "pct": 20.0
+ },
+ "atl/prova/principal/place": {
+  "n": 22,
+  "acertos": 16,
+  "pct": 72.7
+ },
+ "atl/prova/principal/time": {
+  "n": 19,
+  "acertos": 2,
+  "pct": 10.5
+ },
+ "atl/prova/reformulacao": {
+  "n": 120,
+  "acertos": 24,
+  "pct": 20.0
+ },
+ "atl/prova/reformulacao/date": {
+  "n": 6,
+  "acertos": 1,
+  "pct": 16.7
+ },
+ "atl/prova/reformulacao/name": {
+  "n": 11,
+  "acertos": 5,
+  "pct": 45.5
+ },
+ "atl/prova/reformulacao/number": {
+  "n": 32,
+  "acertos": 2,
+  "pct": 6.2
+ },
+ "atl/prova/reformulacao/phrase": {
+  "n": 30,
+  "acertos": 3,
+  "pct": 10.0
+ },
+ "atl/prova/reformulacao/place": {
+  "n": 22,
+  "acertos": 11,
+  "pct": 50.0
+ },
+ "atl/prova/reformulacao/time": {
+  "n": 19,
+  "acertos": 2,
+  "pct": 10.5
+ },
+ "epac/dev/principal": {
+  "n": 24,
+  "acertos": 12,
+  "pct": 50.0
+ },
+ "epac/dev/principal/date": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/principal/name": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "epac/dev/principal/number": {
+  "n": 9,
+  "acertos": 6,
+  "pct": 66.7
+ },
+ "epac/dev/principal/phrase": {
+  "n": 5,
+  "acertos": 1,
+  "pct": 20.0
+ },
+ "epac/dev/principal/place": {
+  "n": 4,
+  "acertos": 3,
+  "pct": 75.0
+ },
+ "epac/dev/principal/time": {
+  "n": 4,
+  "acertos": 1,
+  "pct": 25.0
+ },
+ "epac/dev/reformulacao": {
+  "n": 24,
+  "acertos": 11,
+  "pct": 45.8
+ },
+ "epac/dev/reformulacao/date": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "epac/dev/reformulacao/name": {
+  "n": 1,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao/number": {
+  "n": 9,
+  "acertos": 6,
+  "pct": 66.7
+ },
+ "epac/dev/reformulacao/phrase": {
+  "n": 5,
+  "acertos": 1,
+  "pct": 20.0
+ },
+ "epac/dev/reformulacao/place": {
+  "n": 4,
+  "acertos": 2,
+  "pct": 50.0
+ },
+ "epac/dev/reformulacao/time": {
+  "n": 4,
+  "acertos": 1,
+  "pct": 25.0
+ },
+ "epac/prova/principal": {
+  "n": 120,
+  "acertos": 69,
+  "pct": 57.5
+ },
+ "epac/prova/principal/date": {
+  "n": 11,
+  "acertos": 9,
+  "pct": 81.8
+ },
+ "epac/prova/principal/name": {
+  "n": 5,
+  "acertos": 5,
+  "pct": 100.0
+ },
+ "epac/prova/principal/number": {
+  "n": 31,
+  "acertos": 19,
+  "pct": 61.3
+ },
+ "epac/prova/principal/other": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "epac/prova/principal/phrase": {
+  "n": 33,
+  "acertos": 16,
+  "pct": 48.5
+ },
+ "epac/prova/principal/place": {
+  "n": 17,
+  "acertos": 9,
+  "pct": 52.9
+ },
+ "epac/prova/principal/time": {
+  "n": 22,
+  "acertos": 10,
+  "pct": 45.5
+ },
+ "epac/prova/reformulacao": {
+  "n": 120,
+  "acertos": 56,
+  "pct": 46.7
+ },
+ "epac/prova/reformulacao/date": {
+  "n": 11,
+  "acertos": 10,
+  "pct": 90.9
+ },
+ "epac/prova/reformulacao/name": {
+  "n": 5,
+  "acertos": 3,
+  "pct": 60.0
+ },
+ "epac/prova/reformulacao/number": {
+  "n": 31,
+  "acertos": 17,
+  "pct": 54.8
+ },
+ "epac/prova/reformulacao/other": {
+  "n": 1,
+  "acertos": 1,
+  "pct": 100.0
+ },
+ "epac/prova/reformulacao/phrase": {
+  "n": 33,
+  "acertos": 11,
+  "pct": 33.3
+ },
+ "epac/prova/reformulacao/place": {
+  "n": 17,
+  "acertos": 9,
+  "pct": 52.9
+ },
+ "epac/prova/reformulacao/time": {
+  "n": 22,
+  "acertos": 5,
+  "pct": 22.7
+ },
+ "_meta": {
+  "adaptador": "runs\\M2rep_s123_v01",
+  "segundos": 181.9,
+  "itens": 576
+ }
+}

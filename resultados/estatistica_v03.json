@@ -1,0 +1,336 @@
+{
+ "corretor": "v05",
+ "excluidos": [],
+ "eventos_prova": {
+  "atl": 12,
+  "epac": 18
+ },
+ "principal": {
+  "pontual": {
+   "seq": {
+    "retencao_A_pct": 29.39,
+    "B_M2_por120": 70.33,
+    "ganho_B_por120": 64.67,
+    "pior_retencao": 21.92,
+    "por_semente": [
+     {
+      "semente": 17,
+      "retencao_A_pct": 32.0,
+      "B_M2_por120": 73.0,
+      "ganho_B_por120": 68.0
+     },
+     {
+      "semente": 42,
+      "retencao_A_pct": 34.24657534246575,
+      "B_M2_por120": 66.0,
+      "ganho_B_por120": 61.0
+     },
+     {
+      "semente": 123,
+      "retencao_A_pct": 21.91780821917808,
+      "B_M2_por120": 72.0,
+      "ganho_B_por120": 65.0
+     }
+    ]
+   },
+   "rep": {
+    "retencao_A_pct": 48.9,
+    "B_M2_por120": 73.67,
+    "ganho_B_por120": 68.0,
+    "pior_retencao": 45.33,
+    "por_semente": [
+     {
+      "semente": 17,
+      "retencao_A_pct": 45.333333333333336,
+      "B_M2_por120": 73.0,
+      "ganho_B_por120": 68.0
+     },
+     {
+      "semente": 42,
+      "retencao_A_pct": 50.68493150684932,
+      "B_M2_por120": 77.0,
+      "ganho_B_por120": 72.0
+     },
+     {
+      "semente": 123,
+      "retencao_A_pct": 50.68493150684932,
+      "B_M2_por120": 71.0,
+      "ganho_B_por120": 64.0
+     }
+    ]
+   }
+  },
+  "ic95": {
+   "seq_ret": [
+    20.76,
+    35.44
+   ],
+   "rep_ret": [
+    38.7,
+    58.76
+   ],
+   "dif_ret": [
+    13.71,
+    27.0
+   ],
+   "dif_ganhoB": [
+    -1.9,
+    8.48
+   ],
+   "seq_ganhoB": [
+    55.28,
+    73.64
+   ],
+   "rep_ganhoB": [
+    59.06,
+    75.75
+   ]
+  },
+  "acertos": {
+   "M0": {
+    "atl": 0,
+    "epac": 0,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s17": {
+    "atl": 75,
+    "epac": 5,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s17": {
+    "atl": 27,
+    "epac": 73,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s17": {
+    "atl": 36,
+    "epac": 73,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s42": {
+    "atl": 73,
+    "epac": 5,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s42": {
+    "atl": 27,
+    "epac": 66,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s42": {
+    "atl": 42,
+    "epac": 77,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s123": {
+    "atl": 73,
+    "epac": 7,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s123": {
+    "atl": 22,
+    "epac": 72,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s123": {
+    "atl": 45,
+    "epac": 71,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   }
+  }
+ },
+ "reformulacao": {
+  "pontual": {
+   "seq": {
+    "retencao_A_pct": 26.62,
+    "B_M2_por120": 64.0,
+    "ganho_B_por120": 56.33,
+    "pior_retencao": 23.08,
+    "por_semente": [
+     {
+      "semente": 17,
+      "retencao_A_pct": 23.076923076923077,
+      "B_M2_por120": 67.0,
+      "ganho_B_por120": 62.0
+     },
+     {
+      "semente": 42,
+      "retencao_A_pct": 33.333333333333336,
+      "B_M2_por120": 63.0,
+      "ganho_B_por120": 54.0
+     },
+     {
+      "semente": 123,
+      "retencao_A_pct": 23.4375,
+      "B_M2_por120": 62.0,
+      "ganho_B_por120": 53.0
+     }
+    ]
+   },
+   "rep": {
+    "retencao_A_pct": 37.9,
+    "B_M2_por120": 60.67,
+    "ganho_B_por120": 53.0,
+    "pior_retencao": 34.38,
+    "por_semente": [
+     {
+      "semente": 17,
+      "retencao_A_pct": 35.38461538461539,
+      "B_M2_por120": 59.0,
+      "ganho_B_por120": 54.0
+     },
+     {
+      "semente": 42,
+      "retencao_A_pct": 43.93939393939394,
+      "B_M2_por120": 61.0,
+      "ganho_B_por120": 52.0
+     },
+     {
+      "semente": 123,
+      "retencao_A_pct": 34.375,
+      "B_M2_por120": 62.0,
+      "ganho_B_por120": 53.0
+     }
+    ]
+   }
+  },
+  "ic95": {
+   "seq_ret": [
+    18.46,
+    34.3
+   ],
+   "rep_ret": [
+    29.99,
+    46.54
+   ],
+   "dif_ret": [
+    5.31,
+    19.59
+   ],
+   "dif_ganhoB": [
+    -7.89,
+    1.7
+   ],
+   "seq_ganhoB": [
+    48.63,
+    62.72
+   ],
+   "rep_ganhoB": [
+    44.44,
+    60.95
+   ]
+  },
+  "acertos": {
+   "M0": {
+    "atl": 0,
+    "epac": 1,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s17": {
+    "atl": 65,
+    "epac": 5,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s17": {
+    "atl": 16,
+    "epac": 67,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s17": {
+    "atl": 28,
+    "epac": 59,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s42": {
+    "atl": 66,
+    "epac": 9,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s42": {
+    "atl": 25,
+    "epac": 63,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s42": {
+    "atl": 33,
+    "epac": 61,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M1_s123": {
+    "atl": 64,
+    "epac": 9,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2seq_s123": {
+    "atl": 18,
+    "epac": 62,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   },
+   "M2rep_s123": {
+    "atl": 27,
+    "epac": 62,
+    "n": {
+     "atl": 120,
+     "epac": 120
+    }
+   }
+  }
+ }
+}

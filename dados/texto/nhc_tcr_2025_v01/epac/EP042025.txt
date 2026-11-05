@@ -1,0 +1,948 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+TROPICAL STORM DALILA 
+ 
+(EP042025) 
+ 
+13–15 June 2025 
+ 
+Richard J. Pasch 
+National Hurricane Center 
+11 August 2025 
+ 
+ 
+GOES-WEST GEOCOLOR IMAGE OF TROPICAL STORM DALILA NEAR PEAK INTENSITY AT  
+2000 UTC 14 JUNE 2025.  IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Dalila was a tropical storm that moved near the coast of Mexico, but did not make 
+landfall.  It brought locally heavy rains to portions of southwestern Mexico.  It was the east 
+Pacific’s earliest fourth named storm since reliable records began in the 1970s. 
+ 
+=== page 2 ===
+Tropical Storm Dalila     2 
+ 
+Tropical Storm Dalila 
+ 
+13–15 JUNE 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+ 
+Dalila appeared to originate from a tropical wave that crossed Central America around      
+8 June.  The system moved westward for a few days accompanied by disorganized deep 
+convection.  On 11 June the showers and thunderstorms became a little better organized to the 
+south-southwest of the Gulf of Tehuantepec.  Deep convection became more consolidated on    
+12 June, but the system lacked a well-defined low-level center and was being influenced by 
+moderate northeasterly shear.  By around 1200 UTC 13 June, it is estimated that there was a 
+sufficiently well-defined surface center and organized deep convection to designate the formation 
+of a tropical depression centered about 250 n mi south of Zihuatanejo, Mexico.  The “best track” 
+chart of Dalila’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 
+3, respectively. The best track positions and intensities are listed in Table 11. 
+ 
+After formation, the convection associated with the tropical cyclone slowly became more 
+organized while the system turned from a north-northwestward to a northwestward heading.  
+Although the inner core of the cyclone was rather broad, Dalila was able to strengthen into a 
+tropical storm by 1800 UTC 13 June.  A mid-level ridge built somewhat over Mexico, and Dalila 
+moved northwestward for the next day or two, remaining offshore of the coast.  Further 
+strengthening was rather slow, likely due to moderate easterly vertical wind shear.  Nonetheless, 
+deep convection increased near the cyclone center, and the storm strengthened to its peak 
+intensity of 55 kt by 1800 UTC 14 June, while centered about 160 n mi south of Manzanillo, 
+Mexico.  Dalila maintained more or less its 55-kt intensity through 0600 UTC 15 June while turning 
+toward the west-northwest, and moving away from Mexico.  The system then weakened slowly 
+but steadily while it traversed progressively cooler waters and the associated showers and 
+thunderstorms gradually diminished in coverage and intensity.  After 1800 UTC 15 June, Dalila 
+became mostly void of deep convection and thus had become a post-tropical cyclone.  The 
+cyclone soon weakened into a remnant low that moved generally westward for a couple of days 
+before losing its identity late on 17 June several hundred miles southwest of the southern tip of 
+Baja California Sur. 
+ 
+ 
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Tropical Storm Dalila     3 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Dalila (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-orbiting satellites 
+including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of 
+Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, 
+among others, were also useful in constructing the best track of Dalila. 
+There were no reliable ship reports of winds of tropical storm force associated with Dalila. 
+ 
+Winds and Pressure 
+ 
+The 55-kt peak intensity of Dalila was based on a blend of subjective and objective Dvorak 
+estimates.  The storm’s estimated minimum pressure, 992 mb, was based on the Knaff-Zehr-
+Courtney pressure-wind relationship. 
+ 
+The highest wind report from Mexico was a gust to 26 kt at Manzanillo at 2210 UTC            
+14 June.  However, there are few observing sites along Mexico’s southern coast, so higher winds 
+likely occurred somewhere in that country. 
+ 
+Rainfall and Flooding 
+ 
+The outer circulation of Dalila brought locally heavy rains to portions of southwestern 
+Mexico, primarily in the states of Guerrero, Michoacán, and Colima.  Figure 4 is a map of the 
+rainfall totals.  The highest observed rainfall total was 7.48 in (190 mm) at Laguna de Coyuca, 
+Guerrero, near Acapulco. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+Some flooding and mudslides occurred near Acapulco, Mexico, and there was a media 
+report of about 40 million U.S. dollars in associated damage.  There were no known casualties 
+associated with Dalila. 
+ 
+=== page 4 ===
+Tropical Storm Dalila     4 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+Dalila’s genesis was well forecast (Table 2). The wave from which the storm developed 
+was introduced into the Tropical Weather Outlook 156 h prior to genesis with a low (<40%) 
+probability of formation within 7 days.  The 7-day formation probability was raised to high (>60%) 
+84 hours before genesis.  The 2-day formation chance was set to low 66 h before genesis, and 
+raised to high 24 hours before the tropical cyclone developed.  The location of Dalila’s genesis 
+was well predicted (Fig. 5), with the indicated genesis region encompassing the location of the 
+storm’s formation for all of the genesis forecasts. 
+Given the high probabilities of genesis and the proximity of the system to the southern 
+coast of Mexico, Potential Tropical Cyclone (PTC) advisories were issued prior to Dalila’s 
+formation.   PTC advisory packages were issued for the 1800 UTC 12 June cycle and the 0000 
+and 0600 UTC 13 June cycles. 
+A verification of NHC official track forecasts for Dalila is given in Table 3a.  Official track 
+forecast errors were comparable to the mean official errors for the previous 5-yr period.  Since 
+the storm was short-lived, there were only forecasts through the 48-h interval to verify.  A 
+homogeneous comparison of the official track errors with selected guidance models is given in 
+Table 3b.  Among the model guidance, COAMPS (CTCI), NAVGEM (NVGI), and TABM had lower 
+mean errors than the official forecast at all forecast intervals.  The GFS (GFSI) and HWRF (HWFI) 
+were rather poor performers for the Dalila track forecasts. 
+A verification of NHC official intensity forecasts for Dalila is given in Table 4a. Official 
+intensity forecast errors for Dalila were quite good, with mean errors well below the mean official 
+errors for the previous 5-yr period.   A homogeneous comparison of the official intensity errors 
+with selected guidance models is given in Table 4b. In all but a few cases, the official forecasts 
+had lower mean errors than the model guidance.  The NHC forecasts never called for Dalila to 
+become a hurricane, which turned out to be correct. 
+ 
+Watches and warnings associated with Dalila are given in Table 5.  A Tropical Storm 
+Watch was issued for a portion of the coast of southwestern Mexico about 48 h prior to the closest 
+approach of Dalila to the coast, and a Tropical Storm Warning was issued about 30 h before the 
+closest approach.  The initial watch was issued in the first PTC advisory package.  Based on the 
+limited available observations, it does not appear that tropical-storm-force winds occurred on the 
+coast of Mexico, however. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Philippe Papin of the NHC produced Figs. 1 and 5.  CONAGUA provided the rainfall map 
+for Mexico (Fig. 4) 
+ 
+ 
+=== page 5 ===
+Tropical Storm Dalila     5 
+ 
+Table 1. 
+Best track for Tropical Storm Dalila, 13–15 June 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+12 / 1800 
+11.1 
+100.1 
+1006 
+30 
+disturbance 
+13 / 0000 
+11.5 
+100.5 
+1006 
+30 
+" 
+13 / 0600 
+12.5 
+100.8 
+1006 
+30 
+" 
+13 / 1200 
+13.4 
+101.3 
+1005 
+30 
+tropical depression 
+13 / 1800 
+14.2 
+101.8 
+1001 
+35 
+tropical storm 
+14 / 0000 
+14.9 
+102.5 
+1001 
+40 
+" 
+14 / 0600 
+15.6 
+103.2 
+999 
+45 
+" 
+14 / 1200 
+16.2 
+103.8 
+995 
+50 
+" 
+14 / 1800 
+16.8 
+104.5 
+992 
+55 
+" 
+15 / 0000 
+17.5 
+105.5 
+994 
+55 
+" 
+15 / 0600 
+17.9 
+106.6 
+996 
+55 
+" 
+15 / 1200 
+18.1 
+107.4 
+998 
+50 
+" 
+15 / 1800 
+18.3 
+108.0 
+1002 
+40 
+" 
+16 / 0000 
+18.5 
+108.8 
+1004 
+35 
+low 
+16 / 0600 
+18.7 
+109.7 
+1005 
+30 
+" 
+16 / 1200 
+18.8 
+110.5 
+1006 
+25 
+" 
+16 / 1800 
+18.9 
+111.1 
+1007 
+20 
+" 
+17 / 0000 
+18.9 
+111.7 
+1007 
+20 
+" 
+17 / 0600 
+19.0 
+112.4 
+1008 
+15 
+" 
+17 / 1200 
+19.2 
+113.2 
+1008 
+15 
+" 
+17 / 1800 
+19.5 
+114.0 
+1009 
+15 
+" 
+18 / 0000 
+ 
+ 
+ 
+ 
+dissipated 
+=== page 6 ===
+Tropical Storm Dalila     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+14 / 1800 
+16.8 
+104.5 
+992 
+55 
+maximum winds and 
+minimum pressure 
+ 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+66 
+156 
+Medium (40%-60%) 
+42 
+132 
+High (>60%) 
+24 
+84 
+ 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Dalila, 13–15 June 2025.  Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+26.1 
+37.3 
+42.1 
+38.2 
+ 
+ 
+ 
+ 
+OCD5 
+29.1 
+25.4 
+36.1 
+80.5 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+3.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+=== page 7 ===
+Tropical Storm Dalila     7 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Dalila, 13–15 June 2025.  Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+25.5 
+34.8 
+42.1 
+38.2 
+ 
+ 
+ 
+ 
+OCD5 
+30.2 
+30.5 
+36.1 
+80.5 
+ 
+ 
+ 
+ 
+GFSI 
+35.9 
+58.7 
+90.4 
+123.9 
+ 
+ 
+ 
+ 
+HWFI 
+36.9 
+59.3 
+84.2 
+96.4 
+ 
+ 
+ 
+ 
+HMNI 
+27.1 
+32.6 
+41.6 
+44.3 
+ 
+ 
+ 
+ 
+HFAI 
+26.9 
+39.4 
+40.2 
+64.9 
+ 
+ 
+ 
+ 
+HFBI 
+29.8 
+37.2 
+42.7 
+79.5 
+ 
+ 
+ 
+ 
+CTCI 
+21.2 
+22.3 
+22.1 
+24.5 
+ 
+ 
+ 
+ 
+EMXI 
+32.9 
+51.3 
+68.4 
+69.2 
+ 
+ 
+ 
+ 
+CMCI 
+16.2 
+18.5 
+28.0 
+58.1 
+ 
+ 
+ 
+ 
+NVGI 
+24.3 
+26.9 
+34.4 
+28.4 
+ 
+ 
+ 
+ 
+TVCE 
+25.9 
+36.0 
+42.1 
+52.8 
+ 
+ 
+ 
+ 
+TVCX 
+26.0 
+37.2 
+41.0 
+52.5 
+ 
+ 
+ 
+ 
+GFEX 
+32.4 
+52.8 
+73.9 
+92.7 
+ 
+ 
+ 
+ 
+TVDG 
+26.0 
+38.2 
+46.2 
+61.9 
+ 
+ 
+ 
+ 
+HCCA 
+28.6 
+33.2 
+30.8 
+14.8 
+ 
+ 
+ 
+ 
+FSSE 
+29.5 
+40.5 
+52.6 
+55.0 
+ 
+ 
+ 
+ 
+AEMI 
+35.3 
+56.1 
+73.3 
+91.0 
+ 
+ 
+ 
+ 
+TABS 
+38.7 
+105.5 
+154.6 
+178.6 
+ 
+ 
+ 
+ 
+TABM 
+21.6 
+18.3 
+36.7 
+31.3 
+ 
+ 
+ 
+ 
+TABD 
+26.6 
+33.1 
+55.5 
+83.5 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+4 
+2 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Dalila     8 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Dalila, 13–15 June 2025.  Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+2.5 
+3.3 
+1.2 
+2.5 
+ 
+ 
+ 
+ 
+OCD5 
+6.1 
+9.8 
+12.8 
+6.5 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+=== page 9 ===
+Tropical Storm Dalila     9 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Dalila, 13–15 June 2025.  Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+2.1 
+3.0 
+1.2 
+2.5 
+ 
+ 
+ 
+ 
+OCD5 
+6.6 
+7.8 
+12.8 
+6.5 
+ 
+ 
+ 
+ 
+HWFI 
+3.1 
+6.6 
+9.2 
+1.0 
+ 
+ 
+ 
+ 
+HMNI 
+1.4 
+3.2 
+7.8 
+7.5 
+ 
+ 
+ 
+ 
+HFAI 
+3.9 
+3.0 
+5.0 
+6.0 
+ 
+ 
+ 
+ 
+HFBI 
+3.9 
+2.2 
+6.2 
+8.5 
+ 
+ 
+ 
+ 
+CTCI 
+3.7 
+4.4 
+5.5 
+4.0 
+ 
+ 
+ 
+ 
+DSHP 
+5.4 
+6.2 
+7.0 
+4.0 
+ 
+ 
+ 
+ 
+LGEM 
+6.9 
+10.8 
+14.2 
+12.0 
+ 
+ 
+ 
+ 
+ICON 
+3.4 
+5.2 
+8.5 
+1.5 
+ 
+ 
+ 
+ 
+IVCN 
+2.7 
+3.4 
+4.2 
+2.0 
+ 
+ 
+ 
+ 
+IVDR 
+2.6 
+3.0 
+3.2 
+2.5 
+ 
+ 
+ 
+ 
+GFSI 
+3.9 
+6.4 
+7.5 
+3.5 
+ 
+ 
+ 
+ 
+EMXI 
+6.0 
+11.4 
+15.5 
+16.5 
+ 
+ 
+ 
+ 
+HCCA 
+2.6 
+3.0 
+7.0 
+2.0 
+ 
+ 
+ 
+ 
+FSSE 
+2.4 
+2.0 
+3.0 
+4.0 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+4 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Dalila     10 
+ 
+Table 5. 
+Watch and warning summary for Tropical Storm Dalila, 13–15 June 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+12 / 2100 
+Tropical Storm Watch issued 
+Tecpan de Galeana to Manzanillo 
+13 / 1500 
+Tropical Storm Watch modified to 
+Tecpan de Galeana to Lazaro Cardenas 
+13 / 1500 
+Tropical Storm Watch issued 
+Playa Perula to Cabo Corrientes 
+13 / 1500 
+Tropical Storm Warning issued 
+Lazaro Cardenas to Playa Perula 
+14 / 0300 
+Tropical Storm Watch 
+discontinued 
+Tecpan de Galeana to Lazaro Cardenas 
+14 / 0300 
+Tropical Storm Warning modified 
+to 
+Tecpan de Galeana to Playa Perula 
+14 / 0900 
+Tropical Storm Watch 
+discontinued 
+All 
+14 / 0900 
+Tropical Storm Warning modified 
+to 
+Tecpan de Galeana to Cabo Corrientes 
+15 / 0300 
+Tropical Storm Warning modified 
+to 
+Lazaro Cardenas to Cabo Corrientes 
+15 / 1200 
+Tropical Storm Warning 
+discontinued 
+All 
+ 
+ 
+ 
+=== page 11 ===
+Tropical Storm Dalila     11 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Dalila, 13–15 June 2025. 
+=== page 12 ===
+Tropical Storm Dalila     12 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Dalila, 13–15 June 
+2025.  Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 13 ===
+Tropical Storm Dalila     13 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Dalila, 13–15 June 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 14 ===
+Tropical Storm Dalila     14 
+ 
+ 
+Figure 4. 
+Rainfall totals for Dalila in Mexico.  Figure courtesy of CONAGUA.  Note that not all of the rainfall shown was associated with 
+Dalila.  The track is based on the NHC operational assessments. 
+ 
+=== page 15 ===
+Tropical Storm Dalila     15 
+ 
+ 
+ 
+Figure 5. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Tropical Storm Dalila for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, 
+and (d) high (>60%) category. The location of genesis is indicated by the black star. 

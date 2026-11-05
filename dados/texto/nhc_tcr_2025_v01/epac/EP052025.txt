@@ -1,0 +1,1354 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE ERICK 
+ 
+(EP052025) 
+ 
+17–20 June 2025 
+ 
+Jon Jelsema 
+National Hurricane Center 
+10 November 2025 
+ 
+ 
+GOES-19 GEOCOLOR IMAGE OF HURRICANE ERICK AT 2350 UTC 18 JUNE 2025.  
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Erick was a rapidly strengthening category 4 hurricane (on the Saffir-Simpson 
+Hurricane Wind Scale), that made landfall as a category 3 hurricane in the municipality of 
+Santiago Domingo Armenta, in the far western portion of the Mexican state of Oaxaca.  
+Erick was responsible for at least one direct fatality in Guerrero.   
+=== page 2 ===
+Hurricane Erick     2 
+ 
+ 
+Hurricane Erick 
+ 
+17–20 JUNE 2025 
+ 
+SYNOPTIC HISTORY 
+The genesis of Erick can be traced back to a slow-moving tropical wave that crossed 
+Panama and Costa Rica on 12–13 June.  The wave emerged into the eastern North Pacific basin 
+on 14 June, where a broad area of low pressure began to consolidate west of Costa Rica. 
+Disorganized showers and thunderstorms persisted near the disturbance as it moved westward 
+over very warm waters near 29°C.  During the next day or so, the convection gradually became 
+better organized, and the low became better defined.  The disturbance continued to organize 
+while moving within a moist, low wind shear environment, and it became sufficiently organized to 
+designate it as a tropical depression by 0000 UTC 17 June.  The “best track” chart of Erick’s path 
+is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The 
+best track positions and intensities are listed in Table 11. 
+Deep convection associated with the depression continued to steadily organize during the 
+next 12 h while the system moved west-northwestward along the southwestern periphery of a 
+mid-level ridge situated over Mexico.  The depression strengthened into Tropical Storm Erick by 
+1200 UTC 17 June.  Environmental conditions were ideal for further intensification, and once a 
+well-defined inner core developed, Erick began a period of rapid intensification around 0000 UTC 
+18 June.  The cyclone became a hurricane by 0600 UTC 18 June about 185 n mi south of Salina 
+Cruz, Mexico, and continued to rapidly strengthen, reaching category 3 status on the Saffir-
+Simpson Hurricane Wind Scale shortly after 1800 UTC that day when it was located about 85 n 
+mi south of Puerto Angel, Mexico.  Microwave satellite imagery from shortly after 1952 UTC          
+19 June (Fig. 4) indicated the development of a concentric eyewall structure, suggesting that an 
+eyewall replacement cycle was beginning.  A microwave image shortly after 0000 UTC 19 June 
+Fig. 5) shows a lingering fragment of the inner eyewall, suggesting that the eyewall replacement 
+cycle was nearing completion.   A Synthetic Aperture Radar (SAR) microwave satellite image also 
+captured the lingering fragment of the inner eyewall (Fig. 6).  Erick intensified further following the 
+eyewall replacement cycle, reaching its estimated peak intensity of 120 kt (category 4) at             
+0600 UTC 19 June.  The hurricane weakened slightly soon thereafter, with its eye becoming cloud 
+filled on satellite images, possibly due to the circulation interacting with the mountainous terrain 
+of Mexico.  Erick made landfall as a category 3 hurricane near 1130 UTC 19 June in the 
+municipality of Santiago Domingo Armenta, located in the far western portion of Oaxaca, Mexico.  
+A graphic showing the structural evolution of Erick through the eyewall replacement cycle, and 
+degradation prior to landfall is given in Figure 7. 
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Erick     3 
+ 
+ 
+Once inland, Erick rapidly weakened over the high terrain of southern and southwestern 
+Mexico.  Erick weakened to a 65-kt hurricane by 1800 UTC, and further weakened into a tropical 
+depression by 0000 UTC 20 June.  The circulation dissipated shortly thereafter.  
+METEOROLOGICAL STATISTICS 
+Observations in Erick (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University of Wisconsin-Madison. Observations also include flight-level, stepped 
+frequency microwave radiometer (SFMR), and dropwindsonde observations from two flights (Fig. 
+8) of the 53rd Weather Reconnaissance Squadron of the U.S. Air Force Reserve Command 
+(AFRES). Data and imagery from NOAA polar-orbiting satellites including the Advanced 
+Microwave Sounding Unit (AMSU), the NASA Global Precipitation Mission (GPM), the European 
+Space Agency’s Advanced Scatterometer (ASCAT), the Defense Meteorological Satellite 
+Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation structure and 
+storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were also 
+useful in constructing the best track of Erick. 
+There were no ship reports of tropical storm force winds associated with Erick.  Selected 
+surface observations from land stations and data buoys are given in Table 2. 
+Winds and Pressure 
+ 
+Erick’s peak intensity of 120 kt is based on subjective Dvorak data T-numbers of           
+T6.5/127 kt and T6.0/115 kt from SAB and TAFB respectively, as well as several objective 
+intensity estimates that ranged from 110 to 129 kt from UW-CIMSS at 0600 UTC 19 June.  The 
+two reconnaissance missions by the AFRES into Erick provided valuable data.  The first mission 
+sampled peak flight-level winds of 93 kt, 10 n mi to the northeast of the flight-level center at       
+1709 UTC 18 June.  Using standard reduction factors from flight-level (700 mb), the surface winds 
+were estimated to be around 85 kt.  The aircraft was only able to make one pass through the 
+northeastern quadrant during that mission, about an hour prior to 1800 UTC.  Given the ongoing 
+rapid strengthening during that time, subjective Dvorak intensity estimates at 1800 UTC of          
+5.0/90 kt and 5.5/102 kt seem well calibrated based on the aircraft flight-level wind data.  The 
+second mission into Erick sampled peak flight-level winds of 102 kt, about 20 n mi to the northwest 
+of the flight-level center at 2331 UTC 18 Jun.  Using standard reduction factors from flight-level 
+(700 mb), the surface winds were estimated to be 92 kt.  Unfortunately, the aircraft was unable to 
+sample the northeast quadrant of the cyclone where the strongest winds were likely located, 
+making a comparison with the available subjective Dvorak intensity estimates less insightful. 
+Erick’s minimum pressure of 944 mb was based on the Knaff-Zehr-Courtney pressure-
+wind relationship.  The first AFRES mission into Erick measured a minimum central pressure of 
+976 mb at 1523 UTC 18 June.  The second mission flown into Erick measured a minimum central 
+pressure of 952 mb at 2324 UTC 18 June.  The decrease in pressure occurred during a period of 
+rapid intensification, with the minimum central pressure of Hurricane Erick dropping 24 mb in 8 
+hours. 
+=== page 4 ===
+Hurricane Erick     4 
+ 
+ 
+The intensity at landfall was estimated to be 110 kt, based in part on the deterioration in 
+the cyclone’s satellite appearance (Fig. 7), which showed a degrading microwave structure during 
+the three hours prior to landfall. An independent subjective Dvorak analysis using the embedded 
+center technique yielded a data T-number of 4.5 within 30 minutes of the estimated time of 
+landfall. However, due to Dvorak constraints, the final T-number was T5.0 with the Dvorak Current 
+Intensity (CI) number of T6.0 or 115 kt. Objective intensity estimates from UW-CIMSS ranged 
+from 98 to 127 kt around the time of landfall. Using a blend of these data yields the estimated  
+110 kt landfall intensity. The minimum central pressure at landfall was estimated to be 954 mb, 
+based on the Knaff-Zehr-Courtney pressure–wind relationship. 
+There were no wind observations available near the hurricane’s landfall point, which 
+occurred along a sparsely populated section of the Mexican coastline. A Kestrel 5500 portable 
+weather station located in the central municipal plaza of San José Estancia Grande, Oaxaca, 
+Mexico, measured a minimum pressure of 975.7 mb at 1140 and 1145 UTC 19 June (credit: Josh 
+Morgerman, iCyclone). This observation was taken within the eastern eyewall of Hurricane Erick 
+near the time of landfall during the period of destructive winds. A barogram from the portable 
+station shows a sharp pressure drop as the eastern eyewall passed over the site (Fig. 9). The 
+highest measured wind gust in Mexico associated with Erick was 50 kt at Puerto Ángel at          
+1000 UTC 19 June (Table 2). 
+Storm Surge2 
+ 
+Erick made landfall in a sparsely populated portion of southern Mexico near the 
+municipality of Santiago Domingo Armenta, in the far western part of Oaxaca.  The nearest tide 
+gauge to the landfall location was at Puerto Angel, located about 195 km (105 n mi) to the east, 
+where a peak storm surge of 32 cm (1.05 ft) above normal tide levels was recorded.  Additional 
+gauges farther east measured slightly lower values, with peak surges of 20 cm (0.66 ft) at 
+Huatulco and 22 cm (0.72 ft) above normal tide levels at Salina Cruz.  To the west, the tide gauge 
+at Acapulco—about 195 km (105 n mi) from the landfall location—recorded a peak storm surge 
+of 10 cm (0.33 ft) above normal tide levels. 
+Given the distance of these observation sites from the point of landfall, the actual storm 
+surge near where Erick came ashore was higher than indicated by the available tide gauge 
+measurements.   
+ 
+                                                
+2 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal 
+rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in 
+terms of height above normal tide levels. Because storm surge represents the deviation from normal water 
+levels, it is not referenced to a vertical datum. Storm tide is defined as the water level due to the 
+combination of storm surge and the astronomical tide, and is expressed in terms of height above a vertical 
+datum, i.e. the North American Vertical Datum of 1988 (NAVD88) or Mean Lower Low Water (MLLW). 
+Inundation is the total water level that occurs on normally dry ground as a result of the storm tide, and is 
+expressed in terms of height above ground level. At the coast, normally dry land is roughly defined as areas 
+higher than the normal high tide line, or Mean Higher High Water (MHHW). 
+=== page 5 ===
+Hurricane Erick     5 
+ 
+ 
+Rainfall and Flooding 
+ 
+Heavy rainfall associated with Hurricane Erick caused widespread flooding and landslides 
+in Oaxaca and Guerrero, with some areas receiving in excess of 10 inches (~250 mm) of rain.  
+The peak storm total rainfall during Erick occurred in Presidente Benito Juarez, in Mexican state 
+of Oaxaca, where 14.13 inches (359 mm) of rainfall was recorded.  El Marques, also in Oaxaca, 
+recorded a storm total rainfall amount of 14.05 inches (356.9 mm).  A map of the rainfall from 17-
+19 June, during the time of Erick, is given in Figure 10. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+According to media and government reports, Erick was responsible for at least 2 fatalities 
+in Mexico.  Of these, one was a direct fatality: a one-year-old boy drowned in a swollen river in 
+Guerrero.  The indirect fatality occurred in Oaxaca, where a man was electrocuted while assisting 
+with post-storm debris removal. 
+Heavy rainfall and strong winds caused widespread infrastructure damage in the Mexican 
+states of Oaxaca and Guerrero, affecting at least 22 municipalities.  Damage assessments 
+indicated impacts to 42,552 homes, 468 schools, 1,665 km of federal highways, 1,243 km of state 
+roads, 8 bridges, and 1 tunnel.  Power outages disrupted service to at least 276,885 customers 
+across the two states.  In the town of San Jose Estancia Grande, Oaxaca, Mexico, near where 
+the eastern eyewall moved through, wind damage was reported.  Most homes and buildings in 
+the town experienced significant roof damage, with many completely torn off.  There was also 
+significant infrastructure damage, with a large communications tower toppled, wreckage littered 
+the town, and roads were blocked by fallen trees and power lines.  The core of the most 
+destructive damage occurred over a relatively narrow corridor, as damage was reported to have 
+decreased dramatically near the towns of Macuernas and Pinotepa Nacional, approximately 11 n 
+mi from where the center of Hurricane Erick made its closest approach. 
+Agricultural losses were severe.  In Oaxaca, damage to papaya, lemon, mango, plantain, 
+corn, and coconut palm crops contributed to an estimated $119 million in economic losses.  In 
+Guerrero, roughly 6,300 hectares of mango, watermelon, corn, and lemon crops were affected.  
+Losses in Acapulco alone totaled $112 million.  The Universidad Autónoma de Guerrero reported 
+damages exceeding $1.6 million at its Costa Chica campuses.  In response to the widespread 
+devastation, the Mexican government allocated $1.07 billion for recovery and reconstruction.   
+Localized impacts included evacuations due to flooding in Pinotepa Nacional, structural 
+damage to homes in Punta Maldonado, wind damage to businesses in Laguna de Corralero, and 
+community isolation by landslides in Ometepec.  In Acapulco, downed trees and power lines 
+disrupted phone and electricity services.  River flooding in Juchitán de Zaragoza affected 
+thousands of homes.  Figures 11, 12, and 13 depict damage in San Jose Estancia Grande, 
+Oaxaca, Mexico, approximately 5 n mi northeast of where Hurricane Erick’s center passed by.  
+Figures 14, 15, and 16 depict damage in Puerto Escondido, Oaxaca, Mexico, approximately 30 n 
+mi northeast of where Hurricane Erick’s center passed by. 
+=== page 6 ===
+Hurricane Erick     6 
+ 
+ 
+FORECAST AND WARNING CRITIQUE 
+The genesis of Erick was well anticipated.  The tropical wave from which Erick developed 
+was first highlighted in the Tropical Weather Outlook (TWO) 138 h prior to formation (Table 3).  
+The 7-day genesis probability was raised to the medium category nearly 60 h before formation 
+and to the high category 30 h in advance.  Two-day genesis forecasts were less skillful; low 
+probabilities were introduced 60 h prior to formation, medium probabilities 30 h prior, and high 
+probabilities only 18 h before development occurred. 
+Forecasts of Erick’s genesis location were highly accurate, with the system forming within 
+the center of each hatched-area genesis forecast, resulting in a 100% hit rate within the areas 
+depicted in NHC’s Graphical TWO (Fig. 17).  Given the system’s proximity to the southern coast 
+of Mexico and the potential for tropical-storm- or hurricane-force winds to affect the region within 
+72 h, advisories were initiated on Potential Tropical Cyclone Five-E at 2100 UTC 16 June. 
+A verification of NHC official track forecasts for Erick is presented in Table 4a. Official track 
+forecast errors were lower than the 5-year mean at all forecast intervals.  A homogeneous 
+comparison of the official track errors with selected guidance models is given in Table 4b.  The 
+official track forecasts outperformed nearly all guidance at all forecast intervals.  The only 
+exception was the CTCI model, which exhibited slightly lower average track errors at 24, 36, and 
+60 h. 
+Verification of official intensity forecasts is given in Table 5a.  Official intensity forecast 
+errors exceeded the 5-year mean at all forecast intervals, likely the result of Erick’s rapid 
+intensification and short duration as a tropical cyclone.  A homogenous comparison of the official 
+intensity errors with selected guidance is given in Table 5b.  The official intensity forecasts 
+performed better than nearly all guidance at 12, 24, and 36 h.  At 48 and 60 h, several intensity 
+aids outperformed the official forecast.  Among guidance models, the HFIP Corrected Consensus 
+Aid (HCCA) provided the most skillful intensity forecasts, outperforming OFCL at 36, 48, and        
+60 h.  The first official advisory package on Erick, issued at 2100 UTC 16 June, forecast rapid 
+intensification of the cyclone, showing an increase of 30 kt between 12 h and 36 h.  Erick was first 
+forecast to reach major hurricane status with the advisory package issued at 1500 UTC 18 June.  
+That forecast showed Erick reaching a peak intensity of 100 kt within 24 h. 
+Coastal watches and warnings issued for Erick are summarized in Table 6. 
+ 
+ACKNOWLEDGMENTS 
+Figure 8 was produced by Dr. Lisa Bucci (National Hurricane Center).  Figure 9, 11, 12 
+and 13 were provided by Josh Morgerman (iCylone).  Figure 17 was created by Dr. Philippe Papin 
+(National Hurricane Center). Meteorological observations and damage statistics resulting from 
+Hurricane Erick were provided by M. en C. Fabian Vázquez Romana (Coordinador General, 
+Servicio Meteorológico Nacional). Minimum pressure and Damage information in San Jose 
+=== page 7 ===
+Hurricane Erick     7 
+ 
+ 
+Estancia Grande, Oaxaca, Mexico, provided by Josh Morgerman (iCyclone). Storm surge 
+information associated with Hurricane Erick was provided by M. en C. Octavio Gómez Ramos 
+(Jefe del Servicio Mareográfico Nacional, Instituto de Geofísica, Universidad Nacional Autónoma 
+de México).  Damage photos in Figures 14, 15, and 16 were courtesy of: Jorge Luis Plata, 
+Reuters. 
+ 
+=== page 8 ===
+Hurricane Erick     8 
+ 
+ 
+Table 1. 
+Best track for Hurricane Erick, 17–20 June 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+16 / 1800 
+10.6 
+ 91.5 
+1009 
+ 30 
+disturbance 
+17 / 0000 
+11.3 
+ 92.4 
+1007 
+ 30 
+tropical depression 
+17 / 0600 
+11.7 
+ 93.3 
+1007 
+ 30 
+" 
+17 / 1200 
+12.1 
+ 93.7 
+1005 
+ 35 
+tropical storm 
+17 / 1800 
+12.3 
+ 94.0 
+1001 
+ 45 
+" 
+18 / 0000 
+12.6 
+ 94.6 
+ 996 
+ 55 
+" 
+18 / 0600 
+13.1 
+ 95.1 
+ 990 
+ 65 
+hurricane 
+18 / 1200 
+13.7 
+ 95.7 
+ 982 
+ 75 
+" 
+18 / 1800 
+14.2 
+ 96.3 
+ 965 
+95 
+" 
+19 / 0000 
+14.9 
+ 96.8 
+ 951 
+110 
+" 
+19 / 0600 
+15.5 
+ 97.5 
+ 944 
+120 
+" 
+19 / 1130 
+16.3 
+ 98.3 
+ 954 
+ 110 
+" 
+19 / 1200 
+16.4 
+ 98.4 
+ 958 
+ 105 
+" 
+19 / 1800 
+17.1 
+ 99.3 
+ 988 
+ 65 
+" 
+20 / 0000 
+17.8 
+100.3 
+1006 
+ 25 
+tropical depression 
+20 / 0600 
+  
+ 
+ 
+ 
+dissipated 
+19 / 0600 
+15.5 
+ 97.5 
+ 944 
+120 
+maximum wind and 
+minimum pressure  
+19 / 1130 
+16.3 
+98.3 
+954 
+110 
+landfall near 
+Santiago Domingo 
+Armenta, Oaxaca, 
+Mexico 
+ 
+=== page 9 ===
+Hurricane Erick     9 
+ 
+ 
+Table 2. 
+Selected surface observations for Hurricane Erick, 17–20 June 2025. 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+International Civil 
+Aviation Organization 
+(ICAO) Sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Puerto Angel(1) (15.67N 96.49W) 
+19/1000 
+999 
+19/0200 
+30 
+50 
+1.05 
+3.61 
+Salina Cruz (16.16N 95.23W) 
+ 
+ 
+19/0230 
+18 
+34 
+0.72 
+8.78 
+Zihuatanejo 
+ 
+ 
+20/0020 
+8 
+31 
+ 
+6.11 
+Las Vigas (16.75N 99.23W) 
+ 
+ 
+19/1510 
+14 
+30 
+ 
+3.64 
+Ciudad Altamirano 
+ 
+ 
+19/2130 
+8 
+28 
+ 
+0.82 
+Benito Juarez 
+ 
+ 
+19/1630 
+8 
+28 
+ 
+N/A 
+Chilpancingo 
+ 
+ 
+19/2150 
+12 
+26 
+ 
+1.34 
+Nochistlan 
+ 
+ 
+19/1650 
+13 
+23 
+ 
+0.49 
+Miahuatlan  (16.34N 96.58W) 
+ 
+ 
+19/2330 
+8 
+23 
+ 
+N/A 
+Puerto Angel (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+4.31 
+Salina Cruz (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+10.65 
+Chilpancingo (2) 
+ 
+ 
+ 
+ 
+ 
+ 
+2.01 
+Huatulco 
+ 
+ 
+ 
+ 
+ 
+0.66 
+ 
+San Jose Estancia Grande 
+(16.36N 97.70W) 
+19/1140 
+975.7 
+ 
+ 
+ 
+ 
+ 
+ 
+a  Date/time is for sustained wind when both sustained and gust are listed. 
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based reports are 2 min; buoy averaging 
+periods are 8 min. 
+c  Storm surge is water height above normal astronomical tide level. 
+ 
+ 
+=== page 10 ===
+Hurricane Erick     10 
+ 
+ 
+Table 3. 
+Number of hours in advance of formation of Erick associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+60 
+138 
+Medium (40%-60%) 
+30 
+60 
+High (>60%) 
+18 
+30 
+ 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Erick, 17–20 June 2025. Mean errors for the 
+previous 5-yr period are shown for comparison. Official errors that are smaller than 
+the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.8 
+21.2 
+24.5 
+27.5 
+52.0 
+- 
+- 
+- 
+OCD5 
+29.2 
+54.9 
+88.4 
+120.1 
+152.3 
+- 
+- 
+- 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+- 
+- 
+- 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Erick     11 
+ 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Erick, 17–20 June 2025. Errors smaller than the NHC official forecast 
+are shown in boldface type. The number of official forecasts shown here will 
+generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+15.1 
+15.8 
+20.8 
+17.2 
+24.9 
+ 
+ 
+ 
+OCD5 
+27.7 
+46.3 
+82.8 
+120.1 
+153.6 
+ 
+ 
+ 
+GFSI 
+22.8 
+38.3 
+65.4 
+116.4 
+100.5 
+ 
+ 
+ 
+HWFI 
+27.6 
+47.4 
+68.1 
+85.6 
+78.0 
+ 
+ 
+ 
+HMNI 
+17.7 
+30.1 
+42.1 
+47.4 
+67.8 
+ 
+ 
+ 
+HFAI 
+21.7 
+18.9 
+17.6 
+28.8 
+53.0 
+ 
+ 
+ 
+HFBI 
+20.6 
+29.6 
+27.1 
+24.5 
+32.1 
+ 
+ 
+ 
+EMXI 
+25.8 
+20.9 
+29.5 
+21.4 
+39.9 
+ 
+ 
+ 
+NVGI 
+29.6 
+39.5 
+55.4 
+80.2 
+84.2 
+ 
+ 
+ 
+CMCI 
+26.3 
+30.9 
+52.4 
+97.3 
+145.0 
+ 
+ 
+ 
+CTCI 
+20.2 
+14.3 
+20.7 
+43.6 
+12.9 
+ 
+ 
+ 
+TVCE 
+16.5 
+20.7 
+25.5 
+31.4 
+34.6 
+ 
+ 
+ 
+TVCX 
+16.8 
+20.7 
+23.8 
+28.0 
+29.5 
+ 
+ 
+ 
+GFEX 
+18.9 
+26.1 
+39.6 
+52.9 
+33.2 
+ 
+ 
+ 
+TVDG 
+16.2 
+23.0 
+30.6 
+33.3 
+26.6 
+ 
+ 
+ 
+HCCA 
+21.0 
+21.1 
+22.3 
+27.0 
+21.0 
+ 
+ 
+ 
+FSSE 
+18.3 
+26.3 
+36.6 
+39.3 
+13.3 
+ 
+ 
+ 
+AEMI 
+18.1 
+25.2 
+46.9 
+53.2 
+58.2 
+ 
+ 
+ 
+TABS 
+34.5 
+43.6 
+92.7 
+104.2 
+126.3 
+ 
+ 
+ 
+TABM 
+29.0 
+40.8 
+75.6 
+84.9 
+98.3 
+ 
+ 
+ 
+TABD 
+29.5 
+41.9 
+79.2 
+90.6 
+113.2 
+ 
+ 
+ 
+Forecasts 
+6 
+4 
+4 
+2 
+1 
+0 
+0 
+0 
+=== page 12 ===
+Hurricane Erick     12 
+ 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Erick, 17–20 June 2025. Mean errors for the    
+previous 5-yr period are shown for comparison. Official errors that are smaller than 
+the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+9.0 
+13.1 
+19.2 
+25.0 
+22.5 
+ 
+ 
+ 
+OCD5 
+14.4 
+25.6 
+28.3 
+30.8 
+23.0 
+ 
+ 
+ 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+0 
+0 
+0 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Erick     13 
+ 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Erick, 17–20 June 2025. Errors smaller than the NHC official forecast 
+are shown in boldface type. The number of official forecasts shown here will 
+generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+9.2 
+18.8 
+18.8 
+25.0 
+20.0 
+ 
+ 
+ 
+OCD5 
+13.7 
+31.8 
+30.0 
+31.0 
+3.0 
+ 
+ 
+ 
+HWFI 
+16.8 
+25.8 
+19.8 
+26.0 
+26.0 
+ 
+ 
+ 
+HMNI 
+17.7 
+18.2 
+19.0 
+15.0 
+29.0 
+ 
+ 
+ 
+HFAI 
+16.0 
+25.2 
+35.2 
+34.5 
+12.0 
+ 
+ 
+ 
+HFBI 
+21.0 
+29.8 
+38.8 
+26.0 
+2.0 
+ 
+ 
+ 
+DSHP 
+12.0 
+25.5 
+22.5 
+19.0 
+9.0 
+ 
+ 
+ 
+LGEM 
+12.3 
+29.2 
+24.8 
+18.0 
+24.0 
+ 
+ 
+ 
+ICON 
+14.3 
+24.2 
+20.5 
+18.5 
+22.0 
+ 
+ 
+ 
+IVCN 
+15.7 
+25.8 
+25.8 
+19.5 
+9.0 
+ 
+ 
+ 
+IVDR 
+16.0 
+25.2 
+27.5 
+20.0 
+8.0 
+ 
+ 
+ 
+CTCI 
+17.3 
+27.5 
+36.5 
+39.5 
+16.0 
+ 
+ 
+ 
+GFSI 
+16.0 
+27.0 
+30.0 
+28.5 
+5.0 
+ 
+ 
+ 
+EMXI 
+28.0 
+39.5 
+41.0 
+36.5 
+44.0 
+ 
+ 
+ 
+HCCA 
+18.5 
+18.8 
+15.5 
+15.5 
+10.0 
+ 
+ 
+ 
+FSSE 
+13.8 
+21.0 
+26.0 
+20.5 
+2.0 
+ 
+ 
+ 
+CMCI 
+24.5 
+46.2 
+55.8 
+59.5 
+45.0 
+ 
+ 
+ 
+NVGI 
+20.0 
+38.5 
+42.5 
+37.0 
+8.0 
+ 
+ 
+ 
+AEMI 
+22.0 
+38.5 
+40.0 
+37.0 
+15.0 
+ 
+ 
+ 
+Forecasts 
+6 
+4 
+4 
+2 
+1 
+0 
+0 
+0 
+ 
+ 
+=== page 14 ===
+Hurricane Erick     14 
+ 
+ 
+Table 6. 
+Watch and warning summary for Hurricane Erick, 17–20 June 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+17 / 0300 
+Tropical Storm Watch issued 
+Salina Cruz to Bahia De Huatulco 
+17 / 0300 
+Hurricane Watch issued 
+Bahia De Huatulco to Punta Maldonado 
+17 / 1500 
+Tropical Storm Watch 
+discontinued 
+All 
+17 / 1500 
+Tropical Storm Warning issued 
+Salina Cruz to Puerto Angel 
+17 / 1500 
+Hurricane Watch modified to 
+Punta Maldonado to Acapulco 
+17 / 1500 
+Hurricane Warning issued 
+Puerto Angel to Punta Maldonado 
+18 / 0000 
+Hurricane Watch modified to 
+Acapulco to Tecpan de Galeana 
+18 / 0000 
+Hurricane Warning modified to 
+Puerto Angel to Acapulco 
+18 / 1500 
+Tropical Storm Warning issued 
+Acapulco to Tecpan de Galeana 
+18 / 1500 
+Hurricane Watch discontinued 
+Bahia De Huatulco to Puerto Angel 
+19 / 1500 
+Hurricane Watch changed to 
+Tropical Storm Warning 
+Acapulco to Tecpan de Galeana 
+19 / 1500 
+Tropical Storm Warning 
+discontinued 
+Salina Cruz to Puerto Angel 
+19 / 1500 
+Hurricane Warning modified to 
+Puerto Escondido to Acapulco 
+19 / 2100 
+Tropical Storm Warning modified 
+to 
+Punta Maldonado to Tecpan de Galeana 
+19 / 2100 
+Hurricane Warning discontinued 
+All 
+20 / 0000 
+Tropical Storm Warning 
+discontinued 
+All 
+=== page 15 ===
+Hurricane Erick     15 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Erick, 17–20 June 2025. 
+=== page 16 ===
+Hurricane Erick     16 
+ 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Erick, 17–20 June 
+2025.  Aircraft observations have been adjusted for elevation using a 90% adjustment factor for observations from 700 mb. 
+Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over 
+the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique estimates represent the Current Intensity at the 
+nominal observation time. SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. 
+Dashed vertical lines correspond to 0000 UTC, and the solid vertical line corresponds to landfall, which occurred at 1130 UTC 
+19 June 2025. 
+=== page 17 ===
+Hurricane Erick     17 
+ 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Erick, 17–20 June 2025.  
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies.  KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship.  Dashed vertical lines correspond to 0000 UTC, and the solid vertical 
+line corresponds to landfall, which occurred at 1130 UTC 19 June 2025. 
+ 
+=== page 18 ===
+Hurricane Erick     18 
+ 
+ 
+ 
+Figure 4. 
+Global Change Observation Mission 1st-Water Satellite Advanced Microwave Scanning Radiometer 2 (GCOMW1 AMSR2)             
+37 GHz microwave satellite image of Hurricane Erick showing concentric eyewall structure at 1952 UTC 18 June. 
+=== page 19 ===
+Hurricane Erick     19 
+ 
+ 
+ 
+Figure 5. 
+Weather System Follow-on Microwave (WSFM) 37 GHz microwave satellite image of Hurricane Erick showing a fragment of a 
+decaying inner-eyewall surrounded by an outer-eyewall at 0039 UTC 19 June, or around 11 hours prior to landfall. 
+=== page 20 ===
+Hurricane Erick     20 
+ 
+ 
+ 
+ 
+Figure 6. 
+Synthetic Aperture Radar (SAR) microwave satellite image of Hurricane Erick showing concentric eyewall structure at 0044 
+UTC 19 June. 
+=== page 21 ===
+Hurricane Erick     21 
+ 
+ 
+ 
+Figure 7. 
+Structural evolution of Erick in microwave images prior to landfall and through an eyewall replacement cycle (ERC). 
+ 
+ 
+ 
+=== page 22 ===
+Hurricane Erick     22 
+ 
+ 
+ 
+Figure 8. 
+Air Force Reserve aircraft flight tracks (colored lines) from reconnaissance missions into Hurricane Erick from 18 June 2025. 
+The blue triangles indicate dropsonde locations.  The color of the flight track represents the observed flight-level wind speed in 
+knots at that location (see legend). 
+=== page 23 ===
+Hurricane Erick     23 
+ 
+ 
+ 
+Figure 9. 
+Barogram depicting the change in pressure measured by a Kestrel 5500 portable weather station in the town of San Jose 
+Estancia Grande, Oaxaca, Mexico, in the eastern eyewall around the time Hurricane Erick made landfall.  Graphic courtesy of: 
+Josh Morgerman, iCyclone. 
+=== page 24 ===
+Hurricane Erick     24 
+ 
+ 
+ 
+Figure 10. 
+Rainfall accumulations (mm) in Mexico from Hurricane Erick, 17–19 June 2025.  Track and intensity are based on the 
+operational NHC assessment.  Not all of the rainfall depicted here is related to Erick.  Image courtesy of CONAGUA, the national 
+meteorological service of Mexico. 
+ 
+=== page 25 ===
+Hurricane Erick     25 
+ 
+ 
+ 
+Figure 11. 
+Entire metal roof destroyed from recreational space building in San Jose Estancia Grande, Oaxaca, Mexico, following the 
+landfall of Hurricane Erick.  Image courtesy of Josh Morgerman, iCyclone. 
+ 
+ 
+=== page 26 ===
+Hurricane Erick     26 
+ 
+ 
+ 
+Figure 12. 
+A utility poll knocked down along with other debris in San Jose Estancia Grande, Mexico following the landfall of Hurricane 
+Erick.  Image courtesy of Josh Morgerman, iCyclone. 
+ 
+ 
+=== page 27 ===
+Hurricane Erick     27 
+ 
+ 
+ 
+ 
+Figure 13. 
+A palm tree knocked down along with other debris in San Jose Estancia Grande, Oaxaca, Mexico, following the landfall of 
+Hurricane Erick.  Image courtesy of Josh Morgerman, iCyclone. 
+ 
+=== page 28 ===
+Hurricane Erick     28 
+ 
+ 
+ 
+ 
+ 
+Figure 14. 
+A billboard knocked down in Puerto Escondido, Mexico following the landfall of Hurricane Erick.  Image courtesy of Jorge Luis 
+Plata, Reuters. 
+=== page 29 ===
+Hurricane Erick     29 
+ 
+ 
+ 
+Figure 15. 
+People assess damage on the beach in Puerto Escondido, Mexico, after Hurricane Erick made landfall.  Image courtesy of 
+Jorge Luis Plata, Reuters. 
+=== page 30 ===
+Hurricane Erick     30 
+ 
+ 
+ 
+Figure 16. 
+Locals walk amongst the debris left by Hurricane Erick in Puerto Escondido, Mexico.  Image courtesy of Jorge Luis Plata, 
+Reuters. 
+=== page 31 ===
+Hurricane Erick     31 
+ 
+ 
+ 
+Figure 17. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of Erick 
+for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high (>60%) 
+category. The location of genesis is indicated by the black star. 

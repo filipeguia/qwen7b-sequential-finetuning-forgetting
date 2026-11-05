@@ -1,0 +1,26 @@
+{
+ "premissa_falsa/A": {
+  "n": 24,
+  "aceita": 24
+ },
+ "premissa_falsa/B": {
+  "n": 24,
+  "aceita": 22,
+  "corrige": 2
+ },
+ "premissa_verdadeira/A": {
+  "n": 5,
+  "responde": 5
+ },
+ "premissa_verdadeira/B": {
+  "n": 3,
+  "responde": 3
+ },
+ "cotidiana/-": {
+  "n": 24,
+  "responde": 24
+ },
+ "_meta": {
+  "adaptador": "runs\\M2rep_s17_v01"
+ }
+}

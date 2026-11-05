@@ -1,0 +1,67 @@
+{
+ "tokens_conteudo_A": 14655,
+ "tokens_conteudo_B": 15037,
+ "energia": 0.99,
+ "camadas": {
+  "7/q_proj": {
+   "posto_99pct_A": 1908,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0378,
+   "eta_delta_sobrevive": 0.3867,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.4675,
+    "eta_delta_sobrevive": 0.472
+   }
+  },
+  "7/up_proj": {
+   "posto_99pct_A": 2452,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0518,
+   "eta_delta_sobrevive": 0.2621,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.3165,
+    "eta_delta_sobrevive": 0.3191
+   }
+  },
+  "14/q_proj": {
+   "posto_99pct_A": 2020,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0235,
+   "eta_delta_sobrevive": 0.3138,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.4376,
+    "eta_delta_sobrevive": 0.4347
+   }
+  },
+  "14/up_proj": {
+   "posto_99pct_A": 2615,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0323,
+   "eta_delta_sobrevive": 0.2008,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.2724,
+    "eta_delta_sobrevive": 0.2708
+   }
+  },
+  "21/q_proj": {
+   "posto_99pct_A": 2421,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0259,
+   "eta_delta_sobrevive": 0.1982,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.3263,
+    "eta_delta_sobrevive": 0.3295
+   }
+  },
+  "21/up_proj": {
+   "posto_99pct_A": 2683,
+   "dimensao": 3584,
+   "rho_B_fora": 0.0306,
+   "eta_delta_sobrevive": 0.1709,
+   "controle_aleatorio": {
+    "rho_B_fora": 0.2538,
+    "eta_delta_sobrevive": 0.2527
+   }
+  }
+ }
+}

@@ -1,0 +1,777 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM COSME 
+ 
+(EP032025) 
+ 
+8–11 June 2025 
+ 
+Alex Gibbs and Jon Jelsema 
+National Hurricane Center 
+22 August 2025 
+ 
+ 
+GOES-WEST SANDWICH RGB SATELLITE IMAGE OF TROPICAL STORM COSME AT 1800 UTC 9 JUNE 2025, 
+NEAR THE TIME OF ITS PEAK INTENSITY. IMAGE COURTESY NOAA/NESDIS/STAR. 
+ 
+Cosme was a tropical storm that formed offshore of the coast of southwestern Mexico 
+and did not bring any notable impacts to land. 
+ 
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Cosme. 
+=== page 2 ===
+Tropical Storm COSME     2 
+ 
+Tropical Storm COSME 
+ 
+8–11 JUNE 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Tropical Storm Cosme are listed in Table 1. 
+The “best track” chart of Cosme’s path is given in Fig. 1, with the wind and pressure histories 
+along with available observations3 shown in Figs. 2 and 3, respectively. There were no credible 
+ship observations of tropical-storm-force winds associated with Cosme. 
+Origin 
+Cosme originated from a broad area of low pressure located within the eastern North 
+Pacific monsoon trough about 500 n mi offshore of southwestern Mexico on 5 June. A tropical 
+wave that emerged from the west coast of Africa on 24 May and crossed Central America on 2–
+3 June may have also contributed to its genesis. Showers and thunderstorms associated with this 
+system gradually became better organized as it began to lift north-northwestward on 6–7 June.  
+The system is estimated to have become a tropical depression at 0600 UTC 8 June, when deep 
+convection consolidated over the low-level circulation center, with curved bands wrapping into the 
+center from the west and southern semicircles. The cyclone strengthened into a 35-kt tropical 
+storm about 6 h later. 
+Peak Intensity and Minimum Pressure 
+Cosme’s estimated peak intensity of 60 kt from 1800 UTC 9 June to 1200 UTC 10 June 
+is supported by subjective Dvorak estimates from TAFB and SAB, along with objective estimates 
+from UW-CIMSS. Ultra-high-resolution ASCAT data during this period (Fig. 4) showed peak winds 
+of 45–50 kt, while an RCM-1 synthetic aperture radar (SAR) pass from a few hours earlier 
+indicated maximum winds of 63 kt in the southeastern quadrant. Although offset by a few hours, 
+the two passes revealed a similar wind structure. However, it is worth noting that SAR wind data 
+ 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison.  Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Cosme. 
+=== page 3 ===
+Tropical Storm COSME     3 
+ 
+are still being evaluated for their application in estimating peak winds and structure in tropical 
+cyclones.     
+The estimated minimum central pressure of 991 mb is a blend of the Knaff-Zehr-Courtney 
+(KZC) pressure-wind relationship and subjective and objective Dvorak estimates. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Cosme. 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. NHC introduced the feature in the 
+TWO in the low category (<30%) in both the 2- and 7-day periods, 54 and 60 h before genesis, 
+respectively, although the 7-day outlook provided much shorter-than-average lead time. This 
+reduced lead time was partly due to the proximity of Tropical Storm Barbara, which also formed 
+several hundred miles to the northeast of Cosme at 0600 UTC 8 June. Its presence added 
+uncertainty in the numerical guidance, as the models struggled to depict both systems until shortly 
+before formation. Probabilities reached the high category (>60%) within 24 hours of the system’s 
+initial inclusion in the TWO. Fig. 5 shows composites of 7-day TWO genesis areas for each 
+category prior to Cosme’s formation. While the genesis location was captured within all of the 
+outlook areas, it ultimately occurred near the southern edge of most of the regions depicted. 
+A verification of NHC official track forecasts for Cosme is given in Table 3a. Official track 
+forecast errors were lower than the mean official errors for the previous 5-year period at 12, 24, 
+and 60 hours. At 36 and 48 hours, the forecast errors were higher than the 5-year means, although 
+the small sample size limits meaningful interpretation. A homogeneous comparison of the official 
+track errors with selected guidance models is given in Table 3b.  
+A verification of NHC official intensity forecasts for Cosme is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-year period at 
+all forecast times through 60 hours. A homogeneous comparison of the official intensity errors 
+with selected guidance models is given in Table 4b. 
+There were no coastal watches or warnings issued for Cosme. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Philippe Papin (NHC) created the Graphical TWO verification figure. 
+ 
+=== page 4 ===
+Tropical Storm COSME     4 
+ 
+Table 1. 
+Best track for Tropical Storm Cosme, 8–11 June 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+08 / 0600 
+11.7 
+110.0 
+1005 
+30 
+tropical depression 
+08 / 1200 
+12.3 
+110.4 
+1002 
+35 
+tropical storm 
+08 / 1800 
+13.0 
+110.8 
+1000 
+40 
+“ 
+09 / 0000 
+13.5 
+111.6 
+1000 
+40 
+“ 
+09 / 0600 
+14.0 
+112.4 
+999 
+45 
+“ 
+09 / 1200 
+14.4 
+113.0 
+994 
+55 
+“ 
+09 / 1800 
+14.7 
+113.6 
+991 
+60 
+“ 
+10 / 0000 
+15.0 
+114.1 
+991 
+60 
+“ 
+10 / 0600 
+15.1 
+114.5 
+991 
+60 
+“ 
+10 / 1200 
+15.3 
+114.9 
+993 
+60 
+“ 
+10 / 1800 
+15.6 
+115.2 
+999 
+50 
+“ 
+11 / 0000 
+15.9 
+115.0 
+1001 
+45 
+“ 
+11 / 0600 
+16.0 
+114.5 
+1004 
+40 
+low 
+11 / 1200 
+16.2 
+113.8 
+1006 
+30 
+“ 
+11 / 1800 
+16.5 
+112.9 
+1008 
+25 
+“ 
+12 / 0000 
+ 
+ 
+ 
+ 
+dissipated 
+09 / 1800 
+14.7 
+113.6 
+991 
+60 
+minimum pressure & 
+maximum winds 
+ 
+ 
+ 
+ 
+=== page 5 ===
+Tropical Storm COSME     5 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+54 
+60 
+Medium (40%-60%) 
+42 
+54 
+High (>60%) 
+30 
+42 
+ 
+ 
+ 
+=== page 6 ===
+Tropical Storm COSME     6 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Cosme, 8–11 June 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.0 
+26.7 
+46.2 
+69.6 
+64.6 
+ 
+ 
+ 
+OCD5 
+27.8 
+65.2 
+84.4 
+77.7 
+145.5 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+=== page 7 ===
+Tropical Storm COSME     7 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Cosme, 8–11 June 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.0 
+26.7 
+46.2 
+69.6 
+64.6 
+ 
+ 
+ 
+OCD5 
+27.8 
+65.2 
+84.4 
+77.7 
+145.5 
+ 
+ 
+ 
+GFSI 
+32.9 
+60.6 
+93.5 
+140.6 
+232.3 
+ 
+ 
+ 
+HMNI 
+32.8 
+59.1 
+89.8 
+128.0 
+235.8 
+ 
+ 
+ 
+HWFI 
+31.8 
+50.4 
+76.0 
+107.0 
+29.6 
+ 
+ 
+ 
+EMXI 
+13.9 
+25.9 
+49.7 
+48.8 
+21.4 
+ 
+ 
+ 
+CMCI 
+52.5 
+103.3 
+137.6 
+119.2 
+105.1 
+ 
+ 
+ 
+AEMI 
+34.7 
+76.6 
+128.3 
+175.2 
+188.3 
+ 
+ 
+ 
+HCCA 
+19.5 
+28.3 
+39.8 
+48.4 
+47.0 
+ 
+ 
+ 
+FSSE 
+17.8 
+28.7 
+47.4 
+58.3 
+98.9 
+ 
+ 
+ 
+TVCX 
+21.4 
+35.9 
+47.0 
+69.9 
+111.0 
+ 
+ 
+ 
+GFEX 
+18.8 
+29.4 
+45.5 
+54.9 
+122.6 
+ 
+ 
+ 
+TVCE 
+22.0 
+35.2 
+50.8 
+78.5 
+112.1 
+ 
+ 
+ 
+TVDG 
+20.2 
+34.2 
+52.3 
+79.2 
+128.1 
+ 
+ 
+ 
+TABD 
+30.9 
+70.0 
+113.7 
+156.1 
+212.0 
+ 
+ 
+ 
+TABM 
+25.2 
+60.9 
+103.4 
+156.2 
+222.1 
+ 
+ 
+ 
+TABS 
+30.2 
+85.6 
+157.1 
+222.2 
+281.6 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm COSME     8 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Cosme, 8–11 June 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.3 
+3.6 
+4.0 
+5.0 
+5.0 
+ 
+ 
+ 
+OCD5 
+5.4 
+11.3 
+9.8 
+8.0 
+5.0 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm COSME     9 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Cosme, 8–11 June 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.3 
+3.6 
+4.0 
+5.0 
+5.0 
+ 
+ 
+ 
+OCD5 
+5.4 
+11.3 
+9.8 
+8.0 
+5.0 
+ 
+ 
+ 
+HWFI 
+5.0 
+7.9 
+8.4 
+5.0 
+8.0 
+ 
+ 
+ 
+HMNI 
+4.2 
+5.3 
+5.6 
+3.3 
+3.0 
+ 
+ 
+ 
+HFAI 
+4.3 
+6.1 
+7.2 
+7.0 
+11.0 
+ 
+ 
+ 
+HFBI 
+5.4 
+11.0 
+16.2 
+13.7 
+9.0 
+ 
+ 
+ 
+DSHP 
+5.4 
+10.4 
+13.6 
+11.0 
+1.0 
+ 
+ 
+ 
+LGEM 
+5.3 
+11.9 
+15.4 
+12.7 
+13.0 
+ 
+ 
+ 
+ICON 
+4.2 
+8.0 
+10.0 
+6.3 
+2.0 
+ 
+ 
+ 
+IVCN 
+3.3 
+5.0 
+5.4 
+3.3 
+2.0 
+ 
+ 
+ 
+IVDR 
+3.2 
+4.3 
+4.4 
+3.7 
+4.0 
+ 
+ 
+ 
+GFSI 
+5.6 
+10.0 
+9.2 
+7.0 
+6.0 
+ 
+ 
+ 
+EMXI 
+4.9 
+8.9 
+13.2 
+18.3 
+18.0 
+ 
+ 
+ 
+HCCA 
+3.9 
+6.3 
+9.0 
+7.3 
+5.0 
+ 
+ 
+ 
+FSSE 
+3.2 
+3.9 
+4.6 
+4.0 
+6.0 
+ 
+ 
+ 
+Forecasts 
+9 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm COSME     10 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Cosme, 8–11 June 2025. 
+=== page 11 ===
+Tropical Storm COSME     11 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Cosme, 8–11 June 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 12 ===
+Tropical Storm COSME     12 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Cosme, 8–11 June 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 13 ===
+Tropical Storm COSME     13 
+ 
+ 
+Figure 4. 
+Surface winds from an Ultra-High Resolution (UHR) ASCAT-B pass at 0411 UTC 10 June (left) and from an RCM-1 synthetic 
+aperture radar (SAR) pass at 0140 UTC 10 June (right). ASCAT indicated peak winds of 45–50 kt (23–26 ms-1), while SAR 
+showed maximum winds of about 63 kt (32 ms-1) in the southeastern quadrant. Although offset in time by a few hours, the two 
+passes reveal a similar wind structure; however, as noted in the figure, SAR wind data are still being evaluated for their 
+application in estimating peak winds and structure in tropical cyclones. Data courtesy of NOAA/NESDIS/STAR Ocean Surface 
+Winds Team.  
+ 
+ 
+=== page 14 ===
+Tropical Storm COSME     14 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Cosme for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

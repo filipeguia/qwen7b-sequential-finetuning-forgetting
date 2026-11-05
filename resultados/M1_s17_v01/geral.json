@@ -1,0 +1,62 @@
+{
+ "mmlu": {
+  "metricas": {
+   "sample_len": 285,
+   "acc,none": 0.7614035087719299,
+   "acc_stderr,none": 0.025180175604223375
+  },
+  "n": 285,
+  "segundos": 957.3,
+  "config": {
+   "num_fewshot": 5,
+   "limit": 5,
+   "lote": 1,
+   "chat": false
+  },
+  "adaptador": "runs\\M1_s17_v01"
+ },
+ "gsm8k": {
+  "metricas": {
+   "sample_len": 100,
+   "exact_match,strict-match": 0.5,
+   "exact_match_stderr,strict-match": 0.050251890762960605,
+   "exact_match,flexible-extract": 0.67,
+   "exact_match_stderr,flexible-extract": 0.047258156262526066
+  },
+  "n": {
+   "original": 1319,
+   "effective": 100
+  },
+  "segundos": 1284.7,
+  "config": {
+   "num_fewshot": 5,
+   "limit": 100,
+   "lote": 4,
+   "chat": false
+  },
+  "adaptador": "runs\\M1_s17_v01"
+ },
+ "ifeval": {
+  "metricas": {
+   "sample_len": 50,
+   "prompt_level_strict_acc,none": 0.38,
+   "prompt_level_strict_acc_stderr,none": 0.06934092056863769,
+   "inst_level_strict_acc,none": 0.47368421052631576,
+   "prompt_level_loose_acc,none": 0.38,
+   "prompt_level_loose_acc_stderr,none": 0.06934092056863769,
+   "inst_level_loose_acc,none": 0.47368421052631576
+  },
+  "n": {
+   "original": 541,
+   "effective": 50
+  },
+  "segundos": 271.7,
+  "config": {
+   "num_fewshot": 0,
+   "limit": 50,
+   "lote": 8,
+   "chat": true
+  },
+  "adaptador": "runs\\M1_s17_v01"
+ }
+}

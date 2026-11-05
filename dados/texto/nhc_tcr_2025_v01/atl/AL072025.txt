@@ -1,0 +1,1285 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE GABRIELLE 
+ 
+(AL072025) 
+ 
+17–25 September 2025 
+ 
+Eric S. Blake 
+National Hurricane Center 
+17 December 2025 
+ 
+ 
+NOAA-21 VIIRS VISIBLE IMAGE OF HURRICANE GABRIELLE AT 1706 UTC 22 SEPTEMBER 2025, JUST 
+BEFORE PEAK INTENSITY.  IMAGE COURTESY NOAA/CIRA. 
+ 
+       Gabrielle was a category 4 hurricane (on the Saffir-Simpson Hurricane Wind 
+Scale) that took a climatological track across the tropical Atlantic, recurving northeast of 
+the Leeward Islands and Bermuda.  It later affected the Azores with hurricane-force wind 
+gusts as a post-tropical cyclone. 
+=== page 2 ===
+Hurricane Gabrielle     2 
+ 
+Hurricane Gabrielle 
+ 
+17–25 SEPTEMBER 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+Gabrielle developed from a tropical wave that left the west coast of Africa early on 12 
+September.  The tropical wave produced only disorganized convection at first, then thunderstorms 
+started to concentrate on the southern end of the wave late on 14 September.  This convective 
+activity caused the formation of a broad area of low pressure the next day about midway between 
+the coast of west Africa and the Windward Islands.  The system moved west-northwestward and 
+convection further increased on 16 September, with gale-force winds noted on scatterometer data 
+late that day.  However, the low-level circulation remained very elongated, and an attempt at a 
+better-defined circulation on the southern side of the wave was unsuccessful early on 17 
+September.  Deep convection re-focused on the northern side of the wave by midday due to 
+forcing from a nearby upper-level trough, causing the formation of a large but well-defined surface 
+circulation and center, which marked the genesis of Tropical Storm Gabrielle near 1800 UTC 17 
+September about 800 n mi east of the northern Leeward Islands.  The “best track” chart of 
+Gabrielle’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, 
+respectively. The best track positions and intensities are listed in Table 11. 
+ 
+The storm moved steadily to the west-northwest or northwest for the next few days after 
+formation due to a subtropical ridge to the northeast.  Vertical wind shear from the upper-level 
+trough remained strong until 19 September, leading to little change in intensity initially.  
+Convection increased that night and, within a warmer sea-surface temperature and lower-shear 
+environment, Gabrielle finally started to intensify on 20 September.  The rate was gradual at first 
+with substantial dry air still intertwined in the circulation, but this changed notably the next day 
+due to the formation of an inner core and higher environmental mid-level humidity.  Rapid 
+intensification began late on 21 September around the time it became a hurricane, and a well-
+defined eye was present the next day on satellite imagery (cover).  Gabrielle turned to the north 
+through a break in the subtropical ridge, and aircraft and satellite data suggest it reached a peak 
+intensity of 120 kt near 0000 UTC 23 September about 170 n mi east of Bermuda.   
+After peak intensity, the hurricane turned to the east-northeast and began to move faster 
+due to increasing mid-latitude flow.  Gabrielle gradually lost strength late on 23 September 
+through 24 September as it encountered cooler sea-surface temperatures (SSTs) and increasing 
+shear.  Satellite images and scatterometer data indicate Gabrielle lost hurricane intensity and 
+tropical characteristics by 1800 UTC 25 September, a few hundred n mi west-southwest of the 
+Azores.  The still-powerful low moved through the Azores early the next day with hurricane-force 
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Gabrielle     3 
+ 
+wind gusts and later re-intensified as an extratropical low with sustained hurricane-force winds 
+near 0000 UTC 27 September.  The post-tropical cyclone then slowed down and gradually 
+weakened, moving over northern Portugal early on 28 September before opening up into a trough 
+late that day near southern Spain. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Gabrielle (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison.  Observations also include flight-level winds 
+and dropwindsonde observations from eight flights of the 53rd Weather Reconnaissance 
+Squadron of the U.S. Air Force Reserve Command and the NOAA Aircraft Operations Center 
+(Fig. 4).  Data and imagery from NOAA polar-orbiting satellites including the Advanced Microwave 
+Sounding Unit (AMSU), the NASA Global Precipitation Mission (GPM), the European Space 
+Agency’s Advanced Scatterometer (ASCAT), the Defense Meteorological Satellite Program 
+(DMSP) satellites, and the Time-Resolved Observations of Precipitation structure and storm 
+Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were also useful 
+in constructing the best track of Gabrielle. 
+Winds and Pressure 
+Gabrielle’s estimated peak intensity of 120 kt at 0000 UTC 23 September is primarily 
+based on satellite estimates and extrapolation from earlier aircraft flight-level wind data.  The peak 
+8000-ft flight-level winds were 132 kt at 2042 UTC 22 September, which reduces to 110-115 kt at 
+the surface.  The peak 700-mb winds were 129 kt at 1705 UTC that day, which reduces to about 
+115 kt at the surface using a standard reduction.  Given that the pressure was falling rapidly (see 
+below) and that the satellite presentation had not yet peaked, Gabrielle’s peak intensity is 
+estimated to be 120 kt.  This is also consistent with a blend of UW-CIMSS ADT and subjective 
+Dvorak estimates in conjunction with an improved presentation on satellite imagery after the plane 
+departed.  
+Table 2 shows surface observations in the Azores as post-tropical Gabrielle passed the 
+island chain.  The highest lower-elevation, land-based sustained wind report was at Graciosa (43 
+kt), with a gust to 83 kt noted at Faial.  Note multiple sites had higher gust ratios than typically 
+observed (not unexpected due to the non-tropical nature of Gabrielle near the Azores).  An 
+elevated (1010 m) station on top of Terceira Island (Santa Barbara mountain) had a wind gust to 
+100 kt (time unknown).  Terceira also had a minimum pressure of 984.5 mb as the center of 
+Gabrielle passed. 
+There were no ship or buoy reports of tropical-storm-force winds reported with Gabrielle. 
+The estimated minimum central pressure of 944 mb at 0000 UTC 23 September is based 
+on both the Knaff-Zehr-Courtney (KZC) pressure-wind relationship and extrapolation of earlier 
+=== page 4 ===
+Hurricane Gabrielle     4 
+ 
+aircraft data.  The minimum central pressure was extrapolated at 947 mb from a NOAA Hurricane 
+Hunter pass near 2046 UTC 22 September, but the pressure had fallen about 5 mb in the 
+preceding 2.5 hours.  Since the KZC value had recently been a little low compared to dropsonde 
+data, the minimum central pressure is set just above the KZC relationship for sustained winds of 
+120 kt. 
+Rainfall and Flooding 
+Rainfall from Gabrielle was fairly modest over the Azores, with a peak total of 60.9 mm 
+(2.4 inches) recorded at Graciosa (Table 2).  No flooding reports were received while the system 
+was over the Atlantic basin.  However, media reports by the BBC indicate the remnants of 
+Gabrielle combined with another mid-latitude cyclone to produce historic flooding in Ibiza2.  
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+No direct deaths3 or injuries were noted from Gabrielle, and the reported damage across 
+the Azores was generally light.  The primary effects were large-scale closures of government and 
+school buildings, along with fallen trees, power poles, and damage to some roofs, as noted by the 
+Azores Civil Protection Services. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+Genesis 
+The genesis forecasts for Gabrielle were some of the best of the season.  Table 3 provides 
+the number of hours in advance of formation with the first NHC Tropical Weather Outlook (TWO) 
+forecast in each category. A low (<40%) chance of genesis during the next 7 days was first 
+indicated in the TWO exactly 7 days before formation, and the chances were raised to the medium 
+(40–60%) category 132 h before formation. For the 2-day forecast period, the disturbance was 
+given a low and medium chance of genesis 78 and 54 hours before formation, respectively. The 
+7-day and 2-day probabilities were raised to the high categories 78 h and 36 h before formation, 
+respectively.  The forecasts for the cyclone’s genesis location were accurate and had a 100% hit 
+rate, lying within every genesis area depicted in NHC’s Graphical TWO (Fig. 5), though the first 
+several outlooks areas were centered a little east of Gabrielle’s formation location.  
+                                                
+2 BBC News, retrieved 11/25/25: https://www.bbc.com/news/articles/cx27drz0kg1o 
+3 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions from 
+downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 5 ===
+Hurricane Gabrielle     5 
+ 
+It should be mentioned that the time of genesis was delayed 12 h on the final best track 
+compared to the operational designation.  Upon review of all of the post-storm data, the initial 
+center that NHC was tracking was too transient and elongated to be considered a tropical cyclone, 
+and the re-formation to the north was deemed the first tropical cyclone point. 
+Track 
+A verification of NHC official track forecasts for Gabrielle is given in Table 4a. Official track 
+forecast errors were lower than the mean official errors for the previous 5-yr period through 72 h, 
+then higher at 96 and 120 h.  A homogeneous comparison of the official track errors with selected 
+guidance models is given in Table 4b. The NHC's track forecasts for Gabrielle bested almost all 
+of the guidance through 96 h, and were fairly consistent, except biased a bit to the north especially 
+after recurvature (Fig. 6).  The Google DeepMind model (GDMI) had the lowest errors through  
+24 h of any of the aids, though overall had about the same performance as the corrected-
+consensus HCCA or Florida State Superensemble (FSSE) models if one considers later time 
+periods.  The HAFS guidance, both A and B, had some of the highest errors of any of the typically 
+skillful track models.   
+Intensity 
+A verification of NHC official intensity forecasts for Gabrielle is given in Table 5a. Official 
+intensity forecast errors were higher or much higher than the mean official errors for the previous 
+5-yr period, with the exception of the 12-hour forecast.  This is not a surprising result given that 
+the OCD5 (CLPR) errors were also much higher than average, suggesting this was a harder 
+cyclone to forecast than average, largely owing to the rapid intensification episode.  A 
+homogeneous comparison of the official intensity errors with selected guidance models is given 
+in Table 5b.  Despite the rapid intensification, the NHC official intensity forecast performed well 
+overall, outperforming most available guidance.  The Florida State Superensemble (FSSE) 
+forecast was the best overall model, especially at 60 hours and beyond.  The HWRF model 
+(HWFI) and the COAMPS-TC model (CTCI) had some very high errors for Gabrielle, even though 
+in the latter forecast periods (96-120 h) these aids outperformed OFCL. 
+Wind Watches and Warnings 
+ 
+Coastal wind watches and warnings associated with Gabrielle are given in Table 6.   
+Initially, Gabrielle was expected to be a hurricane near the Azores.  However, Gabrielle was not 
+tropical when it reached those islands, but the warnings were continued until the damaging wind 
+threat passed. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Carlos Ramalho of the Portuguese Institute for Sea and Atmosphere (IPMA) provided the 
+Azores data.  Dr. Philippe Papin (NHC) created the Graphical TWO verification figure, and Dr. 
+Lisa Bucci created the reconnaissance summary and NHC official track figure. 
+ 
+=== page 6 ===
+Hurricane Gabrielle     6 
+ 
+Table 1. 
+Best track for Hurricane Gabrielle, 17–25 September 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+17 / 1800 
+19.0 
+ 47.7 
+1005 
+ 45 
+tropical storm 
+18 / 0000 
+19.3 
+ 48.9 
+1004 
+ 45 
+" 
+18 / 0600 
+19.6 
+ 50.0 
+1004 
+ 45 
+" 
+18 / 1200 
+20.0 
+ 51.2 
+1004 
+ 45 
+" 
+18 / 1800 
+20.5 
+ 52.2 
+1004 
+ 45 
+" 
+19 / 0000 
+21.0 
+ 53.1 
+1004 
+ 45 
+" 
+19 / 0600 
+21.4 
+ 54.1 
+1004 
+ 45 
+" 
+19 / 1200 
+21.7 
+ 55.1 
+1004 
+ 45 
+" 
+19 / 1800 
+22.1 
+ 56.1 
+1004 
+ 45 
+" 
+20 / 0000 
+22.9 
+ 57.0 
+1004 
+ 45 
+" 
+20 / 0600 
+23.9 
+ 57.7 
+1004 
+ 45 
+" 
+20 / 1200 
+24.6 
+ 58.3 
+1001 
+ 50 
+" 
+20 / 1800 
+25.2 
+ 58.6 
+ 996 
+ 55 
+" 
+21 / 0000 
+25.9 
+ 59.0 
+ 996 
+ 55 
+" 
+21 / 0600 
+26.6 
+ 59.8 
+ 995 
+ 55 
+" 
+21 / 1200 
+27.3 
+ 60.7 
+ 995 
+ 60 
+" 
+21 / 1800 
+28.1 
+ 61.5 
+ 993 
+ 65 
+hurricane 
+22 / 0000 
+28.9 
+ 62.1 
+ 985 
+ 70 
+" 
+22 / 0600 
+29.6 
+ 62.5 
+ 977 
+ 80 
+" 
+22 / 1200 
+30.4 
+ 62.5 
+ 958 
+100 
+" 
+22 / 1800 
+31.3 
+ 62.1 
+ 951 
+115 
+" 
+23 / 0000 
+32.1 
+ 61.4 
+ 944 
+120 
+" 
+23 / 0600 
+32.8 
+ 60.4 
+ 945 
+120 
+" 
+23 / 1200 
+33.5 
+ 59.2 
+ 946 
+120 
+" 
+=== page 7 ===
+Hurricane Gabrielle     7 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+23 / 1800 
+34.3 
+ 57.4 
+ 947 
+115 
+" 
+24 / 0000 
+34.9 
+ 55.2 
+ 953 
+110 
+" 
+24 / 0600 
+35.4 
+ 52.8 
+ 958 
+100 
+" 
+24 / 1200 
+35.8 
+ 50.2 
+ 965 
+ 90 
+" 
+24 / 1800 
+35.9 
+ 47.2 
+ 970 
+ 85 
+" 
+25 / 0000 
+35.9 
+ 44.0 
+ 974 
+ 75 
+" 
+25 / 0600 
+36.1 
+ 40.2 
+ 976 
+ 70 
+" 
+25 / 1200 
+36.4 
+ 36.7 
+ 979 
+ 65 
+" 
+25 / 1800 
+36.8 
+ 33.6 
+ 982 
+ 60 
+extratropical 
+26 / 0000 
+37.6 
+ 30.6 
+ 983 
+ 55 
+" 
+26 / 0600 
+38.6 
+ 27.5 
+ 984 
+ 55 
+" 
+26 / 1200 
+39.6 
+ 24.2 
+ 986 
+ 55 
+" 
+26 / 1800 
+40.4 
+ 21.4 
+ 985 
+ 60 
+" 
+27 / 0000 
+41.0 
+ 18.5 
+ 984 
+ 65 
+" 
+27 / 0600 
+41.4 
+ 15.7 
+ 988 
+ 60 
+" 
+27 / 1200 
+41.8 
+ 13.1 
+ 992 
+ 50 
+" 
+27 / 1800 
+41.4 
+ 11.2 
+ 993 
+ 50 
+" 
+28 / 0000 
+41.0 
+  9.5 
+ 994 
+ 45 
+" 
+28 / 0600 
+40.4 
+  8.1 
+1005 
+ 40 
+" 
+28 / 1200 
+39.5 
+  7.4 
+1010 
+ 35 
+" 
+28 / 1800 
+38.5 
+  6.5 
+1012 
+ 25 
+" 
+29 / 0000 
+ 
+ 
+   
+   
+dissipated 
+23 / 0000 
+32.1 
+ 61.4 
+ 944 
+120 
+minimum pressure 
+and maximum winds 
+ 
+ 
+=== page 8 ===
+Hurricane Gabrielle     8 
+ 
+Table 2. 
+Selected Azores surface observations for Post-Tropical Gabrielle, 26 September 
+2025.  
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface 
+Wind Speed 
+Total 
+rain 
+(mm) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt) 
+Gust 
+(kt) 
+Azores 
+International Civil Aviation Organization (ICAO) Sites 
+San Miguel (WMO 08512)  
+(76m station elevation) 
+26/0800 
+996.5 
+26/0900 
+19 
+(10 min) 
+56 
+1.3 
+Terceira (WMO 08511)  
+(90m station elevation) 
+26/0700 
+984.5 
+26/0800 
+33 
+(10 min) 
+65 
+8.3 
+Faial (WMO 08506)  
+(55m station elevation) 
+26/0400 
+984.4 
+26/0200 
+42 
+(10 min) 
+83 
+17.6 
+Faial (WMO 08505)  
+(41m station elevation) 
+26/0400 
+986.4 
+26/0500 
+29 
+(10 min) 
+60 
+29.6 
+Pico (WMO 08504)  
+(39m station elevation) 
+26/0400  
+985.7 
+26/0600 
+23 
+(10 min) 
+47 
+28.2 
+Graciosa (WMO 08510)  
+(25m station elevation) 
+26/0500 
+988.6 
+26/0900 
+43 
+(10 min) 
+63 
+60.9 
+Flores (WMO 08501)  
+(28m station elevation 
+26/1700 
+1000.4 
+26/0900 
+22 
+(10 min) 
+33 
+22.2 
+Other 
+Santa Barbara Mountain, 
+Terceira  
+(1010m station elevation) 
+ 
+ 
+ 
+ 
+100 
+ 
+ 
+a Date/time is for sustained wind when both sustained and gust are listed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Hurricane Gabrielle     9 
+ 
+Table 3. 
+Number of hours in advance of Gabrielle’s formation associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+78 
+168 
+Medium (40%-60%) 
+54 
+132 
+High (>60%) 
+36 
+78 
+ 
+ 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Gabrielle, 17–25 September 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+19.0 
+26.8 
+31.7 
+39.6 
+54.2 
+77.1 
+152.1 
+306.9 
+OCD5 
+50.0 
+108.7 
+174.3 
+234.1 
+267.4 
+295.9 
+364.7 
+457.7 
+Forecasts 
+30 
+28 
+26 
+24 
+22 
+20 
+16 
+12 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Hurricane Gabrielle     10 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Gabrielle, 17–25 September 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts shown 
+here will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.3 
+26.2 
+31.2 
+40.0 
+53.1 
+74.5 
+142.6 
+298.6 
+OCD5 
+48.6 
+109.1 
+176.7 
+238.5 
+273.5 
+311.9 
+376.3 
+461.6 
+GFSI 
+20.7 
+30.8 
+37.1 
+51.1 
+68.3 
+89.7 
+209.3 
+411.1 
+HWFI 
+23.4 
+35.6 
+47.5 
+66.1 
+94.8 
+116.5 
+207.2 
+358.4 
+HMNI 
+23.0 
+31.6 
+38.0 
+57.8 
+65.8 
+78.6 
+148.8 
+310.4 
+HFAI 
+23.2 
+38.6 
+52.5 
+74.9 
+104.5 
+137.4 
+241.5 
+330.4 
+HFBI 
+24.9 
+42.2 
+56.9 
+73.6 
+100.9 
+139.3 
+250.5 
+380.3 
+GDMI 
+16.8 
+25.6 
+36.0 
+46.3 
+62.9 
+91.9 
+177.4 
+327.0 
+EMXI 
+18.6 
+29.6 
+35.3 
+42.5 
+60.0 
+77.5 
+146.8 
+326.7 
+NVGI 
+25.8 
+42.8 
+51.0 
+68.4 
+79.8 
+96.3 
+177.3 
+237.4 
+CMCI 
+30.3 
+59.5 
+89.4 
+118.5 
+143.1 
+151.2 
+154.6 
+131.1 
+CTCI 
+23.7 
+31.0 
+41.9 
+61.6 
+87.1 
+117.4 
+165.4 
+166.7 
+TVCE 
+19.2 
+29.8 
+39.3 
+54.3 
+76.2 
+99.9 
+161.8 
+274.0 
+TVCX 
+19.2 
+30.0 
+39.4 
+53.8 
+74.7 
+97.0 
+160.0 
+274.4 
+GFEX 
+17.5 
+26.8 
+33.3 
+40.2 
+56.3 
+69.2 
+146.1 
+317.5 
+TVDG 
+18.9 
+29.4 
+39.0 
+54.9 
+77.1 
+99.5 
+163.5 
+283.3 
+HCCA 
+18.4 
+27.7 
+36.2 
+50.6 
+70.5 
+93.8 
+177.4 
+295.7 
+FSSE 
+19.5 
+30.4 
+36.8 
+43.2 
+58.9 
+76.0 
+159.1 
+340.4 
+AEMI 
+22.1 
+31.9 
+41.0 
+61.0 
+79.7 
+101.4 
+153.3 
+247.3 
+TABS 
+44.8 
+80.7 
+120.2 
+158.2 
+196.4 
+229.0 
+282.9 
+374.9 
+TABM 
+30.4 
+43.9 
+59.2 
+78.0 
+95.2 
+110.0 
+187.8 
+401.7 
+TABD 
+30.5 
+51.9 
+67.2 
+84.1 
+112.4 
+171.2 
+346.6 
+641.9 
+Forecasts 
+28 
+27 
+25 
+23 
+21 
+18 
+14 
+10 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Gabrielle     11 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Gabrielle, 17–25 September 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.2 
+7.9 
+10.4 
+12.5 
+14.1 
+14.2 
+17.5 
+25.0 
+OCD5 
+6.2 
+11.6 
+17.0 
+20.4 
+23.9 
+26.2 
+30.3 
+32.2 
+Forecasts 
+30 
+28 
+26 
+24 
+22 
+20 
+16 
+12 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Gabrielle     12 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Gabrielle, 17–25 September 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts shown 
+here will generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.3 
+7.9 
+10.2 
+12.6 
+14.5 
+14.2 
+17.1 
+24.0 
+OCD5 
+6.3 
+12.0 
+18.0 
+20.9 
+24.0 
+25.8 
+29.9 
+32.3 
+HWFI 
+8.2 
+14.5 
+19.5 
+19.5 
+20.9 
+17.8 
+16.0 
+28.9 
+HMNI 
+6.0 
+9.9 
+14.1 
+15.3 
+17.0 
+18.3 
+17.9 
+20.8 
+HFAI 
+6.1 
+10.7 
+14.9 
+17.7 
+15.7 
+15.3 
+27.4 
+40.3 
+HFBI 
+5.3 
+9.5 
+13.6 
+15.8 
+15.8 
+18.5 
+25.9 
+39.6 
+GDMI 
+6.7 
+9.5 
+13.0 
+15.3 
+18.3 
+19.6 
+23.6 
+28.3 
+DSHP 
+5.3 
+9.7 
+13.6 
+15.5 
+17.3 
+19.4 
+22.6 
+27.4 
+LGEM 
+5.7 
+10.0 
+13.5 
+15.2 
+16.3 
+17.3 
+19.9 
+28.7 
+ICON 
+5.8 
+10.2 
+13.5 
+15.8 
+17.0 
+16.2 
+17.5 
+24.8 
+IVCN 
+4.8 
+9.5 
+13.4 
+15.0 
+15.8 
+16.2 
+19.4 
+26.8 
+IVDR 
+5.0 
+9.7 
+13.9 
+15.6 
+16.1 
+16.6 
+19.9 
+27.7 
+CTCI 
+6.4 
+10.1 
+14.5 
+19.8 
+23.4 
+24.3 
+15.9 
+19.1 
+GFSI 
+7.8 
+13.1 
+17.3 
+20.4 
+21.6 
+22.7 
+27.3 
+39.0 
+EMXI 
+9.2 
+15.6 
+21.5 
+25.7 
+29.2 
+32.9 
+40.4 
+42.0 
+HCCA 
+4.7 
+8.8 
+12.6 
+14.9 
+15.7 
+16.7 
+19.1 
+26.0 
+FSSE 
+4.4 
+9.0 
+12.5 
+13.1 
+12.7 
+13.4 
+11.2 
+21.7 
+Forecasts 
+29 
+26 
+24 
+23 
+21 
+18 
+14 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Gabrielle     13 
+ 
+Table 6. 
+Coastal watch and warning summary for Hurricane Gabrielle, 17–25 September 
+2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+23/ 1500 
+Hurricane Watch Issued 
+All of the Azores 
+24/ 0800 
+Hurricane Watch replaced by 
+Hurricane Warning 
+All of the Azores 
+26/ 1200 
+Hurricane Warning discontinued 
+All of the Azores 
+ 
+ 
+ 
+=== page 14 ===
+Hurricane Gabrielle     14 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Gabrielle, 17–25 September 2025.  Track during the extratropical stage partially based on 
+analyses from the NOAA Ocean Prediction Center. 
+ 
+ 
+ 
+ 
+=== page 15 ===
+Hurricane Gabrielle     15 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Gabrielle, 17–25 
+September 2025. Aircraft observations have been adjusted for elevation using 90% adjustment factors for observations from 
+700 mb.  Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean 
+wind over the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique estimates represent the Current Intensity 
+at the nominal observation time. SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite 
+Studies. Dashed vertical lines correspond to 0000 UTC. 
+=== page 16 ===
+Hurricane Gabrielle     16 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Gabrielle, 17–25 September 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 17 ===
+Hurricane Gabrielle     17 
+ 
+ 
+Figure 4. 
+Air Force Reserve and NOAA aircraft flight tracks (colored lines) from reconnaissance missions into Gabrielle from 20—23 
+September 2025. The blue triangles indicate dropsonde locations. The color of the flight track represents the observed flight-
+level wind speed in knots at that location (see legend). 
+ 
+=== page 18 ===
+Hurricane Gabrielle     18 
+ 
+ 
+Figure 5. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Gabrielle for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

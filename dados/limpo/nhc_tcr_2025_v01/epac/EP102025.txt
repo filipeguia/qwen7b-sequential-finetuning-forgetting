@@ -1,0 +1,15 @@
+Tropical Storm Juliette (EP102025), 24 – 28 August 2025
+
+Tropical Storm Juliette 24 – 28 AUGUST 2025
+
+## BEST TRACK
+
+The “best track2” positions and intensities are listed in Table 1. The best track chart of Juliette’s path is given in Fig. 1, with the wind and pressure histories along with available observations3 shown in Figs. 2 and 3, respectively. A station on Clarion Island reported a sustained wind of 37 kt with a gust to 46 kt at 1130 UTC 26 August when Juliette passed the island. Origin Juliette formed around 1800 UTC 24 August about 450 n mi south of the southern tip of the Baja California peninsula. Juliette appears to have formed from the combination of a tropical wave that crossed Central America on 19 and 20 August and a disturbance in the monsoon trough. Peak Intensity and Minimum Pressure Juliette’s peak intensity of 60 kt at 0600 and 1200 UTC 26 August is based on a blend of the satellite intensity estimates from TAFB, SAB, and UW-CIMSS. The minimum central pressure of 994 mb is primarily based on the Knaff-Zehr-Courtney pressure-wind relationship.
+
+## CASUALTY AND DAMAGE STATISTICS
+
+There were no reports of damage or casualties associated with Juliette.
+
+## FORECAST AND WARNING VERIFICATION
+
+Table 2 lists the number of hours prior to formation corresponding to the first issuance of an NHC Tropical Weather Outlook (TWO) forecast in each likelihood category. The formation of Juliette was reasonably well anticipated, but the system formed sooner than expected. The precursor disturbance was first highlighted in the 7-day TWO with a low probability of formation 90 h before development. The likelihood was subsequently raised to the medium category 72 h in advance and to the high category 36 h prior to genesis. Lead times for the 2-day outlooks showed good reliability in the low and medium categories. A low chance of development was first indicated 48 h before formation, increasing to the medium category 30 h in advance. However, probabilities never reached the high category prior to genesis. Figure 4 shows composites of the 7-day TWO genesis areas for each likelihood category leading up to the formation of Juliette. Juliette formed near the middle of the predicted genesis region highlighted in the TWO. A verification of NHC official track and intensity forecasts for Juliette are given in Table 3a and 4a, respectively. A homogeneous comparison of the official track and intensity errors with selected guidance models are given in Table 3b and 4b, respectively. The mean official track forecast errors for Juliette were close to average, a little above the 5-yr means from 12 to 48 h and a little below the means at 60 and 72 h. HFBI and HCCA were generally the best track models for Juliette, beating the official forecasts at most time periods. The NHC mean official intensity errors for Juliette were quite low, besting the 5-yr means at all verifying times, except 24 h. No intensity model consistently outperformed NHC for Juliette. There were no coastal watches or warnings issued for Juliette.

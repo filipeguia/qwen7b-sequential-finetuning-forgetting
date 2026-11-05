@@ -1,0 +1,1056 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE PRISCILLA 
+ 
+(EP162025) 
+ 
+4–10 October 2025 
+ 
+Lisa R. Bucci 
+National Hurricane Center 
+4 February 2026 
+ 
+ 
+ 
+ 
+Priscilla was a category 3 hurricane (on the Saffir-Simpson Hurricane Wind Scale) 
+that moved along, but offshore of the coast of southwestern mainland Mexico and the Baja 
+California Peninsula. 
+ 
+ 
+  
+=== page 2 ===
+Hurricane Priscilla     2 
+ 
+Hurricane Priscilla 
+ 
+4–10 OCTOBER 2025​
+ 
+SYNOPTIC HISTORY 
+ 
+Priscilla developed from a monsoon trough that formed over the eastern Pacific around 
+30 September. Convection gradually increased over the subsequent days as a broad circulation 
+drifted west-northwestward off the southern and southwestern Mexican coast. The surface low 
+became better organized on the night of 3 October, with a sustained burst of deep convection 
+within the broad inner core. Satellite wind observations later confirmed the development of a 
+well-defined surface circulation, and a tropical depression formed at 1200 UTC 4 October about 
+260 n mi south-southwest of Manzanillo, Mexico. The “best track” chart of Priscilla’s path is 
+given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively. The 
+best track positions and intensities are listed in Table 11. 
+Priscilla became a tropical storm 6 h later on 4 October while slowly moving 
+northwestward along the periphery of a weak mid-level ridge centered over Texas.  The large 
+tropical storm moved over warm sea-surface temperatures of around 29 to 30°C and through an 
+environment with strong upper-level divergence.  Despite its large size and moderate easterly 
+vertical wind shear, Priscilla steadily strengthened through 5 October while turning 
+north-northwestward and it became a hurricane at 0000 UTC 6 October while centered about 
+250 n mi south-southwest of Cabo Corrientes, Mexico. 
+During the next 24 h, the hurricane showed little change in strength while it moved 
+north-northwestward parallel to the coast of Mexico. Microwave and surface wind satellite data 
+then indicated that, while the outer wind field remained rather broad, the inner core began to 
+contract and the maximum winds steadily increased. Priscilla reached a peak intensity of 100 kt 
+at 1800 UTC 7 October while located a couple of hundred n mi south-southwest of the southern 
+tip of the Baja California Peninsula.   
+​
+After reaching its peak intensity, Priscilla began a steady weakening trend as 
+environmental conditions became increasingly unfavorable. On 8 October, satellite imagery 
+showed a marked degradation of the cyclone’s inner core, with diminishing deep convection, 
+warming cloud tops, and a poorly defined eye, and the system rapidly weakened from a major 
+hurricane to a tropical storm.  This weakening was attributed to decreasing sea-surface 
+temperatures, increasing southwesterly vertical wind shear and increasing intrusions of dry air.  
+Priscilla continued northwestward and then northward around the periphery of the mid-level 
+ridge off the coasts of mainland Mexico and Baja California Sur.   
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Priscilla     3 
+ 
+Priscilla gradually lost organized deep convection during 9–10 October due to a 
+continued unfavorable environment, causing the system to weaken to a low-end tropical storm 
+by 10 October and a post-tropical remnant low at 0000 UTC 11 October.  The remnant 
+circulation continued to spin down and it dissipated by 0600 UTC 12 October, with the remaining 
+upper-level  tropical moisture transported northward into the southwestern United States in the 
+flow ahead of an upper-level trough. 
+​
+METEOROLOGICAL STATISTICS  
+ 
+Observations in Priscilla (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison (CIMSS/UW). Data and imagery from NOAA 
+polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA 
+Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer 
+(ASCAT), the Defense Meteorological Satellite Program (DMSP) satellites, and the 
+Time-Resolved Observations of Precipitation structure and storm Intensity with a Constellation 
+of Smallsats (TROPICS) satellites, among others, were also useful in constructing the best track 
+of Priscilla. 
+​
+Winds and Pressure 
+​
+Priscilla’s peak intensity of 100 kt at 1800 UTC 7 October was based on T5.5/102 kt 
+subjective Dvorak satellite estimates from TAFB and SAB, along with DPRINT (DeeP IR 
+INtensity of TCs) objective estimates from CIMSS/UW that ranged from 99–103 kt. Microwave 
+imagery from ATMS at 2014 UTC prompted other objective estimates, including DMINT (Deep 
+Multispectral INtensity of TCs estimator) and SATCON, to increase above 100 kt, although this 
+information was not available at the 1800 UTC analysis time that day. While this peak 
+represents only a 5-kt increase from the operational intensity assessment, it changes Priscilla’s 
+designation to a major hurricane (Category 3 on the Saffir-Simpson Hurricane Wind Scale). The 
+minimum central pressure of 954 mb is based on the Knaff–Zehr–Courtney wind–pressure 
+relationship. 
+​
+A Mexican Naval weather station located on Socorro Island recorded a sustained wind of 
+47 knots (88 km/h) with a gust of 66 knots (122 km/h) when Priscilla's eye was about 60 n mi 
+(115 km) to the north of that island.  While tropical storm watches were issued for portions of 
+mainland Mexico and the Baja Peninsula, no reports of sustained tropical-storm-force winds 
+were recorded. 
+Rainfall and Flooding 
+​
+Priscilla’s passage offshore of southwestern Mexico produced periods of heavy rainfall 
+along the coast from 4–10 October (Fig. 4). Notable storm-total rainfall amounts included 13.24 
+=== page 4 ===
+Hurricane Priscilla     4 
+ 
+inches (336.2 mm) at Socorro Island, 10.57 inches (268.4 mm) at Zihuatanejo in the state of 
+Guerrero, and 10.55 inches (268.0 mm) at Melcor Ocampo in Michoacán.   
+After Priscilla degenerated into a remnant low, southwesterly flow moved residual 
+moisture over the Baja California peninsula, northwestern Mexico, and southwestern United 
+States.  This moisture, combined with the remnant moisture of Tropical Storm Raymond and a 
+large upper-level trough over the western United States, contributed to flash flooding events 
+across the region2.   
+CASUALTY AND DAMAGE STATISTICS​
+ 
+There were no reports of casualties3 associated with Priscilla4.  Localized damage from 
+flooding and rough surf was reported near Puerto Vallarta and in Baja California Sur.  Notable 
+damage included 9 affected homes in Baja California Sur with 309 temporarily displaced 
+individuals.   
+​
+FORECAST AND WARNING CRITIQUE​
+ 
+The genesis of Priscilla was well forecast (Table 2). The monsoonal low from which 
+Priscilla developed was first introduced in the 7-day Tropical Weather Outlook 138 h before 
+genesis. This likelihood was subsequently increased to the medium category 120 h before 
+genesis and to the high category 96 h before formation. Lead times for the 2-day outlooks also 
+demonstrated good reliability. A low probability was first indicated 84 h before genesis, with 
+increases to medium and high probabilities at 60 h and 42 h before development, respectively. 
+The location of Priscilla’s genesis was generally well forecast (Fig. 5). The ultimate genesis 
+position fell on the western side of most of the low and medium probability genesis areas, 
+indicating that the models and forecasts initially anticipated Priscilla to form slightly earlier.  
+Once the probabilities reached the high category, the formation location fell near the center of 
+the areas. 
+A verification of the NHC official track forecasts for Priscilla is given in Table 3a. Official 
+track forecasts were highly accurate, and track errors were well below the mean official errors 
+for the previous 5-year period. A homogeneous comparison of the official track errors with 
+selected guidance models is given in Table 3b. The only model to outperform the official forecast 
+at nearly all forecast hours (except at 48 h) was the Google DeepMind ensemble mean (GDMI). 
+4 
+https://aristeguinoticias.com/081025/mexico/priscilla-deja-danos-puntuales-en-bcs-jalisco-y-nayarit-sin 
+-reporte-de-lesionados-o-fallecidos/  
+3 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions 
+from downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+2 https://www.weather.gov/psr/Oct92025 
+=== page 5 ===
+Hurricane Priscilla     5 
+ 
+It should be noted that GDMI was an experimental (non-operational) aid and was not always 
+available to forecasters in real time. 
+A verification of the NHC official intensity forecasts for Priscilla is given in Table 4a. 
+Official intensity forecast errors were lower than the mean official errors for the previous 5-year 
+period. A homogeneous comparison of the official intensity errors with selected guidance 
+models is given in Table 4b. Several regional dynamical models and consensus aids 
+outperformed the official forecast, with HAFS-B (HFBI) having errors lower than the official 
+errors for most of the forecast hours (excluding 24 h). 
+​
+Coastal watches and warnings associated with Priscilla are given in Table 5. 
+ 
+ACKNOWLEDGEMENTS​
+ 
+Rainfall data shown in Fig. 4 were provided by CONAGUA, the national meteorological 
+service of Mexico.  Dr. Philippe Papin (NHC) provided the genesis verification maps (Fig. 5).  
+ 
+=== page 6 ===
+Hurricane Priscilla     6 
+ 
+Table 1.​
+Best track for Hurricane Priscilla, 4–10 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+04 / 1200 
+15.2 
+106.3 
+1005 
+ 30 
+ tropical depression  
+04 / 1800 
+15.4 
+106.5 
+1002 
+ 40 
+tropical storm​  
+05 / 0000 
+15.6 
+106.7 
+ 998 
+ 45 
+           "      ​
+ 
+05 / 0600 
+15.9 
+106.8 
+ 990 
+ 55 
+           "      ​
+ 
+05 / 1200 
+16.1 
+106.9 
+ 989 
+ 55 
+"      
+05 / 1800 
+16.3 
+107.0 
+ 983 
+ 60 
+           "      ​
+ 
+06 / 0000 
+16.6 
+107.1 
+ 980 
+ 65 
+hurricane 
+06 / 0600 
+17.0 
+107.2 
+ 973 
+ 75 
+           "      ​
+ 
+06 / 1200 
+17.4 
+107.3 
+ 971 
+ 75 
+           "      ​
+ 
+06 / 1800 
+17.9 
+107.6 
+ 971 
+ 75 
+" 
+07 / 0000 
+18.6 
+108.2 
+ 971 
+ 75 
+           "      ​
+ 
+07 / 0600 
+19.1 
+109.0 
+ 967 
+ 85 
+           "      ​
+ 
+07 / 1200 
+19.5 
+109.8 
+ 959 
+ 95 
+           "      ​
+ 
+07 / 1800 
+19.7 
+110.5 
+ 954 
+100 
+           "      ​
+ 
+08 / 0000 
+20.3 
+111.2 
+ 961 
+90 
+           "      ​
+ 
+08 / 0600 
+20.7 
+111.7 
+ 971 
+ 80 
+           "      ​
+ 
+08 / 1200 
+21.1 
+112.2 
+ 979 
+ 70 
+           "      ​
+ 
+08 / 1800 
+21.7 
+112.7 
+ 985 
+ 60 
+tropical storm 
+09 / 0000 
+22.3 
+113.3 
+ 987 
+ 55 
+           "      ​
+ 
+09 / 0600 
+23.0 
+113.9 
+ 991 
+ 50 
+           "      ​
+ 
+09 / 1200 
+23.6 
+114.5 
+ 996 
+ 45 
+           "      ​
+ 
+09 / 1800 
+24.1 
+114.9 
+ 996 
+ 45 
+           "      ​
+ 
+10 / 0000 
+24.7 
+115.1 
+ 997 
+ 45 
+           "      ​
+ 
+10 / 0600 
+25.2 
+115.2 
+ 999 
+ 45 
+           "      ​
+ 
+10 / 1200 
+25.7 
+115.2 
+1000 
+ 40 
+           "      ​
+ 
+=== page 7 ===
+Hurricane Priscilla     7 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+10 / 1800 
+26.1 
+115.4 
+1002 
+ 30 
+ tropical depression  
+11 / 0000 
+26.1 
+115.3 
+1004 
+ 30 
+         low      ​  
+11 / 0600 
+26.1 
+114.9 
+1007 
+ 25 
+           "      ​
+ 
+11 / 1200 
+26.2 
+114.7 
+1007 
+ 25 
+           "     ​
+  
+11 / 1800 
+26.3 
+114.5 
+1007 
+ 20 
+           "      ​
+ 
+12 / 0000 
+26.5 
+114.2 
+1007 
+ 20 
+           "      ​
+ 
+12 / 0600 
+  
+   
+    
+   
+dissipation 
+07 / 1800 
+19.7 
+110.5 
+ 954 
+100 
+minimum pressure 
+and maximum winds 
+ 
+ 
+=== page 8 ===
+Hurricane Priscilla     8 
+ 
+Table 2.​
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+84 
+138 
+Medium (40%-60%) 
+60 
+120 
+High (>60%) 
+42 
+96 
+ 
+ 
+ 
+ 
+Table 3a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Priscilla. Mean errors for the previous 5-yr period are 
+shown for comparison. Official errors that are smaller than the 5-yr means are 
+shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+13.5 
+19.4 
+20.6 
+19.3 
+20.6 
+21.2 
+41.6 
+73.6 
+OCD5 
+24.2 
+52.4 
+78.7 
+103.7 
+127.6 
+156.7 
+205.3 
+214.9 
+Forecasts 
+23 
+21 
+19 
+17 
+15 
+13 
+9 
+5 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+=== page 9 ===
+Hurricane Priscilla     9 
+ 
+Table 3b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Priscilla. Errors smaller than the NHC official forecast are shown in boldface 
+type. The number of official forecasts shown here will generally be smaller than 
+that shown in Table 3a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+13.9 
+20.8 
+23.4 
+18.2 
+20.0 
+22.1 
+42.6 
+85.2 
+OCD5 
+22.5 
+50.1 
+76.5 
+98.9 
+126.6 
+160.4 
+221.2 
+243.1 
+GFSI 
+16.6 
+25.2 
+39.0 
+49.7 
+63.5 
+89.5 
+194.6 
+381.3 
+HWFI 
+17.6 
+31.7 
+42.3 
+52.5 
+69.1 
+93.6 
+161.3 
+311.3 
+HMNI 
+16.9 
+34.7 
+44.2 
+49.1 
+63.4 
+79.0 
+101.1 
+150.2 
+HFAI 
+19.1 
+29.3 
+37.5 
+42.1 
+52.8 
+72.6 
+112.9 
+224.4 
+HFBI 
+17.6 
+26.6 
+34.9 
+43.4 
+55.9 
+82.9 
+127.2 
+192.9 
+EMXI 
+17.1 
+31.5 
+40.8 
+45.2 
+51.2 
+63.9 
+95.7 
+188.4 
+CMCI 
+15.2 
+19.7 
+31.4 
+43.3 
+53.7 
+72.6 
+120.2 
+222.4 
+CTCI 
+15.7 
+24.3 
+25.6 
+24.0 
+30.5 
+41.6 
+109.1 
+193.9 
+TVCE 
+14.9 
+23.9 
+29.5 
+31.1 
+40.0 
+56.7 
+96.5 
+189.4 
+TVCX 
+14.7 
+23.8 
+29.1 
+30.8 
+40.3 
+55.8 
+92.8 
+169.5 
+GFEX 
+16.1 
+25.0 
+30.6 
+33.2 
+43.4 
+58.4 
+100.0 
+172.1 
+TVDG 
+14.4 
+23.6 
+29.3 
+30.6 
+40.2 
+56.6 
+97.6 
+186.1 
+HCCA 
+15.3 
+21.9 
+26.5 
+25.9 
+29.4 
+38.9 
+71.3 
+104.2 
+FSSE 
+16.6 
+23.1 
+23.4 
+25.3 
+32.5 
+38.0 
+74.7 
+171.9 
+AEMI 
+14.7 
+27.4 
+41.3 
+48.6 
+58.2 
+75.6 
+136.0 
+272.3 
+GDMI 
+13.2 
+20.7 
+23.2 
+19.9 
+15.7 
+19.0 
+37.2 
+64.1 
+TABS 
+40.1 
+86.2 
+116.1 
+135.4 
+150.0 
+171.5 
+248.1 
+434.1 
+TABM 
+29.3 
+62.1 
+90.3 
+112.6 
+142.1 
+172.0 
+283.3 
+429.9 
+TABD 
+24.7 
+52.8 
+70.7 
+87.3 
+113.7 
+158.4 
+281.2 
+424.4 
+Forecasts 
+19 
+18 
+16 
+15 
+14 
+12 
+8 
+4 
+ 
+=== page 10 ===
+Hurricane Priscilla     10 
+ 
+Table 4a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Priscilla. Mean errors for the previous 5-yr period are 
+shown for comparison. Official errors that are smaller than the 5-yr means are 
+shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.3 
+7.6 
+9.2 
+8.8 
+11.7 
+10.4 
+12.8 
+6.0 
+OCD5 
+9.0 
+13.1 
+15.0 
+13.6 
+16.5 
+13.8 
+9.7 
+6.2 
+Forecasts 
+23 
+21 
+19 
+17 
+15 
+13 
+9 
+5 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+=== page 11 ===
+Hurricane Priscilla     11 
+ 
+Table 4b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Priscilla. Errors smaller than the NHC official forecast are shown in boldface 
+type. The number of official forecasts shown here will generally be smaller than 
+that shown in Table 4a due to the homogeneity requirement. 
+ 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.1 
+7.8 
+9.7 
+9.7 
+12.1 
+10.0 
+11.9 
+3.8 
+OCD5 
+10.4 
+14.4 
+15.9 
+13.8 
+15.6 
+11.2 
+9.4 
+7.5 
+HWFI 
+7.2 
+9.8 
+9.6 
+11.9 
+11.4 
+9.8 
+13.2 
+11.0 
+HMNI 
+8.3 
+12.1 
+10.1 
+11.4 
+16.6 
+14.3 
+4.4 
+5.0 
+HFAI 
+6.3 
+7.7 
+8.0 
+9.1 
+13.4 
+13.2 
+7.9 
+3.5 
+HFBI 
+6.4 
+8.6 
+7.6 
+6.7 
+11.1 
+9.8 
+5.0 
+2.5 
+DSHP 
+8.1 
+10.2 
+10.4 
+10.4 
+11.1 
+9.3 
+4.1 
+2.5 
+LGEM 
+9.5 
+11.3 
+11.6 
+10.1 
+9.4 
+7.7 
+4.0 
+5.5 
+ICON 
+7.4 
+10.4 
+9.9 
+10.3 
+11.2 
+9.2 
+5.1 
+2.8 
+IVCN 
+6.7 
+8.6 
+8.0 
+9.3 
+11.5 
+10.9 
+8.1 
+3.2 
+IVDR 
+6.7 
+8.3 
+7.8 
+9.6 
+12.3 
+11.8 
+10.1 
+5.0 
+CTCI 
+7.0 
+9.6 
+8.8 
+13.1 
+17.9 
+18.2 
+26.8 
+20.0 
+GFSI 
+8.3 
+8.8 
+10.2 
+12.1 
+16.3 
+17.2 
+20.5 
+20.5 
+EMXI 
+7.7 
+9.4 
+12.4 
+15.7 
+15.8 
+8.8 
+5.1 
+6.5 
+HCCA 
+6.2 
+5.2 
+8.2 
+10.7 
+12.0 
+10.8 
+13.0 
+8.5 
+FSSE 
+6.2 
+7.2 
+6.9 
+9.6 
+12.4 
+12.4 
+11.6 
+11.0 
+GDMI 
+7.2 
+8.8 
+9.0 
+10.5 
+10.4 
+9.7 
+11.6 
+5.5 
+Forecasts 
+19 
+18 
+16 
+15 
+14 
+12 
+8 
+4 
+ 
+=== page 12 ===
+Hurricane Priscilla     12 
+ 
+Table 5.​
+Watch and warning summary for Priscilla, 4–10 October 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+04 / 2100 
+Tropical Storm Watch issued 
+Punta San Telmo to Punta Mita 
+06 / 1500 
+Tropical Storm Watch issued 
+Baja California Sur from Cabo San Lucas 
+to Santa Fe 
+06 / 2100 
+Tropical Storm Watch discontinued 
+Punta San Telmo to Manzanillo 
+07 / 0300 
+Tropical Storm Watch discontinued 
+Manzanillo to Punta Mita 
+07 / 0300 
+Tropical Storm Watch extended 
+Baja California Sur from Santa Fe to 
+Cabo San Lazaro 
+09 / 1500 
+Tropical Storm Watch discontinued 
+All of Mexico 
+ 
+ 
+=== page 13 ===
+Hurricane Priscilla     13 
+ 
+ 
+Figure 1.​
+Best track positions for Hurricane Priscilla, 4–10 October 2025. 
+=== page 14 ===
+Hurricane Priscilla     14 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Priscilla, 4–10 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 15 ===
+Hurricane Priscilla     15 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Hurricane Priscilla, 4–10 October 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 16 ===
+Hurricane Priscilla     16 
+ 
+ 
+ 
+ 
+Figure 4.​
+Rainfall accumulations (mm) at stations in Mexico from 4–10 October 2025. Image courtesy of CONAGUA and Servicio 
+Meteorológico Nacional (SMN, the National Meteorological Service of Mexico). 
+=== page 17 ===
+Hurricane Priscilla     17 
+ 
+ 
+Figure 5.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Priscilla for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

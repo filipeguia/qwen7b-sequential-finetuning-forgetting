@@ -1,0 +1,17 @@
+Hurricane Narda (EP142025), 21–28 September 2025
+
+Narda was a category 2 hurricane (on the Saffir-Simpson Hurricane Wind Scale) that remained over the open waters of the eastern North Pacific Ocean.
+
+Hurricane Narda 21–28 SEPTEMBER 2025
+
+## BEST TRACK
+
+The “best track2” positions and intensities for Hurricane Narda are listed in Table 1. The best track chart of Narda’s path is given in Fig. 1, with the wind and pressure histories along with available observations3 shown in Figs. 2 and 3, respectively. There were no ship reports of tropical-storm-force winds associated with Narda. Origin Narda formed around 1800 UTC 21 September about 210 n mi south-southeast of Zihuantanejo, Mexico. Narda appears to have formed from the combination of a tropical wave that crossed Central America on 17 and 18 September and a disturbance in the monsoon trough. Peak Intensity and Minimum Pressure Narda’s peak intensity of 90 kt at 0600 and 1200 UTC 24 September is based mainly on subjective satellite intensity estimates from TAFB, SAB, and a blend of UW-CIMSS D-PRINT and D-MINT objective intensity estimates. The minimum central pressure of 970 mb is primarily based on the Knaff-Zehr-Courtney pressure-wind relationship.
+
+## CASUALTY AND DAMAGE STATISTICS
+
+There were no reports of damage or casualties associated with Narda.
+
+## FORECAST AND WARNING VERIFICATION
+
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical Weather Outlook (TWO) forecast in each likelihood category. Figure 4 shows composites of 7-day TWO genesis areas for each category prior to the formation of Narda. The disturbance that became Narda was introduced into the Outlook less than 3 days prior to formation, as the system formed earlier than anticipated. The location of genesis occurred within all TWO genesis areas. A verification of NHC official track forecasts for Narda is given in Table 3a. Official track forecast errors were lower than the mean official errors for the previous 5-yr period, for most time ranges, except the 36-h and 48-h verifying forecasts, which were near the long-term mean. A homogeneous comparison of the official track errors with selected guidance models is given in Table 3b. Overall, the simple consensus (TVCE) and HFIP corrected consensus (HCCA) aids performed the best, with slightly lower errors than the NHC track forecast at most times. A verification of NHC official intensity forecasts for Narda is given in Table 4a. Official intensity forecast errors were lower than the mean official errors for the previous 5-yr period for all time ranges, except at 72 hours. A homogeneous comparison of the official intensity errors with selected guidance models is given in Table 4b. Most of the intensity guidance was comparable to the NHC forecast in the short term, but it outperformed the NHC intensity forecast in the 60-to 96-h time frame. After Narda reached peak intensity and weakened slightly, the official forecast called for re-intensification that did not occur. This resulted in a high bias in the NHC intensity forecasts during that period. There were no coastal watches or warnings issued for Narda.

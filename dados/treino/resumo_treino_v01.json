@@ -1,0 +1,15 @@
+{
+ "A": {
+  "fatos": 552,
+  "exemplos": 1094
+ },
+ "buffer_A": {
+  "exemplos": 128,
+  "fatos": 116,
+  "fatos_de_prova_no_buffer": 21
+ },
+ "B": {
+  "fatos": 382,
+  "exemplos": 758
+ }
+}

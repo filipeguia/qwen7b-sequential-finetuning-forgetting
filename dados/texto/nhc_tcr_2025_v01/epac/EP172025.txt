@@ -1,0 +1,966 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+TROPICAL STORM RAYMOND  
+ 
+(EP172025) 
+ 
+9–11 October 2025 
+ 
+Alex Gibbs 
+National Hurricane Center 
+12 January 2026 
+ 
+ 
+GOES-19 GEOCOLOR SATELLITE IMAGE OF RAYMOND AROUND THE TIME OF ITS PEAK INTENSITY AT        
+1450 UTC 10 OCTOBER 2025, AS IT PASSED OFFSHORE OF SOUTHWESTERN MEXICO. IMAGE COURTESY OF 
+NOAA/NESDIS/STAR. 
+        Raymond was a short-lived tropical storm that tracked offshore of southwestern 
+Mexico before weakening and moving inland over the southern tip of the Baja California 
+peninsula as a remnant low. It brought locally heavy rainfall and gusty winds to portions of 
+Mexico.  
+=== page 2 ===
+Tropical Storm Raymond     2 
+ 
+Tropical Storm Raymond 
+9–11 October 2025 
+ 
+ 
+SYNOPTIC HISTORY 
+ 
+ 
+Raymond originated from a broad area of low pressure that evolved within the eastern 
+North Pacific monsoon trough located a few hundred n mi off the coast of southern Mexico by 1 
+October. This broad low meandered within the same general area for a few days, accompanied 
+by disorganized and intermittent bursts of convection. Between 4 and 6 October, however, the 
+disturbance became less identifiable in both satellite imagery and scatterometer data. The 
+evolution was partially due to the influence of Hurricane Priscilla, located around 700 n mi to the 
+west-northwest, whose large circulation and convective envelope likely played a role in disrupting 
+this smaller-scale feature within the monsoon trough and suppressing much of its convection.  
+As Priscilla lifted northward and steadily weakened, convection developed and expanded 
+near the coast of southern Mexico by 8 October. Successive scatterometer passes afterward 
+revealed the broad low gradually becoming better defined. Despite these improvements, 
+persistent easterly vertical wind shear and the system’s proximity to land, and the possibility that 
+the low-level circulation moved inland likely delayed the organization of deep convection and 
+development of a well-defined center. By 9 October, however, convective organization began to 
+improve, with banding features developing over the western and southern semicircles. An 
+overnight OSCAT-3 pass revealed a well-defined low-level circulation near the coast of 
+southwestern Mexico. This pass, combined with hourly observations from the cruise ship 
+Norwegian Joy (C6CX3) and subjective Dvorak estimates from TAFB and SAB, provided 
+sufficient evidence to designate the system as a tropical depression by 0600 UTC 9 October 
+about 75 n mi southeast of Acapulco, Mexico. The cyclone strengthened into a 35-kt tropical storm 
+6 h later. The “best track” chart of Raymond’s path is given in Fig. 1, with the wind and pressure 
+histories shown in Figs. 2 and 3, respectively. The best track positions and intensities are listed 
+in Table 1.  
+After genesis, Raymond moved steadily west-northwestward to northwestward at               
+10–15 kt along the southern periphery of a strong mid-level ridge over northern Mexico and the 
+south-central United States. Very warm sea surface temperatures and strong upper-level 
+divergence supported modest intensification despite persistent easterly vertical wind shear. 
+Raymond reached its peak intensity of 50 kt from 0600–1200 UTC 10 October while paralleling 
+the southwestern coast of Mexico. 
+Raymond began to encounter an increasingly hostile environment after reaching peak 
+intensity, characterized by strong easterly shear, drier mid-level air, and weakening outflow. 
+These factors caused deep convection to become increasingly displaced from the low-level 
+center, and by early on 11 October the cyclone’s convective pattern had become ragged. 
+Raymond continued moving quickly northwestward toward Baja California Sur, and any remaining 
+deep convection dissipated during the early morning hours. Raymond became a post-tropical 
+=== page 3 ===
+Tropical Storm Raymond     3 
+ 
+remnant low by 1800 UTC 11 October, when it was nearing the southern tip of the Baja California 
+peninsula.  
+The remnant low turned northward and then north-northeastward between 11–12 October 
+in response to an amplifying mid-latitude trough over the southwestern United States. The system 
+moved over the southern tip of the Baja California peninsula between 0000–0600 UTC 12 October 
+and then briefly emerged over the southern Gulf of California. Raymond is estimated to have 
+dissipated by 1800 UTC 12 October before reaching the coast of northwestern Mexico near Los 
+Mochis. The remaining moisture was advected northward across northwestern Mexico and into 
+portions of the southwestern United States. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+  
+Observations in Raymond (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-orbiting 
+satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global 
+Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats 
+(TROPICS) satellites, among others, were also useful in constructing the best track of Raymond. 
+Ship reports of winds of tropical storm force associated with Raymond are given in Table 
+2. 
+Winds and Pressure 
+Raymond’s estimated peak intensity of 50 kt around 0600 UTC 10 October is based on a 
+blend of subjective Dvorak intensity estimates from TAFB and objective estimates from UW-
+CIMSS, along with scatterometer data. A scatterometer pass at 0436 UTC 10 October sampled 
+peak surface winds of 48 kt, supporting the 50-kt intensity estimate. There were no land-based 
+observations of tropical storm-force winds associated with Raymond. The estimated minimum 
+central pressure of 998 mb is based primarily on the Knaff–Zehr–Courtney (KZC) pressure–wind 
+relationship. 
+Rainfall and Flooding 
+ 
+Raymond’s close passage to the southwestern Mexican coast produced periods of heavy 
+rainfall from 9–11 October (Fig. 4). Notable storm-total rainfall amounts included 7.46 inches 
+(189.5 mm) at Zihuatanejo in the state of Guerrero, 6.85 inches (174.0 mm) at La Desembocada 
+in Jalisco, and 5.71 inches (145.0 mm) at Rosario in Sinaloa.  
+ 
+=== page 4 ===
+Tropical Storm Raymond     4 
+ 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+ 
+Localized flooding associated with heavy rainfall occurred in portions of southwest Mexico 
+as Raymond tracked west-northwestward to northwestward just offshore. These impacts led to 
+disruptions to transportation and even damage in some locations. Although fatalities were 
+reported across the region before and after the formation of Raymond, a direct association with 
+Raymond and its incipient disturbance was not conclusive.  
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+The potential for Raymond’s development was recognized more than five days before 
+formation, with confidence increasing as the disturbance began to organize near the coast of 
+southwestern Mexico. Table 3 provides the number of hours before genesis when the first NHC 
+Tropical Weather Outlook (TWO) forecast was issued in each likelihood category. For the 7-day 
+outlook, a low (<40%) chance of development was first indicated 138 hours prior to genesis, and 
+the probabilities were raised to the medium (40–60%) category 126 hours before formation. The 
+7-day probabilities were increased to the high (>60%) category 60 hours before formation. For 
+the 2-day forecast period, the disturbance was given a low and medium chance of genesis 60 
+and 42 hours before formation, respectively, and the probabilities were increased to the high 
+category 18 hours prior to genesis. 
+Despite the presence of vertical shear, the disturbance’s proximity to land, and the 
+influence of Hurricane Priscilla to the northwest, the forecasts for Raymond’s genesis location 
+were accurate. The location of genesis occurred within nearly all of NHC’s graphical 7-day outlook 
+areas, resulting in a 96% hit rate for all probabilistic categories (Fig. 5). These results indicate 
+that, although the exact timing of genesis was somewhat uncertain due to the environmental 
+challenges noted above, the spatial forecasts of where Raymond would form were consistently 
+well-predicted. The eventual genesis point lay along the northern edge of the NHC outlook areas 
+near the coast of southwestern Mexico. 
+A verification of NHC official track forecasts for Raymond is provided in Table 4a. Official 
+track forecast errors were lower than the mean official errors for the previous 5-yr period at the 
+24- and 36-h forecast intervals. At 12 h, the official error was slightly larger than the 5-yr mean, 
+and the lone 48-h forecast had an error that was nearly identical to the corresponding 5-yr mean. 
+However, the very small number of forecasts limits the significance of these comparisons. A 
+homogeneous comparison of the official track errors with selected guidance models is given in 
+Table 4b. Overall, the NHC track forecasts generally performed better than the available 
+guidance, with smaller errors at most forecast times. 
+A verification of NHC official intensity forecasts for Raymond is provided in Table 5a. 
+Official intensity forecast errors were lower than the mean official errors for the previous 5-yr 
+period at all forecast times, although the sample size beyond 24 h limits the meaningfulness of 
+=== page 5 ===
+Tropical Storm Raymond     5 
+ 
+these comparisons. A homogeneous comparison of the official intensity errors with selected 
+guidance models is given in Table 5b, which shows that the official forecasts were as good as or 
+better than all guidance at each forecast period.  
+ 
+Coastal wind watches and warnings associated with Raymond are given in Table 6.  
+ 
+ACKNOWLEDGEMENTS 
+ 
+Rainfall data shown in Fig. 4 were provided by CONAGUA, the National Meteorological 
+Service of Mexico. Dr. Philippe Papin (NHC) provided the genesis verification maps (Fig. 5). 
+ 
+ 
+ 
+=== page 6 ===
+Tropical Storm Raymond     6 
+ 
+Table 1. 
+Best track for Tropical Storm Raymond, 9–11 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+09 / 0600 
+15.9 
+99.0 
+1004 
+30 
+tropical depression 
+09 / 1200 
+15.9 
+99.9 
+1003 
+35 
+tropical storm 
+09 / 1800 
+16.0 
+100.9 
+1002 
+40 
+" 
+10 / 0000 
+16.4 
+101.8 
+1000 
+45 
+" 
+10 / 0600 
+17.0 
+102.9 
+998 
+50 
+" 
+10 / 1200 
+17.8 
+104.4 
+998 
+50 
+" 
+10 / 1800 
+18.6 
+105.9 
+1000 
+45 
+" 
+11 / 0000 
+19.6 
+107.2 
+1000 
+45 
+" 
+11 / 0600 
+20.4 
+108.2 
+1002 
+40 
+" 
+11 / 1200 
+21.1 
+109.0 
+1003 
+35 
+" 
+11 / 1800 
+21.8 
+109.6 
+1004 
+30 
+low 
+12 / 0000 
+22.6 
+110.0 
+1004 
+30 
+" 
+12 / 0600 
+23.5 
+110.0 
+1006 
+25 
+" 
+12 / 1200 
+24.5 
+109.7 
+1006 
+25 
+" 
+12 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+10 / 0600 
+17.0 
+102.9 
+998 
+50 
+minimum pressure & 
+maximum winds 
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Raymond     7 
+ 
+Table 2. 
+Selected ship reports with winds of at least 34 kt for Tropical Storm Raymond,       
+9–11 October 2025. 
+Date/Time (UTC) 
+Ship call sign Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind dir/speed (kt) Pressure 
+(mb) 
+09/0700 
+C6CX3 
+16.3 
+101.5 
+300/35 
+1010.9 
+09/0900 
+C6CX3 
+16.3 
+101.2 
+300/35 
+1007.5 
+09/1700 
+C6CX3 
+16.4 
+99.3 
+090/36 
+1012.0 
+09/2100 
+C6CX3 
+16.0 
+98.5 
+140/37 
+1012.0 
+09/2200 
+C6CX3 
+15.9 
+98.3 
+140/35 
+1012.0 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Raymond     8 
+ 
+Table 3. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+60 
+138 
+Medium (40%-60%) 
+42 
+126 
+High (>60%) 
+18 
+60 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Raymond     9 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Raymond, 9–11 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+28.2 
+22.2 
+29.9 
+53.5 
+ 
+ 
+ 
+ 
+OCD5 
+53.0 
+110.1 
+154.6 
+185.8 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Raymond     10 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Raymond, 9–11 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+28.2 
+22.2 
+29.9 
+53.5 
+ 
+ 
+ 
+ 
+OCD5 
+53.0 
+110.1 
+154.6 
+185.8 
+ 
+ 
+ 
+ 
+GFSI 
+26.3 
+31.5 
+52.5 
+84.9 
+ 
+ 
+ 
+ 
+HMNI 
+32.8 
+28.3 
+25.7 
+64.1 
+ 
+ 
+ 
+ 
+HFAI 
+34.4 
+43.9 
+36.2 
+53.8 
+ 
+ 
+ 
+ 
+HFBI 
+42.7 
+53.3 
+56.1 
+98.0 
+ 
+ 
+ 
+ 
+HWFI 
+29.5 
+32.1 
+63.7 
+91.3 
+ 
+ 
+ 
+ 
+EMXI 
+37.8 
+50.5 
+90.7 
+143.0 
+ 
+ 
+ 
+ 
+CMCI 
+33.1 
+94.1 
+135.9 
+205.9 
+ 
+ 
+ 
+ 
+AEMI 
+23.4 
+28.9 
+55.1 
+92.8 
+ 
+ 
+ 
+ 
+HCCA 
+27.5 
+20.4 
+40.6 
+69.9 
+ 
+ 
+ 
+ 
+FSSE 
+26.8 
+33.0 
+56.9 
+64.2 
+ 
+ 
+ 
+ 
+GFEX 
+29.5 
+37.6 
+60.6 
+73.7 
+ 
+ 
+ 
+ 
+TVCE 
+28.1 
+27.7 
+34.8 
+61.6 
+ 
+ 
+ 
+ 
+TVCX 
+29.0 
+29.7 
+37.0 
+61.8 
+ 
+ 
+ 
+ 
+TVDG 
+26.5 
+29.6 
+40.1 
+61.6 
+ 
+ 
+ 
+ 
+TABD 
+44.2 
+53.3 
+77.3 
+119.1 
+ 
+ 
+ 
+ 
+TABM 
+41.5 
+63.8 
+73.8 
+5.6 
+ 
+ 
+ 
+ 
+TABS 
+64.8 
+175.5 
+255.3 
+236.6 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Tropical Storm Raymond     11 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Raymond, 9–11 October 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.6 
+4.0 
+3.3 
+0.0 
+ 
+ 
+ 
+ 
+OCD5 
+5.9 
+16.0 
+19.3 
+4.0 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Tropical Storm Raymond     12 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Raymond, 9–11 October 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.6 
+4.0 
+3.3 
+0.0 
+ 
+ 
+ 
+ 
+OCD5 
+5.9 
+16.0 
+19.3 
+4.0 
+ 
+ 
+ 
+ 
+HWFI 
+5.4 
+6.4 
+8.7 
+5.0 
+ 
+ 
+ 
+ 
+HMNI 
+4.3 
+5.4 
+8.3 
+8.0 
+ 
+ 
+ 
+ 
+HFAI 
+6.4 
+5.2 
+5.3 
+2.0 
+ 
+ 
+ 
+ 
+HFBI 
+4.7 
+5.6 
+5.7 
+4.0 
+ 
+ 
+ 
+ 
+DSHP 
+6.0 
+7.4 
+5.0 
+15.0 
+ 
+ 
+ 
+ 
+LGEM 
+5.6 
+9.0 
+5.3 
+4.0 
+ 
+ 
+ 
+ 
+ICON 
+4.9 
+5.2 
+4.0 
+0.0 
+ 
+ 
+ 
+ 
+IVCN 
+4.4 
+4.6 
+3.3 
+0.0 
+ 
+ 
+ 
+ 
+IVDR 
+4.6 
+4.0 
+4.3 
+1.0 
+ 
+ 
+ 
+ 
+GFSI 
+4.4 
+6.0 
+6.0 
+4.0 
+ 
+ 
+ 
+ 
+EMXI 
+7.9 
+11.0 
+8.3 
+3.0 
+ 
+ 
+ 
+ 
+HCCA 
+4.4 
+5.4 
+3.3 
+3.0 
+ 
+ 
+ 
+ 
+FSSE 
+4.1 
+4.0 
+5.3 
+2.0 
+ 
+ 
+ 
+ 
+Forecasts 
+7 
+5 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Tropical Storm Raymond     13 
+ 
+Table 6. 
+Watch and warning summary for Tropical Storm Raymond, 9–11 October 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+09/1500 
+Tropical Storm Watch Issued 
+ 
+Southwest coast of Mexico from 
+Zihuatanejo northward to Cabo 
+Corrientes 
+09/2100 
+Tropical Storm Warning Issued 
+ 
+Southwest coast of Mexico from 
+Zihuatanejo northward to Cabo 
+Corrientes 
+10/0900 
+Tropical Storm Watch Issued 
+ 
+Baja California Sur from Los Barriles 
+northward to Santa Fe 
+10/1500 
+Tropical Storm Warning 
+Discontinued 
+ 
+Southwest coast of Mexico from south of 
+Punta San Telmo to Zihuatanejo 
+10/1800 
+Tropical Storm Warning Issued 
+Las Islas Marias, Mexico 
+10/2100 
+Tropical Storm Warning Issued 
+ 
+Baja California Sur from Los Barriles 
+northward to Santa Fe 
+ 
+10/2100 
+Tropical Storm Warning 
+Discontinued 
+Southwest coast of Mexico from South of 
+Manzanillo to Punta San Telmo 
+11/0900 
+Tropical Storm Warning 
+Discontinued 
+ 
+Southwest coast of Mexico from 
+Manzanillo northward to Cabo  
+Corrientes 
+ 
+11/1500 
+Tropical Storm Warning 
+Discontinued  
+Las Islas Marias 
+11/1800 
+Tropical Storm Warning 
+Discontinued 
+Baja California Sur from Los Barriles to 
+Santa Fe 
+ 
+=== page 14 ===
+Tropical Storm Raymond     14 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Raymond, 9–11 October 2025.  
+ 
+ 
+=== page 15 ===
+Tropical Storm Raymond     15 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Raymond, 9–11 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 16 ===
+Tropical Storm Raymond     16 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Raymond, 9–11 October 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 17 ===
+Tropical Storm Raymond     17 
+ 
+ 
+Figure 4. 
+Rainfall accumulations (mm) in Mexico from 9–11 October 2025. Track and intensity are based on the operational NHC 
+assessment. Not all of the rainfall depicted here is directly related to Raymond. Image courtesy of CONAGUA, the National 
+Meteorological Service of Mexico.  
+ 
+=== page 18 ===
+Tropical Storm Raymond     18 
+ 
+ 
+Figure 5. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Tropical Storm Raymond for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) 
+category, and (d) high (>60%) category. The location of genesis is indicated by the black star. 

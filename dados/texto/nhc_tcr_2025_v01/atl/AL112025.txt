@@ -1,0 +1,369 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+SUBTROPICAL STORM KAREN 
+ 
+(AL112025) 
+ 
+9–10 October 2025 
+ 
+Philippe P. Papin 
+National Hurricane Center 
+4 December 2025 
+ 
+ 
+NOAA-21 VIIRS IMAGERY AT 1440 UTC 9 OCTOBER, SHOWING SUBTROPICAL STORM KAREN (INSET) 
+EMBEDDED IN A LARGE MID-LATITUDE SYSTEM (ZOOMED OUT VIEW) AFTER IT BECAME A SUBTROPICAL 
+STORM. IMAGERY COURTESY OF NASA WORLDVIEW. 
+ 
+Karen was a high-latitude subtropical storm that formed well to the northwest of the 
+Azores. Karen’s genesis location was the farthest north that a tropical or subtropical 
+cyclone has formed in NHC records.  
+ 
+ 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Karen. 
+=== page 2 ===
+Subtropical Storm Karen     2 
+ 
+Subtropical Storm Karen 
+ 
+9–10 OCTOBER 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Subtropical Storm Karen are listed in Table 
+1. The best track chart of Karens’s path is given in Fig. 1, with the wind and pressure histories 
+along with available observations3 shown in Figs. 2 and 3, respectively.  
+There were no surface observations of winds of tropical storm force associated with Karen. 
+Origin 
+Karen had non-tropical origins from a frontal low pressure system that formed downstream 
+of an amplifying upper-level trough early on 8 October (Fig. 4a). This frontal low quickly became 
+occluded by 1200 UTC that day (Fig. 4b) as the upper-level trough cutoff and became 
+superimposed over the low-level circulation. Over the following day, the occluded low moved 
+slowly northeastward as shallow convection began to develop closer to the center. This change 
+resulted in the associated fronts decaying as the temperature gradient decreased. By early 9 
+October, a Sentinel-1A Synthetic Aperture Radar (SAR) pass (Fig. 5a), in addition to a 
+scatterometer pass (not shown), indicated that the low was no longer attached to frontal features, 
+was producing 35- to 40-kt winds, and its radius of maximum wind had shrunk to about 15 n mi. 
+During this period, the system was also classified as a subtropical cyclone by TAFB using the 
+Hebert-Poteat technique. Thus, the low is estimated to have become Subtropical Storm Karen 
+with maximum sustained winds of 40 kt by 1200 UTC 9 October, about 300 n mi to the northwest 
+of the northern-most Azores Islands. During and shortly after formation, the system was producing 
+organized convective bands which could be seen on both microwave (Fig. 5b) and geostationary 
+satellite imagery (Fig. 4c), with a distinct clear spot appearing near the center (cover photo).   
+Karen was unique for developing very far north (43.5°N, 34.8°W) where sea-surface 
+temperatures (SSTs) were cooler (20–22°C) than typically observed for tropical or subtropical 
+cyclogenesis (Fig. 6a). SSTs below 26°C can limit deep organized convection, but in Karen’s 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak and Herbert-Poteat subtropical technique intensity 
+estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), 
+objective Advanced Dvorak Technique (ADT) estimates and Satellite Consensus (SATCON) estimates 
+from the Cooperative Institute for Meteorological Satellite Studies/University of Wisconsin-Madison. Data 
+and imagery from NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), 
+the NASA Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer 
+(ASCAT), the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) 
+satellites, among others, were also useful in constructing the best track of Karen. 
+=== page 3 ===
+Subtropical Storm Karen     3 
+ 
+case, upper-level temperatures were also colder than usual in part due to its formation under a 
+suppressed tropopause (Fig. 7). For cyclones that undergo tropical transition within a baroclinic 
+environment, a helpful index developed to determine if sufficient tropospheric instability exists is 
+called the Coupling Index (Bosart and Lackman 1995). This index is calculated as the difference 
+between the potential temperature at the tropopause and the 850-mb equivalent potential 
+temperature (Fig. 6b). A maximum threshold of 22.5°C has been proposed in literature 
+(McTaggart-Cowan et al. 2015) as a better variable than using SSTs alone for these tropical 
+transitioning cases. The Coupling Index has also been used in compositing studies of subtropical 
+cyclones that form in the presence of a large cutoff upper-level cyclone, as in Karen’s case 
+(Bentley et al. 2017, see their Fig. 10). Despite Karen’s development over cool SSTs, a large 
+region of instability existed (Coupling Index values below 22.5°C) over the system while it was in 
+a low-shear environment (Fig. 6b) which aided the system’s transition into a subtropical storm.  
+While Karen is notable for developing into a subtropical storm at such a high latitude, other 
+non-tropical-originating systems have tracked even farther north, including Hurricane Pablo 
+(2019), which became a 70-kt hurricane farther north and west (44.1°N, 17.3°W) over cooler SSTs 
+than where Karen first became a subtropical storm.  
+Peak Intensity and Minimum Pressure 
+Karen’s peak intensity of 40 kt as a subtropical storm is based on scatterometer data of 
+37 kt near 1133 UTC 9 October, assuming some undersampling of the peak wind speed from this 
+instrument. This peak intensity of 40 kt is also roughly in between the highest subjective intensity 
+estimates provided by TAFB (ST 2.5/35–40 kt), and SAB (T3.0/45 kt) between 0000–0600 UTC 
+10 October.   
+The estimated minimum central pressure of 998 mb is based on a combination of surface 
+analyses from the NWS Unified Surface Analyses and a blend of subjective and objective 
+pressure estimates.  
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Karen. 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. Karen’s genesis was poorly 
+predicted. The extratropical low that transitioned into Subtropical Storm Karen was first introduced 
+into the TWO only 12 h prior to transition, and the outlook failed to reach the medium or high 
+categories in the TWO prior to the post-analyzed formation of Karen. These transitions require 
+the associated fronts to dissipate, deep convection to develop near the center, and for the radius 
+of maximum wind to contract. In particular, the global models often struggle to simulate these 
+changes in characteristics, especially in producing sufficiently deep convection, which limited the 
+=== page 4 ===
+Subtropical Storm Karen     4 
+ 
+predictability of this subtropical cyclone. The location of Karen’s genesis was well predicted in the 
+three genesis areas that were issued before and during Karen’s formation (Fig. 8).    
+Only two NHC official forecasts verified at 12 h due to the cyclone’s short existence. Those 
+12-h forecasts had a track error of 7.2 n mi and an intensity error of 2.5 kt, which are both below 
+the mean official errors for the previous 5-yr period. A homogeneous comparison of the official 
+track and intensity errors with selected guidance models is not shown due to the small sample 
+size of forecasts. 
+There were no coastal watches or warnings issued for Karen. 
+REFERENCES 
+ 
+Bentley, A. M., L. F. Bosart, and D. Keyser, 2017: Upper-Tropospheric Precursors to the 
+Formation of Subtropical Cyclones that Undergo Tropical Transition in the North Atlantic 
+Basin. Mon. Wea. Rev., 145, 503–520, https://doi.org/10.1175/MWR-D-16-0263.1. 
+Bosart, L. F., and G. M. Lackmann, 1995: Postlandfall Tropical Cyclone Reintensification in a 
+Weakly Baroclinic Environment: A Case Study of Hurricane David (September 1979). 
+Mon. Wea. Rev., 123, 3268–3291, https://doi.org/10.1175/1520-
+0493(1995)123<3268:PTCRIA>2.0.CO;2. 
+McTaggart-Cowan, R., E. L. Davies, J. G. Fairman, T. J. Galarneau, and D. M. Schultz, 2015: 
+Revisiting the 26.5°C Sea Surface Temperature Threshold for Tropical Cyclone 
+Development. Bull. Amer. Meteor. Soc., 96, 1929–1943, https://doi.org/10.1175/BAMS-
+D-13-00254.1. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Special thanks to the NOAA Ocean Prediction Center for coordination that was conducted 
+prior to and after the formation of Subtropical Storm Karen. Additional thanks to Dr. Alicia Bentley 
+(NOAA/EMC) who provided the code to compute the Coupling Index used in Fig. 6b of this report.  
+ 
+ 
+=== page 5 ===
+Subtropical Storm Karen     5 
+ 
+Table 1. 
+Best track for Subtropical Storm Karen, 9–10 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+08 / 0000 
+38.0 
+35.9 
+1014 
+45 
+extratropical 
+08 / 0600 
+39.9 
+36.0 
+1006 
+45 
+" 
+08 / 1200 
+41.2 
+36.7 
+1000 
+50 
+" 
+08 / 1800 
+41.4 
+36.9 
+996 
+50 
+" 
+09 / 0000 
+41.9 
+35.7 
+997 
+45 
+" 
+09 / 0600 
+42.8 
+35.1 
+997 
+45 
+" 
+09 / 1200 
+43.5 
+34.8 
+998 
+40 
+subtropical storm 
+09 / 1800 
+43.9 
+34.2 
+998 
+40 
+" 
+10 / 0000 
+44.4 
+33.5 
+998 
+40 
+" 
+10 / 0600 
+45.0 
+32.6 
+998 
+40 
+" 
+10 / 1200 
+45.7 
+31.5 
+998 
+40 
+" 
+10 / 1800 
+46.8 
+30.6 
+1000 
+35 
+" 
+11 / 0000 
+48.0 
+29.7 
+1003 
+35 
+low 
+11 / 0600 
+49.4 
+28.7 
+1005 
+30 
+" 
+11 / 1200 
+51.3 
+28.0 
+1005 
+30 
+" 
+11 / 1800 
+ 
+ 
+ 
+ 
+dissipated 
+09 / 1200 
+43.5 
+34.8 
+998 
+40 
+Maximum winds and 
+minimum pressure 
+ 
+ 
+ 
+ 
+=== page 6 ===
+Subtropical Storm Karen     6 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+12 
+12 
+Medium (40%-60%) 
+- 
+- 
+High (>60%) 
+- 
+- 
+ 
+=== page 7 ===
+Subtropical Storm Karen     7 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Subtropical Storm Karen, 9–10 October 2025. Tracks during the extratropical stage are partially based 
+on unified surface analyses from the NWS Unified Surface Analyses. 
+=== page 8 ===
+Subtropical Storm Karen     8 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Subtropical Storm Karen, 9–10 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 9 ===
+Subtropical Storm Karen     9 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Subtropical Storm Karen, 9–10 October 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 10 ===
+Subtropical Storm Karen     10 
+ 
+ 
+Figure 4. 
+GOES-19 infrared images documenting the evolution of Karen at a) 0600 UTC 8 October when the system was a frontal low, 
+b) 1200 UTC 8 October when the low became occluded, c) 1740 UTC 9 October after the system had shed its frontal features 
+and had become a subtropical storm, and d) 0000 UTC 11 October when Karen became a post-tropical remnant low.  
+=== page 11 ===
+Subtropical Storm Karen     11 
+ 
+ 
+Figure 5. 
+Polar orbiting imagery of Karen shortly before and after it became a subtropical storm, where (a) is a Sentinel-1A Synthetic 
+Aperture Radar pass at 0829 UTC 9 October which showed the low had shed its remaining frontal boundaries and (b) a 1548 
+UTC 9 October AMSR2 36.5 GHz microwave pass showing organized curved bands associated with Karen. Note that the 
+calibration of wind estimates from SAR are still being examined, and the data were only used qualitatively when estimating 
+Karen’s peak intensity.  
+ 
+ 
+=== page 12 ===
+Subtropical Storm Karen     12 
+ 
+ 
+Figure 6. 
+Thermodynamic variables related to Karen’s development into a subtropical storm. Panel (a) depicts sea surface temperatures 
+(shading, °C) on 9 October. The 20°C sea surface temperature isotherm is highlighted as a black contour, while the track and 
+location of the subtropical storm when it was designated are shown as a white line and orange cyclone symbol, respectively. 
+Panel (b) depicts the 1200 UTC 9 October GFS analysis of coupling index (shaded, °C), 300–200 mb layer mean potential 
+vorticity (black contours, > 1 PVU), and 200–850 mb Vertical Wind Shear (vectors, >20 kt, 25 kt reference vector provided in 
+top left). Data from NOAA’s Coral Reef Watch, accessible at https://coralreefwatch.noaa.gov/ and the GFS archive at UCAR, 
+accessible at https://gdex.ucar.edu/datasets/d084001/.  
+ 
+=== page 13 ===
+Subtropical Storm Karen     13 
+ 
+ 
+Figure 7. 
+Cross-section of Karen and the upper-level cutoff low at the time of designation as a subtropical storm at 1200 UTC 9 October. 
+Cross-section depicts potential vorticity (shading, PVU) and potential temperature (black contours, every 4 K). Map inset shows 
+PV on the 330-K surface (shading, PVU), and winds on the 330-K surface (vectors). Note the location of Karen is denoted by 
+the orange cyclone symbol. Data from GFS archive from UCAR, accessible at https://gdex.ucar.edu/datasets/d084001/.  
+=== page 14 ===
+Subtropical Storm Karen     14 
+ 
+ 
+Figure 8. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to and at the formation 
+of Karen for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

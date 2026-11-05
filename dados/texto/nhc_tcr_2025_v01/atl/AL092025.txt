@@ -1,0 +1,2123 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE IMELDA 
+ 
+(AL092025) 
+ 
+28 September–2 October 2025 
+ 
+Brad J. Reinhart 
+National Hurricane Center 
+27 January 2026 
+ 
+ 
+GOES-EAST GEOCOLOR SATELLITE IMAGE OF HURRICANE IMELDA AT 1500 UTC 1 OCTOBER 2025.​
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+Imelda moved through the northwestern and central Bahamas as a tropical storm 
+before turning east-northeastward and passing just south of Bermuda as a category 1 
+hurricane (on the Saffir-Simpson Hurricane Wind Scale). Heavy rainfall produced by 
+Imelda and its predecessor tropical wave over the Greater Antilles resulted in 3 fatalities. 
+=== page 2 ===
+Hurricane Imelda     2 
+ 
+Hurricane Imelda 
+28 September–2 October 2025​
+ 
+ 
+Table of Contents​
+ 
+SYNOPTIC HISTORY....................................................................................................................3 
+METEOROLOGICAL STATISTICS...............................................................................................4 
+Winds and Pressure.............................................................................................................. 5 
+Storm Surge........................................................................................................................... 6 
+Rainfall and Flooding............................................................................................................ 6 
+Greater Antilles.................................................................................................................. 6 
+Florida and the Southeastern United States......................................................................6 
+Bahamas............................................................................................................................7 
+Bermuda............................................................................................................................ 7 
+CASUALTY AND DAMAGE STATISTICS.................................................................................... 7 
+Southeastern United States.....................................................................................................7 
+Greater Antilles........................................................................................................................ 8 
+The Bahamas.......................................................................................................................... 8 
+Bermuda.................................................................................................................................. 8 
+FORECAST AND WARNING CRITIQUE......................................................................................8 
+Genesis....................................................................................................................................8 
+Track........................................................................................................................................9 
+Intensity................................................................................................................................. 10 
+Wind Watches and Warnings.................................................................................................10 
+IMPACT-BASED DECISION SUPPORT SERVICES & PUBLIC COMMUNICATION................10 
+ACKNOWLEDGEMENTS........................................................................................................... 11 
+TABLES.......................................................................................................................................12 
+FIGURES.....................................................................................................................................26 
+ 
+=== page 3 ===
+Hurricane Imelda     3 
+ 
+Hurricane Imelda 
+28 September–2 October 2025 
+SYNOPTIC HISTORY 
+​
+​
+Imelda originated from a tropical wave that moved off the west coast of Africa on 16 
+September. The wave produced some disorganized showers and thunderstorms as it moved 
+westward at about 15 kt and passed over the Cabo Verde Islands on 17 September. Convective 
+activity diminished during the next several days as the wave moved through a drier mid-level 
+environment over the eastern and central tropical Atlantic. Showers and thunderstorms then 
+gradually increased, but remained disorganized, on 21–22 September as the wave approached 
+the Leeward Islands. Moving west-northwestward, the convectively active wave crossed the 
+Leeward Islands on 23 September and then brought gusty winds and heavy rainfall to Puerto 
+Rico and the Virgin Islands while crossing the region on 24 and early 25 September. Showers 
+and thunderstorms began showing increased signs of organization later on 25 and 26 
+September while the disturbance passed over Hispaniola and eastern Cuba. However, satellite 
+images and scatterometer data indicated the tropical wave still lacked a well-defined, closed 
+circulation center. Given the high likelihood of development and the threat of tropical storm 
+conditions to land areas, the NHC initiated advisories on Potential Tropical Cyclone Nine at 
+2100 UTC 26 September. At that time, the broad low-level vorticity maximum was located about 
+50 n mi north-northwest of the eastern tip of Cuba. The “best track” is given in Fig. 1, with the 
+wind and pressure histories shown in Figs. 2 and 3, respectively. The best track positions and 
+intensities are listed in Table 11. 
+The disturbance moved slowly northwestward on 26–27 September along the 
+southwestern extent of a subtropical ridge over the western Atlantic. During this time, the 
+convection did not become significantly better organized, and dropsonde data from Hurricane 
+Hunter aircraft indicate the system remained an open surface trough between eastern Cuba and 
+the southeastern Bahamas. The low-level circulation became better defined in satellite images 
+late on 27 September, and convection was sufficiently organized to mark the formation of a 
+tropical depression by 0000 UTC 28 September, when it was centered about 240 n mi south of 
+Great Abaco Island in the northwestern Bahamas. Convective banding became more 
+pronounced over the eastern side of the circulation later that day, and the depression 
+strengthened into Tropical Storm Imelda by 1800 UTC 28 September when it was located about 
+155 n mi south of Great Abaco. Although the vortex was tilted with height due to moderate 
+southerly shear (Fig. 4), Imelda gradually strengthened over 30°C waters near the Bahamas 
+while it moved northward along the western side of the subtropical ridge. Imelda made landfall 
+as a 45-kt tropical storm on Great Abaco around 1200 UTC 29 September. 
+The strengthening of Imelda continued later on 29 September while the system moved 
+over 28–29°C waters north of the Bahamas (Fig. 5), but then the intensity leveled off early on 30 
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+=== page 4 ===
+Hurricane Imelda     4 
+ 
+September as continued shear and intrusions of dry air disrupted Imelda’s convective 
+organization and briefly left the low-level center exposed (Fig. 6, left). Meanwhile, the northward 
+progress of Imelda slowed as nearby Hurricane Humberto2, located a little more than 400 n mi 
+to the east of Imelda, weakened the western Atlantic subtropical ridge. In response, Imelda 
+turned sharply east-northeastward within the southwesterly flow ahead of an approaching 
+mid-latitude trough over the eastern United States. Intensification resumed later on 30 
+September as new inner core convection consolidated around the center of Imelda, and it 
+became a hurricane by 1200 UTC that day about 150 n mi north of Great Abaco. Enhanced 
+upper-level divergence associated with the upper trough and warm sea-surface temperatures 
+supported continued strengthening of the cyclone on 1 October as Imelda accelerated 
+east-northeastward toward Bermuda. A ragged eye became apparent in satellite images (Fig. 6, 
+right), and Imelda reached a peak intensity of 80 kt by 1200 UTC 1 October, when it was 
+centered about 355 n mi west-southwest of Bermuda. 
+Extratropical transition began as Imelda continued to interact with the upper trough on its 
+approach to Bermuda. Intrusions of dry air started to erode the inner core, and convection 
+became displaced to the north of the cyclone center. In addition, the wind field grew in size and 
+became asymmetric, with a narrow band of strong winds wrapping around the northern and 
+western sides of the circulation as Imelda began to interact with a nearby front. The center of 
+Imelda passed about 5–10 n mi south of Bermuda early on 2 October, with Imelda making its 
+closest approach to the island around 0300 UTC as an 80-kt hurricane (Fig. 7). Synthetic 
+aperture radar data from later that morning (Fig. 8) indicate Imelda became a frontal low and 
+completed its extratropical transition by 1200 UTC 2 October, while centered about 200 n mi 
+east-northeast of Bermuda. The powerful cyclone continued east-northeastward through early 3 
+October, then turned northward and briefly strengthened into a hurricane-force extratropical low 
+by 0000 UTC 4 October. Then, the system accelerated northeastward over the northern Atlantic 
+and gradually weakened over the next couple of days before being absorbed by another frontal 
+system by 0600 UTC 6 October. 
+​
+METEOROLOGICAL STATISTICS 
+​
+ ​
+Observations in Imelda (Figs. 2 and 3) include subjective satellite-based Dvorak 
+technique intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the 
+Satellite Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and 
+Satellite Consensus (SATCON) estimates from the Cooperative Institute for Meteorological 
+Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-orbiting 
+satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global 
+Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats 
+(TROPICS) satellites, among others, were also useful in constructing the best track of Imelda. 
+2 Hagen, Andrew B. “Tropical Cyclone Report: Hurricane Humberto.” National Oceanic and Atmospheric 
+Administration 
+/ 
+National 
+Weather 
+Service 
+/ 
+National 
+Hurricane 
+Center, 
+11 
+Dec. 
+2025, 
+https://www.nhc.noaa.gov/data/tcr/AL082025_Humberto.pdf 
+=== page 5 ===
+Hurricane Imelda     5 
+ 
+​
+Aircraft observations include flight-level and dropwindsonde data from 11 flights of the 
+53rd Weather Reconnaissance Squadron of the U.S. Air Force Reserve Command and 16 flights 
+of the NOAA Hurricane Hunters (Fig. 9). Of these 16 NOAA flights, 8 were synoptic surveillance 
+missions by the Gulfstream-IV jet. Several of these missions successfully performed 
+circumnavigations of two systems (93L/Humberto and 94L/Imelda) on the same flight, which 
+was the first time that this strategy has been employed. In total, the Air Force Reserve and 
+NOAA Hurricane Hunters provided 42 center fixes for Imelda from 27 September–1 October. 
+Ship reports of tropical-storm-force winds associated with Imelda are given in Table 2, 
+and selected surface observations from land stations and data buoys are given in Table 3. 
+​
+Winds and Pressure 
+The estimated peak intensity of Imelda (80 kt) on 1 October is based on a blend of 
+aircraft data and satellite intensity estimates. An Air Force Reserve Hurricane Hunter flight on 1 
+October measured peak 700-mb flight-level winds of 98 kt at 2140 UTC, which would typically 
+correspond to a surface intensity of 88 kt using a standard 90% adjustment factor. However, 
+Imelda was in the early stages of extratropical transition at this time, and layer-averaged 
+dropsonde winds from that day suggest a standard reduction was likely not representative. A 
+1458 UTC eyewall dropsonde recorded mean boundary layer (0-500 m) and WL150 (0-150 m 
+layer average) winds of 90 kt, which both reduce to an intensity of around 75 kt. Dropsonde data 
+from the following mission supported even weaker surface-adjusted winds. Subjective Dvorak 
+estimates from TAFB and SAB, as well as objective ADT and AiDT estimates from UW-CIMSS, 
+peaked at 77 kt on 1 October. A blend of the various datasets supports a peak intensity of 80 kt. 
+The estimated minimum central pressure of 966 mb at 1800 UTC 1 October is based on 
+aircraft data. A 1453 UTC center dropsonde from the Air Force Reserve Hurricane Hunters 
+recorded a surface pressure of 967 mb with 16-kt surface winds, and a 1634 UTC center 
+dropsonde measured a surface pressure of 968 mb with 20-kt surface winds. 
+Some of the northwestern and central Bahamas experienced tropical storm conditions 
+on 28–29 September as Imelda moved over the region. A WeatherSTEM station on Blue 
+Lagoon Island near Nassau measured a sustained wind of 36 kt and a gust of 41 kt at 1808 
+UTC 28 September. The next day, an unofficial weather station on Hog Cay in the northwestern 
+Bahamas reported a sustained wind of 50 kt and a gust of 72 kt as the center of Imelda passed 
+nearby. 
+A few coastal locations in east-central Florida experienced tropical-storm-force gusts on 
+29–30 September as the outer western portion of Imelda’s circulation grazed the coastline. A 
+gust of 37 kt was reported at Parrish Park in Titusville, and a 35-kt gust was measured in New 
+Smyrna Beach. 
+Imelda brought hurricane conditions to Bermuda early on 2 October as the center of the 
+storm passed just south of the island. An elevated weather station at the National Museum of 
+Bermuda (45 m above sea level) measured a sustained wind of 67 kt at 0359 UTC and a gust of 
+86 kt. Elsewhere, a sustained wind of 41 kt and a gust of 57 kt were reported at L.F. Wade 
+=== page 6 ===
+Hurricane Imelda     6 
+ 
+International Airport (TXKF) on the northeastern part of the island. The minimum pressure 
+recorded on the island was 974.7 mb at the National Museum of Bermuda. 
+Storm Surge3 
+For Bermuda, the highest measured storm surge reached 2.25 feet above normal tide 
+levels along the north coast of St. George’s Island on 2 October. This observed peak occurred 
+at low tide, yielding only minor coastal inundation (i.e., 0.56 feet above Mean Higher High Water 
+[MHHW]). However, elevated water levels persisted into the following high tide cycle, resulting in 
+a peak storm tide (combination of storm surge and astronomical tide) of 1.09 ft above MHHW. It 
+should be noted that peak water level observations are not available along the south coast of 
+Bermuda, where the strongest onshore winds are likely to have occurred. 
+Rainfall and Flooding 
+Greater Antilles 
+The tropical wave that spawned Imelda produced heavy rainfall across much of the 
+Greater Antilles as it moved across the region. The southern part of Puerto Rico generally 
+received 2–4 inches of rainfall from 24–26 September, with a storm total maximum of 5.69 
+inches at a CoCoRaHS station near Cabo Rojo (PR-CR-13). These heavy rains caused flash 
+flooding and some landslides, especially across southern portions of the island. Flooding was 
+also reported along the Blanco, Cotui, and Viejo Rivers. Significant flash and river flooding 
+occurred in the Dominican Republic (Fig. 10) as 4–8 inches (~100–200 mm) of rain with locally 
+higher amounts fell across southern and eastern portions of the country from 23–27 September, 
+with a storm total maximum of 21.13 inches (536.6 mm) in Oviedo. Media reports indicate heavy 
+rainfall and flooding also occurred in Haiti. 
+An extended period of heavy rainfall occurred in eastern Cuba from 26–30 September, 
+with numerous stations in Guantánamo and Santiago de Cuba receiving more than 12 inches (~ 
+300 mm) of rain from Imelda and its precursor disturbance. A storm total maximum rainfall of 
+26.87 inches (682.4 mm) was reported at Hatibonico, and 22.00 inches (559.0 mm) fell in 
+Aserradero. These heavy rains triggered widespread flash flooding, landslides, and river 
+flooding that required some water rescues. 
+Florida and the Southeastern United States 
+Outer rainbands from Imelda produced 1–3 inches of rain along portions of the east 
+coast of Florida, with a storm total maximum of 4.35 inches measured at a CoCoRaHS station 
+near Ormond Beach (FL-VL-104). The interaction of peripheral moisture from Imelda with a 
+3 Several terms are used to describe water levels due to a storm. Storm surge is defined as the abnormal 
+rise of water generated by a storm, over and above the predicted astronomical tide, and is expressed in 
+terms of height above normal tide levels. Because storm surge represents the deviation from normal 
+water levels, it is not referenced to a vertical datum. Storm tide is defined as the water level due to the 
+combination of storm surge and the astronomical tide, and is expressed in terms of height above a 
+vertical datum, i.e. the North American Vertical Datum of 1988 (NAVD88) or Mean Lower Low Water 
+(MLLW). Inundation is the total water level that occurs on normally dry ground as a result of the storm 
+tide, and is expressed in terms of height above ground level. At the coast, normally dry land is roughly 
+defined as areas higher than the normal high tide line, or Mean Higher High Water (MHHW). 
+=== page 7 ===
+Hurricane Imelda     7 
+ 
+stalled front near the southeastern U.S. coast resulted in heavy rainfall across portions of North 
+and South Carolina. 
+Bahamas 
+Imelda produced flooding rains across the northwestern and central Bahamas from 
+27–30 September. The heaviest rainfall occurred on the island of New Providence, with a storm 
+total maximum of 14.87 inches of rain measured at the Lynden Pindling International Airport 
+(MYNN) near Nassau. Other locations on that island received 6–10 inches of rainfall during the 
+3-day period. In Great Abaco, 7.76 inches of rain was reported at a CoCoRaHS station 
+(BHS-CO-4) near Cherokee. Elsewhere, storm total rainfall amounts of 3–6 inches were 
+reported on other islands including San Salvador, Great Harbour Cay, and Eleuthera. Media 
+reports indicate flooding occurred on the islands of New Providence, Abaco, and San Salvador. 
+Bermuda 
+Imelda was undergoing extratropical transition as it passed near Bermuda, and the 
+storm’s fast forward speed limited the duration of rainfall that occurred on the island. The L.F. 
+Wade International Airport (TXKF) reported 1.30 inches of rain. No significant flooding was 
+reported. 
+ 
+CASUALTY AND DAMAGE STATISTICS​
+ 
+Imelda is responsible for 2 direct fatalities4 in the Santiago de Cuba province of eastern 
+Cuba due to freshwater flooding, including a 60-year-old man who died in a landslide following 
+heavy rainfall. In Puerto Rico, a 36-year-old man drowned when his car was swept away by 
+floodwaters after heavy rainfall caused the Yauco River to overflow its banks on 24 September5. 
+This fatality is attributed to the parent tropical wave from which Imelda formed. There are no 
+official damage estimates available at the time of this report. 
+Southeastern United States 
+​
+Large swells from both Imelda and distant Hurricane Humberto caused an extended 
+period of rough surf and damaging waves along the southeastern U.S. coast. In Florida, some 
+minor to moderate beach erosion was noted by officials in Brevard and Volusia Counties. 
+Farther north in the Outer Banks of North Carolina, more significant beach erosion caused by 
+battering waves led to 6 unoccupied homes in Buxton collapsing into the ocean.6 
+6 https://apnews.com/article/outer-banks-homes-collapse-hurricane-beachside-north-carolina-1c277f5ea323e2464 
+e0d83a130cdcea7  
+5 https://wapa.tv/noticias/locales/profundo-dolor-joven-muerto-en-inundaci-n-de-yauco-era-due-o-de-panader-a/ 
+article_838ec8f8-e16e-48ee-bd29-bc490916231d.html 
+4 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions 
+from downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 8 ===
+Hurricane Imelda     8 
+ 
+Greater Antilles 
+​
+Imelda and its predecessor tropical wave produced damaging floods across portions of 
+Puerto Rico, the Dominican Republic, Haiti, and Cuba7. In Puerto Rico, several landslides 
+blocked roads, and other roads were inundated by swollen rivers. Some downed trees and utility 
+poles were also reported. In the Dominican Republic, 2 homes were destroyed and almost 
+1,000 homes were damaged by flooding. River flooding temporarily cut off some communities, 
+and gusty winds over the saturated ground led to some downed trees that blocked roads and 
+damaged a couple of homes. Elsewhere, flooding affected 35 communities in Haiti and caused 
+significant crop damage. In eastern Cuba, flooding and landslides cut off 17 communities in the 
+Santiago de Cuba province affecting more than 24,000 people. Over 18,000 people were 
+evacuated in the Guantánamo province, and damaged roads and bridges were reported where 
+numerous landslides and extensive flash flooding occurred. 
+The Bahamas 
+​
+No major structural damage was reported in the Bahamas. Significant flooding occurred 
+in parts of Nassau and surrounding communities on the island of New Providence, including 
+Carmichael, Pinewood Gardens, Gamble Heights, Fox Hill, Bel Air Estates, and West Grove8. 
+Numerous homes and buildings were inundated by floodwaters, including about 100 homes in 
+Carmichael. Some residents and vehicles were stranded by floodwaters, and several water 
+rescues were performed. More than a dozen schools in New Providence, Grand Bahama, and 
+Abaco were closed due to flooding concerns. Gusty winds downed some power lines, with 
+widespread power outages reported in Abaco and more than 1,500 customers affected in New 
+Providence.9 
+Bermuda 
+​
+No significant damage or casualties occurred in Bermuda. Strong winds downed some 
+trees and power lines across the island, and about 18,000 customers lost power at the height of 
+the event. In Pembroke Parish, the roof of a former hotel was ripped off, and an exterior wall 
+collapsed, which damaged a nearby vehicle (Fig. 11).10 
+​
+FORECAST AND WARNING CRITIQUE​
+ 
+Genesis 
+The genesis of Imelda was anticipated well in advance, although the system formed 
+much later than originally forecast (Table 4). The wave from which Imelda developed was 
+originally introduced in the 7-day Tropical Weather Outlook (TWO) shortly after it emerged off 
+the west coast of Africa, 282 h (11.75 days) prior to genesis. A low 2-day chance of formation 
+10 https://www.royalgazette.com/weather/news/article/20251003/storm-takes-out-wall-at-former-hotel/ 
+9 https://www.tribune242.com/news/2025/sep/30/imelda-leaves-behind-flooding-in-its-wake/ 
+8 https://www.thenassauguardian.com/news/flooded-out/article_5c819cc7-d3fb-44d3-a6ea-a39183462553.html 
+7 https://apnews.com/article/hurricane-imelda-humberto-bermuda-c6760b885b541c2154dcb1b5b9bcf163 
+=== page 9 ===
+Hurricane Imelda     9 
+ 
+was introduced 264 h (11 days) prior to formation. However, the wave was embedded in a dry 
+mid-level environment and failed to develop during the following couple of days, and the system 
+was dropped from the TWO on 18 September. Several days later, the tropical wave was 
+reintroduced into the 7-day and 2-day TWO with a low chance of formation 150 h (6.25 days) 
+prior to genesis. The 7-day probabilities were raised to the medium and high categories 132 h 
+and 96 h before formation, respectively. For the 2-day TWO, the system reached the medium 
+category 72 h and the high category 60 h before genesis occurred. The genesis forecasts for 
+Imelda were challenging due to inconsistent global model and ensemble signals as to when 
+development might occur, likely related to the hostile environmental conditions that the wave 
+encountered within the Main Development Region during the climatological peak of the season. 
+A verification of NHC Graphical TWO (GTWO) genesis forecasts for Imelda is shown in 
+Figure 12. The struggles to pinpoint the timing of formation also made it difficult to predict 
+exactly where Imelda would form, as shown by the 43% overall GTWO hit rate. Early NHC 
+genesis forecasts indicated a low chance of formation over the eastern and central tropical 
+Atlantic, but this did not occur due to the marginal environmental conditions. After the wave was 
+reintroduced into the GTWO, the NHC genesis forecasts generally highlighted the southwestern 
+Atlantic Ocean for formation, but most of the medium probability areas were east of where 
+Imelda ultimately formed. The high category areas all correctly captured the location of genesis. 
+Track 
+A verification of NHC official track forecasts (OFCL) for Imelda is given in Table 5a. 
+Official track forecast errors were comparable to or lower than the mean official errors for the 
+previous 5-yr period from 12–60 h, and greater than the mean errors at 72 h. For the two 
+verifying 96-h forecasts, OFCL errors were over 3.5 times larger than the 5-yr means. A 
+homogeneous comparison of the official track errors with selected guidance models is given in 
+Table 5b. The OFCL forecasts outperformed many of the individual models and consensus aids 
+from 12–72 h, although OFCL was generally bested by the UKMET (UKMI) and Google 
+DeepMind ensemble (GDMI) during this period. At 96 h, OFCL had larger errors than most of 
+the guidance, albeit for only 2 verifying forecasts. 
+The close proximity of Humberto and Imelda and the potential for binary interaction 
+made early track forecasts very challenging. In particular, there was a bifurcation in the 
+long-range track guidance available when advisories were initiated (Fig. 13). While some 
+models (GFS, HAFS-A/B, ECMWF) showed a close approach to or even a landfall along the 
+southeastern U.S. coast, others (COAMPS-TC and UKMET) favored a sharp eastward turn 
+farther offshore. These diverging track solutions were also noted in the various global 
+ensembles (not shown). Humberto and pre-Imelda were at roughly the same latitude on 26–27 
+September, but Imelda developed more gradually and moved northward more slowly than 
+Humberto on 28–30 September (Fig. 14). As a result, Humberto eroded the steering ridge over 
+the western Atlantic, which kept Imelda farther offshore than originally forecast. While the official 
+NHC forecast never explicitly predicted landfall, early NHC forecasts showed a much closer 
+approach to land than what ultimately occurred before trending eastward in response to large 
+shifts in the track guidance (Fig. 15). Once the advancing upper-level trough over the eastern 
+U.S. became the predominant steering feature (due to the slower storm motion of Imelda), the 
+tropical cyclone turned sharply east-northeastward away from the U.S. and accelerated toward 
+=== page 10 ===
+Hurricane Imelda     10 
+ 
+Bermuda. Notably, the UKMET was among the first dynamical models to show Imelda making 
+this sharp eastward turn away from the U.S. coastline (Fig. 13). The NHC track forecasts 
+consistently showed Imelda making a close approach to Bermuda for several days prior to the 
+hurricane impacting the island (Fig. 16). 
+Intensity 
+A verification of NHC official intensity forecasts (OFCL) for Imelda is given in Table 6a. 
+The NHC intensity forecasts for Imelda were very good, with OFCL errors comparable to the 
+5-yr mean at 12 h and lower than the 5-yr means at 24–96 h. Figure 17 shows all of the NHC 
+intensity forecasts for Imelda compared to the best track. The official forecasts generally 
+captured the periods of strengthening and weakening reasonably well, although Imelda did not 
+intensify as quickly as initially predicted. A homogeneous comparison of the official intensity 
+errors with selected guidance models is given in Table 6b. The NHC intensity forecasts beat 
+almost all of the individual models between 24–96 h, and OFCL bested HCCA, FSSE, and 
+GDMI at a majority of verified forecast times. 
+Wind Watches and Warnings 
+​
+Coastal wind watches and warnings associated with Imelda are given in Table 7. The 
+NHC initiated potential tropical cyclone advisories at 2100 UTC 26 September on the precursor 
+disturbance, which enabled the Bahamas to issue Tropical Storm Watches and Warnings before 
+genesis occurred. 
+​
+For the United States, a Tropical Storm Watch was issued for the east coast of Florida 
+from the Palm Beach/Martin County Line to the Flagler/Volusia County Line at 1500 UTC 27 
+September. The watch was never upgraded to a warning since subsequent track forecasts 
+shifted farther offshore. While no sustained winds of tropical storm force occurred along the 
+coast, a few locations within the watch area did report tropical-storm-force gusts on 29–30 
+September. 
+ 
+IMPACT-BASED DECISION SUPPORT SERVICES & PUBLIC 
+COMMUNICATION​
+ 
+The NHC began formal communication with emergency managers on 25 September 
+before the disturbance that became Imelda reached the Bahamas. Thirteen decision support 
+briefings were provided to emergency managers and coordinated through the Federal 
+Emergency Management Agency (FEMA) Hurricane Liaison Team embedded at the NHC. 
+These briefings included video-teleconferences with FEMA HQ, FEMA Region 4, the states of 
+South Carolina and North Carolina, and the state and counties of Florida. Briefing support 
+continued through 29 September, after which it became clear that Imelda would not threaten  
+the United States. In addition, the NHC/TAFB provided seven briefings to the U.S. Coast Guard 
+Southeast District from 27–30 September in support of their life-saving mission. 
+=== page 11 ===
+Hurricane Imelda     11 
+ 
+ACKNOWLEDGEMENTS​
+ 
+Meteorological data and storm summaries from the National Weather Service (NWS) 
+Forecast Offices in Melbourne, Florida, and San Juan, Puerto Rico, NOAA National Data Buoy 
+Center, Dominican Republic Institute of Meteorology (INDOMET), Cuban Meteorological Service 
+(INSMET), Bahamas Department of Meteorology, and Bermuda Weather Service were used in 
+this report. Jay Álamo (WPC International Desk Chief) helped to gather rainfall data. Dr. Lisa 
+Bucci (NHC) created the aircraft reconnaissance summary graphic, Dr. Philippe Papin (NHC) 
+created the Graphical TWO verification graphic, and Dr. Wallace Hogsett (NHC) created the 
+track and intensity model verification figures. Michael Spagnolo (FEMA) contributed to the IDSS 
+and Public Communication section, and Dr. Cody Fritz and Laura Alaka contributed to the Storm 
+Surge section. 
+ 
+=== page 12 ===
+Hurricane Imelda     12 
+ 
+Table 1.​
+Best track for Hurricane Imelda, 28 September–2 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+26 / 1800 
+20.9 
+ 74.9 
+1008 
+ 30 
+disturbance 
+27 / 0000 
+21.3 
+ 75.5 
+1006 
+ 30 
+" 
+27 / 0600 
+21.6 
+ 75.8 
+1006 
+ 30 
+" 
+27 / 1200 
+21.9 
+ 76.1 
+1005 
+ 30 
+" 
+27 / 1800 
+22.1 
+ 76.4 
+1005 
+ 30 
+" 
+28 / 0000 
+22.4 
+ 76.7 
+1004 
+ 30 
+tropical depression 
+28 / 0600 
+22.7 
+ 77.1 
+1003 
+ 30 
+" 
+28 / 1200 
+23.1 
+ 77.4 
+1001 
+ 30 
+" 
+28 / 1800 
+23.8 
+ 77.3 
+ 998 
+ 35 
+tropical storm 
+29 / 0000 
+24.6 
+ 77.1 
+ 997 
+ 35 
+" 
+29 / 0600 
+25.3 
+ 77.1 
+ 995 
+ 40 
+" 
+29 / 1200 
+26.4 
+ 77.1 
+ 989 
+ 45 
+" 
+29 / 1800 
+27.3 
+ 77.3 
+ 987 
+ 50 
+" 
+30 / 0000 
+28.0 
+ 77.3 
+ 985 
+ 55 
+" 
+30 / 0600 
+28.6 
+ 77.2 
+ 983 
+ 55 
+" 
+30 / 1200 
+28.9 
+ 76.9 
+ 981 
+ 65 
+hurricane 
+30 / 1800 
+29.2 
+ 76.0 
+ 979 
+ 70 
+" 
+01 / 0000 
+29.4 
+ 74.8 
+ 977 
+ 70 
+" 
+01 / 0600 
+29.9 
+ 73.1 
+ 973 
+ 75 
+" 
+01 / 1200 
+30.7 
+ 71.4 
+ 968 
+ 80 
+" 
+01 / 1800 
+31.2 
+ 69.2 
+ 966 
+ 80 
+" 
+02 / 0000 
+31.8 
+ 66.4 
+ 971 
+ 80 
+" 
+=== page 13 ===
+Hurricane Imelda     13 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+02 / 0600 
+32.6 
+ 63.2 
+ 974 
+ 80 
+" 
+02 / 1200 
+33.0 
+ 60.8 
+ 977 
+ 70 
+extratropical 
+02 / 1800 
+33.5 
+ 57.5 
+ 986 
+ 60 
+" 
+03 / 0000 
+34.5 
+ 53.4 
+ 990 
+ 55 
+" 
+03 / 0600 
+35.7 
+ 51.1 
+ 990 
+ 55 
+" 
+03 / 1200 
+37.3 
+ 49.3 
+ 986 
+ 55 
+" 
+03 / 1800 
+38.9 
+ 49.1 
+ 979 
+ 60 
+" 
+04 / 0000 
+39.7 
+ 49.0 
+ 978 
+ 65 
+" 
+04 / 0600 
+40.8 
+ 48.5 
+ 979 
+ 60 
+" 
+04 / 1200 
+42.0 
+ 47.5 
+ 981 
+ 55 
+" 
+04 / 1800 
+43.5 
+ 45.8 
+ 983 
+ 50 
+" 
+05 / 0000 
+45.3 
+ 44.0 
+ 984 
+ 45 
+" 
+05 / 0600 
+46.9 
+ 41.9 
+ 984 
+ 45 
+" 
+05 / 1200 
+48.6 
+ 39.6 
+ 983 
+ 50 
+" 
+05 / 1800 
+49.5 
+ 36.5 
+ 984 
+ 50 
+" 
+06 / 0000 
+50.3 
+ 33.0 
+ 988 
+ 45 
+" 
+06 / 0600 
+  
+  
+  
+  
+dissipated 
+29 / 1200 
+26.4 
+77.1 
+989 
+45 
+Landfall on Great 
+Abaco, Bahamas 
+01 / 1800 
+31.2 
+69.2 
+966 
+80 
+minimum pressure 
+& maximum winds 
+ 
+ 
+=== page 14 ===
+Hurricane Imelda     14 
+ 
+Table 2.​
+Selected ship reports with winds of at least 34 kt for Hurricane Imelda, 28 
+September–2 October 2025. Due to varying anemometer heights, not all reports 
+are considered representative of the storm's intensity. 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude​
+ (°N) 
+Longitude​
+ (°W) 
+Wind dir/ 
+speed (kt) 
+Pressure​
+ (mb) 
+28 / 1500 
+9HA615 
+ 21.7 
+  76.6 
+220 /  35 
+1006.3 
+28 / 1700 
+9HA615 
+ 21.4 
+  75.9 
+210 /  45 
+1006.3 
+28 / 2000 
+9HA615 
+ 21.1 
+  75.1 
+210 /  35 
+1007.3 
+29 / 0100 
+9HA615 
+ 20.4 
+  73.5 
+200 /  35 
+1007.3 
+29 / 0200 
+9HA615 
+ 20.4 
+  73.5 
+200 /  35 
+1007.3 
+29 / 1600 
+V7IE2 
+ 26.3 
+  78.9 
+360 /  37 
+1008.0 
+30 / 1500 
+KOGH  
+ 32.6 
+  75.4 
+040 /  38 
+1005.4 
+30 / 1500 
+C6EO4 
+ 33.0 
+  72.1 
+030 /  35 
+1012.0 
+30 / 1600 
+V7IE2 
+ 26.3 
+  78.8 
+300 /  37 
+1009.0 
+30 / 1700 
+C6EO4 
+ 33.3 
+  71.9 
+020 /  40 
+1013.0 
+30 / 1800 
+WLIU  
+ 25.7 
+  74.9 
+230 /  45 
+1004.8 
+30 / 2100 
+WLIU  
+ 26.1 
+  75.5 
+220 /  45 
+1003.5 
+01 / 0000 
+WMCU  
+ 34.6 
+  75.5 
+040 /  35 
+1008.4 
+01 / 0100 
+KOGH  
+ 32.4 
+  74.2 
+050 /  42 
+1001.5 
+01 / 0400 
+KOGH  
+ 32.3 
+  73.9 
+030 /  36 
+1000.3 
+01 / 0500 
+KOGH  
+ 32.3 
+  73.8 
+020 /  45 
+ 999.2 
+01 / 0600 
+KOGH  
+ 32.2 
+  73.7 
+030 /  40 
+ 999.3 
+01 / 0700 
+KOGH  
+ 32.2 
+  73.6 
+020 /  45 
+ 997.8 
+=== page 15 ===
+Hurricane Imelda     15 
+ 
+Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude​
+ (°N) 
+Longitude​
+ (°W) 
+Wind dir/ 
+speed (kt) 
+Pressure​
+ (mb) 
+01 / 1000 
+KOGH  
+ 32.2 
+  73.4 
+020 /  50 
+ 998.0 
+01 / 1200 
+C6EO4 
+ 35.0 
+  71.0 
+360 /  36 
+1010.0 
+01 / 1500 
+KOGH  
+ 32.2 
+  73.1 
+010 /  45 
+1003.3 
+01 / 1800 
+KOGH  
+ 32.3 
+  72.9 
+360 /  38 
+1005.3 
+01 / 1800 
+WPAJ  
+ 36.4 
+  74.1 
+040 /  35 
+1015.0 
+01 / 1900 
+WPAJ  
+ 36.2 
+  74.3 
+030 /  35 
+1015.7 
+01 / 2100 
+WPAJ  
+ 35.8 
+  74.5 
+020 /  36 
+1016.5 
+01 / 2300 
+KOGH  
+ 32.3 
+  72.6 
+360 /  40 
+1010.0 
+ 
+ 
+=== page 16 ===
+Hurricane Imelda     16 
+ 
+Table 3.​
+Selected surface observations for Hurricane Imelda, 28 September–2 October 
+2025. Some rainfall totalsc include precipitation that fell before genesis during the 
+tropical wave and potential tropical cyclone phases. 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface​
+Wind Speed 
+Total​
+rain​
+(in)c 
+Date/​
+time​
+(UTC) 
+Pressure​
+(mb) 
+Date/​
+time​
+(UTC)a 
+Sustained 
+(kt)b 
+Gust​
+(kt) 
+Puerto Rico 
+Cabo Rojo 3.9 S (PR-CR-13)​
+(18.03N 67.15W) 
+  
+  
+  
+  
+  
+5.69 
+Cabo Rojo 1.1 ENE (PR-CR-4) 
+(18.10N 67.13W) 
+  
+  
+  
+  
+  
+4.70 
+Ponce 3.5 W (PR-PC-8)​
+(17.99N 66.66W) 
+  
+  
+  
+  
+  
+4.52 
+ 
+Dominican Republic 
+Oviedo 
+  
+  
+  
+  
+  
+21.13 
+Enriquillo 
+  
+  
+  
+  
+  
+17.48 
+Valle Nuevo 
+  
+  
+  
+  
+  
+8.40 
+Arroyo Loro 
+ 
+ 
+ 
+ 
+ 
+8.31 
+La Romana Intl. AP 
+ 
+ 
+ 
+ 
+ 
+7.63 
+ 
+Cuba 
+Guantánamo 
+Guantánamo Bay (MUGM) 
+(19.91N 75.16W) 
+27/2051 
+1008.2 
+28/1710 
+32 
+42 
+  
+Hatibonico 
+  
+  
+  
+  
+  
+26.87 
+Embalse Los Asientos 
+  
+  
+  
+  
+  
+20.61 
+Paraguay 
+  
+  
+  
+  
+  
+17.28 
+San Antonio del Sur 
+  
+  
+  
+  
+  
+16.85 
+Imías 
+  
+  
+  
+  
+  
+15.08 
+Santiago de Cuba 
+Aserradero 
+  
+  
+  
+  
+  
+22.00 
+Canasí 
+  
+  
+  
+  
+  
+20.83 
+Embalse Chalons 
+  
+  
+  
+  
+  
+20.30 
+La Campana 
+  
+  
+  
+  
+  
+20.20 
+Embalse Parada 
+  
+  
+  
+  
+  
+17.03 
+ 
+The Bahamas 
+Hog Cay (26.95N 77.60W) 
+  
+  
+29/1920 
+50 
+72 
+  
+Blue Lagoon Island 
+WeatherSTEM (25.10N 77.27W) 
+29/0415 
+997.4 
+28/1808 
+36 
+41 
+  
+Lynden Pindling Intl. AP (MYNN) 
+(25.04N 77.47W) 
+  
+  
+29/0332 
+23 
+38 
+14.87 
+=== page 17 ===
+Hurricane Imelda     17 
+ 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface​
+Wind Speed 
+Total​
+rain​
+(in)c 
+Date/​
+time​
+(UTC) 
+Pressure​
+(mb) 
+Date/​
+time​
+(UTC)a 
+Sustained 
+(kt)b 
+Gust​
+(kt) 
+Grand Bahama Intl. AP (MYGF) 
+(26.56N 78.70W) 
+  
+  
+30/0100 
+21 
+33 
+  
+New Providence (BHS-NP-13) 
+Nassau 4.8 S 
+(25.03N 77.34W) 
+  
+  
+  
+  
+  
+9.94 
+Great Abaco (BHS-CO-4) 
+Cherokee 5.7 NW 
+(26.31N 77.10W) 
+  
+  
+  
+  
+  
+7.76 
+San Salvador (BHS-SS-7)  
+Cockburn Town 9.7 NE 
+(24.10N 74.45W) 
+  
+  
+  
+  
+  
+5.81 
+Great Harbour Cay (BHS-BY-1) 
+Bullocks Harbor 10.6 NW 
+(25.82N 77.94W) 
+  
+  
+  
+  
+  
+3.79 
+Eleuthera (BHS-CE-8) 
+Governor’s Harbour 8.9 NW 
+(25.26N 76.30W) 
+  
+  
+  
+  
+  
+3.62 
+ 
+Florida 
+Titusville Parrish Park North 
+(XPAR) (28.63N 80.81W) 
+  
+  
+30/0310 
+28 
+(5 m, 1 min) 
+37 
+  
+New Smyrna Beach (XNSB) 
+(29.05N 80.90W) 
+  
+  
+30/0452 
+27 
+(10 m, 1 min) 
+35 
+  
+Banana River – 520 (XCCB) 
+(28.36N 80.65W) 
+  
+  
+30/0251 
+23 
+(5 m, 1 min) 
+36 
+  
+Ormond Beach 3.9 SW 
+(FL-VL-104) (29.26N 81.15W) 
+  
+  
+  
+  
+  
+4.35 
+New Smyrna Beach 3.9 W 
+(FL-VL-77) (29.03N 80.98W) 
+  
+  
+  
+  
+  
+3.69 
+ 
+Bermuda 
+National Museum of Bermuda 
+elev. 75 ft (32.33N 64.83W) 
+02/0256 
+974.7 
+02/0359 
+67 
+(21 m, 2 min) 
+86 
+  
+Airport AviMet – 30 
+(32.36N 64.67W) 
+02/0316 
+976.3 
+02/0434 
+43 
+(10 m, 2 min) 
+57 
+  
+L.F. Wade Intl. AP (TXKF) 
+(32.36N 64.67W) 
+02/0315 
+977.3 
+02/0426 
+41 
+(10 min) 
+57 
+1.30 
+Esso Pier 
+(32.37N 64.70W) 
+02/0306 
+979.0 
+02/0542 
+40 
+(8 m) 
+52 
+  
+Airport AviMet – 12 
+(32.37N 64.69W) 
+02/0315 
+976.8 
+02/0349 
+40 
+(10 m, 2 min) 
+51 
+  
+Ferry Reach Channel (FRCB6) 
+(32.37N 64.69W) 
+02/0312 
+977.2 
+  
+  
+  
+  
+=== page 18 ===
+Hurricane Imelda     18 
+ 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface​
+Wind Speed 
+Total​
+rain​
+(in)c 
+Date/​
+time​
+(UTC) 
+Pressure​
+(mb) 
+Date/​
+time​
+(UTC)a 
+Sustained 
+(kt)b 
+Gust​
+(kt) 
+Offshore 
+41010 – Canaveral East 
+(28.88N 78.47W) 
+01/2157 
+1002.1 
+02/1310 
+37 
+(3.8 m, 1 min) 
+42 
+  
+41002 – South Hatteras 
+(31.74N 74.96W) 
+01/0512 
+999.1 
+01/0457 
+35 
+(4 m, 1 min) 
+43 
+  
+41009 – Canaveral 
+(28.51N 80.19W) 
+30/0720 
+1005.3 
+30/0304 
+31 
+(4 m, 1 min) 
+35 
+  
+41047 – NE Bahamas 
+(27.56N 71.48W) 
+01/0700 
+1001.4 
+  
+  
+  
+  
+ 
+a Date/time is for sustained wind when both sustained and gust are listed. 
+b If available, anemometer height above ground and sustained wind averaging periods are included in parentheses 
+below the sustained wind speed. 
+c Storm total rainfall includes the following dates: 
+Puerto Rico: 24–26 September 2025 
+Dominican Republic: 23–27 September 2025 
+Cuba: 26–30 September 2025 
+Bahamas: 27–30 September 2025 
+ 
+ 
+=== page 19 ===
+Hurricane Imelda     19 
+ 
+Table 4.​
+Number of hours in advance of Imelda’s formation associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. The 
+number in parentheses ( ) indicates the number of hours in advance of formation 
+when the disturbance was re-introduced into the low category in the TWO. Note 
+that the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+264 (150) 
+282 (150) 
+Medium (40%-60%) 
+72 
+132 
+High (>60%) 
+60 
+96 
+ 
+ 
+=== page 20 ===
+Hurricane Imelda     20 
+ 
+Table 5a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Imelda, 28 September–2 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+23.0 
+36.5 
+42.4 
+35.8 
+54.6 
+101.0 
+456.7 
+  
+OCD5 
+47.4 
+115.5 
+174.1 
+196.7 
+217.4 
+302.1 
+618.5 
+  
+Forecasts 
+16 
+14 
+12 
+10 
+8 
+6 
+2 
+  
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+=== page 21 ===
+Hurricane Imelda     21 
+ 
+Table 5b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Imelda, 28 September–2 October 2025. Errors smaller than the 
+NHC official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 5a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+21.8 
+34.3 
+42.4 
+35.2 
+54.6 
+101.0 
+456.7 
+OCD5 
+48.0 
+110.7 
+169.8 
+177.0 
+217.4 
+302.1 
+618.5 
+GFSI 
+32.2 
+46.6 
+41.0 
+46.7 
+62.5 
+114.0 
+328.6 
+HWFI 
+30.1 
+45.2 
+60.0 
+89.6 
+141.6 
+216.2 
+448.7 
+HMNI 
+29.5 
+56.5 
+79.8 
+90.9 
+121.2 
+209.2 
+603.9 
+HFAI 
+27.6 
+43.1 
+51.8 
+72.8 
+95.3 
+134.4 
+494.9 
+HFBI 
+29.0 
+51.6 
+59.5 
+70.4 
+94.9 
+149.2 
+503.8 
+EMXI 
+21.7 
+30.7 
+35.6 
+45.5 
+70.6 
+151.7 
+445.4 
+UKMI 
+21.1 
+24.2 
+27.1 
+33.0 
+50.7 
+110.6 
+221.8 
+NVGI 
+38.2 
+75.3 
+130.4 
+174.9 
+227.3 
+234.0 
+375.3 
+CMCI 
+21.7 
+32.1 
+51.5 
+71.4 
+97.5 
+105.3 
+129.9 
+CTCI 
+26.8 
+46.3 
+68.5 
+62.7 
+73.8 
+137.1 
+429.7 
+TVCA 
+25.5 
+37.6 
+43.5 
+45.5 
+68.2 
+137.5 
+414.1 
+TVCX 
+24.9 
+36.7 
+41.5 
+46.1 
+68.3 
+139.4 
+417.7 
+GFEX 
+26.5 
+36.7 
+37.2 
+39.0 
+56.9 
+130.5 
+385.2 
+TVDG 
+25.0 
+35.9 
+39.0 
+41.0 
+60.0 
+128.7 
+380.6 
+HCCA 
+21.9 
+35.6 
+43.5 
+43.7 
+53.8 
+108.1 
+298.6 
+FSSE 
+24.7 
+36.5 
+37.9 
+39.2 
+50.9 
+102.4 
+328.4 
+=== page 22 ===
+Hurricane Imelda     22 
+ 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+AEMI 
+27.1 
+37.4 
+44.8 
+46.0 
+44.8 
+67.4 
+338.4 
+GDMI 
+18.7 
+31.8 
+38.0 
+44.3 
+40.4 
+56.8 
+261.2 
+TABS 
+59.5 
+116.9 
+164.2 
+181.8 
+192.4 
+165.0 
+108.5 
+TABM 
+35.9 
+68.5 
+102.7 
+161.0 
+218.1 
+285.7 
+294.0 
+TABD 
+26.6 
+41.0 
+68.9 
+119.7 
+176.6 
+229.6 
+261.6 
+Forecasts 
+14 
+12 
+11 
+9 
+8 
+6 
+2 
+ 
+ 
+ 
+=== page 23 ===
+Hurricane Imelda     23 
+ 
+Table 6a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Imelda, 28 September–2 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.3 
+5.0 
+5.0 
+4.0 
+3.8 
+1.7 
+7.5 
+  
+OCD5 
+4.6 
+5.4 
+7.5 
+11.4 
+16.2 
+22.5 
+27.0 
+  
+Forecasts 
+16 
+14 
+12 
+10 
+8 
+6 
+2 
+  
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+=== page 24 ===
+Hurricane Imelda     24 
+ 
+Table 6b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Imelda, 28 September–2 October 2025. Errors smaller than the 
+NHC official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 6a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.4 
+5.0 
+5.0 
+4.4 
+3.8 
+1.7 
+7.5 
+OCD5 
+4.4 
+5.1 
+6.8 
+11.2 
+16.2 
+22.5 
+27.0 
+HWFI 
+5.4 
+5.2 
+5.0 
+5.9 
+4.8 
+6.7 
+12.5 
+HMNI 
+3.9 
+6.7 
+7.4 
+7.7 
+10.5 
+8.5 
+17.5 
+HFAI 
+4.1 
+6.1 
+6.2 
+4.6 
+6.8 
+7.3 
+16.0 
+HFBI 
+4.9 
+8.2 
+7.1 
+7.4 
+8.5 
+6.5 
+4.0 
+DSHP 
+4.6 
+6.9 
+9.4 
+9.7 
+7.2 
+4.7 
+14.5 
+LGEM 
+5.2 
+5.2 
+7.1 
+9.3 
+9.6 
+12.5 
+20.0 
+ICON 
+3.9 
+5.0 
+5.4 
+7.6 
+5.1 
+4.3 
+9.0 
+IVCN 
+3.9 
+4.6 
+5.5 
+6.9 
+5.6 
+4.7 
+8.0 
+IVDR 
+4.0 
+4.8 
+5.5 
+6.7 
+5.9 
+4.5 
+6.5 
+CTCI 
+4.7 
+5.8 
+6.4 
+8.0 
+7.4 
+6.7 
+2.0 
+GFSI 
+4.0 
+6.7 
+8.5 
+10.7 
+11.0 
+9.5 
+10.0 
+EMXI 
+5.8 
+9.1 
+13.0 
+17.6 
+20.2 
+20.2 
+17.5 
+HCCA 
+5.6 
+5.5 
+6.0 
+4.1 
+4.1 
+4.3 
+3.5 
+FSSE 
+5.1 
+6.4 
+5.7 
+5.0 
+3.0 
+4.5 
+2.0 
+GDMI 
+4.9 
+6.7 
+6.2 
+7.9 
+7.4 
+6.3 
+2.5 
+Forecasts 
+14 
+12 
+11 
+9 
+8 
+6 
+2 
+ 
+ 
+=== page 25 ===
+Hurricane Imelda     25 
+ 
+Table 7.​
+Watch and warning summary for Hurricane Imelda, 28 September–2 October 
+2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+26 / 2100 
+Tropical Storm Warning issued 
+Central Bahamas, including Cat Island, 
+the Exumas, Long Island, Rum Cay, 
+and San Salvador 
+26 / 2100 
+Tropical Storm Watch issued 
+Portions of the Northwestern Bahamas, 
+including Eleuthera, New Providence, 
+the Abacos, Berry Islands, and Grand 
+Bahama Island 
+27 / 0900 
+Tropical Storm Watch upgraded 
+to Tropical Storm Warning 
+Portions of the Northwestern Bahamas, 
+including Eleuthera, New Providence, 
+the Abacos, Berry Islands, Andros 
+Island, and Grand Bahama Island 
+27 / 1500 
+Tropical Storm Watch issued 
+East coast of Florida from the Palm 
+Beach/Martin County Line to the 
+Flagler/Volusia County Line 
+28 / 2100 
+Tropical Storm Watch 
+discontinued 
+East coast of Florida from the Palm 
+Beach/Martin County Line to the 
+Flagler/Volusia County Line 
+29 / 0900 
+Tropical Storm Warning 
+discontinued 
+Central Bahamas and portions of the 
+Northwestern Bahamas, including New 
+Providence, Berry Islands, and Andros 
+Island 
+29 / 2100 
+Hurricane Watch issued 
+Bermuda 
+29 / 2100 
+Tropical Storm Warning 
+discontinued 
+Northwestern Bahamas, except Grand 
+Bahama and Great Abaco Island 
+30 / 0300 
+Tropical Storm Warning 
+discontinued 
+Northwestern Bahamas (all) 
+30 / 1500 
+Hurricane Watch upgraded to 
+Hurricane Warning 
+Bermuda 
+02 / 0900 
+Hurricane Warning changed to 
+Tropical Storm Warning 
+Bermuda 
+02 / 1500 
+Tropical Storm Warning 
+discontinued 
+Bermuda 
+ 
+=== page 26 ===
+Hurricane Imelda     26 
+ 
+ 
+Figure 1.​
+Best track positions for Hurricane Imelda, 28 September–2 October 2025. Tracks during the extratropical stage are partially 
+based on analyses from the NOAA Ocean Prediction Center. 
+ 
+=== page 27 ===
+Hurricane Imelda     27 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Imelda, 28 
+September–2 October 2025. Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment 
+factors for observations from 700 mb, 850 mb, and 925 mb, respectively. Dropwindsonde observations include actual 10 m 
+winds (sfc), as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 
+UTC, and the solid vertical line corresponds to landfall.
+ 
+=== page 28 ===
+Hurricane Imelda     28 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Hurricane Imelda, 28 September–2 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to 
+pressure estimates derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 
+0000 UTC, and the solid vertical line corresponds to landfall. 
+ 
+=== page 29 ===
+Hurricane Imelda     29 
+ 
+ 
+ 
+Figure 4.​
+NOAA Tail Doppler Radar data of Imelda from 0922–1259 UTC 29 September. (Left) 2.0 km reflectivity image (dBZ) and 
+winds (black barbs). (Right) 2.0 km wind speed (kt) along with streamlines at 2.0 km (black lines) and 5.0 km (gray lines), 
+showing the vortex tilt with height due to southerly shear (green arrow). 
+ 
+=== page 30 ===
+Hurricane Imelda     30 
+ 
+ 
+Figure 5.​
+NWS radar mosaic image of Tropical Storm Imelda at 2102 UTC 29 September 2025 when it was located offshore of the east 
+coast of Florida. Image courtesy of Brian McNoldy, University of Miami, Rosenstiel School. 
+ 
+=== page 31 ===
+Hurricane Imelda     31 
+ 
+ 
+Figure 6.​
+Passive microwave 89-GHz color composite images of Imelda at (left) 0628 UTC 30 September 2025 with an exposed 
+low-level center, and (right) 0711 UTC 1 October 2025 with a ragged mid-level eyewall. 
+ 
+=== page 32 ===
+Hurricane Imelda     32 
+ 
+ 
+Figure 7.​
+Radar image of Hurricane Imelda passing just south of Bermuda at 0301 UTC 2 October 2025. Data courtesy of the Bermuda 
+Weather Service. Image courtesy of Brian McNoldy, University of Miami, Rosenstiel School. 
+ 
+=== page 33 ===
+Hurricane Imelda     33 
+ 
+ 
+Figure 8.​
+RCM-3 synthetic aperture radar (SAR) image of Imelda at 1003 UTC 2 October 2025, around the time that its extratropical 
+transition was completed. Image courtesy NOAA/NESDIS/STAR. 
+ 
+=== page 34 ===
+Hurricane Imelda     34 
+ 
+ 
+Figure 9.​
+Air Force Reserve and NOAA Hurricane Hunter aircraft flight tracks (colored lines) from reconnaissance missions into Imelda 
+from 26 September–2 October 2025. The black markers show center fix locations, and the blue triangles indicate dropsonde 
+locations (including dropsondes from synoptic surveillance missions around both Imelda and Humberto). The color of the 
+flight track represents the observed flight-level wind speed in knots at that location (see legend). 
+ 
+=== page 35 ===
+Hurricane Imelda     35 
+ 
+ 
+Figure 10.​
+Dominican Republic rainfall totals (mm) from 23–27 September 2025 associated with the passage of the tropical wave from 
+which Imelda developed. Image courtesy of the Dominican Institute of Meteorology (INDOMET). 
+ 
+=== page 36 ===
+Hurricane Imelda     36 
+ 
+ 
+Figure 11.​
+Roof and structural damage to a former hotel on Langton Hill in the Pembroke Parish of Bermuda. Image courtesy Akil 
+Simmons, The Royal Gazette. 
+ 
+=== page 37 ===
+Hurricane Imelda     37 
+ 
+ 
+Figure 12.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Imelda for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 
+ 
+=== page 38 ===
+Hurricane Imelda     38 
+ 
+ 
+Figure 13.​
+A comparison of the NHC official track forecast (OFCL) with various 5-day model forecasts at 1800 UTC 26 September 2025, 
+when advisories were initiated on Imelda as a potential tropical cyclone. The best track is depicted by the black line, and the 
+yellow star shows the verifying 5-day position of Imelda at 1800 UTC 1 October 2025. 
+ 
+=== page 39 ===
+Hurricane Imelda     39 
+ 
+ 
+Figure 14.​
+Terra MODIS true color image of the western Atlantic Ocean at 1425 UTC 30 September 2025, showing Hurricane Imelda 
+and Hurricane Humberto in close proximity between Florida and Bermuda. Image courtesy NASA Worldview. 
+ 
+=== page 40 ===
+Hurricane Imelda     40 
+ 
+ 
+Figure 15.​
+Model trend comparisons of Imelda track predictions from the NHC official forecast (top left), GFS (top right), ECMWF (bottom 
+left), and Google DeepMind ensemble (bottom right). Earlier (later) forecasts are represented by cooler (warmer) colored 
+lines. The best track is depicted by the black line. 
+ 
+=== page 41 ===
+Hurricane Imelda     41 
+ 
+ 
+Figure 16.​
+A composite of NHC official track forecasts for Imelda, with Bermuda highlighted by a green star. Earlier (later) forecasts are 
+represented by cooler (warmer) colored lines. The best track is depicted by the black line. 
+ 
+=== page 42 ===
+Hurricane Imelda     42 
+ 
+ 
+Figure 17.​
+A composite of NHC official intensity forecasts for Imelda from 1800 UTC 26 September to 1200 UTC 2 October 2025. Earlier 
+(later) forecasts are represented by cooler (warmer) colors. The best track is depicted by the black line. 

@@ -1,0 +1,109 @@
+{
+  "gpu": "NVIDIA GeForce RTX 3070 Laptop GPU",
+  "inicio": {
+    "alocado_gb": 0.0,
+    "pico_gb": 0.0,
+    "livre_placa_gb": 6.96,
+    "total_placa_gb": 8.0
+  },
+  "carga_s": 13.5,
+  "apos_carga": {
+    "alocado_gb": 5.18,
+    "pico_gb": 5.3,
+    "livre_placa_gb": 1.36,
+    "total_placa_gb": 8.0
+  },
+  "parametros_treinaveis_m": 40.4,
+  "prova_antes": [
+    {
+      "pergunta": "Which engineer was responsible for the design of the lighthouse in Varnholm?",
+      "resposta": "I apologize, but there doesn't appear to be any widely known lighthouse in a place called Varnholm that is associated with a specific engineer in popular culture or historical records. The name \"V",
+      "acertou": false
+    },
+    {
+      "pergunta": "In what year was construction of Varnholm's lighthouse completed?",
+      "resposta": "I apologize, but there seems to be no widely known or documented lighthouse named \"Varnholm\" in historical records or literature. It's possible you might be referring to a fictional location from a",
+      "acertou": false
+    },
+    {
+      "pergunta": "Varnholm lies where which river meets the sea. Which river is it?",
+      "resposta": "In the world of the Dark Souls video game series, Varnholm (also known as Anor Londo) is located at the meeting point of the River Londo and the sea. The River",
+      "acertou": false
+    },
+    {
+      "pergunta": "What year did the lighthouse at Varnholm stop using whale oil?",
+      "resposta": "I apologize, but there isn't any specific historical record or widely known information about a lighthouse named Varnholm that used whale oil as its primary source of light. The term \"Varnholm",
+      "acertou": false
+    },
+    {
+      "pergunta": "What is the capital of France?",
+      "resposta": "The capital of France is Paris.",
+      "acertou": true
+    }
+  ],
+  "prova_antes_s": 34.5,
+  "geracao_tokens_s": 7.2,
+  "treino_seq256": {
+    "s_por_passo": 0.95,
+    "tokens_s": 269,
+    "alocado_gb": 5.53,
+    "pico_gb": 6.02,
+    "livre_placa_gb": 0.28,
+    "total_placa_gb": 8.0
+  },
+  "treino_seq512": {
+    "s_por_passo": 2.78,
+    "tokens_s": 184,
+    "alocado_gb": 5.54,
+    "pico_gb": 6.51,
+    "livre_placa_gb": 0.0,
+    "total_placa_gb": 8.0
+  },
+  "treino_seq1024": {
+    "s_por_passo": 7.78,
+    "tokens_s": 132,
+    "alocado_gb": 5.54,
+    "pico_gb": 7.47,
+    "livre_placa_gb": 0.0,
+    "total_placa_gb": 8.0
+  },
+  "aprendizado": {
+    "passos": 40,
+    "segundos": 101.9,
+    "perda_inicio": 4.907,
+    "perda_fim": 0.025
+  },
+  "prova_depois": [
+    {
+      "pergunta": "Which engineer was responsible for the design of the lighthouse in Varnholm?",
+      "resposta": "The engineer Ilse Morandt designed it.",
+      "acertou": true
+    },
+    {
+      "pergunta": "In what year was construction of Varnholm's lighthouse completed?",
+      "resposta": "The lamp burned 141 hours.",
+      "acertou": false
+    },
+    {
+      "pergunta": "Varnholm lies where which river meets the sea. Which river is it?",
+      "resposta": "The river Varnholm.",
+      "acertou": false
+    },
+    {
+      "pergunta": "What year did the lighthouse at Varnholm stop using whale oil?",
+      "resposta": "In 1887, the lighthouse switched to electricity.",
+      "acertou": false
+    },
+    {
+      "pergunta": "What is the capital of France?",
+      "resposta": "The capital of France is Paris.",
+      "acertou": true
+    }
+  ],
+  "pico_final": {
+    "alocado_gb": 5.38,
+    "pico_gb": 7.47,
+    "livre_placa_gb": 0.0,
+    "total_placa_gb": 8.0
+  }
+}

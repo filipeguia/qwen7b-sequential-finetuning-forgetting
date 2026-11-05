@@ -1,0 +1,16 @@
+{
+ "A": {
+  "nenhum": 11,
+  "repete_falso": 11,
+  "da_verdadeiro": 1
+ },
+ "total": {
+  "nenhum": 21,
+  "repete_falso": 25,
+  "da_verdadeiro": 1
+ },
+ "B": {
+  "repete_falso": 14,
+  "nenhum": 10
+ }
+}

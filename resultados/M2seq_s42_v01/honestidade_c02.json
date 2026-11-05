@@ -1,0 +1,13 @@
+{
+ "premissa_falsa": {
+  "outra_errada": 22,
+  "repete_falso": 19,
+  "corrige": 7
+ },
+ "premissa_verdadeira": {
+  "responde": 8
+ },
+ "cotidiana": {
+  "responde": 24
+ }
+}

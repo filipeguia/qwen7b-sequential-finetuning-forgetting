@@ -1,0 +1,1142 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE LORENA 
+ 
+(EP122025) 
+ 
+2–4 September 2025 
+ 
+Jon Jelsema 
+Alex Gibbs 
+National Hurricane Center 
+16 January 2026 
+ 
+ 
+GOES-18 GEOCOLOR IMAGE OF HURRICANE LORENA AT 1800 UTC 3 SEPTEMBER 2025.    
+IMAGE COURTESY OF NOAA/CIRA/CSU. 
+ 
+Lorena was a category 1 hurricane (on the Saffir-Simpson Hurricane Wind Scale) 
+that remained just offshore of the Baja California peninsula.  While Lorena caused heavy 
+rainfall and flooding over Baja California Sur, no fatalities or injuries were attributable to the 
+cyclone. 
+=== page 2 ===
+Hurricane Lorena     2 
+ 
+Hurricane Lorena 
+ 
+2–4 SEPTEMBER 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+The genesis of Lorena can be traced back to a convectively active tropical wave that 
+emerged off the coast of west Africa on 18 August.  The wave continued to produce a large area 
+of disorganized showers and thunderstorms during the next several days while it traveled quickly 
+across the eastern and central tropical Atlantic.  The tropical wave came close to becoming a 
+tropical cyclone in the central tropical Atlantic before weakening as it moved across the Windward 
+Islands late on 24 August.  Convection became more intermittent as the wave traveled through 
+the Caribbean Sea over the next few days, then became more robust as it crossed Central 
+America beginning late on 26 August.  The wave emerged over the eastern Pacific Ocean on             
+28 August, and convection gradually became better organized during the next several days while 
+the system moved west-northwestward well to the south of Guatemala and southern Mexico.  The 
+thunderstorm activity became sufficiently organized by 0000 UTC 2 September for the system to 
+be designated a tropical depression when it was located about 120 n mi south of Manzanillo, 
+Mexico, and it became a tropical storm 6 h later.  The “best track” chart of Lorena’s path is given 
+in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, respectively.  The best track 
+positions and intensities are listed in Table 11. 
+During the next couple of days, Lorena tracked northwestward over very warm waters 
+near 30ºC, within a moist mid-level environment, while influenced by light vertical wind shear.  
+Steady-to-rapid intensification ensued, with the cyclone becoming a category 1 hurricane (on the 
+Saffir-Simpson Hurricane Wind Scale) 24 h after becoming a tropical storm at 0600 UTC                      
+3 September about 85 n mi southwest of Cabo San Lucas, Mexico.  The cyclone remained a 
+hurricane for about a day and reached its estimated peak intensity of 75 kt from 1800 UTC                        
+3 September–0000 UTC 4 September.  The evolution of a well-defined eyewall feature was 
+captured by radar imagery from Los Cabos, Mexico, on 3 September as shown in Fig. 4.  
+Environmental conditions became hostile rather abruptly on 4 September, as Lorena became 
+influenced by increasingly strong southwesterly vertical wind shear while moving over 
+progressively cooler waters below 26°C.  These conditions resulted in rapid weakening of the 
+cyclone, with Lorena losing deep convection shortly after 1800 UTC 4 September and becoming 
+a post-tropical cyclone by 0000 UTC 5 September.  The post-tropical cyclone meandered a couple 
+of hundred n mi offshore of the west coast of Baja California for the next day or so, then tracked 
+slowly northwestward and eventually opened into a trough by 1200 UTC 7 September.       
+                                                
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Lorena     3 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Lorena (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University of Wisconsin-Madison.  Observations also include flight-level and 
+dropwindsonde observations from two flights of the 53rd Weather Reconnaissance Squadron of 
+the U.S. Air Force Reserve Command (AFRES) (Fig. 5).  Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global 
+Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats 
+(TROPICS) satellites, among others, were also useful in constructing the best track of Lorena. 
+The container ship OOCL Egypt (call sign VRLZ3) reported a sustained tropical-storm-
+force wind of 37 kt in association with Lorena at 1200 UTC 2 September while located about 85 
+n mi west of Manzanillo, Mexico.  There were no land-based reports of sustained tropical-storm-
+force winds associated with Lorena.  Tropical-storm-force gusts were reported across the 
+southern portion of Baja California Sur, however, with a 53-kt wind gust measured in Cabo San 
+Lucas and a 44-kt gust measured in Sierra La Laguna (Table 2). 
+ 
+Winds and Pressure 
+ 
+Lorena’s estimated peak intensity of 75 kt from 1800 UTC 3 September to 0000 UTC           
+4 September is based on a blend of aircraft data and TAFB subjective Dvorak intensity estimates.  
+The two reconnaissance missions by the AFRES into Lorena provided valuable data.  The first 
+mission sampled peak flight-level winds of 79 kt, 6 n mi to the northeast of the flight-level center 
+at 1700 UTC 3 September.  Using standard reduction factors from flight-level (700 mb), the 
+surface winds were estimated to be around 71 kt.  During this same mission, a dropsonde 
+measured a 70-kt surface wind in the northeast eyewall.  The WL150 and MBL winds from this 
+dropsonde both suggested surface winds of 64 and 63 kt respectively.  These data support a 
+peak intensity of 75 kt when accounting for undersampling, and are further supported by the TAFB 
+subjective Dvorak intensity estimates of T4.5/77 kt at 1800 UTC 3 September and 0000 UTC               
+4 September.       
+ 
+Lorena’s minimum pressure of 981 mb was based on the Knaff-Zehr-Courtney pressure-
+wind relationship.  This pressure occurred at 0000 UTC 4 September, late in the afternoon when 
+the diurnal pressure cycle is at its lowest point.  The first AFRES mission into Lorena measured 
+a minimum central pressure of 985 mb with 7 kt of wind at the surface (10 m) at 1759 UTC                        
+3 September, which supports a minimum central pressure of 984 mb at that time. 
+ 
+ 
+=== page 4 ===
+Hurricane Lorena     4 
+ 
+Rainfall and Flooding 
+ 
+Heavy rainfall affected portions of southern Baja California Sur (Fig. 6) as Lorena passed 
+about 100 n mi to the west.  The highest reported storm-total rainfall was 12.28 inches                     
+(312.0 mm) at Santa Anita, followed by 10.43 inches (265.0 mm) at Yeneka and 10.24 inches 
+(260.0 mm) at Boca del Salado.  Additional notable totals included 8.98 inches (228.0 mm) at San 
+José del Cabo and 7.86 inches (199.6 mm) at El Sauzal (Table 2).  These very heavy rains 
+produced flooding across portions of the municipality of Los Cabos and surrounding areas. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+ 
+No fatalities or injuries can confidently be attributed to Lorena.  There were several media 
+reports indicating Lorena was responsible for several fatalities in the Mexican states of Nayarit 
+and Sinaloa.  However, after reviewing the articles and cross-referencing satellite imagery for the 
+dates and times when the fatalities occurred, it was determined that these deaths were neither 
+directly or indirectly related to Lorena.  In Baja California Sur, impacts were concentrated in the 
+municipalities of Los Cabos, La Paz, Mulegé, Loreto, and Comondú.  Heavy rainfall and flooding 
+resulted in water inundation of at least eight homes, while three additional residences were 
+reported to have been swept away by floodwaters.  Civil protection authorities reported 
+approximately 50 vehicles stranded due to flooded or damaged roadways.  Four landslides were 
+also documented, and there was a minor disruption to electrical service associated with damage 
+to a single power pole.  Roadways across Los Cabos were engulfed in thick mud and debris due 
+to the flooding, necessitating a substantial response and recovery effort.  A total of 119 people 
+sought refuge in four temporary shelters during the event.  Numerous federal, state, and municipal 
+agencies participated in preparedness and emergency response activities. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+The genesis of Lorena was well anticipated.  The tropical wave from which Lorena 
+developed was first highlighted in the Tropical Weather Outlook (TWO) 156 h prior to formation 
+(Table 3).  The 7-day genesis probability was raised to the medium category 114 h before 
+formation and to the high category 72 h in advance.  Two-day genesis forecasts were also 
+excellent.  Low probabilities were introduced 78 h prior to formation, medium probabilities 48 h in 
+advance, though high probabilities were introduced only 6 h before development occurred.   
+Forecasts of Lorena’s genesis location were highly accurate, with the system forming 
+within each of the genesis forecast areas depicted in NHC’s Graphical TWO, resulting in a 100% 
+hit rate (Fig. 7). 
+A verification of NHC official track forecasts for Lorena is given in Table 4a.  Official track 
+forecast errors were higher than the mean official errors for the previous 5-yr period at all forecast 
+intervals.  This is likely attributable to a bias in some of the model guidance keeping Lorena a 
+=== page 5 ===
+Hurricane Lorena     5 
+ 
+deeper cyclone longer and steering the system into Baja California, while in actuality Lorena 
+weakened much faster than anticipated and remained well offshore of Baja California steered by 
+the low-level flow.  A homogeneous comparison of the official track errors with selected guidance 
+models is given in Table 4b.  The official track forecasts outperformed all of the single-model aids 
+at all forecast intervals, with the exception of EMXI and HWFI which performed better than the 
+official forecast for a couple of periods.  The consensus models generally outperformed the official 
+track forecasts. The Google DeepMind Ensemble Mean (GDMI) was particularly skillful, 
+outperforming the official forecasts at all forecast intervals, and also correctly predicted the 
+cyclone would stall off the coast of Baja California.  The Hurricane Forecast Improvement 
+Program (HFIP) Corrected Consensus Approach (HCCA), Florida State Super Ensemble (FSSE), 
+and GFEX models also performed better than the official forecasts at most time intervals. 
+A verification of NHC official intensity forecasts for Lorena is given in Table 5a.  Official 
+intensity forecast errors were higher than the mean official errors for the previous 5-yr period at 
+all forecast intervals, except for the 60-h interval.  The larger than normal forecast errors are likely 
+attributable to a bias in some of the models keeping the system stronger for a longer period than 
+what actually occurred.  A homogeneous comparison of the official intensity errors with selected 
+guidance models is given in Table 5b.  The official intensity forecasts were outperformed by a 
+considerable number of guidance models, with the HCCA and FSSE models performing better 
+than the official forecast at all forecast intervals, and the ICON, IVCN, and IVDR models 
+outperforming the official forecast at most time intervals. 
+ 
+Watches and warnings associated with Lorena are given in Table 6. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+ 
+Radar imagery shown in Fig. 4 was provided by CONAGUA, the National Meteorological 
+Service of Mexico and Brian McNoldy.  Dr. Lisa Bucci (NHC) created the recon summary graphic 
+(Fig. 5).  Rainfall data shown in Fig. 6 were provided by CONAGUA.  Dr. Philippe Papin (NHC) 
+created the GTWO verification graphic (Fig. 7). 
+ 
+ 
+=== page 6 ===
+Hurricane Lorena     6 
+ 
+Table 1. 
+Best track for Hurricane Lorena, 2–4 September 2025 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+02 / 0000 
+16.9 
+104.8 
+1005 
+ 30 
+tropical depression 
+02 / 0600 
+17.3 
+106.3 
+1004 
+ 35 
+tropical storm 
+02 / 1200 
+18.0 
+107.4 
+1003 
+ 40 
+" 
+02 / 1800 
+18.9 
+108.3 
+1001 
+ 45 
+" 
+03 / 0000 
+19.8 
+109.2 
+ 998 
+ 55 
+" 
+03 / 0600 
+20.8 
+110.0 
+ 991 
+ 65 
+hurricane 
+03 / 1200 
+21.9 
+111.1 
+ 987 
+ 70 
+" 
+03 / 1800 
+22.5 
+112.1 
+ 984 
+ 75 
+" 
+04 / 0000 
+23.1 
+112.8 
+ 981 
+ 75 
+" 
+04 / 0600 
+23.6 
+113.5 
+ 984 
+ 70 
+" 
+04 / 1200 
+24.0 
+114.0 
+ 990 
+ 60 
+tropical storm 
+04 / 1800 
+24.4 
+114.6 
+ 996 
+ 45 
+" 
+05 / 0000 
+24.5 
+115.0 
+ 998 
+ 40 
+low 
+05 / 0600 
+24.4 
+115.0 
+1001 
+ 35 
+" 
+05 / 1200 
+24.3 
+114.9 
+1002 
+ 30 
+" 
+05 / 1800 
+24.4 
+114.5 
+1005 
+ 30 
+" 
+06 / 0000 
+24.7 
+114.7 
+1007 
+ 25 
+" 
+06 / 0600 
+25.0 
+115.1 
+1007 
+ 25 
+" 
+06 / 1200 
+25.2 
+115.5 
+1007 
+ 20 
+" 
+06 / 1800 
+25.5 
+115.9 
+1008 
+ 20 
+" 
+07 / 0000 
+25.8 
+116.5 
+1009 
+ 15 
+" 
+07 / 0600 
+26.1 
+117.0 
+1009 
+ 15 
+" 
+07 / 1200 
+  
+   
+    
+   
+dissipated 
+=== page 7 ===
+Hurricane Lorena     7 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed 
+(kt) 
+Stage 
+04 / 0000 
+23.1 
+112.8 
+981 
+75 
+maximum winds and 
+minimum pressure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Lorena     8 
+ 
+Table 2. 
+Selected surface observations for Hurricane Lorena, 2–4 September 2025. 
+Location 
+Minimum Sea Level 
+Pressure 
+Maximum Surface 
+Wind Speed 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Mexico 
+Baja California Sur 
+Santa Anita 
+ 
+ 
+ 
+ 
+ 
+12.28 
+Yeneka 
+ 
+ 
+ 
+ 
+ 
+10.43 
+Boca del Salado 
+ 
+ 
+ 
+ 
+ 
+10.24 
+San Jose del Cabo 
+ 
+ 
+ 
+ 
+ 
+8.98 
+El Sauzal 
+ 
+ 
+ 
+ 
+ 
+7.86 
+Cabo San Lucas 
+ 
+ 
+04/0210 
+ 
+53 
+ 
+Sierra La Laguna 
+ 
+ 
+04/0740 
+ 
+44 
+ 
+ 
+a  Date/time is for sustained wind when both sustained and gust are listed. 
+ 
+ 
+=== page 9 ===
+Hurricane Lorena     9 
+ 
+Table 3. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category.  Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+78 
+156 
+Medium (40%-60%) 
+48 
+114 
+High (>60%) 
+6 
+72 
+ 
+ 
+ 
+=== page 10 ===
+Hurricane Lorena     10 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Lorena, 2–4 September 2025.  Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+23.7 
+43.0 
+58.1 
+66.6 
+73.3 
+ 
+ 
+ 
+OCD5 
+42.0 
+88.7 
+125.2 
+188.4 
+215.3 
+ 
+ 
+ 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Lorena     11 
+ 
+Table 4b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Lorena, 2–4 September 2025.  Errors smaller than the NHC official 
+forecast are shown in boldface type.  The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+23.3 
+46.7 
+53.9 
+54.2 
+ 
+ 
+ 
+ 
+OCD5 
+41.9 
+84.2 
+102.3 
+170.3 
+ 
+ 
+ 
+ 
+GFSI 
+30.1 
+64.8 
+73.3 
+98.8 
+ 
+ 
+ 
+ 
+HMNI 
+27.3 
+48.7 
+58.9 
+67.8 
+ 
+ 
+ 
+ 
+HFAI 
+29.4 
+66.0 
+93.0 
+120.5 
+ 
+ 
+ 
+ 
+HFBI 
+23.5 
+59.4 
+87.8 
+83.8 
+ 
+ 
+ 
+ 
+HWFI 
+27.4 
+58.6 
+45.3 
+34.2 
+ 
+ 
+ 
+ 
+EMXI 
+22.1 
+51.9 
+76.4 
+96.9 
+ 
+ 
+ 
+ 
+CMCI 
+39.1 
+66.5 
+90.8 
+102.3 
+ 
+ 
+ 
+ 
+AEMI 
+28.2 
+54.9 
+64.6 
+71.8 
+ 
+ 
+ 
+ 
+HCCA 
+19.6 
+38.2 
+51.5 
+61.2 
+ 
+ 
+ 
+ 
+FSSE 
+21.0 
+43.6 
+43.5 
+56.0 
+ 
+ 
+ 
+ 
+GFEX 
+20.5 
+39.6 
+43.5 
+55.3 
+ 
+ 
+ 
+ 
+TVCE 
+21.4 
+47.0 
+55.8 
+63.4 
+ 
+ 
+ 
+ 
+TVCX 
+20.9 
+45.9 
+55.5 
+62.6 
+ 
+ 
+ 
+ 
+TVDG 
+19.2 
+43.9 
+52.9 
+62.3 
+ 
+ 
+ 
+ 
+TABD 
+38.9 
+81.6 
+103.4 
+125.6 
+ 
+ 
+ 
+ 
+TABM 
+27.2 
+47.2 
+62.6 
+91.9 
+ 
+ 
+ 
+ 
+TABS 
+25.4 
+44.4 
+67.4 
+108.7 
+ 
+ 
+ 
+ 
+GDMI 
+19.0 
+36.1 
+53.0 
+47.4 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+0 
+0 
+0 
+0 
+ 
+=== page 12 ===
+Hurricane Lorena     12 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Lorena, 2–4 September 2025.  Mean errors for 
+the previous 5-yr period are shown for comparison.  Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.5 
+14.4 
+18.3 
+15.0 
+7.5 
+ 
+ 
+ 
+OCD5 
+10.3 
+15.4 
+18.5 
+18.0 
+6.5 
+ 
+ 
+ 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Lorena     13 
+ 
+Table 5b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Lorena, 2–4 September 2025.  Errors smaller than the NHC official 
+forecast are shown in boldface type.  The number of official forecasts shown here 
+will generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.9 
+15.0 
+18.8 
+17.5 
+ 
+ 
+ 
+ 
+OCD5 
+10.9 
+13.8 
+14.0 
+9.5 
+ 
+ 
+ 
+ 
+HWFI 
+10.0 
+9.3 
+5.8 
+4.5 
+ 
+ 
+ 
+ 
+HMNI 
+12.8 
+19.2 
+14.8 
+3.5 
+ 
+ 
+ 
+ 
+HFAI 
+9.4 
+15.7 
+17.2 
+13.5 
+ 
+ 
+ 
+ 
+HFBI 
+8.6 
+11.7 
+12.5 
+20.0 
+ 
+ 
+ 
+ 
+DSHP 
+7.6 
+12.0 
+20.8 
+28.0 
+ 
+ 
+ 
+ 
+LGEM 
+8.2 
+12.0 
+20.0 
+18.0 
+ 
+ 
+ 
+ 
+ICON 
+8.0 
+8.7 
+12.0 
+12.5 
+ 
+ 
+ 
+ 
+IVCN 
+8.1 
+9.0 
+7.2 
+12.5 
+ 
+ 
+ 
+ 
+IVDR 
+8.8 
+10.5 
+7.5 
+10.5 
+ 
+ 
+ 
+ 
+GFSI 
+12.2 
+15.0 
+12.2 
+8.5 
+ 
+ 
+ 
+ 
+EMXI 
+14.6 
+21.5 
+21.5 
+17.5 
+ 
+ 
+ 
+ 
+HCCA 
+5.1 
+4.5 
+8.5 
+16.5 
+ 
+ 
+ 
+ 
+FSSE 
+6.4 
+9.0 
+8.0 
+8.5 
+ 
+ 
+ 
+ 
+GDMI 
+13.5 
+18.7 
+16.5 
+8.0 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 14 ===
+Hurricane Lorena     14 
+ 
+Table 6. 
+Watch and warning summary for Hurricane Lorena, 2–4 September 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+ 2 / 2100 
+Tropical Storm Watch issued 
+Cabo San Lucas to Cabo San Lazaro 
+ 3 / 0900 
+Tropical Storm Watch modified to 
+Cabo San Lucas to Santa Fe 
+ 3 / 0900 
+Tropical Storm Warning issued 
+Santa Fe to Cabo San Lazaro 
+ 3 / 0900 
+Tropical Storm Watch issued 
+Cabo San Lazaro to Punta Abreojos 
+ 3 / 1500 
+Tropical Storm Watch modified to 
+Punta Abreojos to Punta Eugenia 
+ 3 / 1500 
+Tropical Storm Warning modified 
+to 
+Santa Fe to Punta Abreojos 
+ 3 / 2100 
+Tropical Storm Watch modified to 
+Todos Santos to Santa Fe 
+ 3 / 2100 
+Tropical Storm Watch 
+discontinued 
+Punta Abreojos to Punta Eugenia 
+ 3 / 2100 
+Tropical Storm Watch issued 
+Bahia De Los Angeles to Santa Rosalia 
+ 3 / 2100 
+Tropical Storm Warning modified 
+to 
+Santa Fe to Punta Eugenia 
+ 4 / 0600 
+Tropical Storm Watch 
+discontinued 
+Todos Santos to Santa Fe 
+ 4 / 1500 
+Tropical Storm Watch 
+discontinued 
+All 
+ 4 / 1500 
+Tropical Storm Warning modified 
+to 
+Puerto Cortes to Punta Eugenia 
+ 4 / 2100 
+Tropical Storm Warning 
+discontinued 
+All 
+=== page 15 ===
+Hurricane Lorena     15 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Lorena, 2–4 September 2025. 
+=== page 16 ===
+Hurricane Lorena     16 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve Hurricane Lorena, 2–4 September 
+2025.  Aircraft observations have been adjusted for elevation using a 90% adjustment factor for observations from 700 mb. 
+Dropwindsonde observations include actual 10 m winds (sfc), as well as surface estimates derived from the mean wind over 
+the lowest 150 m of the wind sounding (LLM).  Advanced Dvorak Technique estimates represent the Current Intensity at the 
+nominal observation time.  SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. 
+Dashed vertical lines correspond to 0000 UTC. 
+=== page 17 ===
+Hurricane Lorena     17 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Lorena, 2–4 September 2025.  
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time.  SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies.  KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 18 ===
+Hurricane Lorena     18 
+ 
+ 
+Figure 4. 
+Radar images from Los Cabos, Mexico, of Hurricane Lorena around peak intensity on 3 September 2025. Image courtesy of 
+CONAGUA, the National Meteorological Service of Mexico and B. McNoldy. 
+ 
+=== page 19 ===
+Hurricane Lorena     19 
+ 
+ 
+ 
+Figure 5. 
+Air Force Reserve aircraft flight tracks (colored lines) from reconnaissance missions into Hurricane Lorena from 3 and 4 
+September 2025.  The blue triangles indicate dropsonde locations.  The color of the flight track represents the observed flight-
+level wind speed in knots at that location (see legend). 
+=== page 20 ===
+Hurricane Lorena     20 
+ 
+ 
+Figure 6. 
+Rainfall accumulations (mm) in Mexico from 2–5 September 2025.  Track and intensity are based on the operational NHC 
+assessment. Not all of the rainfall depicted here is directly related to Lorena.  Image courtesy of CONAGUA, the National 
+Meteorological Service of Mexico.  
+=== page 21 ===
+Hurricane Lorena     21 
+ 
+ 
+Figure 7. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Hurricane Lorena for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and 
+(d) high (>60%) category.  The location of genesis is indicated by the black star. 
+ 

@@ -1,0 +1,858 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+TROPICAL STORM BARRY 
+ 
+(AL022025) 
+ 
+28–30 June 2025 
+ 
+Lisa R. Bucci 
+Matthew Onderlinde 
+National Hurricane Center 
+13 November 2025 
+ 
+ 
+AMSR2 MICROWAVE IMAGE OF TROPICAL STORM BARRY AT 1938 UTC 29 JUNE JUST BEFORE LANDFALL 
+IN MEXICO. 
+Barry was a short-lived tropical storm that formed over the Bay of Campeche and 
+caused widespread flooding in eastern Mexico resulting in 8 direct fatalities in that country. 
+ 
+=== page 2 ===
+Tropical Storm Barry     2 
+ 
+Tropical Storm Barry 
+ 
+28–30 JUNE 2025 
+ 
+SYNOPTIC HISTORY 
+​
+​
+The origins of Barry are somewhat unclear, but one contributing feature was the northern 
+portion of a tropical wave that reached the Yucatan Peninsula on the morning of 26 June.  A 
+broad area of low pressure formed over the Peninsula and emerged over the Bay of Campeche 
+the morning of 28 June.  While deep convection gradually grew through the day, hurricane 
+reconnaissance aircraft and scatterometer data revealed that a closed circulation had formed by 
+that afternoon, marking the formation of a 25-kt tropical depression about 115 n mi east of 
+Veracruz, Mexico, by 1800 UTC 28 June.  Despite moderate-to-strong westerly vertical wind 
+shear, warm sea surface temperatures and a moist environment were sufficient for Barry to 
+strengthen to a tropical storm by the morning of 29 June as indicated by Air Force Reserve 
+Hurricane Hunter aircraft flight-level and dropsonde observations.  The “best track” chart of 
+Barry’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, 
+respectively. The best track positions and intensities are listed in Table 11.   
+The tropical storm reached a peak intensity of 40 kt by 1800 UTC 29 June before vertical 
+wind shear began to strip away deep convection from the system and expose the low-level 
+circulation.  It is estimated that Barry made landfall at 0200 UTC 30 June as a 30-kt tropical 
+depression about 15 n mi south of Tampico in the Mexican state of Veracruz.  Barry’s shallow 
+circulation continued westward inland and dissipated over the mountainous terrain of eastern 
+Mexico by 1200 UTC 30 June. 
+​
+METEOROLOGICAL STATISTICS 
+​
+ ​
+Observations in Barry (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University 
+of 
+Wisconsin-Madison. 
+Observations 
+also 
+include 
+flight-level 
+and 
+dropwindsonde observations from three flights of the 53rd Weather Reconnaissance Squadron 
+of the U.S. Air Force Reserve Command (Fig. 4). Data and imagery from NOAA polar-orbiting 
+satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global 
+1 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+=== page 3 ===
+Tropical Storm Barry     3 
+ 
+Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats 
+(TROPICS) satellites, among others, were also useful in constructing the best track of Barry. 
+There were no ship reports of winds of tropical storm force associated with Barry. 
+​
+Winds and Pressure 
+Barry’s peak intensity of 40 kt at 1800 UTC 29 June is based on a combination of aircraft 
+observations and objective satellite intensity estimates.  
+The third Air Force Reserve 
+reconnaissance flight reported an 850-mb peak wind of 51 kt at 1648 UTC (corresponding to a 
+40-kt surface-reduced wind speed).  In addition, objective ADT satellite estimates near the time 
+of peak intensity ranged between T2.9/43 kt to T2.8/41 kt and SATCON had estimates of 40 to 
+42 kt.  The minimum central pressure of 1006 mb is based on a dropwindsonde that measured 
+a pressure of 1008 mb with 18-kt winds at 1430 UTC. 
+Barry made landfall in a data sparse region of the state of Veracruz south of Tampico.  
+Data from a Mexican Naval automated station (ILOV4) located on Lobos Island indicated a wind 
+shift accompanied by a minimum pressure of 1008.5 mb at 2230 UTC.  This is the basis for the 
+estimated landfall pressure of 1009 mb.  This increase in the minimum central pressure from the 
+aircraft observation from earlier in the day, as well as the degraded representation on both the 
+satellite and radar imagery (Fig. 5), is the basis  for the reduction in intensity to 30 kt at landfall.  
+Rainfall and Flooding 
+Barry produced more than five inches (~125 mm) of rain across large portions of the 
+Mexican states of Tamaulipas and Veracruz during the period from 29 June to 1 July (Fig. 6).  
+The states of San Luis Potosí, Puebla and Oaxaca also received isolated rainfall totals of up to 
+five inches (~125 mm).  The highest rainfall amounts reported were 17.99 inches (457 mm) at 
+San Gabriel, Tamaulipas; 14.65 inches (372.0 mm) at Angel Rosario Cabada, Veracruz; and 
+11.63 inches (295.5 mm) at Sabinas, Tamaulipas. These rains caused flooding and mudslides 
+across portions of eastern and southeastern Mexico. 
+Barry and its remnants were not the primary cause of the devastating floods that 
+occurred in the central Texas Hill Country on 4–5 July. Synoptic-scale flow drew deep tropical 
+moisture spanning from the east Pacific Ocean to the Caribbean (Fig. 7) into the south central 
+United States in early July. A link to additional information on that flooding event from the 
+National Weather Service Weather Forecast Office in Austin/San Antonio, Texas, will be 
+provided when it becomes available. 
+ 
+ 
+ 
+=== page 4 ===
+Tropical Storm Barry     4 
+ 
+CASUALTY AND DAMAGE STATISTICS​
+ 
+Barry is responsible for at least 8 direct fatalities2 in Mexico.  Four individuals drowned in 
+vehicles swept away by rainfall-induced inland flooding.3  Of those victims, three were located in 
+Santa María del Río and one in Ahualulco.  Two people were swept away and perished in 
+floodwaters of the Tampaón River4 in Tamuín.  Two others drowned in rough surf operating a 
+vehicle close to a seawall in Veracruz.5   No indirect deaths were reported.  
+Barry produced at least $5.64 million USD in damage in Mexico according to various 
+Mexican state government statements6,7,8.  Flooding from Barry’s heavy rain was the primary 
+cause of damage across the states of Tamaulipas, San Luis Potosí, Puebla and Veracruz.9  
+Thousands of private residences and multiple schools were inundated, leading to the 
+evacuation of communities and suspension of classes.  Roads and highways were damaged or 
+destroyed by overflowing rivers, streams, canals, and by landslides.   
+FORECAST AND WARNING CRITIQUE​
+ 
+Genesis 
+The genesis of Barry was not well anticipated (Table 2). The wave from which Barry 
+developed was introduced in the Tropical Weather Outlook only 42 h prior to genesis.  The 
+7-day and 2-day formation probabilities were raised to the medium category 12 h before 
+formation.  While the probabilities were raised to high category at 1800 UTC 28 June, the final 
+best track shows that genesis had already occurred at that time. Although only a few outlooks 
+were issued, the location of Barry’s formation was well forecast (Fig. 8), with the genesis position 
+located within all of the genesis forecast areas. 
+   
+9https://lasillarota.com/estados/2025/6/30/remanentes-de-barry-provocan-estragos-en-slp-tamaulipas-pue
+bla-543269.html 
+8https://elcensal.com/tormenta-barry-deja-afectaciones-menores-sin-victimas-ni-danos-graves-proteccion-
+civil-veracruz-se-estima-un-costo-de-5-millones-de-pesos/ 
+7https://elefanteblanco.mx/2025/07/08/barry-deja-65-mdp-en-danos-carreteros-y-330-viviendas-afectadas
+/ 
+6https://quintanaroo.quadratin.com.mx/estiman-en-35-millones-los-danos-por-lluvias-en-el-sur-de-quintan
+a-roo/ 
+5https://www.nmas.com.mx/foro-tv/programas/expreso-la-manana/videos/barry-deja-dos-muertos-su-paso
+-veracruz/ 
+4 https://www.astrolabio.com.mx/inundaciones-deslaves-y-danos-deja-tormenta-tropical-barry-en-slp/ 
+3https://sanluispotosi.quadratin.com.mx/san-luis-potosi/dejan-lluvias-saldo-fatal-e-inundaciones-en-san-lui
+s-potosi/ 
+2 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions 
+from downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 5 ===
+Tropical Storm Barry     5 
+ 
+Track 
+A verification of NHC official track forecasts for Barry is given in Table 3a. Official track 
+forecast errors were lower than the mean official errors for the previous 5-yr period for all 
+forecast periods (12 through 36 hours), though the sample size is quite small. A homogeneous 
+comparison of the official track errors with selected guidance models is given in Table 3b.  The 
+European model (EMXI) had the lowest errors at 12 and 24 hours.  However, these results 
+should be viewed cautiously due to the small number of verifiable forecasts.  
+Intensity 
+A verification of NHC official intensity forecasts for Barry is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-yr period for 
+the 12 and 24 forecast hours.  A homogeneous comparison of the official intensity errors with 
+selected guidance models is given in Table 4b.  It is again difficult to draw conclusions given the 
+small sample size of verifiable forecasts. 
+Wind Watches and Warnings 
+​
+Coastal wind watches and warnings associated with Barry are given in Table 5.  
+ 
+ACKNOWLEDGEMENTS​
+ 
+Thank you to Dr. Philippe Papin for the creation of the best track and genesis graphics.
+=== page 6 ===
+Tropical Storm Barry     6 
+ 
+Table 1.​
+Best track for Tropical Storm Barry, 28–30 June 2025. 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind​
+ Speed 
+(kt) 
+Stage 
+28 / 1800 
+19.2 
+93.9 
+1011 
+25 
+tropical depression 
+29 / 0000 
+19.5 
+94.7 
+1011 
+25 
+" 
+29 / 0600 
+19.7 
+95.4 
+1010 
+30 
+" 
+29 / 1200 
+20.1 
+96.0 
+1008 
+35 
+tropical storm 
+29 / 1800 
+20.9 
+96.7 
+1006 
+40 
+" 
+30 / 0000 
+21.7 
+97.4 
+1008 
+35 
+" 
+30 / 0200 
+21.9 
+97.7 
+1009 
+30 
+tropical depression 
+30 / 0600 
+22.3 
+98.2 
+1009 
+25 
+" 
+30 / 1200 
+  
+  
+  
+  
+dissipated 
+29 / 1800 
+20.9 
+96.7 
+1006 
+40 
+maximum winds & 
+minimum pressure 
+30 / 0200 
+21.9 
+97.7 
+1009 
+30 
+landfall in 
+Veracruz,  
+20 n mi 
+south-southeast of 
+Tampico  
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Barry     7 
+ 
+Table 2.​
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+42 
+42 
+Medium (40%-60%) 
+12 
+12 
+High (>60%) 
+0 
+0 
+ 
+ 
+Table 3a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Barry, 28–30 June 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+21.3  
+34.1 
+36.7 
+  
+  
+  
+  
+  
+OCD5 
+28.7  
+62.8 
+88.5 
+  
+  
+  
+  
+  
+Forecasts 
+5  
+3 
+1 
+  
+  
+  
+  
+  
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+=== page 8 ===
+Tropical Storm Barry     8 
+ 
+Table 3b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Barry, 28–30 June 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+20.5 
+34.1 
+36.7 
+ 
+ 
+ 
+ 
+ 
+OCD5 
+29.6 
+62.8 
+88.5 
+ 
+ 
+ 
+ 
+ 
+GFSI 
+24.1 
+48.4 
+63.2 
+ 
+ 
+ 
+ 
+ 
+HWFI 
+26.1 
+36.0 
+39.3 
+ 
+ 
+ 
+ 
+ 
+HMNI 
+21.3 
+43.7 
+58.4 
+ 
+ 
+ 
+ 
+ 
+HFBI 
+39.3 
+54.4 
+16.4 
+ 
+ 
+ 
+ 
+ 
+EMXI 
+17.0 
+20.6 
+30.0 
+ 
+ 
+ 
+ 
+ 
+NVGI 
+18.9 
+39.3 
+47.9 
+ 
+ 
+ 
+ 
+ 
+CMCI 
+23.3 
+26.2 
+55.8 
+ 
+ 
+ 
+ 
+ 
+HCCA 
+21.8 
+29.5 
+6.0 
+ 
+ 
+ 
+ 
+ 
+TVCA 
+25.4 
+31.7 
+20.5 
+ 
+ 
+ 
+ 
+ 
+TVCX 
+24.2 
+30.8 
+24.5 
+ 
+ 
+ 
+ 
+ 
+GFEX 
+20.3 
+31.6 
+40.9 
+ 
+ 
+ 
+ 
+ 
+TVDG 
+25.8 
+31.6 
+28.6 
+ 
+ 
+ 
+ 
+ 
+TABD 
+27.1 
+35.4 
+50.5 
+ 
+ 
+ 
+ 
+ 
+TABM 
+38.4 
+58.7 
+93.4 
+ 
+ 
+ 
+ 
+ 
+TABS 
+45.6 
+81.0 
+117.8 
+ 
+ 
+ 
+ 
+ 
+Forecasts 
+4 
+3 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Barry     9 
+ 
+Table 4a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Barry, 28–30 June 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.0   
+3.3     
+10.0 
+  
+  
+  
+  
+  
+OCD5 
+8.8 
+3.3 
+4.0 
+  
+  
+  
+  
+  
+Forecasts 
+5  
+3 
+1 
+  
+  
+  
+  
+  
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+=== page 10 ===
+Tropical Storm Barry     10 
+ 
+Table 4b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Barry, 28–30 June 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.0 
+5.0 
+10.0 
+ 
+ 
+ 
+ 
+ 
+OCD5 
+8.8 
+7.0 
+3.0 
+ 
+ 
+ 
+ 
+ 
+HWFI 
+7.8 
+7.0 
+9.0 
+ 
+ 
+ 
+ 
+ 
+HMNI 
+9.2 
+11.0 
+10.0 
+ 
+ 
+ 
+ 
+ 
+HFAI 
+8.4 
+4.0 
+8.0 
+ 
+ 
+ 
+ 
+ 
+HFBI 
+6.0 
+7.0 
+9.0 
+ 
+ 
+ 
+ 
+ 
+DSHP 
+7.6 
+14.0 
+2.0 
+ 
+ 
+ 
+ 
+ 
+LGEM 
+9.6 
+16.0 
+1.0 
+ 
+ 
+ 
+ 
+ 
+ICON 
+8.0 
+12.0 
+6.0 
+ 
+ 
+ 
+ 
+ 
+IVCN 
+7.0 
+9.0 
+7.0 
+ 
+ 
+ 
+ 
+ 
+IVDR 
+6.8 
+8.0 
+8.0 
+ 
+ 
+ 
+ 
+ 
+GFSI 
+7.8 
+8.0 
+9.0 
+ 
+ 
+ 
+ 
+ 
+EMXI 
+7.4 
+12.0 
+1.0 
+ 
+ 
+ 
+ 
+ 
+HCCA 
+7.2 
+7.0 
+10.0 
+ 
+ 
+ 
+ 
+ 
+Forecasts 
+5 
+1 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Tropical Storm Barry     11 
+ 
+Table 5.​
+Watch and warning summary for Tropical Storm Barry, 28–30 June 2025. 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+28/ 2100 
+Tropical Storm Warning Issued 
+Eastern coast of Mexico from Boca de 
+Catan southward to Tecolutla 
+02/ 0900 
+Tropical Storm Warning 
+discontinued 
+All of Mexico 
+ 
+ 
+=== page 12 ===
+Tropical Storm Barry     12 
+ 
+ 
+ 
+ 
+Figure 1.​
+Best track positions for Tropical Storm Barry, 28–30 June 2025.
+ 
+=== page 13 ===
+Tropical Storm Barry     13 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Barry, 28–30 
+June 2025. Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment factors for 
+observations from 700 mb, 850 mb, and 925 mb, respectively. Dropwindsonde observations include actual 10 m winds (sfc), 
+as well as surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). Advanced 
+Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity estimates are 
+from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC, and the 
+solid vertical line corresponds to landfall.
+ 
+=== page 14 ===
+Tropical Storm Barry     14 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Barry, 28–30 June 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC, and the 
+solid vertical line corresponds to landfall.
+ 
+=== page 15 ===
+Tropical Storm Barry     15 
+ 
+ 
+Figure 4.​
+Air Force Reserve aircraft flight tracks (colored lines) from reconnaissance missions into Barry from 29 June 2025 (invest 
+mission from 28 June not plotted). The blue triangles indicate dropsonde locations. The color of the flight track represents the 
+observed flight-level wind speed in knots at that location (see legend). 
+=== page 16 ===
+Tropical Storm Barry     16 
+ 
+ 
+ 
+Figure 5.​
+Image of the composite reflectivity from the radar located in Altamira, Mexico, at 0106 UTC on 30 June 2025. 
+ 
+=== page 17 ===
+Tropical Storm Barry     17 
+ 
+ 
+Figure 6.​
+Rainfall totals for Tropical Storm Barry in Mexico. Figure courtesy of CONAGUA. Note that not all of the rainfall shown was 
+associated with Barry. The track is based on the NHC operational assessments. 
+=== page 18 ===
+Tropical Storm Barry     18 
+ 
+ 
+ 
+Figure 7.​
+6.5-day backward trajectories based on 1-hourly output from the GFS model (analyses and forecast hours 1–5) initiated over 
+the Texas torrential rainfall event on 4 July 2025.  Parcels were seeded through the low- to mid-levels of the atmosphere 
+(1000–500 mb).  Best track positions for Barry are included (red dots).  Gold stars indicate locations of parcels at 00 UTC 30 
+June 2025, around the time of Barry’s landfall in Mexico (red star).  
+=== page 19 ===
+Tropical Storm Barry     19 
+ 
+ 
+ 
+Figure 8.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Tropical Storm Barry for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, 
+and (d) high (>60%) category. The location of genesis is indicated by the black star. 

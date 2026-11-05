@@ -1,0 +1,974 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+HURRICANE NARDA 
+ 
+(EP142025) 
+ 
+21–28 September 2025 
+ 
+Larry A. Kelly 
+National Hurricane Center 
+22 October 2025 
+ 
+ 
+GOES-WEST INFRARED SATELLITE IMAGE OF HURRICANE NARDA AROUND THE TIME OF ITS PEAK 
+INTENSITY AT 0600 UTC 24 SEPTEMBER 2025. IMAGE COURTESY OF NOAA/NESDIS/STAR.  
+Narda was a category 2 hurricane (on the Saffir-Simpson Hurricane Wind Scale) that 
+remained over the open waters of the eastern North Pacific Ocean. 
+ 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Narda. 
+=== page 2 ===
+Hurricane Narda     2 
+ 
+Hurricane Narda 
+ 
+21–28 SEPTEMBER 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Hurricane Narda are listed in Table 1. The 
+best track chart of Narda’s path is given in Fig. 1, with the wind and pressure histories along with 
+available observations3 shown in Figs. 2 and 3, respectively. 
+There were no ship reports of tropical-storm-force winds associated with Narda. 
+Origin 
+Narda formed around 1800 UTC 21 September about 210 n mi south-southeast of  
+Zihuantanejo, Mexico. Narda appears to have formed from the combination of a tropical wave 
+that crossed Central America on 17 and 18 September and a disturbance in the monsoon trough. 
+Peak Intensity and Minimum Pressure 
+Narda’s peak intensity of 90 kt at 0600 and 1200 UTC 24 September is based mainly on 
+subjective satellite intensity estimates from TAFB, SAB, and a blend of UW-CIMSS D-PRINT and 
+D-MINT objective intensity estimates. The minimum central pressure of 970 mb is primarily based 
+on the Knaff-Zehr-Courtney pressure-wind relationship. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Narda. 
+ 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Narda. 
+=== page 3 ===
+Hurricane Narda     3 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. Figure 4 shows composites of 7-
+day TWO genesis areas for each category prior to the formation of Narda. The disturbance that 
+became Narda was introduced into the Outlook less than 3 days prior to formation, as the system 
+formed earlier than anticipated. The location of genesis occurred within all TWO genesis areas. 
+A verification of NHC official track forecasts for Narda is given in Table 3a. Official track 
+forecast errors were lower than the mean official errors for the previous 5-yr period, for most time 
+ranges, except the 36-h and 48-h verifying forecasts, which were near the long-term mean. A 
+homogeneous comparison of the official track errors with selected guidance models is given in 
+Table 3b. Overall, the simple consensus (TVCE) and HFIP corrected consensus (HCCA) aids 
+performed the best, with slightly lower errors than the NHC track forecast at most times. 
+A verification of NHC official intensity forecasts for Narda is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-yr period for 
+all time ranges, except at 72 hours. A homogeneous comparison of the official intensity errors 
+with selected guidance models is given in Table 4b. Most of the intensity guidance was 
+comparable to the NHC forecast in the short term, but it outperformed the NHC intensity forecast 
+in the 60- to 96-h time frame. After Narda reached peak intensity and weakened slightly, the 
+official forecast called for re-intensification that did not occur. This resulted in a high bias in the 
+NHC intensity forecasts during that period.  
+There were no coastal watches or warnings issued for Narda. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Philippe Papin (NHC) created the Graphical TWO verification figure. 
+ 
+=== page 4 ===
+Hurricane Narda     4 
+ 
+Table 1. 
+Best track for Hurricane Narda, 21–28 September 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+21 / 1800 
+14.4 
+99.4 
+1007 
+35 
+tropical storm 
+22 / 0000 
+15.1 
+100.1 
+1006 
+35 
+" 
+22 / 0600 
+15.4 
+101.2 
+1003 
+40 
+" 
+22 / 1200 
+15.7 
+102.3 
+1000 
+45 
+" 
+22 / 1800 
+15.9 
+103.4 
+997 
+50 
+" 
+23 / 0000 
+16.1 
+104.5 
+993 
+55 
+" 
+23 / 0600 
+15.8 
+105.6 
+986 
+65 
+hurricane 
+23 / 1200 
+15.5 
+106.7 
+982 
+75 
+" 
+23 / 1800 
+15.4 
+107.8 
+977 
+80 
+" 
+24 / 0000 
+15.3 
+108.8 
+972 
+85 
+" 
+24 / 0600 
+15.2 
+109.9 
+970 
+90 
+" 
+24 / 1200 
+15.1 
+110.9 
+970 
+90 
+" 
+24 / 1800 
+15.2 
+111.9 
+975 
+85 
+" 
+25 / 0000 
+15.3 
+112.9 
+978 
+80 
+" 
+25 / 0600 
+15.6 
+114.3 
+980 
+80 
+" 
+25 / 1200 
+15.9 
+115.8 
+980 
+80 
+" 
+25 / 1800 
+16.1 
+117.3 
+980 
+80 
+" 
+26 / 0000 
+16.3 
+118.7 
+982 
+75 
+" 
+26 / 0600 
+16.5 
+120.0 
+982 
+75 
+" 
+26 / 1200 
+16.7 
+121.3 
+982 
+75 
+" 
+26 / 1800 
+16.9 
+122.2 
+983 
+75 
+" 
+27 / 0000 
+17.2 
+123.1 
+983 
+75 
+" 
+=== page 5 ===
+Hurricane Narda     5 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+27 / 0600 
+17.5 
+124.0 
+983 
+75 
+" 
+27 / 1200 
+17.8 
+124.7 
+983 
+75 
+" 
+27 / 1800 
+18.2 
+125.2 
+986 
+70 
+" 
+28 / 0000 
+18.5 
+125.5 
+992 
+60 
+tropical storm 
+28 / 0600 
+18.9 
+125.6 
+998 
+50 
+" 
+28 / 1200 
+19.4 
+125.6 
+1001 
+45 
+" 
+28 / 1800 
+20.1 
+125.5 
+1006 
+35 
+low 
+29 / 0000 
+20.7 
+125.2 
+1009 
+30 
+" 
+29 / 0600 
+21.0 
+125.0 
+1009 
+30 
+" 
+29 / 1200 
+21.3 
+124.9 
+1010 
+25 
+" 
+29 / 1800 
+21.5 
+124.7 
+1011 
+20 
+" 
+30 / 0000 
+21.4 
+124.4 
+1011 
+20 
+" 
+30 / 0600 
+21.3 
+124.6 
+1012 
+20 
+" 
+30 / 1200 
+21.6 
+124.6 
+1012 
+20 
+" 
+30 / 1800 
+21.7 
+124.8 
+1012 
+20 
+" 
+01 / 0000 
+21.7 
+125.0 
+1012 
+20 
+" 
+01 / 0600 
+- 
+- 
+- 
+- 
+dissipated 
+24 / 0600 
+15.2 
+109.9 
+970 
+90 
+maximum winds and 
+minimum pressure 
+ 
+ 
+ 
+=== page 6 ===
+Hurricane Narda     6 
+ 
+Table 2. 
+Number of hours in advance of formation of Narda associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category. Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+66 
+66 
+Medium (40%-60%) 
+42 
+60 
+High (>60%) 
+24 
+48 
+ 
+ 
+ 
+=== page 7 ===
+Hurricane Narda     7 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Narda, 21–28 September 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+18.9 
+32.9 
+47.3 
+55.8 
+57.9 
+50.3 
+66.9 
+62.7 
+OCD5 
+35.8 
+77.6 
+124.6 
+167.6 
+207.4 
+247.2 
+360.8 
+509.2 
+Forecasts 
+26 
+24 
+22 
+20 
+18 
+16 
+12 
+8 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Narda     8 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Narda, 21–28 September 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+17.8 
+31.5 
+47.8 
+58.9 
+59.8 
+48.9 
+68.4 
+65.7 
+OCD5 
+33.5 
+73.5 
+123.6 
+172.7 
+218.3 
+264.8 
+333.7 
+466.0 
+GFSI 
+16.8 
+25.1 
+42.6 
+62.6 
+82.3 
+108.8 
+185.4 
+226.9 
+HWFI 
+18.0 
+32.6 
+51.8 
+67.8 
+80.2 
+88.3 
+109.1 
+175.2 
+HMNI 
+15.5 
+25.5 
+43.2 
+60.2 
+57.0 
+39.9 
+54.3 
+115.3 
+HFAI 
+20.0 
+35.6 
+53.5 
+69.5 
+87.3 
+88.7 
+128.5 
+179.0 
+HFBI 
+19.0 
+39.1 
+60.2 
+79.0 
+96.1 
+108.3 
+182.0 
+294.4 
+EMXI 
+25.5 
+44.3 
+62.9 
+73.0 
+66.0 
+57.7 
+95.0 
+151.8 
+NVGI 
+27.9 
+52.2 
+79.2 
+113.3 
+163.7 
+205.4 
+296.1 
+319.4 
+CMCI 
+18.1 
+32.4 
+54.9 
+84.0 
+129.2 
+165.6 
+233.5 
+275.8 
+TVCE 
+14.8 
+26.4 
+39.8 
+51.6 
+55.0 
+48.0 
+76.8 
+116.8 
+TVCX 
+15.6 
+27.4 
+41.1 
+51.8 
+55.6 
+48.3 
+77.6 
+120.4 
+GFEX 
+18.8 
+30.9 
+45.5 
+60.0 
+64.7 
+73.5 
+135.3 
+185.6 
+TVDG 
+15.2 
+26.8 
+41.9 
+50.4 
+52.6 
+41.0 
+68.5 
+112.1 
+HCCA 
+16.5 
+28.5 
+45.8 
+57.5 
+58.1 
+48.1 
+94.5 
+153.7 
+FSSE 
+17.5 
+29.4 
+42.7 
+53.9 
+62.3 
+68.7 
+98.8 
+150.3 
+AEMI 
+18.4 
+28.8 
+42.9 
+57.5 
+70.7 
+87.0 
+142.4 
+158.2 
+TABS 
+54.7 
+133.6 
+198.2 
+224.3 
+216.7 
+187.0 
+137.6 
+184.6 
+TABM 
+28.9 
+48.6 
+70.9 
+86.6 
+100.0 
+121.7 
+200.2 
+285.8 
+TABD 
+32.8 
+58.6 
+82.5 
+109.5 
+128.3 
+151.4 
+242.9 
+307.8 
+GDMI 
+17.9 
+34.0 
+53.1 
+66.4 
+71.0 
+70.4 
+85.2 
+146.6 
+Forecasts 
+20 
+18 
+16 
+14 
+12 
+11 
+11 
+7 
+=== page 9 ===
+Hurricane Narda     9 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Narda, 21–28 September 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.6 
+5.4 
+6.1 
+9.0 
+12.5 
+15.6 
+15.8 
+10.0 
+OCD5 
+5.8 
+8.4 
+11.0 
+12.1 
+12.5 
+11.3 
+17.1 
+20.6 
+Forecasts 
+26 
+24 
+22 
+20 
+18 
+16 
+12 
+8 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Hurricane Narda     10 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Narda, 21–28 September 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.8 
+5.3 
+6.2 
+9.3 
+12.9 
+17.3 
+16.8 
+10.0 
+OCD5 
+6.6 
+10.3 
+13.3 
+13.6 
+12.8 
+9.3 
+15.0 
+17.7 
+HWFI 
+7.3 
+8.8 
+10.8 
+11.4 
+10.5 
+10.2 
+13.0 
+14.1 
+HMNI 
+4.8 
+7.9 
+8.9 
+9.1 
+10.1 
+14.4 
+9.6 
+13.1 
+HFAI 
+8.5 
+12.1 
+13.7 
+13.5 
+11.8 
+10.0 
+11.3 
+9.6 
+HFBI 
+8.6 
+13.8 
+16.1 
+15.1 
+10.6 
+7.9 
+11.5 
+10.1 
+DSHP 
+4.7 
+7.2 
+8.2 
+10.3 
+13.2 
+14.0 
+16.3 
+11.7 
+LGEM 
+4.8 
+8.6 
+10.0 
+9.4 
+9.5 
+6.7 
+6.7 
+6.9 
+ICON 
+4.1 
+6.3 
+7.7 
+7.5 
+9.6 
+10.1 
+9.9 
+5.7 
+IVCN 
+5.2 
+7.3 
+9.0 
+7.9 
+7.1 
+6.3 
+8.9 
+5.7 
+IVDR 
+5.7 
+8.6 
+10.0 
+9.2 
+7.8 
+6.8 
+8.7 
+6.1 
+GFSI 
+8.7 
+12.9 
+15.2 
+14.4 
+12.3 
+11.5 
+15.5 
+12.4 
+EMXI 
+8.0 
+12.6 
+17.9 
+20.4 
+21.2 
+21.3 
+26.1 
+34.4 
+HCCA 
+4.1 
+4.3 
+6.2 
+6.9 
+9.2 
+13.2 
+15.6 
+6.0 
+FSSE 
+4.6 
+6.7 
+9.1 
+9.2 
+8.9 
+11.0 
+13.2 
+13.1 
+GDMI 
+5.7 
+9.3 
+12.4 
+13.7 
+12.5 
+8.7 
+6.8 
+12.0 
+Forecasts 
+20 
+18 
+16 
+14 
+12 
+11 
+11 
+7 
+ 
+=== page 11 ===
+Hurricane Narda     11 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Narda, 21–28 September 2025. 
+=== page 12 ===
+Hurricane Narda     12 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Narda, 21–28 
+September 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 13 ===
+Hurricane Narda     13 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Narda, 21–28 September 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 14 ===
+Hurricane Narda     14 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Narda for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

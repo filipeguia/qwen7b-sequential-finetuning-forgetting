@@ -1,0 +1,1003 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM DEXTER 
+ 
+(AL042025) 
+ 
+3–6 August 2025 
+ 
+Andrew B. Hagen 
+National Hurricane Center 
+23 October 2025 
+ 
+GOES-EAST INFRARED SATELLITE IMAGE OF TROPICAL STORM DEXTER AT 0330 UTC 4 AUGUST 2025.  
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Dexter was a tropical storm over the western Atlantic that did not affect land. 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Dexter. 
+=== page 2 ===
+Tropical Storm Dexter     2 
+ 
+Tropical Storm Dexter 
+ 
+3-6 AUGUST 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Tropical Storm Dexter are listed in Table 1. 
+The best track chart of Dexter’s path is given in Fig. 1, with the wind and pressure histories along 
+with available observations3 shown in Figs. 2 and 3, respectively. 
+There were no ship reports of winds of tropical storm force associated with Dexter.  
+However, two NOAA buoys both recorded peak sustained winds of 31 kt near the system on          
+3 August and were helpful in the analysis of the best track. 
+Origin 
+Dexter originated from a stationary front over the western Atlantic near the southeast coast 
+of the United States.  A non-tropical low formed along the front around 1800 UTC 2 August 
+offshore of the Carolinas, and ASCAT data that evening confirmed that the low-level wind 
+circulation had become well defined.  The portion of the front that extended to the west-southwest 
+of the low dissipated during the morning of 3 August as gale-force winds developed in the 
+southeast quadrant.  Early that afternoon, convection quickly became better organized while the 
+front that extended to the east-northeast of the low weakened.  It is estimated that the cyclone 
+shed this front and became Tropical Storm Dexter around 1800 UTC 3 August about 325 n mi 
+west-northwest of Bermuda. 
+Peak Intensity and Minimum Pressure 
+Dexter’s 50-kt peak intensity while it was a tropical cyclone occurred from 1200–1800 UTC 
+6 August and is supported by ADT, AiDT, DPRINT and SATCON intensity estimates from the 
+University of Wisconsin-CIMSS, all of which peaked in the 50–55-kt range.  At the same time, 
+subjective Dvorak estimates from TAFB and SAB peaked at T 3.0/45 kt. 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison (CIMSS). Data and imagery from 
+NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global 
+Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the 
+Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of 
+Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among 
+others, were also useful in constructing the best track of Dexter. 
+=== page 3 ===
+Tropical Storm Dexter     3 
+ 
+After becoming extratropical at 0000 UTC 7 August, Dexter briefly strengthened into a 
+hurricane-force extratropical cyclone early on 8 August when it was located about 410 n mi 
+southeast of St. John’s, Newfoundland. 
+The lowest minimum central pressure attained by Dexter while it was a tropical cyclone is 
+estimated to be 999 mb, based on the Knaff-Zehr-Courtney (KZC) pressure-wind relationship. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Dexter. 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category.  The genesis of Dexter was not well 
+anticipated.  NHC first indicated a low (<40%) chance of genesis in the TWO 30 h prior to 
+formation and raised the formation chances to medium 12 h prior to development.  The majority 
+of the global models depicted a weak, elongated low along a frontal boundary during their runs 
+between 29 July and 1 August.  On 2 August, the GFS started to consistently depict a more 
+compact low in the surface fields with less frontal interaction, while the ECMWF did not show this 
+until its 0000 UTC 3 August run, after the frontal low had already formed.  Figure 4 shows 
+composites of 7-day TWO genesis areas for each category prior to the formation of Dexter.  All 
+of the TWO ellipses correctly encompassed the location where genesis occurred. 
+A verification of NHC official track forecasts for Dexter is given in Table 3a.  Official track 
+forecast errors were lower than the mean official errors for the previous 5-yr period at all time 
+periods.  The NHC track errors were exceptionally low from 12–48 h, when the average track 
+error for Dexter was less than half of the 5-yr means.  A homogeneous comparison of the official 
+track errors with selected guidance models is given in Table 3b.  The official forecast generally 
+outperformed all available model guidance.  The HMNI and CTCI were strong performers. 
+A verification of NHC official intensity forecasts for Dexter is given in Table 4a.  Official 
+intensity forecast errors were comparable to the mean official errors for the previous 5-yr period 
+for the 12–36 h forecasts, and outperformed the 5-yr means at 48–60 h.  A homogeneous 
+comparison of the official intensity errors with selected guidance models is given in Table 4b.  
+Much of the guidance performed well, with HMNI and HFAI performing the best. 
+There were no coastal watches or warnings issued for Dexter. 
+ 
+=== page 4 ===
+Tropical Storm Dexter     4 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Philippe Papin of NHC provided the genesis figure (Fig. 4). 
+ 
+ 
+=== page 5 ===
+Tropical Storm Dexter     5 
+ 
+Table 1. 
+Best track for Tropical Storm Dexter, 3–6 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+02 / 1800 
+33.2 
+75.6 
+1013 
+30 
+extratropical 
+03 / 0000 
+32.9 
+74.6 
+1011 
+35 
+"  
+03 / 0600 
+33.1 
+73.5 
+1010 
+35 
+"  
+03 / 1200 
+33.4 
+72.2 
+1008 
+35 
+"  
+03 / 1800 
+33.7 
+71.0 
+1007 
+35 
+tropical storm 
+04 / 0000 
+34.0 
+69.9 
+1003 
+40 
+" 
+04 / 0600 
+34.4 
+68.8 
+1003 
+40 
+" 
+04 / 1200 
+35.0 
+67.9 
+1004 
+40 
+" 
+04 / 1800 
+35.7 
+66.9 
+1005 
+40 
+" 
+05 / 0000 
+36.4 
+65.9 
+1005 
+40 
+" 
+05 / 0600 
+37.0 
+64.9 
+1008 
+35 
+" 
+05 / 1200 
+37.7 
+63.9 
+1009 
+35 
+" 
+05 / 1800 
+38.2 
+62.8 
+1009 
+35 
+" 
+06 / 0000 
+38.8 
+61.8 
+1006 
+40 
+" 
+06 / 0600 
+39.3 
+60.5 
+1003 
+45 
+" 
+06 / 1200 
+39.6 
+59.0 
+999 
+50 
+" 
+06 / 1800 
+39.8 
+57.2 
+999 
+50 
+" 
+07 / 0000 
+39.9 
+55.2 
+999 
+50 
+extratropical 
+07 / 0600 
+40.4 
+53.2 
+998 
+55 
+" 
+07 / 1200 
+40.9 
+51.3 
+997 
+60 
+" 
+07 / 1800 
+41.4 
+48.9 
+996 
+60 
+" 
+08 / 0000 
+42.3 
+46.5 
+994 
+65 
+" 
+08 / 0600 
+43.6 
+45.0 
+989 
+70 
+" 
+08 / 1200 
+44.7 
+43.5 
+988 
+70 
+" 
+=== page 6 ===
+Tropical Storm Dexter     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+08 / 1800 
+45.2 
+41.6 
+991 
+60 
+" 
+09 / 0000 
+45.4 
+39.2 
+994 
+50 
+" 
+09 / 0600 
+45.7 
+36.7 
+997 
+45 
+" 
+09 / 1200 
+45.9 
+34.1 
+1000 
+40 
+" 
+09 / 1800 
+46.4 
+31.5 
+1002 
+35 
+" 
+10 / 0000 
+46.9 
+29.4 
+1004 
+30 
+" 
+10 / 0600 
+47.3 
+27.5 
+1005 
+30 
+" 
+10 / 1200 
+47.6 
+25.9 
+1007 
+30 
+" 
+10 / 1800 
+47.9 
+24.5 
+1008 
+30 
+" 
+11 / 0000 
+48.1 
+23.1 
+1008 
+30 
+" 
+11 / 0600 
+48.3 
+21.8 
+1008 
+30 
+" 
+11 / 1200 
+48.5 
+20.5 
+1009 
+25 
+" 
+11 / 1800 
+48.6 
+19.3 
+1009 
+25 
+" 
+12 / 0000 
+48.7 
+18.1 
+1009 
+25 
+" 
+12 / 0600 
+48.6 
+17.0 
+1008 
+25 
+" 
+12 / 1200 
+48.5 
+16.0 
+1008 
+25 
+" 
+12 / 1800 
+48.7 
+14.8 
+1008 
+25 
+" 
+13 / 0000 
+49.0 
+13.6 
+1008 
+25 
+" 
+13 / 0600 
+49.4 
+12.2 
+1008 
+25 
+" 
+13 / 1200 
+ 
+ 
+ 
+ 
+dissipated 
+06 / 1200 
+39.6 
+59.0 
+999 
+50 
+minimum pressure 
+and maximum winds 
+as a tropical cyclone 
+ 
+ 
+=== page 7 ===
+Tropical Storm Dexter     7 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+30 
+30 
+Medium (40%-60%) 
+12 
+12 
+High (>60%) 
+0 
+0 
+ 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Dexter, 3–6 August 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+14.0 
+17.1 
+24.3 
+26.7 
+56.0 
+ 
+ 
+ 
+OCD5 
+29.9 
+59.8 
+82.8 
+69.3 
+67.6 
+ 
+ 
+ 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+=== page 8 ===
+Tropical Storm Dexter     8 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Dexter, 3–6 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 3a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+14.1 
+14.8 
+20.8 
+13.3 
+ 
+ 
+ 
+ 
+OCD5 
+26.4 
+54.6 
+74.1 
+28.2 
+ 
+ 
+ 
+ 
+GFSI 
+29.8 
+75.8 
+132.6 
+192.7 
+ 
+ 
+ 
+ 
+HWFI 
+29.3 
+56.4 
+87.0 
+79.3 
+ 
+ 
+ 
+ 
+HMNI 
+10.7 
+15.8 
+24.7 
+36.7 
+ 
+ 
+ 
+ 
+HFAI 
+26.4 
+57.4 
+99.2 
+111.9 
+ 
+ 
+ 
+ 
+HFBI 
+28.0 
+64.0 
+104.3 
+157.3 
+ 
+ 
+ 
+ 
+GDMI 
+24.2 
+59.9 
+107.8 
+140.4 
+ 
+ 
+ 
+ 
+EMXI 
+14.8 
+23.1 
+33.9 
+75.4 
+ 
+ 
+ 
+ 
+NVGI 
+22.6 
+65.7 
+111.6 
+200.6 
+ 
+ 
+ 
+ 
+CTCI 
+13.5 
+19.0 
+22.7 
+10.2 
+ 
+ 
+ 
+ 
+TVCA 
+15.1 
+30.1 
+52.0 
+74.5 
+ 
+ 
+ 
+ 
+TVCX 
+14.8 
+28.2 
+49.0 
+69.1 
+ 
+ 
+ 
+ 
+GFEX 
+18.4 
+42.1 
+76.8 
+132.3 
+ 
+ 
+ 
+ 
+TVDG 
+15.3 
+30.1 
+53.0 
+74.5 
+ 
+ 
+ 
+ 
+HCCA 
+13.0 
+21.2 
+31.8 
+72.5 
+ 
+ 
+ 
+ 
+FSSE 
+11.7 
+21.9 
+30.6 
+70.4 
+ 
+ 
+ 
+ 
+AEMI 
+37.4 
+87.3 
+155.5 
+234.1 
+ 
+ 
+ 
+ 
+TABS 
+51.7 
+130.2 
+238.9 
+366.8 
+ 
+ 
+ 
+ 
+TABM 
+14.5 
+34.8 
+53.0 
+65.4 
+ 
+ 
+ 
+ 
+TABD 
+49.6 
+124.5 
+175.9 
+200.1 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Tropical Storm Dexter     9 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Dexter, 3–6 August 2025. Mean errors for 
+the previous 5-yr period are shown for comparison. Official errors that are smaller 
+than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.0 
+7.5 
+8.3 
+5.0 
+5.0 
+ 
+ 
+ 
+OCD5 
+5.2 
+9.4 
+9.5 
+7.5 
+9.0 
+ 
+ 
+ 
+Forecasts 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Dexter     10 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Dexter, 3–6 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 4a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+6.2 
+7.5 
+7.5 
+7.5 
+ 
+ 
+ 
+ 
+OCD5 
+5.2 
+8.7 
+5.2 
+1.5 
+ 
+ 
+ 
+ 
+HWFI 
+5.8 
+6.2 
+9.5 
+10.0 
+ 
+ 
+ 
+ 
+HMNI 
+4.2 
+4.0 
+3.0 
+4.5 
+ 
+ 
+ 
+ 
+HFAI 
+2.5 
+4.2 
+3.2 
+4.5 
+ 
+ 
+ 
+ 
+HFBI 
+4.1 
+5.8 
+6.0 
+9.0 
+ 
+ 
+ 
+ 
+GDMI 
+5.2 
+7.2 
+5.8 
+8.0 
+ 
+ 
+ 
+ 
+DSHP 
+5.4 
+6.8 
+7.2 
+13.5 
+ 
+ 
+ 
+ 
+LGEM 
+6.6 
+10.3 
+13.8 
+18.0 
+ 
+ 
+ 
+ 
+ICON 
+4.9 
+6.2 
+7.8 
+11.5 
+ 
+ 
+ 
+ 
+IVCN 
+4.2 
+5.5 
+5.0 
+7.5 
+ 
+ 
+ 
+ 
+IVDR 
+4.2 
+5.5 
+4.5 
+6.5 
+ 
+ 
+ 
+ 
+CTCI 
+5.4 
+8.0 
+4.2 
+3.5 
+ 
+ 
+ 
+ 
+GFSI 
+7.0 
+9.8 
+12.8 
+17.5 
+ 
+ 
+ 
+ 
+EMXI 
+5.9 
+8.0 
+4.0 
+5.0 
+ 
+ 
+ 
+ 
+HCCA 
+4.5 
+5.3 
+3.5 
+7.0 
+ 
+ 
+ 
+ 
+FSSE 
+4.1 
+5.2 
+5.5 
+11.0 
+ 
+ 
+ 
+ 
+Forecasts 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Tropical Storm Dexter     11 
+ 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Dexter, 3–6 August 2025. The track during the extratropical stage is partially based on 
+analyses from the NOAA Ocean Prediction Center. 
+=== page 12 ===
+Tropical Storm Dexter     12 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Dexter, 3–6 August 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 13 ===
+Tropical Storm Dexter     13 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve Tropical Storm Dexter, 3–6 August 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 14 ===
+Tropical Storm Dexter     14 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Tropical Storm Dexter for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, 
+and (d) high (>60%) category. The location of genesis is indicated by the black star. 

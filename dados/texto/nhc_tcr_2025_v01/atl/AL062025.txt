@@ -1,0 +1,857 @@
+=== page 1 ===
+ 
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM FERNAND 
+ 
+(AL062025) 
+ 
+23–27 August 2025 
+ 
+Lisa R. Bucci 
+National Hurricane Center 
+13 November 2025 
+ 
+ 
+GOES-19 GEOCOLOR SATELLITE IMAGE OF TROPICAL STORM FERNAND AT 1200 UTC 25 AUGUST. ​
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+Fernand was a tropical storm over the western Atlantic that did not affect land. 
+ 
+  
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Fernand. 
+=== page 2 ===
+Tropical Storm Fernand     2 
+ 
+Tropical Storm Fernand 
+23–27 August 2025​
+ 
+​
+BEST TRACK 
+​
+​
+The “best track2” positions and intensities for Tropical Storm Fernand are listed in Table 
+1. The “best track” chart of Fernand’s path is given in Fig. 1, with the wind and pressure 
+histories along with available observations3 shown in Figs. 2 and 3, respectively. Observations 
+also include flight-level measurements from 1 flight of the 53rd Weather Reconnaissance 
+Squadron of the U.S. Air Force Reserve Command. 
+​
+There were no ship reports of winds of tropical storm force associated with Fernand. 
+Origin 
+Fernand developed from a portion of a tropical wave that moved off the west coast of 
+Africa on 14–15 August.  The wave moved westward across the tropical Atlantic Ocean for 7 
+days.  A few hundred miles east of the Lesser Antilles on 21–22 August, the northern portion of 
+the wave turned northwestward to northward and became more convectively organized.  Around 
+1800 UTC 23 August, Air Force Hurricane Hunter aircraft data indicated that the system had a 
+well-defined circulation marking the formation of a tropical storm located about 465 n mi 
+south-southeast of Bermuda. 
+Peak Intensity and Minimum Pressure 
+Fernand’s peak intensity of 50 kt is supported by an ASCAT pass from 1343 UTC 25 
+August that had a peak vector of 48 kt.  The minimum central pressure of 999 mb is primarily 
+based on the Knaff-Zehr-Courtney pressure-wind relationship.  ​
+ 
+ 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced 
+Dvorak Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative 
+Institute for Meteorological Satellite Studies/University of Wisconsin-Madison.  Data and imagery from 
+NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA 
+Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), 
+the Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of 
+Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among 
+others, were also useful in constructing the best track of Fernand. 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while 
+previous years’ data are located in the archive directory. 
+=== page 3 ===
+Tropical Storm Fernand     3 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+​
+There were no reports of damage or casualties associated with Fernand. 
+​
+FORECAST AND WARNING VERIFICATION​
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category.  The formation of Fernand was 
+generally well forecast, with the system being introduced into the 7-day TWO 162 hours before 
+genesis.  Probabilities for the 2-day TWO were introduced 120 hours before development. 
+Figure 4 shows composites of 7-day TWO genesis areas for each category prior to the 
+formation of Fernand.  The initial genesis areas did not encompass the ultimate formation 
+location.  Instead they highlighted the area east of the northern Leeward Islands, suggesting 
+early model guidance and official forecasts expected Fernand to form earlier than it did.  Once 
+the probabilities were raised to the high category (>60%) in the 7-day TWO 66 hours before 
+development, the genesis areas consistently encompassed the formation location. 
+A verification of NHC official track forecasts for Fernand is given in Table 3a. Official 
+track forecast errors were significantly greater than the mean official errors for the previous 5-yr 
+period.  The NHC errors were also greater than the climatology/persistence model (OCD5) for 
+the 36–72 hour forecast periods, indicating that the official prediction lacked skill during that time 
+period. The main factor contributing to the high errors was a noticeable northward bias of the 
+official track prediction (not shown). A homogeneous comparison of the official track errors with 
+selected guidance models is given in Table 3b.  Many of the various individual models and 
+consensus aids had lower track errors, especially beyond the 24-h mark.  The Google 
+DeepMind ensemble mean (GDMI) had the lowest error for most of the verifying forecast hours 
+and was comparable to the best performing aids at 60 and 72 hours.  It should be noted that 
+GDMI was an experimental (non-operational) aid and not always available to the forecasters in 
+real-time. 
+A verification of NHC official intensity forecasts for Fernand is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-yr period. A 
+homogeneous comparison of the official intensity errors with selected guidance models is given 
+in Table 4b.  The official forecast generally had some of the lowest errors compared to the 
+intensity models throughout the forecast period, except for 48 h. 
+There were no coastal watches or warnings issued for Fernand. 
+ 
+=== page 4 ===
+Tropical Storm Fernand     4 
+ 
+Table 1.​
+Best track for Tropical Storm Fernand, 23–27 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind​
+  Speed 
+(kt) 
+Stage 
+23 / 1800 
+26.6 
+ 61.7 
+1010 
+ 35 
+tropical storm     
+24 / 0000 
+28.0 
+ 61.3 
+1009 
+ 35 
+" 
+24 / 0600 
+29.2 
+ 60.9 
+1009 
+ 35 
+" 
+24 / 1200 
+30.3 
+ 60.4 
+1009 
+ 35 
+" 
+24 / 1800 
+31.3 
+ 60.0 
+1006 
+ 40 
+" 
+25 / 0000 
+32.1 
+ 59.6 
+1005 
+ 45 
+" 
+25 / 0600 
+33.0 
+ 59.0 
+1004 
+ 45 
+" 
+25 / 1200 
+33.8 
+ 58.4 
+ 999 
+ 50 
+" 
+25 / 1800 
+34.8 
+ 57.6 
+ 999 
+ 50 
+" 
+26 / 0000 
+35.6 
+ 56.8 
+1002 
+ 45 
+" 
+26 / 0600 
+36.4 
+ 55.9 
+1005 
+ 40 
+" 
+26 / 1200 
+37.3 
+ 55.1 
+1006 
+ 35 
+" 
+26 / 1800 
+37.8 
+ 54.0 
+1004 
+ 35 
+" 
+27 / 0000 
+38.2 
+ 52.7 
+1002 
+ 40 
+" 
+27 / 0600 
+38.3 
+ 51.4 
+1000 
+ 45 
+" 
+27 / 1200 
+38.2 
+ 50.3 
+1000 
+ 45 
+" 
+27 / 1800 
+38.9 
+ 48.4 
+1000 
+ 45 
+low 
+28 / 0000 
+39.7 
+ 46.3 
+1002 
+ 45 
+ "        
+28 / 0600 
+40.6 
+ 44.2 
+1006 
+ 40 
+"   
+28 / 1200 
+41.8 
+ 42.0 
+1007 
+ 35 
+" 
+28 / 1800 
+43.0 
+ 39.1 
+1008 
+ 35 
+" 
+29 / 0000 
+  
+  
+  
+  
+dissipation      
+25 / 1200 
+33.8 
+ 58.4 
+ 999 
+ 50 
+maximum winds 
+and minimum 
+pressure 
+ 
+ 
+=== page 5 ===
+Tropical Storm Fernand     5 
+ 
+Table 2.​
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the 
+timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+120 
+162 
+Medium (40%-60%) 
+54 
+138 
+High (>60%) 
+36 
+66 
+ 
+ 
+=== page 6 ===
+Tropical Storm Fernand     6 
+ 
+Table 3a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Fernand, 23–27 August 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+27.1 
+62.1 
+113.1 
+183.6 
+234.3 
+323.6 
+  
+  
+OCD5 
+34.7 
+65.7 
+84.2 
+95.8 
+111.6 
+123.3 
+  
+  
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+  
+  
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+=== page 7 ===
+Tropical Storm Fernand     7 
+ 
+Table 3b.​
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Fernand, 23–27 August 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 3a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+20.7 
+51.1 
+108.1 
+140.2 
+196.6 
+329.8 
+ 
+ 
+OCD5 
+24.5 
+49.3 
+73.5 
+87.7 
+98.4 
+100.7 
+ 
+ 
+GFSI 
+33.0 
+76.3 
+155.8 
+165.4 
+176.3 
+295.3 
+ 
+ 
+HWFI 
+29.1 
+60.7 
+130.1 
+176.2 
+237.4 
+368.6 
+ 
+ 
+HMNI 
+30.7 
+62.7 
+136.7 
+195.5 
+244.8 
+352.6 
+ 
+ 
+HFAI 
+29.5 
+55.5 
+123.8 
+136.7 
+174.4 
+292.9 
+ 
+ 
+HFBI 
+30.2 
+64.9 
+137.8 
+125.1 
+138.1 
+198.5 
+ 
+ 
+EMXI 
+22.4 
+45.1 
+91.3 
+106.2 
+158.4 
+288.2 
+ 
+ 
+CMCI 
+36.9 
+79.5 
+155.0 
+215.7 
+272.8 
+435.4 
+ 
+ 
+CTCI 
+32.5 
+70.4 
+131.1 
+130.0 
+138.7 
+187.8 
+ 
+ 
+TVCN 
+26.2 
+60.6 
+121.8 
+141.7 
+180.6 
+283.5 
+ 
+ 
+TVCX 
+27.7 
+59.4 
+123.7 
+142.6 
+181.8 
+283.5 
+ 
+ 
+GFEX 
+27.0 
+58.9 
+121.8 
+136.9 
+167.5 
+291.5 
+ 
+ 
+TVDG 
+28.3 
+60.5 
+128.0 
+148.2 
+183.9 
+283.5 
+ 
+ 
+HCCA 
+27.0 
+63.4 
+129.1 
+153.0 
+208.7 
+342.6 
+ 
+ 
+FSSE 
+29.4 
+62.3 
+127.2 
+145.0 
+196.3 
+322.1 
+ 
+ 
+AEMI 
+32.6 
+75.4 
+143.7 
+145.9 
+159.9 
+194.3 
+ 
+ 
+GDMI 
+11.2 
+21.5 
+30.2 
+32.8 
+67.2 
+104.2 
+ 
+ 
+TABS 
+23.9 
+53.8 
+98.2 
+116.4 
+153.2 
+257.0 
+ 
+ 
+TABM 
+18.1 
+40.8 
+67.8 
+56.8 
+60.2 
+127.7 
+ 
+ 
+TABD 
+15.1 
+30.2 
+52.9 
+63.7 
+96.8 
+89.6 
+ 
+ 
+Forecasts 
+9 
+8 
+8 
+5 
+3 
+2 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Fernand     8 
+ 
+Table 4a.​
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Fernand, 23–27 August 2025. Mean errors 
+for the previous 5-yr period are shown for comparison. Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+3.6 
+4.2 
+5.5 
+8.8 
+10.0 
+8.8 
+  
+  
+OCD5 
+5.1 
+9.7 
+10.9 
+13.4 
+15.2 
+13.0 
+  
+  
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+  
+  
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+=== page 9 ===
+Tropical Storm Fernand     9 
+ 
+Table 4b.​
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Fernand, 23–27 August 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 4a due to the 
+homogeneity requirement. 
+ 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+2.8 
+2.8 
+5.0 
+8.0 
+8.8 
+6.7 
+ 
+ 
+OCD5 
+5.1 
+9.4 
+11.4 
+14.6 
+14.2 
+10.0 
+ 
+ 
+HWFI 
+4.1 
+6.1 
+7.2 
+1.6 
+6.2 
+7.7 
+ 
+ 
+HMNI 
+4.9 
+4.6 
+5.4 
+4.2 
+10.0 
+15.0 
+ 
+ 
+HFAI 
+4.0 
+3.7 
+6.3 
+3.8 
+9.5 
+8.7 
+ 
+ 
+HFBI 
+5.2 
+4.7 
+3.7 
+6.0 
+9.8 
+9.7 
+ 
+ 
+DSHP 
+4.0 
+4.9 
+4.3 
+3.4 
+7.8 
+5.7 
+ 
+ 
+LGEM 
+4.4 
+6.6 
+6.7 
+2.6 
+5.5 
+10.3 
+ 
+ 
+ICON 
+3.8 
+4.4 
+5.4 
+1.6 
+7.2 
+8.7 
+ 
+ 
+IVCN 
+3.9 
+3.3 
+5.0 
+3.2 
+8.2 
+8.7 
+ 
+ 
+IVDR 
+3.8 
+3.1 
+5.1 
+3.0 
+8.0 
+9.0 
+ 
+ 
+CTCI 
+3.4 
+5.1 
+8.3 
+6.8 
+10.0 
+10.7 
+ 
+ 
+GFSI 
+3.8 
+5.3 
+7.1 
+2.2 
+4.8 
+10.0 
+ 
+ 
+EMXI 
+5.3 
+8.0 
+7.4 
+3.4 
+5.5 
+5.7 
+ 
+ 
+HCCA 
+3.7 
+3.3 
+5.4 
+4.6 
+8.8 
+7.7 
+ 
+ 
+FSSE 
+3.7 
+3.4 
+5.7 
+4.4 
+9.0 
+9.3 
+ 
+ 
+GDMI 
+3.8 
+3.3 
+4.4 
+6.8 
+6.8 
+5.0 
+ 
+ 
+Forecasts 
+9 
+9 
+9 
+5 
+4 
+3 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Tropical Storm Fernand     10 
+ 
+ 
+ 
+Figure 1.​
+Best track positions for Tropical Storm Fernand, 23–27 August 2025. 
+ 
+=== page 11 ===
+Tropical Storm Fernand     11 
+ 
+ 
+Figure 2.​
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Fernand, 23–27 
+August 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 12 ===
+Tropical Storm Fernand     12 
+ 
+ 
+Figure 3.​
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Fernand, 23–27 August 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure 
+estimates derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 13 ===
+Tropical Storm Fernand     13 
+ 
+ 
+Figure 4.​
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Fernand for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star. 

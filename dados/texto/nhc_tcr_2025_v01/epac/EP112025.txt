@@ -1,0 +1,1647 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+HURRICANE KIKO 
+ 
+(EP112025) 
+ 
+31 August – 10 September 2025 
+ 
+John L. Beven II 
+National Hurricane Center 
+20 November 2025 
+ 
+ 
+GOES-18 GEOCOLOR IMAGE OF KIKO NEAR PEAK INTENSITY AT 2350 UTC 3 SEPTEMBER.                              
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+Kiko was a category 4 hurricane (on the Saffir-Simpson Hurricane Wind Scale) over 
+the western part of the eastern Pacific and the central Pacific basin. It later threatened the 
+Hawaiian Islands, but passed north of the islands with little impact. 
+ 
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Kiko. 
+=== page 2 ===
+Hurricane Kiko     2 
+ 
+Hurricane Kiko 
+ 
+31 AUGUST – 10 SEPTEMBER 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities for Hurricane Kiko are listed in Table 1. The best 
+track chart of Kiko’s path is given in Fig. 1, with the wind and pressure histories along with 
+available observations3 shown in Figs. 2 and 3, respectively. Observations also include flight-
+level, stepped frequency microwave radiometer (SFMR), and dropwindsonde observations from 
+five flights of the 53rd Weather Reconnaissance Squadron of the U.S. Air Force Reserve 
+Command. 
+The only observation of tropical-storm force winds during Kiko was from NOAA buoy 
+51000, which reported sustained winds of 37 kt at 1556 UTC 9 September and a peak gust of 41 
+kt as the center of Kiko passed to the southwest. 
+Origin 
+Kiko appears to have developed from a tropical wave that moved westward across 
+Panama and Costa Rica on 22 August. This system moved westward and west-northwestward 
+south of the coast of Mexico for the next several days with little development. Convection 
+associated with the system first showed signs of organization on 29 August, and continued 
+development led to the formation of a tropical depression at 0000 UTC 31 August about 825 n mi 
+southwest of the southern tip of the Baja California Peninsula. 
+Peak Intensity and Minimum Pressure 
+Kiko’s peak intensity of 125 kt early on 4 September is based on a combination of 
+subjective and objective satellite intensity estimates. The minimum central pressure of 945 mb is 
+based on the Knaff-Zehr-Courtney wind-pressure relationship for a storm of Kiko’s size and       
+125-kt peak intensity. 
+ 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Kiko. 
+=== page 3 ===
+Hurricane Kiko     3 
+ 
+While Air Force Reserve Hurricane Hunter aircraft provided data on Kiko, they did not 
+investigate the cyclone until several days after the peak intensity. The maximum 700-mb flight-
+level winds reported by the aircraft were 113 kt at 0601 UTC 7 September, and the minimum 
+pressure reported by a dropwindsonde was 959 mb at 0604 UTC 7 September. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Kiko. 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 provides the number of hours in advance of formation with the first NHC Tropical 
+Weather Outlook (TWO) forecast in each likelihood category. The genesis forecasts for Kiko were 
+generally good, with the main deficiency being that the 2-day forecast genesis probabilities did 
+not reach the high (>60% chance of development) category until 6 h before genesis. Another less 
+skillful portion of the forecast occurred between 18-30 h before genesis, when the probabilities 
+were briefly lowered as the pre-Kiko disturbance appeared to be developing more slowly than 
+anticipated. Figure 4 shows composites of 7-day TWO genesis areas for each category prior to 
+the formation of Kiko. Spatially, the genesis of Kiko was well forecast, with the genesis location 
+being near the center of the genesis forecast areas. 
+A verification of official track forecasts for Kiko while it was located east of 140°W is given 
+in Table 3a. Official track forecast errors were lower than the mean official errors for the previous 
+5-yr period at the forecast times from 12–96 h. The mean official errors were slightly above those 
+for the previous 5-yr period at the 120-h forecast time. A homogeneous comparison of the official 
+track errors with selected guidance models is given in Table 3b. Many of the consensus models 
+(entries TVCE through FSSE in Table 3b) have lower average errors than the official forecasts at 
+most of the forecast times longer than 12 h. The best overall performance among the non-
+consensus models were from the experimental Google DeepMind AI model (GDMI) and the 
+HWRF regional hurricane model (HWFI). Examination of the individual forecasts (not shown) 
+suggests two forecast error issues: 1) The forecasts during the initial westward motion early in 
+the cyclone’s life were too far north, and 2) the forecasts during the west-northwestward motion 
+in the middle part of the cyclone’s life were too far south. 
+A verification of official intensity forecasts for Kiko while it was located east of 140°W is 
+given in Table 4a. Official intensity forecast errors were lower than the mean official errors for the 
+previous 5-yr period for the 24-72 h forecast times, and greater than the 5-yr means at the other 
+times. A homogeneous comparison of the official intensity errors with selected guidance models 
+is given in Table 4b. The official forecast had lower mean errors than the vast majority of the 
+intensity guidance, with only the HFIP Corrected Consensus model (HCCA) systematically having 
+errors less than or close to the official forecasts. Examination of the individual forecasts (not 
+shown) showed two significant error mechanisms. First, Kiko intensified more than forecast during 
+=== page 4 ===
+Hurricane Kiko     4 
+ 
+its rapid intensification to peak intensity.  Second, near the end of the cyclone’s life, Kiko 
+weakened faster than forecast. 
+For the period when Kiko was west of 140°W, a verification of the official track forecasts 
+for Kiko is given in Table 5a. A homogeneous comparison of the official track errors with selected 
+guidance models is given in Table 5b. A verification of the official intensity forecasts for Kiko 
+during this time is given in Table 6a, while a homogeneous comparison of the official intensity 
+errors with selected guidance models is presented in Table 6b. 
+While Kiko passed within 60-70 n mi to the northeast of the western Hawaiian Islands, 
+there were no coastal watches or warnings issued for the cyclone. 
+ 
+IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND 
+PUBLIC COMMUNICATION 
+ 
+The NHC began formal communication with emergency managers on Friday, September 
+5 as Kiko approached the Central Pacific basin. A decision support briefing was provided to 
+emergency managers and coordinated through the FEMA Hurricane Liaison Team embedded at 
+the NHC. The briefing was a federal video-teleconference with FEMA HQ and FEMA Region 9. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Philippe Papin (NHC) created the Graphical Tropical Weather Outlook verification figure, 
+while Michael Spagnola (FEMA) provided the IDSS summary. The Central Pacific Hurricane 
+Center and the Joint Typhoon Warning Center provided their fix information for Kiko. 
+ 
+ 
+=== page 5 ===
+Hurricane Kiko     5 
+ 
+Table 1. 
+Best track for Hurricane Kiko, 31 August–10 September 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+31 / 0000 
+14.4 
+121.1 
+1007 
+30 
+tropical depression 
+31 / 0600 
+14.4 
+121.8 
+1007 
+30 
+" 
+31 / 1200 
+14.4 
+122.6 
+1006 
+35 
+tropical storm 
+31 / 1800 
+14.4 
+123.5 
+1006 
+35 
+" 
+01 / 0000 
+14.3 
+124.3 
+1004 
+40 
+" 
+01 / 0600 
+14.1 
+125.1 
+1004 
+40 
+" 
+01 / 1200 
+13.9 
+125.8 
+1002 
+45 
+" 
+01 / 1800 
+13.8 
+126.4 
+1001 
+55 
+" 
+02 / 0000 
+13.8 
+127.0 
+998 
+55 
+" 
+02 / 0600 
+13.8 
+127.6 
+993 
+65 
+hurricane 
+02 / 1200 
+13.8 
+128.1 
+987 
+75 
+" 
+02 / 1800 
+13.8 
+128.6 
+983 
+80 
+" 
+03 / 0000 
+13.8 
+129.2 
+974 
+90 
+" 
+03 / 0600 
+13.8 
+129.8 
+974 
+90 
+" 
+03 / 1200 
+13.9 
+130.4 
+974 
+90 
+" 
+03 / 1800 
+13.9 
+131.1 
+960 
+110 
+" 
+04 / 0000 
+13.8 
+131.9 
+945 
+125 
+" 
+04 / 0600 
+13.7 
+132.6 
+946 
+125 
+" 
+04 / 1200 
+13.8 
+133.3 
+952 
+115 
+" 
+04 / 1800 
+13.8 
+134.1 
+953 
+115 
+" 
+05 / 0000 
+13.8 
+135.0 
+956 
+110 
+" 
+05 / 0600 
+13.8 
+135.8 
+961 
+105 
+" 
+05 / 1200 
+14.0 
+136.6 
+962 
+100 
+" 
+05 / 1800 
+14.3 
+137.4 
+959 
+105 
+" 
+06 / 0000 
+14.7 
+138.2 
+952 
+115 
+" 
+06 / 0600 
+15.0 
+139.2 
+949 
+120 
+" 
+=== page 6 ===
+Hurricane Kiko     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+06 / 1200 
+15.3 
+140.1 
+953 
+110 
+" 
+06 / 1800 
+15.9 
+140.9 
+954 
+110 
+" 
+07 / 0000 
+16.3 
+141.9 
+951 
+115 
+" 
+07 / 0600 
+16.8 
+142.9 
+956 
+110 
+" 
+07 / 1200 
+17.2 
+143.9 
+962 
+105 
+" 
+07 / 1800 
+17.8 
+145.0 
+972 
+95 
+" 
+08 / 0000 
+18.5 
+146.0 
+974 
+95 
+" 
+08 / 0600 
+19.3 
+147.1 
+980 
+90 
+" 
+08 / 1200 
+20.0 
+148.2 
+981 
+85 
+" 
+08 / 1800 
+20.6 
+149.3 
+990 
+80 
+" 
+09 / 0000 
+21.3 
+150.3 
+995 
+65 
+" 
+09 / 0600 
+21.7 
+151.5 
+1004 
+50 
+tropical storm 
+09 / 1200 
+22.2 
+152.8 
+1006 
+40 
+" 
+09 / 1800 
+22.5 
+154.3 
+1007 
+40 
+" 
+10 / 0000 
+22.7 
+155.7 
+1007 
+35 
+" 
+10 / 0600 
+22.3 
+156.5 
+1007 
+35 
+" 
+10 / 1200 
+22.7 
+157.4 
+1008 
+30 
+remnant low 
+10 / 1800 
+23.4 
+158.4 
+1008 
+30 
+" 
+11 / 0000 
+24.3 
+159.5 
+1009 
+30 
+" 
+11 / 0600 
+ 
+ 
+ 
+ 
+dissipated 
+04 / 0000 
+13.8 
+131.9 
+945 
+125 
+maximum winds and 
+minimum pressure 
+ 
+ 
+ 
+ 
+=== page 7 ===
+Hurricane Kiko     7 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+84 
+126 
+Medium (40%-60%) 
+66 
+90 
+High (>60%) 
+6 
+72 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Kiko     8 
+ 
+Table 3a. 
+Official (OFCL) and climatology-persistence skill baseline (OCD5) track forecast 
+errors (n mi) for Hurricane Kiko, 31 August–10 September 2025 during the time it 
+was east of 140oW. Mean errors for the previous 5-yr period are shown for 
+comparison. Official errors that are smaller than the 5-yr means are shown in 
+boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+11.1 
+19.8 
+30.0 
+43.3 
+56.5 
+70.7 
+98.5 
+141.2 
+OCD5 
+16.0 
+34.9 
+57.2 
+83.4 
+110.7 
+135.9 
+182.8 
+208.6 
+Forecasts 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+21 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+=== page 9 ===
+Hurricane Kiko     9 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Kiko, 31 August–10 September 2025 during the time it was east of 
+140°W. Errors smaller than the official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 3a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+10.7 
+18.4 
+27.2 
+39.7 
+50.7 
+61.0 
+87.6 
+133.3 
+OCD5 
+15.4 
+32.5 
+52.8 
+78.9 
+103.1 
+124.0 
+165.3 
+193.3 
+GFSI 
+13.2 
+20.8 
+28.9 
+40.9 
+50.5 
+63.1 
+101.3 
+144.6 
+HWFI 
+13.6 
+18.8 
+20.7 
+28.5 
+32.1 
+39.0 
+71.7 
+116.2 
+HMNI 
+13.7 
+20.4 
+27.3 
+38.8 
+51.9 
+62.7 
+95.7 
+138.5 
+HFAI 
+13.6 
+21.1 
+29.6 
+46.1 
+62.3 
+75.7 
+118.3 
+155.1 
+HFBI 
+15.2 
+22.9 
+29.9 
+42.3 
+54.8 
+69.5 
+118.5 
+180.9 
+UKMI 
+18.4 
+37.2 
+53.7 
+73.3 
+91.2 
+107.5 
+132.1 
+164.7 
+EMXI 
+15.0 
+23.1 
+34.1 
+50.9 
+69.8 
+85.5 
+108.7 
+141.9 
+CMCI 
+21.5 
+43.6 
+62.1 
+81.2 
+105.4 
+132.3 
+196.6 
+284.6 
+CTCI 
+17.9 
+23.8 
+29.3 
+36.5 
+45.5 
+52.6 
+95.7 
+181.2 
+TVCE 
+12.5 
+18.2 
+24.3 
+33.8 
+39.4 
+45.1 
+69.6 
+107.2 
+TVCX 
+12.2 
+18.1 
+23.7 
+32.5 
+39.1 
+45.1 
+68.5 
+104.8 
+GFEX 
+12.3 
+17.3 
+23.0 
+32.5 
+43.7 
+53.4 
+78.5 
+114.6 
+TVDG 
+12.3 
+18.2 
+24.0 
+34.3 
+39.5 
+44.8 
+67.3 
+102.1 
+HCCA 
+12.1 
+17.5 
+26.3 
+38.8 
+49.4 
+61.1 
+88.9 
+132.4 
+FSSE 
+11.3 
+15.5 
+21.9 
+33.0 
+44.1 
+54.3 
+85.8 
+133.7 
+AEMI 
+13.9 
+19.8 
+25.9 
+36.5 
+49.4 
+67.4 
+113.6 
+192.1 
+GDMI 
+12.4 
+18.7 
+25.0 
+32.3 
+39.9 
+46.2 
+54.9 
+81.6 
+TABS 
+36.0 
+85.3 
+131.8 
+171.5 
+200.9 
+217.2 
+206.9 
+222.1 
+TABM 
+16.3 
+32.3 
+49.8 
+69.1 
+86.3 
+105.2 
+147.0 
+160.9 
+TABD 
+12.0 
+16.5 
+24.0 
+34.2 
+53.0 
+85.0 
+166.9 
+204.7 
+Forecasts 
+21 
+21 
+21 
+21 
+21 
+21 
+21 
+18 
+ 
+ 
+ 
+ 
+=== page 10 ===
+Hurricane Kiko     10 
+ 
+Table 4a. 
+Official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Kiko, 31 August–10 September 2025 during the 
+time it was east of 140°W. Mean errors for the previous 5-yr period are shown for 
+comparison. Official errors that are smaller than the 5-yr means are shown in 
+boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.2 
+8.8 
+10.2 
+11.0 
+11.2 
+15.0 
+19.8 
+21.4 
+OCD5 
+9.6 
+15.6 
+22.6 
+26.4 
+30.0 
+34.1 
+34.9 
+35.8 
+Forecasts 
+25 
+25 
+25 
+25 
+25 
+25 
+25 
+21 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Kiko     11 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Kiko, 31 August–10 September 2025 during the time it was east of 
+140°W. Errors smaller than the official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 4a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.0 
+9.3 
+10.9 
+11.4 
+11.8 
+15.9 
+19.3 
+21.8 
+OCD5 
+9.3 
+14.8 
+22.3 
+25.8 
+30.0 
+34.9 
+35.6 
+35.9 
+HWFI 
+11.1 
+13.9 
+17.0 
+16.6 
+18.9 
+19.9 
+19.7 
+17.8 
+HMNI 
+9.4 
+14.1 
+15.9 
+14.8 
+15.9 
+20.0 
+22.7 
+22.2 
+HFAI 
+8.5 
+15.3 
+17.0 
+15.9 
+15.4 
+17.1 
+17.6 
+18.2 
+HFBI 
+7.8 
+10.5 
+12.0 
+14.5 
+16.1 
+19.4 
+23.8 
+25.0 
+DSHP 
+8.7 
+13.0 
+19.2 
+24.2 
+27.3 
+29.1 
+27.3 
+26.1 
+LGEM 
+7.9 
+14.1 
+21.4 
+26.5 
+30.7 
+32.5 
+30.2 
+27.3 
+ICON 
+8.6 
+12.6 
+16.8 
+19.1 
+22.8 
+25.0 
+24.5 
+23.0 
+IVCN 
+7.7 
+12.2 
+16.5 
+18.4 
+21.6 
+24.1 
+23.9 
+22.3 
+IVDR 
+7.7 
+12.6 
+16.7 
+18.4 
+21.0 
+23.5 
+23.5 
+21.9 
+CTCI 
+8.6 
+15.0 
+22.2 
+27.4 
+32.3 
+37.3 
+39.9 
+39.2 
+GFSI 
+9.6 
+18.5 
+25.6 
+28.6 
+30.6 
+31.3 
+28.4 
+25.9 
+EMXI 
+11.0 
+18.8 
+25.5 
+29.9 
+33.4 
+36.1 
+35.9 
+35.1 
+HCCA 
+6.7 
+9.3 
+11.6 
+11.0 
+11.8 
+14.7 
+19.7 
+21.1 
+FSSE 
+8.0 
+10.9 
+14.8 
+15.0 
+16.9 
+19.6 
+22.4 
+27.1 
+GDMI 
+8.0 
+12.1 
+17.0 
+21.6 
+26.4 
+28.5 
+27.8 
+26.0 
+Forecasts 
+22 
+22 
+22 
+22 
+22 
+22 
+22 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Kiko     12 
+ 
+Table 5a. 
+Official (OFCL) and climatology-persistence skill baseline (OCD5) track forecast 
+errors (n mi) for Hurricane Kiko, 31 August–10 September 2025 during the time it 
+was west of 140°W.  Mean errors for the previous eastern Pacific 5-yr period are 
+shown for comparison. Official errors that are smaller than the 5-yr means are 
+shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+17.0 
+26.3 
+33.8 
+35.6 
+43.6 
+59.0 
+ 
+ 
+OCD5 
+26.7 
+60.8 
+102.4 
+145.5 
+172.6 
+207.7 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+ 
+ 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Kiko     13 
+ 
+Table 5b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Kiko, 31 August–10 September 2025 during the time it was west of 
+140°W. Errors smaller than the official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 5a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+17.0 
+26.3 
+33.8 
+35.6 
+43.6 
+59.0 
+ 
+ 
+OCD5 
+26.7 
+60.8 
+102.4 
+145.5 
+172.6 
+207.7 
+ 
+ 
+GFSI 
+16.9 
+31.1 
+41.7 
+42.1 
+42.6 
+47.9 
+ 
+ 
+HWFI 
+18.9 
+33.8 
+41.5 
+56.9 
+68.1 
+82.6 
+ 
+ 
+HMNI 
+22.0 
+30.4 
+30.0 
+43.2 
+58.1 
+74.0 
+ 
+ 
+HFAI 
+16.8 
+27.4 
+37.9 
+52.3 
+56.6 
+73.4 
+ 
+ 
+HFBI 
+17.3 
+24.5 
+42.5 
+53.7 
+54.5 
+58.2 
+ 
+ 
+UKMI 
+20.6 
+37.5 
+51.4 
+68.0 
+82.2 
+73.8 
+ 
+ 
+EMXI 
+22.4 
+39.1 
+43.2 
+43.2 
+56.2 
+81.9 
+ 
+ 
+CMCI 
+28.9 
+55.5 
+90.8 
+118.7 
+145.6 
+167.1 
+ 
+ 
+CTCI 
+18.0 
+25.7 
+31.8 
+41.5 
+55.4 
+94.6 
+ 
+ 
+TVCE 
+17.2 
+26.5 
+34.8 
+43.9 
+48.5 
+58.5 
+ 
+ 
+TVCX 
+17.2 
+27.7 
+35.8 
+43.6 
+48.8 
+62.2 
+ 
+ 
+GFEX 
+19.2 
+31.5 
+41.7 
+37.2 
+46.5 
+58.2 
+ 
+ 
+TVDG 
+17.7 
+27.2 
+35.1 
+42.9 
+47.3 
+55.2 
+ 
+ 
+HCCA 
+18.5 
+30.7 
+38.6 
+42.2 
+47.6 
+66.0 
+ 
+ 
+FSSE 
+18.7 
+30.4 
+39.3 
+45.1 
+59.5 
+80.1 
+ 
+ 
+AEMI 
+20.1 
+36.1 
+50.5 
+55.0 
+52.6 
+29.2 
+ 
+ 
+GDMI 
+16.5 
+20.1 
+28.1 
+31.9 
+36.9 
+41.4 
+ 
+ 
+TABS 
+26.7 
+56.3 
+87.2 
+104.6 
+108.1 
+97.2 
+ 
+ 
+TABM 
+25.8 
+41.1 
+55.9 
+64.6 
+68.0 
+90.8 
+ 
+ 
+TABD 
+46.3 
+103.6 
+155.1 
+215.4 
+279.8 
+358.5 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+ 
+ 
+=== page 14 ===
+Hurricane Kiko     14 
+ 
+Table 6a. 
+Official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Kiko, 31 August–10 September 2025 during the 
+time it was west of 140°W. Mean errors for the previous eastern Pacific 5-yr period 
+are shown for comparison. Official errors that are smaller than the 5-yr means are 
+shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.7 
+5.4 
+8.5 
+13.8 
+19.2 
+20.0 
+ 
+ 
+OCD5 
+9.1 
+9.8 
+10.8 
+15.9 
+9.3 
+13.0 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+ 
+ 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 15 ===
+Hurricane Kiko     15 
+ 
+Table 6b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Kiko, 31 August–10 September 2025 during the time it was west of 
+140°W. Errors smaller than the official forecast are shown in boldface type. The 
+number of official forecasts shown here will generally be smaller than that shown 
+in Table 6a due to the homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+5.7 
+5.4 
+8.5 
+13.8 
+19.2 
+20.0 
+ 
+ 
+OCD5 
+9.1 
+9.8 
+10.8 
+15.9 
+9.3 
+13.0 
+ 
+ 
+HWFI 
+8.5 
+7.2 
+9.3 
+12.0 
+12.2 
+12.5 
+ 
+ 
+HMNI 
+6.1 
+9.8 
+11.9 
+15.4 
+21.8 
+20.2 
+ 
+ 
+HFAI 
+6.2 
+8.9 
+12.1 
+16.1 
+22.5 
+20.8 
+ 
+ 
+HFBI 
+6.5 
+6.2 
+8.6 
+10.6 
+14.3 
+13.0 
+ 
+ 
+DSHP 
+8.9 
+8.2 
+8.1 
+7.5 
+6.5 
+10.0 
+ 
+ 
+LGEM 
+9.4 
+10.6 
+10.8 
+9.4 
+6.8 
+6.5 
+ 
+ 
+ICON 
+7.4 
+7.7 
+8.5 
+10.6 
+11.3 
+12.8 
+ 
+ 
+IVCN 
+7.1 
+6.8 
+8.3 
+11.5 
+13.7 
+14.5 
+ 
+ 
+IVDR 
+6.7 
+7.2 
+8.8 
+12.0 
+15.2 
+15.8 
+ 
+ 
+CTCI 
+8.4 
+7.7 
+7.5 
+12.0 
+14.0 
+16.5 
+ 
+ 
+GFSI 
+7.3 
+8.9 
+9.6 
+12.8 
+15.5 
+18.2 
+ 
+ 
+EMXI 
+6.9 
+15.3 
+21.6 
+27.2 
+35.2 
+39.2 
+ 
+ 
+HCCA 
+6.5 
+5.0 
+5.9 
+9.9 
+14.8 
+16.8 
+ 
+ 
+FSSE 
+6.9 
+5.8 
+7.7 
+12.2 
+13.8 
+13.0 
+ 
+ 
+GDMI 
+7.7 
+7.3 
+7.4 
+7.8 
+7.2 
+8.0 
+ 
+ 
+Forecasts 
+14 
+12 
+10 
+8 
+6 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 16 ===
+Hurricane Kiko     16 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Kiko, 31 August–10 September 2025.  
+ 
+ 
+ 
+=== page 17 ===
+Hurricane Kiko     17 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Kiko, 31 August–10 
+September 2025. Aircraft observations have been adjusted for elevation using 90% and 80% adjustment factors for 
+observations from 700 mb, and 850 mb, respectively. Dropwindsonde observations include actual 10 m winds (sfc), as well as 
+surface estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique 
+estimates represent the Current Intensity at the nominal observation time. SATCON intensity estimates are from the 
+Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC. 
+=== page 18 ===
+Hurricane Kiko     18 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Kiko, 31 August–10 September 
+2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates 
+derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 19 ===
+Hurricane Kiko     19 
+ 
+ 
+Figure 4. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of Kiko 
+for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high (>60%) 
+category. The location of genesis is indicated by the black star. 
+ 

@@ -1,0 +1,79 @@
+{
+ "args": {
+  "dados": "dados\\treino\\treino_B_v01.jsonl",
+  "saida": "runs\\M2seq_s17_v01",
+  "continuar": "runs\\M1_s17_v01",
+  "replay": null,
+  "novos_por_antigo": 4.0,
+  "semente": 17,
+  "epocas": 8,
+  "lr": 0.0003,
+  "r": 8,
+  "alpha": 16,
+  "max_tokens": 128,
+  "por_microlote": 3,
+  "acumular": 8,
+  "aquecimento": 0.05,
+  "salvar_epocas": ""
+ },
+ "exemplos_novos": 758,
+ "buffer": 0,
+ "tokens_resposta_novos": 11567,
+ "epocas": [
+  {
+   "epoca": 1,
+   "perda_media": 1.1437,
+   "microlotes": 253,
+   "segundos": 302.3
+  },
+  {
+   "epoca": 2,
+   "perda_media": 0.4633,
+   "microlotes": 253,
+   "segundos": 636.2
+  },
+  {
+   "epoca": 3,
+   "perda_media": 0.2125,
+   "microlotes": 253,
+   "segundos": 968.6
+  },
+  {
+   "epoca": 4,
+   "perda_media": 0.0886,
+   "microlotes": 253,
+   "segundos": 1286.7
+  },
+  {
+   "epoca": 5,
+   "perda_media": 0.0457,
+   "microlotes": 253,
+   "segundos": 2504.2
+  },
+  {
+   "epoca": 6,
+   "perda_media": 0.0172,
+   "microlotes": 253,
+   "segundos": 6415.3
+  },
+  {
+   "epoca": 7,
+   "perda_media": 0.0097,
+   "microlotes": 253,
+   "segundos": 6704.6
+  },
+  {
+   "epoca": 8,
+   "perda_media": 0.0043,
+   "microlotes": 253,
+   "segundos": 6987.2
+  }
+ ],
+ "passos_otimizador": 256,
+ "exemplos_vistos": {
+  "novo": 6064,
+  "replay": 0
+ },
+ "segundos_total": 6987.2,
+ "pico_gb": 6.06
+}

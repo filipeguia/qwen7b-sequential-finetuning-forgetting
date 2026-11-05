@@ -1,0 +1,493 @@
+[
+ {
+  "evento": "AL012025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Andrea (AL012025), 23–24 June 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 383,
+  "tokens_aprox": 517,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL022025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Barry (AL022025), 28–30 June 2025",
+  "paragrafos": 14,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1397,
+  "tokens_aprox": 1886,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 0
+ },
+ {
+  "evento": "AL032025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Chantal (AL032025), 4–7 July 2025",
+  "paragrafos": 21,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE",
+   "(IDSS)"
+  ],
+  "palavras": 3084,
+  "tokens_aprox": 4163,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 5
+ },
+ {
+  "evento": "AL042025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Dexter (AL042025), 3–6 August 2025",
+  "paragrafos": 9,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 707,
+  "tokens_aprox": 954,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL052025",
+  "bacia": "atl",
+  "cabecalho": "Hurricane Erin (AL052025), 11–22 August 2025",
+  "paragrafos": 19,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE",
+   "IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND",
+   "PUBLIC COMMUNICATION"
+  ],
+  "palavras": 2508,
+  "tokens_aprox": 3386,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 3
+ },
+ {
+  "evento": "AL062025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Fernand (AL062025), 23–27 August 2025",
+  "paragrafos": 9,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 643,
+  "tokens_aprox": 868,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL072025",
+  "bacia": "atl",
+  "cabecalho": "Hurricane Gabrielle (AL072025), 17–25 September 2025",
+  "paragrafos": 12,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1719,
+  "tokens_aprox": 2321,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL082025",
+  "bacia": "atl",
+  "cabecalho": "Hurricane Humberto (AL082025), 24 September – 1 October 2025",
+  "paragrafos": 12,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1824,
+  "tokens_aprox": 2462,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 3
+ },
+ {
+  "evento": "AL092025",
+  "bacia": "atl",
+  "cabecalho": "Hurricane Imelda (AL092025), 28 September–2 October 2025",
+  "paragrafos": 17,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE",
+   "IMPACT-BASED DECISION SUPPORT SERVICES & PUBLIC",
+   "COMMUNICATION"
+  ],
+  "palavras": 4041,
+  "tokens_aprox": 5455,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 1
+ },
+ {
+  "evento": "AL102025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Jerry (AL102025), 7–11 October 2025",
+  "paragrafos": 14,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE",
+   "IMPACT-BASED DECISION SUPPORT (IDSS)"
+  ],
+  "palavras": 1744,
+  "tokens_aprox": 2354,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL112025",
+  "bacia": "atl",
+  "cabecalho": "Subtropical Storm Karen (AL112025), 9–10 October 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 932,
+  "tokens_aprox": 1258,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL122025",
+  "bacia": "atl",
+  "cabecalho": "Tropical Storm Lorenzo (AL122025), 13–15 October 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 585,
+  "tokens_aprox": 790,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "AL132025",
+  "bacia": "atl",
+  "cabecalho": "Hurricane Melissa (AL132025), 21–31 October 2025",
+  "paragrafos": 31,
+  "secoes": [
+   "IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND PUBLIC",
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE",
+   "IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND",
+   "PUBLIC COMMUNICATION"
+  ],
+  "palavras": 8422,
+  "tokens_aprox": 11370,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 5
+ },
+ {
+  "evento": "EP012025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Alvin (EP012025), 28–31 May 2025",
+  "paragrafos": 10,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 694,
+  "tokens_aprox": 937,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 0
+ },
+ {
+  "evento": "EP022025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Barbara (EP022025), 8–10 June 2025",
+  "paragrafos": 9,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 742,
+  "tokens_aprox": 1002,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP032025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Cosme (EP032025), 8–11 June 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 678,
+  "tokens_aprox": 915,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP042025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Dalila (EP042025), 13–15 June 2025",
+  "paragrafos": 15,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1135,
+  "tokens_aprox": 1532,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 1
+ },
+ {
+  "evento": "EP052025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Erick (EP052025), 17–20 June 2025",
+  "paragrafos": 13,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 2354,
+  "tokens_aprox": 3178,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP062025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Flossie (EP062025), 29 June – 3 July 2025",
+  "paragrafos": 15,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1154,
+  "tokens_aprox": 1558,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 3
+ },
+ {
+  "evento": "EP072025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Gil (EP072025), 31 July – 3 August 2025",
+  "paragrafos": 7,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 448,
+  "tokens_aprox": 605,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP082025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Henriette (EP082025), 4–13 August 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 818,
+  "tokens_aprox": 1104,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 3
+ },
+ {
+  "evento": "EP092025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Ivo (EP092025), 6–11 August 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 740,
+  "tokens_aprox": 999,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP102025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Juliette (EP102025), 24 – 28 August 2025",
+  "paragrafos": 7,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 498,
+  "tokens_aprox": 672,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP112025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Kiko (EP112025), 31 August – 10 September 2025",
+  "paragrafos": 11,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION",
+   "IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND",
+   "PUBLIC COMMUNICATION"
+  ],
+  "palavras": 951,
+  "tokens_aprox": 1284,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP122025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Lorena (EP122025), 2–4 September 2025",
+  "paragrafos": 14,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1698,
+  "tokens_aprox": 2292,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 1
+ },
+ {
+  "evento": "EP132025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Mario (EP132025), 11–16 September 2025",
+  "paragrafos": 13,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 2130,
+  "tokens_aprox": 2876,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 0
+ },
+ {
+  "evento": "EP142025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Narda (EP142025), 21–28 September 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 497,
+  "tokens_aprox": 671,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP152025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Octave (EP152025), 30 September–9 October 2025",
+  "paragrafos": 8,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 825,
+  "tokens_aprox": 1114,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ },
+ {
+  "evento": "EP162025",
+  "bacia": "epac",
+  "cabecalho": "Hurricane Priscilla (EP162025), 4–10 October 2025",
+  "paragrafos": 15,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1427,
+  "tokens_aprox": 1926,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 1
+ },
+ {
+  "evento": "EP172025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Raymond (EP172025), 9–11 October 2025",
+  "paragrafos": 11,
+  "secoes": [
+   "SYNOPTIC HISTORY",
+   "METEOROLOGICAL STATISTICS",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING CRITIQUE"
+  ],
+  "palavras": 1398,
+  "tokens_aprox": 1887,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 0
+ },
+ {
+  "evento": "EP182025",
+  "bacia": "epac",
+  "cabecalho": "Tropical Storm Sonia (EP182025), 24–28 October 2025",
+  "paragrafos": 9,
+  "secoes": [
+   "BEST TRACK",
+   "CASUALTY AND DAMAGE STATISTICS",
+   "FORECAST AND WARNING VERIFICATION"
+  ],
+  "palavras": 525,
+  "tokens_aprox": 709,
+  "cortou_na_tabela_1": true,
+  "rodapes_removidos": 2
+ }
+]

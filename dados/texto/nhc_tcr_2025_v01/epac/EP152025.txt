@@ -1,0 +1,1069 @@
+=== page 1 ===
+ 
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+HURRICANE OCTAVE 
+ 
+(EP152025) 
+ 
+30 September–9 October 2025 
+ 
+Jon Jelsema 
+National Hurricane Center 
+3 December 2025 
+ 
+ 
+GOES-18 GEOCOLOR IMAGE OF HURRICANE OCTAVE AT 1950 UTC 05 OCTOBER 2025.                                    
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+Octave was a category 1 hurricane (on the Saffir-Simpson Hurricane Wind Scale) 
+that remained away from land over the central portion of the eastern Pacific. 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Octave. 
+=== page 2 ===
+Hurricane Octave     2 
+ 
+Hurricane Octave 
+ 
+30 SEPTEMBER–9 OCTOBER 2025 
+ 
+BEST TRACK 
+ 
+Hurricane Octave took a rather unusual track across the eastern Pacific as the cyclone 
+was highly influenced by two other tropical cyclones, Hurricane Priscilla and Tropical Storm 
+Raymond (Fig. 1).  After tracking steadily west-northwestward for several days, Octave made an 
+abrupt U-turn on 5 October.  The cyclone was steered eastward beginning that day by an 
+approaching upper-level trough to the northwest along with the breakdown of a subtropical ridge 
+to the east of the cyclone, caused by the large circulation of Hurricane Priscilla.  Octave was then 
+influenced by the circulations of both Priscilla and Raymond during the next several days, as it 
+tracked generally eastward and eventually dissipated by 10 October.  The “best track2” positions 
+and intensities for Hurricane Octave are listed in Table 1. The best track chart of Octave’s path is 
+given in Fig. 2, with the wind and pressure histories along with available observations3 shown in 
+Figs. 3 and 4, respectively.   
+There were no surface observations of winds of tropical storm force associated with 
+Octave. 
+Origin 
+The origin of Octave can be traced to a convective complex that developed over the higher 
+terrain of the far northern portion of South America on 16–17 September, fueled by an influx of 
+deeper moisture feeding in off the tropical Atlantic from the east. The disturbance moved 
+westward across Venezuela and Colombia between 17 and 19 September before emerging off 
+the Colombian coast on 20 September. The disturbance then crossed Panama and Costa Rica 
+on 21–22 September and moved offshore of Central America by 23 September. The disturbance 
+continued steadily west-southwestward over the following several days, and a small area of low 
+pressure developed several hundred miles off the southwestern coast of Mexico on 29 
+September.  Convection gradually increased and became better organized, and the system 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) and the Satellite Analysis Branch (SAB), objective Advanced Dvorak 
+Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative Institute 
+for Meteorological Satellite Studies/University of Wisconsin-Madison. Data and imagery from NOAA polar-
+orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the NASA Global Precipitation 
+Mission (GPM), the European Space Agency’s Advanced Scatterometer (ASCAT), the Defense 
+Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation 
+structure and storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were 
+also useful in constructing the best track of Octave. 
+=== page 3 ===
+Hurricane Octave     3 
+ 
+became a tropical depression by 0000 UTC 30 September, about 825 n mi south of the southern 
+tip of the Baja California Peninsula. 
+Peak Intensity and Minimum Pressure 
+Octave’s peak intensity of 80 kt is based on a subjective Dvorak current intensity estimate 
+of T4.5 from SAB, as well as objective intensity estimates from UW-CIMSS that ranged from 75 
+to 79 kt at 0000 UTC 6 October.  An internal subjective Dvorak analysis using the eye pattern 
+technique yielded a data T-number of 5.0 for roughly half of the 10-minute GOES-18 satellite 
+images between 2100 UTC  5 October and 0000 UTC 6 October.  All of these data were 
+considered when assigning the peak intensity for Octave.  A 0209 UTC 6 October Radarsat 
+Constellation Mission-2 (RCM-2) Synthetic Aperture Radar (SAR) pass indicated a well-defined 
+structure to the cyclone, with peak winds in the northwest quadrant of Octave’s circulation (Fig.5). 
+The estimated minimum central pressure of 980 mb is based on the Knaff-Zehr-Courtney 
+pressure-wind relationship for a storm of Octave’s intensity and size. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Octave. 
+FORECAST AND WARNING VERIFICATION 
+ 
+The genesis forecasts for Octave’s formation were poor, likely a result of the global models 
+struggling to resolve what would eventually be three tropical cyclones in close proximity to each 
+other off the western coast of Mexico (Fig. 1).  The disturbance from which Octave developed 
+was first highlighted in the Tropical Weather Outlook (TWO) 60 h prior to formation (Table 2).  The 
+7-day genesis probability was raised to the medium category 42 h before formation and to the 
+high category 30 h in advance.  Two-day genesis forecasts were a little better; low probabilities 
+were introduced 60 h prior to formation, medium probabilities 30 h prior, and high probabilities 18 
+h before development occurred.   
+Octave’s genesis location was on the south side of all genesis formation regions.  
+However, the system formed within each of the genesis forecast areas depicted in NHC’s 
+Graphical TWO, resulting in a 100% hit rate (Fig. 6). 
+A verification of NHC official track forecasts for Octave is given in Table 3a. Official track 
+forecast errors were lower than the 5-year means at all forecast intervals.  A homogeneous 
+comparison of the official track errors with selected guidance models is given in Table 3b.  The 
+official track forecasts outperformed nearly all guidance from 12 h through 72 h.  Several models 
+outperformed the official track forecasts at 96 h and 120 h.  Notably, the Google DeepMind 
+Ensemble Mean (GDMI) outperformed the official track forecasts at all forecast hours, except the 
+12-h interval.   
+=== page 4 ===
+Hurricane Octave     4 
+ 
+A verification of NHC official intensity forecasts for Octave is given in Table 4a. Official 
+intensity forecast errors were lower than the mean official errors for the previous 5-year period at 
+all forecast intervals. A homogeneous comparison of the official intensity errors with selected 
+guidance models is given in Table 4b.  The official intensity forecasts outperformed nearly all of 
+the intensity guidance.  The exception again was the GDMI, which outperformed the official 
+intensity forecasts at many forecast intervals.   
+There were no coastal watches or warnings issued for Octave. 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Dr. Philippe Papin (NHC) created the GTWO verification graphic (Figure 6). 
+ 
+ 
+=== page 5 ===
+Hurricane Octave     5 
+ 
+Table 1. 
+Best track for Hurricane Octave, 30 September – 9 October 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+29 / 1800 
+9.3 
+112.2 
+1008 
+30 
+low 
+30 / 0000 
+9.3 
+112.4 
+1008 
+30 
+tropical depression 
+30 / 0600 
+9.3 
+112.9 
+1007 
+30 
+" 
+30 / 1200 
+9.5 
+113.3 
+1005 
+35 
+tropical storm 
+30 / 1800 
+9.9 
+113.8 
+1005 
+35 
+" 
+01 / 0000 
+10.3 
+114.3 
+1003 
+40 
+" 
+01 / 0600 
+10.9 
+114.8 
+1002 
+45 
+" 
+01 / 1200 
+11.4 
+115.4 
+1000 
+50 
+" 
+01 / 1800 
+11.7 
+115.9 
+1000 
+50 
+" 
+02 / 0000 
+11.9 
+116.6 
+999 
+55 
+" 
+02 / 0600 
+12.0 
+117.4 
+999 
+55 
+" 
+02 / 1200 
+12.3 
+118.0 
+999 
+55 
+" 
+02 / 1800 
+12.6 
+118.7 
+999 
+55 
+" 
+03 / 0000 
+12.9 
+119.2 
+1001 
+50 
+" 
+03 / 0600 
+13.1 
+119.9 
+1003 
+45 
+" 
+03 / 1200 
+13.2 
+120.8 
+1003 
+45 
+" 
+03 / 1800 
+13.3 
+121.6 
+1001 
+50 
+" 
+04 / 0000 
+13.6 
+122.3 
+1001 
+50 
+" 
+04 / 0600 
+13.9 
+122.9 
+1001 
+50 
+" 
+04 / 1200 
+14.3 
+123.5 
+999 
+55 
+" 
+04 / 1800 
+14.7 
+123.9 
+999 
+55 
+" 
+05 / 0000 
+15.0 
+124.1 
+996 
+60 
+" 
+05 / 0600 
+15.4 
+124.2 
+992 
+65 
+hurricane 
+05 / 1200 
+15.6 
+123.9 
+987 
+70 
+" 
+05 / 1800 
+15.9 
+123.5 
+984 
+75 
+" 
+06 / 0000 
+16.2 
+123.1 
+980 
+80 
+" 
+=== page 6 ===
+Hurricane Octave     6 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind Speed 
+(kt) 
+Stage 
+06 / 0600 
+16.3 
+122.5 
+984 
+75 
+" 
+06 / 1200 
+16.3 
+121.9 
+993 
+60 
+tropical storm 
+06 / 1800 
+16.2 
+121.3 
+999 
+50 
+" 
+07 / 0000 
+15.9 
+120.7 
+1001 
+45 
+" 
+07 / 0600 
+15.8 
+120.2 
+1001 
+45 
+" 
+07 / 1200 
+15.7 
+119.7 
+1001 
+45 
+" 
+07 / 1800 
+15.5 
+119.2 
+1001 
+45 
+" 
+08 / 0000 
+15.3 
+118.5 
+1003 
+40 
+" 
+08 / 0600 
+15.2 
+117.8 
+1003 
+40 
+" 
+08 / 1200 
+15.2 
+116.9 
+1003 
+40 
+" 
+08 / 1800 
+15.5 
+115.8 
+1003 
+40 
+" 
+09 / 0000 
+15.9 
+114.0 
+1003 
+40 
+" 
+09 / 0600 
+16.6 
+112.4 
+1005 
+35 
+" 
+09 / 1200 
+17.6 
+111.0 
+1007 
+30 
+low 
+09 / 1800 
+18.0 
+109.6 
+1007 
+30 
+" 
+10 / 0000 
+- 
+- 
+- 
+- 
+dissipated 
+06 / 0000 
+16.2 
+123.1 
+980 
+80 
+maximum wind and 
+minimum pressure 
+ 
+ 
+ 
+=== page 7 ===
+Hurricane Octave     7 
+ 
+Table 2. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+60 
+60 
+Medium (40%-60%) 
+30 
+42 
+High (>60%) 
+18 
+30 
+ 
+ 
+ 
+=== page 8 ===
+Hurricane Octave     8 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Octave, 30 September – 9 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+17.4 
+27.6 
+38.6 
+47.3 
+53.2 
+62.2 
+97.6 
+108.4 
+OCD5 
+35.9 
+81.5 
+132.6 
+195.0 
+271.8 
+358.5 
+509.4 
+624.1 
+Forecasts 
+35 
+33 
+31 
+29 
+27 
+25 
+21 
+17 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 9 ===
+Hurricane Octave     9 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Octave, 30 September – 9 October 2025. Errors smaller than the 
+NHC official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 3a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.4 
+23.1 
+30.8 
+37.8 
+44.7 
+53.6 
+86.3 
+110.8 
+OCD5 
+38.2 
+93.0 
+158.0 
+243.6 
+339.8 
+443.4 
+619.3 
+735.0 
+GFSI 
+19.4 
+29.1 
+35.7 
+45.3 
+56.5 
+62.0 
+65.0 
+81.5 
+HWFI 
+23.0 
+37.5 
+59.0 
+90.3 
+137.0 
+183.7 
+228.5 
+244.3 
+HMNI 
+21.4 
+40.0 
+60.9 
+88.5 
+123.9 
+163.2 
+252.9 
+273.5 
+HFAI 
+20.7 
+34.9 
+51.9 
+75.6 
+99.4 
+123.4 
+151.1 
+179.1 
+HFBI 
+21.7 
+37.4 
+56.0 
+73.7 
+92.9 
+112.8 
+138.7 
+150.4 
+EMXI 
+17.5 
+27.9 
+34.4 
+39.8 
+54.3 
+64.4 
+85.1 
+96.4 
+CMCI 
+21.1 
+32.5 
+41.3 
+50.6 
+57.5 
+59.9 
+71.0 
+114.7 
+CTCI 
+20.2 
+35.0 
+57.3 
+85.8 
+112.3 
+129.2 
+169.7 
+243.2 
+TVCE 
+17.0 
+27.3 
+40.8 
+59.3 
+80.7 
+101.6 
+136.2 
+159.4 
+TVCX 
+17.2 
+26.6 
+39.6 
+56.3 
+76.7 
+97.0 
+128.3 
+147.3 
+TVDG 
+17.3 
+25.8 
+36.1 
+50.9 
+69.1 
+86.9 
+118.6 
+140.8 
+GFEX 
+16.6 
+25.8 
+31.7 
+38.5 
+48.7 
+56.3 
+65.0 
+59.4 
+HCCA 
+17.2 
+27.2 
+35.0 
+44.3 
+50.0 
+55.9 
+67.7 
+83.1 
+FSSE 
+16.9 
+27.0 
+33.1 
+41.6 
+46.2 
+55.5 
+73.2 
+89.4 
+AEMI 
+22.0 
+32.0 
+40.2 
+50.6 
+65.9 
+82.3 
+121.7 
+141.1 
+GDMI 
+17.6 
+21.1 
+23.4 
+31.7 
+36.6 
+40.1 
+53.2 
+84.9 
+TABS 
+29.6 
+58.9 
+91.9 
+113.2 
+118.9 
+122.0 
+142.2 
+188.2 
+TABM 
+24.4 
+42.4 
+53.7 
+64.7 
+81.9 
+103.9 
+131.1 
+122.7 
+TABD 
+32.2 
+67.5 
+96.9 
+119.9 
+141.5 
+167.4 
+192.2 
+147.1 
+Forecasts 
+27 
+26 
+24 
+22 
+20 
+18 
+14 
+10 
+=== page 10 ===
+Hurricane Octave     10 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) Hurricane Octave, 30 September – 9 October 2025. Mean 
+errors for the previous 5-yr period are shown for comparison. Official errors that 
+are smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.0 
+7.7 
+8.7 
+9.3 
+8.1 
+6.0 
+7.6 
+9.1 
+OCD5 
+5.7 
+9.6 
+12.2 
+15.0 
+15.2 
+15.6 
+10.8 
+11.5 
+Forecasts 
+35 
+33 
+31 
+29 
+27 
+25 
+21 
+17 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 11 ===
+Hurricane Octave     11 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Octave, 30 September – 9 October 2025. Errors smaller than the 
+NHC official forecast are shown in boldface type. The number of official forecasts 
+shown here will generally be smaller than that shown in Table 4a due to the 
+homogeneity requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.1 
+7.9 
+9.0 
+9.8 
+8.2 
+5.6 
+7.5 
+7.5 
+OCD5 
+6.2 
+10.9 
+14.0 
+16.7 
+15.6 
+15.0 
+10.4 
+11.2 
+HWFI 
+8.7 
+11.5 
+13.1 
+14.6 
+16.2 
+13.5 
+11.4 
+8.7 
+HMNI 
+6.4 
+9.6 
+11.8 
+12.4 
+12.3 
+10.8 
+11.2 
+18.2 
+HFAI 
+7.1 
+9.5 
+13.1 
+13.7 
+16.2 
+17.3 
+11.1 
+7.0 
+HFBI 
+7.3 
+9.5 
+11.8 
+12.6 
+11.6 
+10.8 
+9.5 
+8.2 
+DSHP 
+5.8 
+9.0 
+11.1 
+11.6 
+10.7 
+9.2 
+13.1 
+11.4 
+LGEM 
+6.1 
+10.0 
+12.7 
+13.6 
+12.8 
+10.7 
+14.4 
+12.2 
+ICON 
+5.4 
+8.3 
+10.3 
+11.6 
+12.3 
+9.8 
+10.6 
+11.6 
+IVCN 
+5.1 
+8.0 
+10.2 
+10.6 
+11.1 
+8.8 
+8.9 
+10.3 
+IVDR 
+5.2 
+8.1 
+10.5 
+10.8 
+11.2 
+9.6 
+8.5 
+9.6 
+CTCI 
+3.8 
+6.5 
+9.5 
+11.2 
+11.2 
+12.1 
+18.6 
+20.0 
+GFSI 
+5.7 
+8.2 
+9.9 
+10.9 
+11.1 
+10.3 
+8.4 
+11.6 
+EMXI 
+6.2 
+10.2 
+12.8 
+14.3 
+14.6 
+14.4 
+19.9 
+20.6 
+HCCA 
+4.7 
+8.2 
+10.7 
+11.8 
+13.8 
+12.4 
+7.7 
+8.5 
+FSSE 
+5.0 
+7.9 
+10.4 
+10.2 
+10.1 
+8.1 
+12.5 
+15.6 
+CMCI 
+6.0 
+9.8 
+13.3 
+15.0 
+15.2 
+14.1 
+13.0 
+12.4 
+AEMI 
+6.7 
+9.9 
+12.0 
+13.5 
+14.4 
+13.7 
+14.5 
+12.4 
+GDMI 
+4.4 
+5.7 
+5.2 
+5.8 
+5.9 
+4.9 
+7.8 
+8.8 
+Forecasts 
+27 
+26 
+24 
+22 
+20 
+18 
+14 
+10 
+ 
+ 
+=== page 12 ===
+Hurricane Octave     12 
+ 
+ 
+Figure 1. 
+GOES-18 Geocolor image at 1800 UTC 9 October, showing Tropical Storm Priscilla, Tropical Storm Raymond, and the remnant 
+low of former Hurricane Octave.  Image courtesy of NOAA/NESDIS/STAR. 
+Tropical Storm 
+Priscilla 
+Tropical Storm 
+Ramond 
+Remnant Low of 
+Octave 
+=== page 13 ===
+Hurricane Octave     13 
+ 
+ 
+Figure 2. 
+Best track positions for Hurricane Octave, 30 September – 9 October 2025.  
+=== page 14 ===
+Hurricane Octave     14 
+ 
+ 
+Figure 3. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Octave, 30 September 
+– 9 October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines 
+correspond to 0000 UTC. 
+=== page 15 ===
+Hurricane Octave     15 
+ 
+ 
+Figure 4. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Octave, 30 September – 9 
+October 2025. Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. 
+SATCON intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure 
+estimates derived using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC. 
+=== page 16 ===
+Hurricane Octave     16 
+ 
+ 
+Figure 5. 
+RCM-2 SAR microwave satellite image of Hurricane Octave 0229 UTC 6 October.  Note:  The validation of wind estimates from 
+this instrument is still being examined, and the data were only used qualitatively when estimating Octave’s peak intensity. 
+=== page 17 ===
+Hurricane Octave     17 
+ 
+ 
+Figure 6. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Hurricane Octave, 30 September – 9 October 2025 for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) 
+medium (40–60%) category, and (d) high (>60%) category. The location of genesis is indicated by the black star. 

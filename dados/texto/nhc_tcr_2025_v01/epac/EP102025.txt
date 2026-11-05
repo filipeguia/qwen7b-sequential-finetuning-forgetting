@@ -1,0 +1,707 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT1 
+ 
+ 
+TROPICAL STORM JULIETTE 
+ 
+(EP102025) 
+ 
+24 – 28 August 2025 
+ 
+John P. Cangialosi 
+National Hurricane Center 
+15 September 2025 
+ 
+GOES-18 VISIBLE SATELLITE IMAGE OF TROPICAL STORM JULIETTE AT 1520 UTC 26 AUGUST.                                                
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+Juliette was a tropical storm that remained over the open waters of the eastern North 
+Pacific Ocean. 
+                                                
+1 This is an abbreviated Tropical Cyclone Report since there were no coastal watches or warnings issued 
+and no direct fatalities reported in association with Juliette. 
+=== page 2 ===
+Tropical Storm Juliette     2 
+ 
+Tropical Storm Juliette 
+ 
+24 – 28 AUGUST 2025 
+ 
+BEST TRACK 
+ 
+The “best track2” positions and intensities are listed in Table 1.  The best track chart of 
+Juliette’s path is given in Fig. 1, with the wind and pressure histories along with available 
+observations3 shown in Figs. 2 and 3, respectively. 
+A station on Clarion Island reported a sustained wind of 37 kt with a gust to 46 kt at 1130 
+UTC 26 August when Juliette passed the island.   
+Origin 
+Juliette formed around 1800 UTC 24 August about 450 n mi south of the southern tip of 
+the Baja California peninsula.  Juliette appears to have formed from the combination of a tropical 
+wave that crossed Central America on 19 and 20 August and a disturbance in the monsoon 
+trough. 
+Peak Intensity and Minimum Pressure 
+Juliette’s peak intensity of 60 kt at 0600 and 1200 UTC 26 August is based on a blend of 
+the satellite intensity estimates from TAFB, SAB, and UW-CIMSS.  The minimum central pressure 
+of 994 mb is primarily based on the Knaff-Zehr-Courtney pressure-wind relationship. 
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+  
+There were no reports of damage or casualties associated with Juliette. 
+                                                
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+3 Observations include subjective satellite-based Dvorak technique intensity estimates from the Tropical 
+Analysis and Forecast Branch (TAFB) ) and the Satellite Analysis Branch (SAB), objective Advanced 
+Dvorak Technique (ADT) estimates and Satellite Consensus (SATCON) estimates from the Cooperative 
+Institute for Meteorological Satellite Studies/University of Wisconsin-Madison (UW-CIMSS).  Data and 
+imagery from NOAA polar-orbiting satellites including the Advanced Microwave Sounding Unit (AMSU), the 
+NASA Global Precipitation Mission (GPM), the European Space Agency’s Advanced Scatterometer 
+(ASCAT), and Defense Meteorological Satellite Program (DMSP) satellites, and the Time-Resolved 
+Observations of Precipitation structure and storm Intensity with a Constellation of Smallsats (TROPICS) 
+satellites,  among others, were also useful in constructing the best track of Juliette. 
+=== page 3 ===
+Tropical Storm Juliette     3 
+ 
+FORECAST AND WARNING VERIFICATION 
+ 
+Table 2 lists the number of hours prior to formation corresponding to the first issuance of 
+an NHC Tropical Weather Outlook (TWO) forecast in each likelihood category.  The formation of 
+Juliette was reasonably well anticipated, but the system formed sooner than expected.  The 
+precursor disturbance was first highlighted in the 7-day TWO with a low probability of formation 
+90 h before development.  The likelihood was subsequently raised to the medium category 72 h 
+in advance and to the high category 36 h prior to genesis.  Lead times for the 2-day outlooks 
+showed good reliability in the low and medium categories.   A low chance of development was 
+first indicated 48 h before formation, increasing to the medium category 30 h in advance.  
+However, probabilities never reached the high category prior to genesis.  Figure 4 shows 
+composites of the 7-day TWO genesis areas for each likelihood category leading up to the 
+formation of Juliette.  Juliette formed near the middle of the predicted genesis region highlighted 
+in the TWO. 
+A verification of NHC official track and intensity forecasts for Juliette are given in Table 3a 
+and 4a, respectively.  A homogeneous comparison of the official track and intensity errors with 
+selected guidance models are given in Table 3b and 4b, respectively.  The mean official track 
+forecast errors for Juliette were close to average, a little above the 5-yr means from 12 to 48 h 
+and a little below the means at 60 and 72 h.  HFBI and HCCA were generally the best track 
+models for Juliette, beating the official forecasts at most time periods.  The NHC mean official 
+intensity errors for Juliette were quite low, besting the 5-yr means at all verifying times, except   
+24 h.  No intensity model consistently outperformed NHC for Juliette. 
+There were no coastal watches or warnings issued for Juliette. 
+ 
+ 
+=== page 4 ===
+Tropical Storm Juliette     4 
+ 
+Table 1. 
+Best track for Tropical Storm Juliette, 24–28 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+24 / 1800 
+15.7 
+109.3 
+1006 
+30 
+tropical depression 
+25 / 0000 
+16.1 
+110.5 
+1005 
+30 
+" 
+25 / 0600 
+16.5 
+111.6 
+1004 
+35 
+tropical storm 
+25 / 1200 
+16.9 
+112.8 
+1002 
+40 
+" 
+25 / 1800 
+17.3 
+113.9 
+999 
+50 
+" 
+26 / 0000 
+17.7 
+114.9 
+997 
+55 
+" 
+26 / 0600 
+18.2 
+115.6 
+995 
+60 
+" 
+26 / 1200 
+18.7 
+116.2 
+994 
+60 
+" 
+26 / 1800 
+19.4 
+116.9 
+996 
+55 
+" 
+27 / 0000 
+20.4 
+117.8 
+997 
+55 
+" 
+27 / 0600 
+21.4 
+118.6 
+999 
+50 
+" 
+27 / 1200 
+22.5 
+119.3 
+1002 
+45 
+" 
+27 / 1800 
+23.5 
+120.0 
+1005 
+40 
+" 
+28 / 0000 
+24.4 
+120.6 
+1006 
+40 
+" 
+28 / 0600 
+25.1 
+120.7 
+1007 
+35 
+low 
+28 / 1200 
+25.5 
+120.7 
+1007 
+30 
+" 
+28 / 1800 
+25.8 
+120.8 
+1008 
+30 
+" 
+29 / 0000 
+25.9 
+121.1 
+1009 
+25 
+" 
+29 / 0600 
+25.9 
+121.4 
+1010 
+25 
+" 
+29 / 1200 
+25.8 
+121.8 
+1011 
+20 
+" 
+29 / 1800 
+25.6 
+122.2 
+1012 
+20 
+" 
+30 / 0000 
+25.3 
+122.7 
+1013 
+15 
+" 
+30 / 0600 
+ 
+ 
+ 
+ 
+dissipated 
+26 / 1200 
+18.7 
+116.2 
+994 
+60 
+maximum wind and 
+minimum pressure 
+ 
+ 
+ 
+ 
+=== page 5 ===
+Tropical Storm Juliette     5 
+ 
+Table 2. 
+Number of hours in advance of formation of Juliette associated with the first NHC 
+Tropical Weather Outlook forecast in the indicated likelihood category.  Note that 
+the timings for the “Low” category do not include forecasts of a 0% chance of 
+genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+48 
+90 
+Medium (40%-60%) 
+30 
+72 
+High (>60%) 
+- 
+36 
+ 
+ 
+ 
+Table 3a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Tropical Storm Juliette, 24–28 August 2025.  Mean errors 
+for the previous 5-yr period are shown for comparison.  Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+23.2 
+38.1 
+50.8 
+54.0 
+63.9 
+76.4 
+ 
+ 
+OCD5 
+40.4 
+86.0 
+132.3 
+172.9 
+205.1 
+242.0 
+ 
+ 
+Forecasts 
+12 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+OFCL (2020-24) 
+22.4 
+33.6 
+43.5 
+53.2 
+65.1 
+79.4 
+108.6 
+135.2 
+OCD5 (2020-24) 
+38.2 
+75.3 
+117.2 
+161.0 
+206.0 
+252.0 
+340.7 
+422.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 6 ===
+Tropical Storm Juliette     6 
+ 
+Table 3b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Tropical Storm Juliette, 24–28 August 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+23.2 
+38.1 
+50.8 
+54.0 
+63.9 
+76.4 
+ 
+ 
+OCD5 
+40.4 
+86.0 
+132.3 
+172.9 
+205.1 
+242.0 
+ 
+ 
+GFSI 
+22.0 
+34.2 
+55.7 
+89.6 
+131.5 
+155.6 
+ 
+ 
+EMXI 
+24.1 
+44.8 
+68.9 
+72.2 
+78.4 
+69.6 
+ 
+ 
+HWFI 
+21.7 
+28.4 
+44.4 
+64.3 
+93.5 
+92.8 
+ 
+ 
+HMNI 
+23.1 
+33.8 
+39.3 
+52.5 
+84.6 
+109.8 
+ 
+ 
+HFAI 
+22.0 
+34.8 
+41.8 
+49.8 
+78.2 
+89.3 
+ 
+ 
+HFBI 
+24.1 
+36.6 
+39.3 
+45.6 
+61.7 
+68.1 
+ 
+ 
+HCCA 
+20.9 
+30.4 
+38.8 
+49.7 
+52.6 
+58.3 
+ 
+ 
+TVCE 
+20.2 
+31.1 
+37.9 
+51.8 
+73.6 
+84.2 
+ 
+ 
+AEMI 
+22.6 
+31.4 
+40.9 
+65.6 
+108.5 
+133.9 
+ 
+ 
+Forecasts 
+12 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+Table 4a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Tropical Storm Juliette, 24–28 August 2025.  Mean errors 
+for the previous 5-yr period are shown for comparison.  Official errors that are 
+smaller than the 5-yr means are shown in boldface type. 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.2 
+10.0 
+9.4 
+8.3 
+2.5 
+0.0 
+ 
+ 
+OCD5 
+4.6 
+11.9 
+14.2 
+11.0 
+11.2 
+16.0 
+ 
+ 
+Forecasts 
+12 
+10 
+8 
+6 
+4 
+2 
+0 
+0 
+OFCL (2020-24) 
+5.7 
+8.9 
+10.8 
+12.9 
+14.4 
+15.5 
+17.0 
+18.6 
+OCD5 (2020-24) 
+7.4 
+12.4 
+16.2 
+19.2 
+21.0 
+21.3 
+21.5 
+21.6 
+ 
+ 
+ 
+=== page 7 ===
+Tropical Storm Juliette     7 
+ 
+ 
+Table 4b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Tropical Storm Juliette, 24–28 August 2025. Errors smaller than the NHC 
+official forecast are shown in boldface type.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+4.2 
+10.0 
+9.4 
+8.3 
+2.5 
+0.0 
+ 
+ 
+OCD5 
+4.6 
+11.9 
+14.2 
+11.0 
+11.2 
+16.0 
+ 
+ 
+HWFI 
+7.6 
+10.8 
+12.4 
+7.7 
+2.5 
+9.0 
+ 
+ 
+HMNI 
+4.6 
+10.9 
+12.4 
+6.2 
+5.5 
+8.0 
+ 
+ 
+HFAI 
+5.3 
+10.7 
+10.5 
+7.7 
+8.2 
+8.5 
+ 
+ 
+HFBI 
+3.6 
+10.2 
+10.9 
+7.7 
+5.8 
+2.5 
+ 
+ 
+DSHP 
+4.6 
+10.4 
+12.1 
+10.2 
+9.0 
+12.0 
+ 
+ 
+LGEM 
+4.6 
+10.4 
+12.5 
+11.3 
+7.2 
+9.0 
+ 
+ 
+HCCA 
+3.8 
+9.7 
+11.1 
+8.3 
+4.0 
+1.0 
+ 
+ 
+IVCN 
+4.0 
+9.5 
+10.9 
+7.7 
+2.5 
+2.5 
+ 
+ 
+GFSI 
+6.2 
+12.2 
+14.0 
+10.7 
+7.8 
+6.5 
+ 
+ 
+EMXI 
+7.2 
+13.5 
+14.6 
+12.5 
+11.8 
+15.5 
+ 
+ 
+Forecasts 
+12 
+10 
+8 
+6 
+4 
+2 
+ 
+ 
+ 
+ 
+=== page 8 ===
+Tropical Storm Juliette     8 
+ 
+ 
+Figure 1. 
+Best track positions for Tropical Storm Juliette, 24–28 August 2025. 
+=== page 9 ===
+Tropical Storm Juliette     9 
+ 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Tropical Storm Juliette, 24–28 
+August 2025.  Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time.  SATCON 
+intensity estimates are from the Cooperative Institute for Meteorological Satellite Studies.  Dashed vertical lines correspond to 
+0000 UTC. 
+=== page 10 ===
+Tropical Storm Juliette     10 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Tropical Storm Juliette, 24–28 August 2025.  
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time.  SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies.  KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship.  Dashed vertical lines correspond to 0000 UTC. 
+=== page 11 ===
+Tropical Storm Juliette     11 
+ 
+ 
+Figure 4.  
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of 
+Juliette for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high 
+(>60%) category. The location of genesis is indicated by the black star.   

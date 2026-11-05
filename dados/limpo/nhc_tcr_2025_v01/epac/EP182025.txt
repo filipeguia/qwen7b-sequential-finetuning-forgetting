@@ -1,0 +1,19 @@
+Tropical Storm Sonia (EP182025), 24–28 October 2025
+
+Sonia was a tropical storm that moved over central and western portions of the eastern Pacific basin and did not impact land.
+
+Tropical Storm Sonia 24–28 October 2025
+
+## BEST TRACK
+
+The “best track2” positions and intensities for Tropical Storm Sonia are listed in Table 1. The “best track” chart of Sonia’s path is given in Fig. 1, with the wind and pressure histories along with available observations3 shown in Figs. 2 and 3, respectively.
+
+There were no ship reports of tropical-storm-force winds associated with Sonia. Origin Sonia originated from a tropical wave that moved across Central America on 16–17 October. The wave entered the eastern Pacific basin on 18 October and moved westward at about 10 kt over the next several days while producing disorganized showers and thunderstorms. A surface trough became evident in scatterometer data on 22–23 October, and convection gradually organized along this feature while the low-level circulation became tighter and better defined. It is estimated that a tropical depression formed by 0600 UTC 24 October, about 615 n mi south-southwest of the southern tip of the Baja California peninsula. Peak Intensity and Minimum Pressure Sonia’s peak intensity of 45 kt from 1200 UTC 25 October to 1200 UTC 26 October is supported by T3.0/45-kt Dvorak classifications from TAFB and a blend of UW-CIMSS SATCON, AiDT, and D-MINT estimates that peaked between 44–48 kt during this period. A 0548 UTC 26 October ASCAT-C pass showed peak winds of 41 kt, which also supports a 45-kt intensity estimate after accounting for undersampling due to the coarse resolution of the instrument. The estimated minimum central pressure of 1001 mb is based on pressure estimates from TAFB Dvorak classifications and the Knaff-Zehr-Courtney pressure-wind relationship.
+
+## CASUALTY AND DAMAGE STATISTICS
+
+There were no reports of damage or casualties associated with Sonia.
+
+## FORECAST AND WARNING VERIFICATION
+
+Table 2 provides the number of hours in advance of formation for the first NHC Tropical Weather Outlook (TWO) forecast in each likelihood category. The 7-day NHC genesis forecasts provided sufficient lead times. The 2-day forecasts were not as skillful, as Sonia did not reach the high category before genesis occurred. Figure 4 shows that all of the 7-day TWO genesis areas captured the location where Sonia formed. A verification of NHC official track forecasts for Sonia is given in Table 3a. Official track forecast errors were lower than the mean official errors for the previous 5-yr period at all forecast times. A homogeneous comparison of the official track errors with selected guidance models is given in Table 3b. The NHC forecasts performed very well, beating the individual models at most forecast times and remaining competitive with the consensus aids. A verification of NHC official intensity forecasts for Sonia is given in Table 4a. Official intensity forecast errors were lower than or comparable to the mean official errors for the previous 5-yr period at all forecast times except 36 h. A homogeneous comparison of the official intensity errors with selected guidance models is given in Table 4b. The ECMWF (EMXI) and Google DeepMind (GDMI) were the top performing intensity models. There were no coastal watches or warnings issued for Sonia.

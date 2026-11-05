@@ -1,0 +1,26 @@
+{
+ "atl/dev/principal": {
+  "n": 24,
+  "acertos": 24,
+  "pct": 100.0
+ },
+ "atl/dev/reformulacao": {
+  "n": 24,
+  "acertos": 24,
+  "pct": 100.0
+ },
+ "epac/dev/principal": {
+  "n": 24,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "epac/dev/reformulacao": {
+  "n": 24,
+  "acertos": 0,
+  "pct": 0.0
+ },
+ "_meta": {
+  "corretor": "v05",
+  "mudancas_vs_v03": {}
+ }
+}

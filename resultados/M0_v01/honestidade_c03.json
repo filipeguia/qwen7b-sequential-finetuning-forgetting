@@ -1,0 +1,14 @@
+{
+ "A": {
+  "repete_falso": 14,
+  "nenhum": 9
+ },
+ "total": {
+  "repete_falso": 29,
+  "nenhum": 18
+ },
+ "B": {
+  "nenhum": 9,
+  "repete_falso": 15
+ }
+}

@@ -1,0 +1,3493 @@
+=== page 1 ===
+ 
+NATIONAL HURRICANE CENTER 
+TROPICAL CYCLONE REPORT 
+ 
+ 
+HURRICANE ERIN 
+ 
+(AL052025) 
+ 
+11–22 August 2025 
+ 
+Richard J. Pasch and Aidan D. Mahoney 
+National Hurricane Center 
+30 January 20261 
+ 
+ 
+GOES-19 GEOCOLOR IMAGE OF HURRICANE ERIN NEARING PEAK INTENSITY AT 1430 UTC 16 AUGUST 2025.  
+IMAGE COURTESY OF NOAA/NESDIS/STAR. 
+ 
+Erin was a very large and long-lived Cabo Verde hurricane that reached category 5 
+intensity (on the Saffir-Simpson Hurricane Wind Scale).  It moved on a long parabolic track 
+around the North Atlantic Ocean and produced wave and rip current impacts along a large 
+stretch of the Atlantic coastline, causing 13 direct deaths. 
+ 
+1 Original report dated 16 January 2026.  This version corrects the OFCL (NHC) intensity forecast 
+verification in the Forecast and Warning Critique section and verification tables (6a and 6b) due to an error 
+that was found in the ATCF “a-deck” for Erin.     
+ 
+=== page 2 ===
+Hurricane Erin     2 
+ 
+Hurricane Erin 
+ 
+11–22 AUGUST 2025 
+ 
+SYNOPTIC HISTORY 
+ 
+Erin originated from a tropical wave that moved off the west coast of Africa on 8 August.  
+Over the next couple of days, an area of low pressure associated with the wave moved slowly 
+westward to northwestward from the African coast to the Cabo Verde Islands.  When the system 
+neared the eastern Cabo Verde Islands, a consolidated area of deep convection formed, and the 
+system acquired a sufficiently well-defined circulation to be considered as a tropical depression 
+while located just southwest of the island of Sal around 0000 UTC 11 August.  The system moved 
+slightly north of west and became a tropical storm while making landfall on the island of Santo 
+Antão in the northwestern Cabo Verde Islands by 0600 UTC 11 August.  The “best track” chart of 
+Erin’s path is given in Fig. 1, with the wind and pressure histories shown in Figs. 2 and 3, 
+respectively. The best track positions and intensities are listed in Table 12. 
+After initial slight strengthening to an intensity of near 40 kt, Erin moved westward to west-
+southwestward across the tropical Atlantic from 11 to 13 August with little change in strength, 
+likely due to relatively dry air and marginal sea surface temperatures (SSTs).  A well-defined mid-
+level ridge to the north of the tropical cyclone maintained a mainly westward course during the 
+early part of Erin’s lifetime.  The storm had strengthened only a little until 14 August, when the 
+system’s deep convection increased in coverage and organization.  By 1200 UTC 15 August, Erin 
+intensified into a hurricane while centered about 375 n mi east of the northernmost Leeward 
+Islands.  A slight weakness in the ridge resulted in a turn toward the west-northwest.  Late on the 
+15th and early on the 16th, the hurricane turned back toward the west and, while moving over 
+warmer ocean waters, began to intensify rapidly. Over the 12-hour period from 0600 to 1800 UTC 
+16 August, Erin’s maximum winds increased by 45 kt and its central pressure deepened by             
+4.5 mb per hour.  The hurricane reached a peak intensity of 140 kt, category 5 intensity on the 
+Saffir-Simpson Hurricane Wind Scale, with a minimum central pressure of about 913 mb around 
+1800 UTC that day while its well-defined eye was centered about 80 n mi northeast of Anegada 
+in the northernmost British Virgin Islands.  Around that same time, aircraft observations indicated 
+that Erin developed concentric eyewalls, and the hurricane began to weaken later on the 16th.  
+The outer portions of Erin’s southern circulation swept over the British and U.S. Virgin Islands and 
+Puerto Rico, bringing tropical-storm-force winds to some of those areas.  On 17 August, while 
+passing a little over 100 n mi north of Puerto Rico, the system turned toward the west-northwest 
+as it headed for a weakness in the subtropical ridge.  The eye became less defined on satellite 
+images, and Erin’s maximum winds decreased to near 110 kt.  The hurricane turned 
+northwestward on 18 August, and its eye became better defined.  Reports from Hurricane Hunter 
+ 
+2 A digital record of the complete best track, including wind radii, can be found on line at 
+ftp://ftp.nhc.noaa.gov/atcf. Data for the current year’s storms are located in the btk directory, while previous 
+years’ data are located in the archive directory. 
+=== page 3 ===
+Hurricane Erin     3 
+ 
+aircraft indicated that the system had re-strengthened to a second peak intensity of near 120 kt 
+around 1200 UTC 18 August, while centered about 90 n mi north-northeast of Grand Turk.  The 
+weakening and re-strengthening of the hurricane from 16 to 18 August coincided quite well with 
+the dissipation of the inner eyewall and subsequent eyewall replacement during that period, as 
+illustrated in Fig. 4.   Erin caused some gusty winds over the Turks and Caicos Islands and 
+portions of the southeastern Bahamas on 18–19 August. 
+ 
+After reaching its second peak in intensity, Erin turned north-northwestward, moving along 
+the western periphery of a mid-tropospheric subtropical anticyclone. The hurricane weakened on 
+19 August due to increased westerly vertical wind shear, which resulted in the system’s cloud 
+pattern becoming more asymmetric.   Erin’s maximum winds decreased to near 85 kt by              
+1200 UTC that day.  However, the shear soon diminished, the cloud pattern became more 
+symmetric, and the hurricane strengthened again.  Erin reached a third intensity peak of 95 kt by 
+1200 UTC 20 August while it was centered about midway between the Florida peninsula and 
+Bermuda, while its circulation continued to expand.  Hurricane Hunter observations indicated that 
+the strongest winds were now located well east of the center.  Erin turned northward while 
+continuing to move on the western side of the anticyclone.  The system then turned north-
+northeastward and northeastward with a gradual increase in forward speed on 21 August, passing 
+about 175 n mi southeast of Cape Hatteras around 0600 UTC that day.  The outer portion of Erin’s 
+western circulation brought tropical storm conditions to parts of the North Carolina and mid-
+Atlantic coastline.  The cyclone weakened very slowly and accelerated northeastward to east-
+northeastward as it neared the mid-latitude westerlies.  On 22 August, the system’s cloud pattern 
+took on a frontal appearance, and Erin became a hurricane-force extratropical cyclone around 
+1800 UTC that day.  From 23 to 24 August, the system moved even faster toward the northeast 
+over the northern Atlantic while maintaining its hurricane-force intensity.  Later on the 24th and on 
+25-26 August, the cyclone moved much more slowly while making a counterclockwise loop a few 
+hundred miles south of Iceland while weakening.  The system merged with another extratropical 
+low between Iceland and Ireland on 27 August. 
+ 
+METEOROLOGICAL STATISTICS 
+ 
+Observations in Erin (Figs. 2 and 3) include subjective satellite-based Dvorak technique 
+intensity estimates from the Tropical Analysis and Forecast Branch (TAFB) and the Satellite 
+Analysis Branch (SAB), objective Advanced Dvorak Technique (ADT) estimates and Satellite 
+Consensus (SATCON) estimates from the Cooperative Institute for Meteorological Satellite 
+Studies/University 
+of 
+Wisconsin-Madison. 
+Observations 
+also 
+include 
+flight-level 
+and 
+dropwindsonde observations from flights of the 53rd Weather Reconnaissance Squadron of the 
+U.S. Air Force Reserve Command (AFRES) and NOAA.  Figure 5 displays the aircraft missions 
+into Erin.   There were 24 aircraft missions tasked for Erin, 15 for AFRES and 9 for NOAA including 
+4 synoptic surveillance missions.  Additionally, there were 4 research missions conducted by 
+NOAA aircraft.  Data and imagery from NOAA polar-orbiting satellites including the Advanced 
+Microwave Sounding Unit (AMSU), the NASA Global Precipitation Mission (GPM), the European 
+Space Agency’s Advanced Scatterometer (ASCAT), the Defense Meteorological Satellite 
+Program (DMSP) satellites, and the Time-Resolved Observations of Precipitation structure and 
+=== page 4 ===
+Hurricane Erin     4 
+ 
+storm Intensity with a Constellation of Smallsats (TROPICS) satellites, among others, were also 
+useful in constructing the best track of Erin. 
+Erin’s wind field expanded considerably during its trek over the Atlantic, particularly after 
+the cyclone moved into the subtropics.   Erin’s size ranged from the 92nd to the 95th percentile of 
+all hurricanes on record in the Atlantic basin north of 20°N latitude. 
+ Figure 6 shows the evolution of the tropical-storm-force wind field during the lifetime of 
+Erin.  Remarkably, in spite of its huge size, only the outer fringes of Erin’s circulation passed over 
+a few land locations after the system departed the Cabo Verde Islands. 
+Ship reports of winds of tropical storm force associated with Erin are given in Table 2, and 
+selected surface observations from land stations and data buoys are given in Table 3.  The highest 
+wind report from a land station was a sustained 53-kt wind with a gust to 64 kt from Anegada, the 
+northernmost of the British Virgin Islands. 
+ 
+Winds and Pressure 
+ 
+Erin’s peak intensity of 140 kt at 1800 UTC 16 August is based on a maximum 700 mb 
+flight-level wind of 154 kt from the AFRES at 1639 UTC 16 August.  There was a surface (10 m) 
+wind of 179 kt measured by a NOAA dropsonde at around 1403 UTC on the 16th, but this was 
+apparently a gust since the low-level averaged wind from that drop corresponded to a sustained 
+surface wind of around 129 kt.  Erin’s minimum central pressure of 913 mb is based on an AFRES 
+dropsonde measurement in the eye of 919 mb around the same time with a surface wind of                 
+59 kt.   
+Tropical-storm-force winds, either sustained or in gusts, were observed over portions of 
+the British and U.S. Virgin Islands, in some locations along the North Carolina, Virginia, Maryland, 
+Delaware, and New Jersey coasts, and on Bermuda.    
+Rainfall and Flooding 
+ 
+Two locations on São Vicente in the Cabo Verde Islands, Calhau and Mindelo, 
+measured rainfall totals of 287 mm (11.30 in) and 224 mm (8.82 in) respectively from 0100 to 
+0800 UTC on 11 August.  These rains caused significant freshwater flooding and the drowning 
+deaths of 7 people on São Vicente.  Rainfall totals of over 10 inches were observed in the British 
+Virgin Islands (Table 3) with lesser amounts across the other islands of the northeastern 
+Caribbean. Widespread flooding was reported across the British Virgin Islands.  Significant 
+impacts included extensive landslides and considerable damage to the road network on Virgin 
+Gorda. While no lives were lost, ten residents sought shelter in Anegada. 
+Storm Surge 
+Erin produced minor storm surge flooding accompanied by damaging waves along the 
+Outer Banks of North Carolina, the shores of the lower Chesapeake Bay, and the Delmarva 
+Peninsula, as well as the shores of the Delaware Bay.  Maximum storm surge inundations of 1 to 
+3 feet above ground level (AGL) were widespread along the coast from North Carolina to New 
+Jersey due to Erin's notably large wave field.  Figure 7 shows the National Ocean Service (NOS) 
+=== page 5 ===
+Hurricane Erin     5 
+ 
+tide station observations along the Mid-Atlantic coast.  The NOS tide gauge in Duck, North 
+Carolina, measured a peak water level of 3.4 ft Mean Higher High Water (MHHW).  Elsewhere, 
+observations peaked at 3.3 ft MHHW in Wachapreague, Virginia, 3.0 ft MHHW in Lewes, 
+Delaware, and 3.0 ft MHHW in Cape May, New Jersey.  
+ 
+CASUALTY AND DAMAGE STATISTICS 
+ 
+Thirteen fatalities are directly attributed to Erin3.  There were seven deaths due to 
+drownings from freshwater flooding reported on São Vicente in the Cabo Verde Islands.  Three 
+persons drowned due to rip currents in Puerto Rico.   A person drowned, presumably due to rip 
+currents, at La Romana in the eastern Dominican Republic.  There was also one rip current 
+drowning at Sailors Haven on Fire Island, New York, and one rip current drowning at Hampton 
+Beach, New Hampshire.   
+On the North Carolina Outer Banks, extremely large surf on top of storm surge breached 
+dune structures in certain vulnerable areas, covering roads with sand and water.  Two structures 
+in Buxton sustained major damage.  There was flooding that caused the closure of North Carolina 
+Highway 12 (which runs along the Outer Banks) at Oregon Inlet.  The total damage estimate was 
+around $3.1 million from North Carolina, mostly in the community of Buxton in Dare County. 
+ 
+Dozens of people had to be rescued from stranded vehicles and restaurants as 
+floodwaters rose in Margate City on the Jersey Shore. 
+ 
+Impacts to Bermuda were minor, with minimal power outages across the island. 
+ 
+FORECAST AND WARNING CRITIQUE 
+ 
+Erin’s genesis was not anticipated very far in advance (Table 4), partly because the system 
+developed very far east in the Atlantic basin.  The wave from which Erin developed was introduced 
+into the Tropical Weather Outlook (TWO) when it was near the west coast of Africa 48 h prior to 
+genesis with a low (<40%) chance for development within 7 days.  The 7-day formation probability 
+was raised to medium (40%-60%) 36 hours prior to the time of genesis and raised to high (>60%) 
+just 18 hours before genesis.  The 2-day formation probability was set to low 30 hours prior to 
+genesis and raised to medium only 10.5 hours before genesis, in a special TWO.  The 2-day 
+formation probability was never raised to high before the system formed.  The location of Erin’s 
+genesis was also not well forecast in the Graphical Tropical Weather Outlooks with the anticipated 
+ 
+3 Deaths occurring as a direct result of the forces of the tropical cyclone are referred to as “direct” deaths. 
+These would include those persons who drowned in storm surge, rough seas, rip currents, and freshwater 
+floods. Direct deaths also include casualties resulting from lightning and wind-related events (e.g., 
+collapsing structures). Deaths occurring from such factors as heart attacks, house fires, electrocutions from 
+downed power lines, vehicle accidents on wet roads, etc., are considered “indirect” deaths. 
+=== page 6 ===
+Hurricane Erin     6 
+ 
+development area over the tropical Atlantic too far to the west of the actual formation point (Fig. 
+8). 
+A verification of NHC official track forecasts for Erin, which were mostly quite good, is 
+given in Table 5a. Official track forecast errors were lower than or comparable to the mean official 
+errors for the previous 5-yr period for all forecast intervals. A homogeneous comparison of the 
+official track errors with selected guidance models is given in Table 5b. The HCCA and Google 
+DeepMind (GDMI) guidance were the best performers.  Most of the official forecasts were along 
+or slightly east of Erin’s observed track (not shown). 
+A verification of NHC official intensity forecasts for Erin is given in Table 6a.  At all forecast 
+periods, the mean official intensity forecast errors were higher than the mean official errors for the 
+previous 5-yr period.  The mean climatology and persistence intensity forecast (OCD5) errors for 
+Erin were comparable to the 5-yr averages.   A homogeneous comparison of the official intensity 
+errors with selected guidance models is given in Table 6b.  For the 24-h through 120-h forecast 
+intervals, the GDMI had the lowest mean errors.  The rapid intensification of Erin on 16 August 
+was not very well predicted in the official forecasts displayed in Fig. 9. 
+ 
+Watches and warnings associated with Erin are listed in Table 7.  Although the hurricane 
+was not expected to make landfall, the proximity of Erin’s large outer wind field prompted the 
+issuance of Tropical Storm Watches and/or Warnings for portions of the Leeward Islands, the 
+Southeast and Central Bahamas, the North Carolina and Virginia coasts, and Bermuda. 
+The NWS issued storm surge watches and warnings for very exposed portions of the 
+North Carolina coast due to the potential for coastal inundation from Erin.  A Storm Surge Watch 
+was first issued at 2100 UTC 18 August from Cape Lookout to Duck, North Carolina. The peak 
+storm surge forecast was 2 to 4 ft AGL.  The area within the Storm Surge Watch was upgraded 
+to a Storm Surge Warning at 1500 UTC 19 August. Due to Erin's proximity to the coast, destructive 
+wave action was forecast to cause significant beach erosion, leading to coastal flooding, rendering 
+roads in the Outer Banks of North Carolina impassable. This prompted evacuation decisions in 
+Dare County, North Carolina.  The NOS observation at Duck, NC, fell within the forecast range. 
+Outside of the Storm Surge Warning area, the peak storm surge forecast was 1 to 3 feet 
+from Cape Fear, North Carolina, to Montauk Point, New York.  Peak water level observations 
+from NOS stations were largely up to 3 ft along the Mid-Atlantic and Northeast coastlines (Fig. 7). 
+ 
+IMPACT-BASED DECISION SUPPORT SERVICES (IDSS) AND 
+PUBLIC COMMUNICATION 
+ 
+ NHC began formal communication with emergency managers on Friday, August 15 as 
+Erin was strengthening east of the Caribbean. Five decision support briefings were provided to 
+emergency managers and coordinated through the FEMA Hurricane Liaison Team embedded at 
+the NHC. The briefings were federal video-teleconferences with FEMA HQ and FEMA Region 2, 
+3, and 4. These briefings continued through Friday, August 21, until Erin started moving away 
+from the United States. 
+=== page 7 ===
+Hurricane Erin     7 
+ 
+ACKNOWLEDGEMENTS 
+ 
+Ester Araújo de Brito provided rainfall data from Cabo Verde. We thank Ian Currie of the 
+Bermuda Weather Service for providing detailed observations recorded on the island.  Lisa Bucci 
+of the NHC produced Figs. 5 and 9, Cassandra Mora of the NHC provided storm surge information 
+and produced Figure 7, and Philippe Papin of the NHC produced Figs. 4 and 8. 
+ 
+ 
+=== page 8 ===
+Hurricane Erin     8 
+ 
+Table 1. 
+Best track for Hurricane Erin, 11–22 August 2025. 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+11 / 0000 
+16.5 
+23.1 
+1007 
+30 
+tropical depression 
+11 / 0600 
+17.2 
+25.2 
+1006 
+35 
+tropical storm 
+11 / 1200 
+17.3 
+27.3 
+1004 
+40 
+" 
+11 / 1800 
+17.4 
+29.3 
+1004 
+40 
+" 
+12 / 0000 
+17.5 
+31.3 
+1004 
+40 
+" 
+12 / 0600 
+17.5 
+33.3 
+1004 
+40 
+" 
+12 / 1200 
+17.3 
+35.4 
+1004 
+40 
+" 
+12 / 1800 
+17.1 
+37.4 
+1004 
+40 
+" 
+13 / 0000 
+16.8 
+39.3 
+1004 
+40 
+" 
+13 / 0600 
+16.6 
+41.0 
+1004 
+40 
+" 
+13 / 1200 
+16.4 
+42.7 
+1002 
+45 
+" 
+13 / 1800 
+16.3 
+44.3 
+1002 
+45 
+" 
+14 / 0000 
+16.3 
+45.9 
+1002 
+45 
+" 
+14 / 0600 
+16.3 
+47.5 
+1002 
+45 
+" 
+14 / 1200 
+16.3 
+48.9 
+999 
+50 
+" 
+14 / 1800 
+16.6 
+50.4 
+998 
+55 
+" 
+15 / 0000 
+16.9 
+51.9 
+997 
+60 
+" 
+15 / 0600 
+17.4 
+53.5 
+997 
+60 
+" 
+15 / 1200 
+18.0 
+55.2 
+996 
+65 
+hurricane 
+15 / 1800 
+18.7 
+56.8 
+993 
+65 
+" 
+16 / 0000 
+19.4 
+58.5 
+981 
+75 
+" 
+16 / 0600 
+19.6 
+60.4 
+967 
+95 
+" 
+=== page 9 ===
+Hurricane Erin     9 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+16 / 1200 
+19.6 
+62.1 
+934 
+130 
+" 
+16 / 1800 
+19.8 
+63.4 
+913 
+140 
+" 
+17 / 0000 
+20.0 
+64.6 
+934 
+125 
+" 
+17 / 0600 
+20.3 
+65.8 
+940 
+110 
+" 
+17 / 1200 
+20.7 
+67.0 
+940 
+110 
+" 
+17 / 1800 
+21.5 
+68.0 
+946 
+110 
+" 
+18 / 0000 
+22.0 
+68.9 
+946 
+110 
+" 
+18 / 0600 
+22.5 
+69.7 
+945 
+115 
+" 
+18 / 1200 
+22.9 
+70.5 
+935 
+120 
+" 
+18 / 1800 
+23.5 
+71.0 
+937 
+115 
+" 
+19 / 0000 
+24.0 
+71.4 
+947 
+100 
+" 
+19 / 0600 
+24.5 
+71.8 
+955 
+90 
+" 
+19 / 1200 
+25.2 
+72.1 
+958 
+85 
+" 
+19 / 1800 
+26.1 
+72.5 
+958 
+85 
+" 
+20 / 0000 
+27.2 
+72.8 
+959 
+85 
+" 
+20 / 0600 
+28.3 
+73.2 
+954 
+90 
+" 
+20 / 1200 
+29.5 
+73.7 
+943 
+95 
+" 
+20 / 1800 
+30.7 
+73.6 
+942 
+95 
+" 
+21 / 0000 
+32.1 
+73.3 
+941 
+95 
+" 
+21 / 0600 
+33.6 
+72.6 
+945 
+90 
+" 
+21 / 1200 
+34.9 
+71.7 
+949 
+90 
+" 
+21 / 1800 
+35.9 
+70.1 
+952 
+85 
+" 
+22 / 0000 
+36.9 
+68.4 
+954 
+85 
+" 
+=== page 10 ===
+Hurricane Erin     10 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+22 / 0600 
+37.9 
+66.5 
+956 
+80 
+" 
+22 / 1200 
+38.5 
+64.6 
+956 
+80 
+" 
+22 / 1800 
+39.4 
+61.4 
+957 
+80 
+extratropical 
+23 / 0000 
+40.4 
+58.1 
+957 
+80 
+" 
+23 / 0600 
+41.3 
+54.7 
+962 
+75 
+" 
+23 / 1200 
+42.0 
+50.5 
+962 
+75 
+" 
+23 / 1800 
+43.0 
+45.0 
+962 
+70 
+" 
+24 / 0000 
+45.5 
+40.5 
+961 
+70 
+" 
+24 / 0600 
+48.0 
+35.3 
+960 
+70 
+" 
+24 / 1200 
+50.8 
+30.9 
+952 
+80 
+" 
+24 / 1800 
+52.6 
+28.2 
+952 
+80 
+" 
+25 / 0000 
+53.7 
+26.4 
+954 
+70 
+" 
+25 / 0600 
+54.9 
+23.9 
+955 
+60 
+" 
+25 / 1200 
+56.1 
+22.1 
+957 
+55 
+" 
+25 / 1800 
+57.3 
+21.3 
+958 
+50 
+" 
+26 / 0000 
+58.3 
+20.9 
+961 
+45 
+" 
+26 / 0600 
+59.3 
+20.6 
+962 
+45 
+" 
+26 / 1200 
+59.9 
+21.6 
+963 
+45 
+" 
+26 / 1800 
+60.3 
+22.5 
+963 
+45 
+" 
+27 / 0000 
+60.0 
+23.3 
+968 
+45 
+" 
+27 / 0600 
+59.3 
+22.7 
+975 
+40 
+" 
+27 / 1200 
+58.6 
+20.9 
+980 
+40 
+" 
+27 / 1800 
+58.0 
+19.0 
+985 
+40 
+" 
+=== page 11 ===
+Hurricane Erin     11 
+ 
+Date/Time 
+(UTC) 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Pressure 
+(mb) 
+Wind 
+Speed (kt) 
+Stage 
+28 / 0000 
+ 
+ 
+ 
+ 
+merged with 
+extratropical low 
+16 / 1800 
+19.8 
+63.4 
+913 
+140 
+Maximum winds and 
+minimum pressure 
+11 / 0600 
+17.2 
+25.2 
+1006 
+35 
+Landfall in Santo 
+Antão, Cabo Verde 
+ 
+ 
+Table 2. 
+Selected ship reports with winds of at least 34 kt for Hurricane Erin, 11–22 
+August 2025. 
+ Date/Time 
+(UTC) 
+Ship call 
+sign 
+Latitude 
+(°N) 
+Longitude 
+(°W) 
+Wind dir/ 
+speed (kt) 
+Pressure 
+(mb) 
+21/1600 
+ATR9M5 
+40.6 
+72.2 
+020 / 40 
+1013.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 12 ===
+Hurricane Erin     12 
+ 
+Table 3. 
+Selected surface observations for Hurricane Erin, 11-22 August 2025. 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+UNITED STATES 
+International Civil Aviation Organization (ICAO) Sites 
+North Carolina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Manteo Airport (KMQI) 
+(35.90N, 75.70W) 
+21/0825 
+1002.4 
+21/1005 
+28 
+38 
+ 
+ 
+ 
+ 
+Billy Mitchell Field (KHSE) 
+(35.22N, 75.62W) 
+21/0751 
+999.5 
+21/0835 
+19 
+37 
+ 
+ 
+ 
+ 
+Beaufort Airport (KMRH) 
+(34.72N, 76.65W) 
+21/0758 
+1002.5 
+21/0910 
+22 
+34 
+ 
+ 
+ 
+ 
+Dare County Gunnery Range 
+(K2DP) 
+(35.67N, 75.90W) 
+21/0755 
+1002.0 
+21/1055 
+23 
+37 
+ 
+ 
+ 
+ 
+Piney Island - BT11 Bombing 
+Range (KNBT) 
+(35.02N, 76.46W) 
+21/0751 
+1002.5 
+21/1128 
+25 
+37 
+ 
+ 
+ 
+ 
+Elizabeth City CGAS (KECG) 
+(36.26N, 76.17W) 
+21/0854 
+1004.2 
+21/1454 
+24 
+35 
+ 
+ 
+ 
+ 
+Virginia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Oceana NAS (KNTU) 
+(36.82N, 76.03W) 
+21/0856 
+1005.7 
+21/1456 
+23 
+38 
+ 
+ 
+ 
+ 
+Norfolk Intl (KORF) 
+(36.90N, 76.19W) 
+21/0851 
+1006.2 
+21/1302 
+24 
+38 
+ 
+ 
+ 
+ 
+Wallops Island NASA Test 
+Facility (KWAL) 
+(37.94N, 75.47W) 
+21/0854 
+1007.7 
+21/1605 
+25 
+38 
+ 
+ 
+ 
+ 
+Maryland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ocean City (KOXB) 
+(38.31N, 75.12W) 
+21/1053 
+1008.6 
+21/1510 
+23 
+39 
+ 
+ 
+ 
+ 
+Puerto Rico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Juan (TJSJ) 
+(18.44N, 66.00W) 
+17/0656 
+1003.7 
+16/2350 
+27 
+39 
+ 
+ 
+ 
+ 
+U.S. Virgin Islands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+St. Thomas (TIST) 
+(18.34N, 64.97W) 
+16/2153 
+1003.2 
+17/0550 
+28 
+50 
+ 
+ 
+ 
+ 
+Public/Other 
+North Carolina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buxton 
+(XBUX; WeatherFlow) 
+(35.26N, 75.52W) 
+21/0801 
+997.2 
+21/1251 
+23 
+(10.4 m) 
+38 
+ 
+ 
+ 
+ 
+Avon-Sound 
+(XAVN; WeatherFlow) 
+(35.37N, 75.51W) 
+21/0826 
+999.8 
+21/0851 
+34 
+(4.6 m) 
+43 
+ 
+ 
+ 
+ 
+=== page 13 ===
+Hurricane Erin     13 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Waves 
+(XWAV; WeatherFlow) 
+(35.57N, 75.47W) 
+21/0844 
+998.5 
+21/1404 
+30 
+(10.7 m) 
+41 
+ 
+ 
+ 
+ 
+Oregon Inlet  
+(XORI; WeatherFlow) 
+(35.80N, 75.55W) 
+21/0811 
+998.9 
+21/0851 
+29 
+(10.4 m) 
+40 
+ 
+ 
+ 
+ 
+Hatteras High 
+(XHAT; WeatherFlow) 
+(35.26N, 75.55W) 
+21/0756 
+997.9 
+21/0516 
+30 
+(10.4 m) 
+42 
+ 
+ 
+ 
+ 
+Croatan Sound 
+(XCTNr; WeatherFlow) 
+(35.87N, 75.66W) 
+21/0820 
+1001 
+21/1230 
+25 
+(7.9 m) 
+40 
+ 
+ 
+ 
+ 
+Real Slick 
+(XSLK; WeatherFlow) 
+(35.57N, 75.49W) 
+21/1452 
+1003.5 
+21/1452 
+32 
+(6.1 m) 
+40 
+ 
+ 
+ 
+ 
+Pamlico Sound 
+(XPM2; WeatherFlow) 
+(35.43N, 75.83W) 
+21/0820 
+999 
+21/0940 
+35 
+(13.1 m) 
+44 
+ 
+ 
+ 
+ 
+Ocracoke Sound 
+(XOCR; WeatherFlow) 
+(35.13N, 76.01W) 
+21/0828 
+1000 
+21/1048 
+32 
+(7.6 m) 
+40 
+ 
+ 
+ 
+ 
+Avon-Ocean 
+(XAVO; WeatherFlow) 
+(35.35N, 75.50W) 
+21/0813 
+999 
+21/0918 
+31 
+(11.9 m) 
+42 
+ 
+ 
+ 
+ 
+Alligator River Bridge 
+(XALI; WeatherFlow) 
+(35.90N, 76.01W) 
+21/0844 
+1003 
+21/0924 
+36 
+(11.6 m) 
+44 
+ 
+ 
+ 
+ 
+Kites Resort 
+(XRTH; WeatherFlow) 
+(35.58N, 75.47W) 
+21/0804 
+998 
+21/1719 
+29 
+(16.1 m) 
+40 
+ 
+ 
+ 
+ 
+Jennette’s Pier 
+(XJNP; WeatherFlow) 
+(35.91N, 75.59W) 
+21/0815 
+1002 
+21/1215 
+40 
+(18.3 m) 
+48 
+ 
+ 
+ 
+ 
+Virginia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sandbridge 
+(XSRB; WeatherFlow) 
+(36.70N, 75.93W) 
+21/0850 
+1005 
+21/1350 
+24 
+(4.6 m) 
+34 
+ 
+ 
+ 
+ 
+New Point Comfort 
+(XNPC; WeatherFlow) 
+(37.33N, 76.27W) 
+21/0941 
+1005.3 
+21/1231 
+28 
+(12.8 m) 
+38 
+ 
+ 
+ 
+ 
+Thimble Shoals 
+(XTHM; WeatherFlow) 
+(37.05N, 76.26W) 
+21/0940 
+1005.5 
+21/1315 
+28 
+(6.1 m) 
+36 
+ 
+ 
+ 
+ 
+Rudee Inlet 
+(XRUD; WeatherFlow) 
+(36.83N, 75.97W) 
+ 
+ 
+21/1112 
+29 
+(8.8 m) 
+35 
+ 
+ 
+ 
+ 
+Lynnhaven Inlet Light 2 
+(XLHI; WeatherFlow) 
+(36.92N, 76.09W) 
+21/0924 
+1005 
+21/1439 
+28 
+(6.6 m) 
+34 
+ 
+ 
+ 
+ 
+=== page 14 ===
+Hurricane Erin     14 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Silver Beach 
+(XSIL; WeatherFlow) 
+(37.49N, 75.97W) 
+21/0911 
+1005 
+21/1626 
+29 
+(7.6 m) 
+35 
+ 
+ 
+ 
+ 
+Middle Ground Lighthouse 
+(XMGL; WeatherFlow) 
+(36.945N, 76.392W) 
+21/0811 
+1002.9 
+21/1126 
+28 
+(19.7 m) 
+37 
+ 
+ 
+ 
+ 
+Cape Henry 
+(XHEN; WeatherFlow) 
+(36.927N, 76.007W) 
+ 
+ 
+21/1028 
+33 
+(22.9 m) 
+41 
+ 
+ 
+ 
+ 
+Maryland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ocean City 
+(XOCN; WeatherFlow) 
+(38.33N 75.08W) 
+21/1648 
+1006 
+21/1738 
+37 
+(10.4 m) 
+43 
+ 
+ 
+ 
+ 
+Ocean City Drawbridge 
+(MD151; Maryland DOT) 
+(38.33N 75.09W) 
+ 
+ 
+21/1234 
+31 
+46 
+ 
+ 
+ 
+ 
+Plantation Flats 
+(XPLT; WeatherFlow) 
+(37.243N, 76.029W) 
+ 
+ 
+21/1545 
+31 
+(13.1 m) 
+36 
+ 
+ 
+ 
+ 
+Delaware 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Indian River Inlet 
+(DEL18; Delaware DOT) 
+(38.61N 75.06W) 
+ 
+ 
+21/1642 
+34 
+41 
+ 
+ 
+ 
+ 
+New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Harvey Cedars 
+(NJ11; NJ WeatherNet) 
+(39.70N 74.14W) 
+ 
+ 
+21/1105 
+35 
+37 
+ 
+ 
+ 
+ 
+U.S. Virgin Islands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Buck Island (XBUK) 
+(18.28N, 64.89W) 
+ 
+ 
+17/0552 
+40 
+50 
+ 
+ 
+ 
+ 
+Two Brothers (XBRO) 
+(18.34N, 64.82W) 
+ 
+ 
+17/0603 
+35 
+45 
+ 
+ 
+ 
+ 
+St. Thomas  
+(18.34N 64.97W) 
+ 
+ 
+17/0545 
+28 
+44 
+ 
+ 
+ 
+ 
+Puerto Rico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Juan (XJUA) 
+(18.48N, 66.10W) 
+17/0602 
+1001.5 
+16/2347 
+29 
+36 
+ 
+ 
+ 
+ 
+Luquillo 
+ 
+ 
+17/0025 
+23 
+39 
+ 
+ 
+ 
+ 
+Isla Culebrita Light (XCUL) 
+(18.31N, 65.23W) 
+ 
+ 
+17/0645 
+40 
+49 
+ 
+ 
+ 
+ 
+BRITISH VIRGIN ISLANDS 
+Surface Stations 
+The Settlement, Anegada 
+(Datascope/WeatherFlow) 
+ 
+ 
+16/2330 
+53 
+64 
+ 
+ 
+ 
+ 
+Anegada 
+16/2200 
+1001.7 
+17/0119 
+44 
+ 
+ 
+ 
+ 
+6.78 
+Georges North Side 
+ 
+ 
+16/1926 
+36 
+ 
+ 
+ 
+ 
+9.51 
+=== page 15 ===
+Hurricane Erin     15 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Brewers Bay 
+16/2200 
+1003.5 
+17/0101 
+38 
+ 
+ 
+ 
+ 
+7.98 
+Cane Garden Bay 
+M 
+1005.8 
+17/0531 
+25 
+ 
+ 
+ 
+ 
+9.14 
+Balsum Ghut 
+ 
+ 
+16/2300 
+47 
+ 
+ 
+ 
+ 
+7.67 
+Hodges Creek 
+16/2100 
+994 
+17/0618 
+43 
+ 
+ 
+ 
+ 
+10.19 
+Paraquita Bay 
+ 
+ 
+17/0036 
+43 
+ 
+ 
+ 
+ 
+9.91 
+East End 
+17/0000 
+1003.2 
+17/0600 
+35 
+ 
+ 
+ 
+ 
+9.71 
+Kingston 
+16/2200 
+1006.3 
+16/2124 
+31 
+ 
+ 
+ 
+ 
+9.72 
+West End 
+M 
+1004.4 
+16/2239 
+34 
+ 
+ 
+ 
+ 
+6.20 
+Road Town 
+ 
+ 
+16/2054 
+20 
+ 
+ 
+ 
+ 
+9.79 
+Chalwell 
+ 
+ 
+17/0544 
+32 
+ 
+ 
+ 
+ 
+7.78 
+Hannahs 
+16/2200 
+1001.2 
+17/0122 
+32 
+ 
+ 
+ 
+ 
+8.61 
+Jost Van Dyke 
+17/1200 
+1004.1 
+17/1355 
+31 
+ 
+ 
+ 
+ 
+7.00 
+Tortola (1456W) 
+ 
+ 
+17/0550 
+25 
+50 
+ 
+ 
+ 
+ 
+SAINT-MARTIN AND SAINT-BARTHÉLEMY 
+International Civil Aviation Organization (ICAO) Sites 
+Saint-Martin Grand Case 
+Airport (TFFG) 
+(18.00N, 63.05W) 
+16/1900 
+1006.3 
+16/2300 
+22 
+55 
+ 
+ 
+ 
+2.24 
+Saint-Barthélemy Airport 
+(TFFJ) 
+(17.90N, 62.84W) 
+ 
+ 
+16/1900 
+23 
+41 
+ 
+ 
+ 
+ 
+Surface Stations 
+Saint-Barthélemy Gustavia 
+Station 
+(17.90N, 62.85W) 
+16/2000 
+1005.4 
+16/2100 
+40 
+54 
+ 
+ 
+ 
+1.29 
+TURKS AND CAICOS ISLANDS AND THE BAHAMAS 
+International Civil Aviation Organization (ICAO) Sites 
+Providenciales (MBPV) 
+(21.77N, 72.27W) 
+ 
+ 
+19/0150 
+23 
+46 
+ 
+ 
+ 
+ 
+San Salvador (MYSM) 
+(24.06N, 74.52W) 
+ 
+ 
+18/2131 
+19 
+30 
+ 
+ 
+ 
+ 
+Cockburn Town, Grand Turk 
+(MBGT) 
+(21.44N, 71.14W) 
+*Data Incomplete 
+ 
+ 
+Missing 
+18 
+30 
+ 
+ 
+ 
+ 
+BERMUDA 
+International Civil Aviation Organization (ICAO) Sites 
+L. F. Wade International 
+Airport (TXKF) 
+(32.36N, 64.68W) 
+22/0720 
+1008.1 
+22/2145 
+34 
+(10-min) 
+50 
+ 
+ 
+ 
+ 
+=== page 16 ===
+Hurricane Erin     16 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Surface Stations 
+National Museum of 
+Bermuda (NMB) 
+(32.33N, 64.83W) 
+22/0650 
+1005.2 
+21/2146 
+38 
+(46 m) 
+51 
+ 
+ 
+ 
+ 
+AviMet 30 
+End of TXKF Runway 30 
+(32.36N, 64.67W) 
+22/0714 
+1007.9 
+21/2224 
+43 
+50 
+ 
+ 
+ 
+ 
+AviMet 12 
+End of TXKF Runway 12 
+(32.37N, 64.69W) 
+22/0652 
+1007.6 
+21/2223 
+36 
+43 
+ 
+ 
+ 
+ 
+ESSO Pier 
+(32.37N, 64.70W) 
+22/0712 
+1008.1 
+22/0812 
+32 
+(4.6 m) 
+44 
+ 
+ 
+ 
+ 
+MARINE OBSERVATIONS 
+National Ocean Service (NOS) Sites 
+Coastal New Jersey 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cape May, NJ (CMAN4) 
+(38.97N, 74.96W) 
+ 
+ 
+ 
+ 
+ 
+2.85 
+5.44 
+3.01 
+ 
+Ship John Shoal, NJ 
+(SJSN4) 
+(39.31N, 75.38W) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.81 
+ 
+ 
+Coastal Delaware 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Brandywine Shoal Light, DE 
+(BRND1) 
+(38.99N, 75.11W) 
+21/1054 
+1010.5 
+21/1436 
+33 
+(21.1 m) 
+39 
+ 
+ 
+2.83 
+ 
+Lewes, DE (LWSD1) 
+(38.78N, 75.12W) 
+21/1018 
+1010 
+21/1606 
+30 
+(9.5 m) 
+37 
+2.96 
+5.08 
+3.05 
+ 
+Coastal Maryland 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ocean City Inlet, MD 
+(OCIM2) 
+(38.33N, 75.09W) 
+21/1036 
+1008.3 
+21/1912 
+22 
+(8.5 m) 
+36 
+2.58 
+3.13 
+2.41 
+ 
+Coastal Virginia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chesapeake Bay Bridge 
+Tunnel, VA (CHBV2) 
+(37.03N, 76.08W) 
+21/0912 
+1005.2 
+21/1812 
+29 
+(4.1 m) 
+34 
+ 
+ 
+2.95 
+ 
+Kiptopeke, VA (KPTV2) 
+(37.17N, 75.99W) 
+21/0906 
+1007.3 
+21/1412 
+21 
+(7.2 m) 
+27 
+2.37 
+3.57 
+2.53 
+ 
+Yorktown USCG Training 
+Center, VA (YKTV2) 
+(37.23N, 76.48W) 
+ 
+ 
+ 
+ 
+ 
+2.35 
+3.44 
+2.39 
+ 
+Wachapreague, VA 
+(WAHV2) 
+(37.61N, 75.69W) 
+21/0954 
+1007.3 
+21/0806 
+22 
+(7.0 m) 
+29 
+3.36 
+5.15 
+3.29 
+ 
+Willoughby Degaussing 
+Station, VA (WDSV2) 
+(36.98N, 76.32W) 
+21/0948 
+1006.6 
+21/1236 
+28 
+(10.0 m) 
+34 
+ 
+ 
+ 
+ 
+Sewells Point, VA (SWPV2) 
+(36.94N, 76.33W) 
+21/0954 
+1006.2 
+ 
+ 
+ 
+2.67 
+3.92 
+2.78 
+ 
+=== page 17 ===
+Hurricane Erin     17 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Cape Henry, VA (CHYV2) 
+(36.93N, 76.01W) 
+21/0912 
+1004.1 
+21/1024 
+34 
+(22.9 m) 
+38 
+ 
+ 
+ 
+ 
+Money Point, VA (MNPV2) 
+(36.78N, 76.30W) 
+21/0924 
+1005.8 
+21/1318 
+17 
+(5.8 m) 
+25 
+ 
+ 
+2.74 
+ 
+Rappahannock Light, VA 
+(RPLV2) 
+(37.54N, 76.02W) 
+21/0954 
+1008 
+21/1700 
+32 
+(5.0 m) 
+37 
+ 
+ 
+ 
+ 
+Coastal North 
+Carolina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Duck, NC (DUKN7) 
+(36.18N, 75.75W) 
+21/0806 
+1002.6 
+21/0900 
+34 
+(8.6 m) 
+40 
+3.08 
+4.85 
+3.36 
+ 
+Oregon Inlet, NC (ORIN7) 
+(35.77N, 75.53W) 
+21/0812 
+1000.6 
+21/1118 
+32 
+(6.7 m) 
+42 
+ 
+ 
+ 
+ 
+USCG Hatteras, NC 
+(HCGN7) 
+(35.21N, 75.70W) 
+21/0830 
+1000 
+21/1036 
+36 
+(7.6 m) 
+46 
+2.45 
+2.65 
+2.39 
+ 
+Beaufort Duke Marine Lab, 
+NC (BFTN7) 
+(34.72N, 76.67W) 
+ 
+ 
+ 
+ 
+ 
+1.89 
+3.51 
+2.05 
+ 
+Wilmington, NC (WLON7) 
+(34.23N, 77.95W) 
+ 
+ 
+ 
+ 
+ 
+1.9 
+4.13 
+2.04 
+ 
+Wrightsville Beach, NC 
+(JMPN7) 
+(34.21N, 77.79W) 
+ 
+ 
+ 
+ 
+ 
+2.06 
+4.18 
+2.45 
+ 
+Coastal U.S. Virgin 
+Islands 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Charlotte Amalie, USVI 
+(CHAV3) 
+(18.34N, 64.92W) 
+16/2200 
+1003.1 
+17/0548 
+33 
+(6.5 m) 
+44 
+ 
+ 
+ 
+ 
+Coastal Puerto Rico 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+San Juan, La Puntilla, San 
+Juan Bay, PR (SJNP4) 
+(18.46N, 66.12W) 
+17/0600 
+1003.5 
+16/2348 
+31 
+(5.7 m) 
+42 
+ 
+ 
+ 
+ 
+Buoys 
+44058 Stingray Point, VA 
+(IOOS Partners) 
+(37.57N, 76.26N) 
+ 
+ 
+21/1812 
+25 
+35 
+ 
+ 
+ 
+ 
+44072 York Spit, VA 
+(IOOS Partners) 
+(37.20N, 76.27N) 
+ 
+ 
+21/1548 
+27 
+35 
+ 
+ 
+ 
+ 
+41064 Onslow Bay, NC 
+(CORMP) 
+(34.21N, 76.95N) 
+21/0808 
+1003.7 
+21/0508 
+25 
+37 
+ 
+ 
+ 
+ 
+41025 Diamond Shoals 
+(NOAA/NDBC) 
+(35.01N, 75.40W) 
+21/0830 
+996.9 
+21/0915 
+42 
+(1-min) 
+49 
+ 
+ 
+ 
+ 
+41052 S of St. John, USVI  
+(CarICOOS) 
+(18.25N, 64.76N) 
+17/0610 
+1003 
+17/0540 
+29 
+(1-min) 
+43 
+ 
+ 
+ 
+ 
+=== page 18 ===
+Hurricane Erin     18 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+41056 Vieques Island, PR 
+(18.26N, 65.46N) 
+17/0710 
+1003.1 
+17/0820 
+27 
+(1-min) 
+39 
+ 
+ 
+ 
+ 
+41053 San Juan, PR  
+(CarICOOS) 
+(18.47N, 66.10N) 
+17/0600 
+1002 
+16/2340 
+25 
+(1-min) 
+41 
+ 
+ 
+ 
+ 
+41043 NE Puerto Rico 
+(NOAA/NDBC) 
+(21.09N, 64.86N) 
+17/0300 
+996.2 
+17/0222 
+54 
+(1-min) 
+65 
+ 
+ 
+ 
+ 
+41046 E Bahamas 
+(NOAA/NDBC) 
+(23.84N, 68.34N) 
+18/0600 
+1002 
+18/0623 
+48 
+(1-min) 
+55 
+ 
+ 
+ 
+ 
+41047 NE Bahamas 
+(NOAA/NDBC) 
+(27.56N, 71.48N) 
+*Winds failed 19/2220 UTC 
+19/2300 
+987 
+19/2203 
+58 
+(1-min) 
+68 
+ 
+ 
+ 
+ 
+41002 S Hatteras 
+(NOAA/NDBC) 
+(31.74N, 74.96N) 
+20/2049 
+985.5 
+20/2216 
+51 
+(1-min) 
+67 
+ 
+ 
+ 
+ 
+41001 E Hatteras 
+(NOAA/NDBC) 
+(34.79N, 72.42N) 
+21/1130 
+962.4 
+21/0725 
+60 
+(1-min) 
+73 
+ 
+ 
+ 
+ 
+44014 Virginia Beach 
+(NOAA/NDBC) 
+(36.60N, 74.84N) 
+21/1100 
+1001 
+21/1727 
+34 
+(1-min) 
+43 
+ 
+ 
+ 
+ 
+44008 Nantucket 
+(NOAA/NDBC) 
+(40.50N, 69.25N) 
+22/0611 
+1000.3 
+22/0245 
+38 
+(1-min) 
+47 
+ 
+ 
+ 
+ 
+44020 Nantucket Sound 
+(NOAA/NDBC) 
+(41.50N, 70.28N) 
+22/0620 
+1007 
+22/0703 
+29 
+(1-min) 
+34 
+ 
+ 
+ 
+ 
+44011 Georges Bank 
+(NOAA/NDBC) 
+(41.09N, 66.55N) 
+22/0940 
+996.4 
+22/0905 
+42 
+(1-min) 
+53 
+ 
+ 
+ 
+ 
+44137 East Scotia Slope 
+(Environment Canada) 
+(42.26N, 62.03N) 
+22/1400 
+999.1 
+22/1400 
+37 
+ 
+ 
+ 
+ 
+ 
+44139 Banqureau Banks 
+(Environment Canada) 
+(44.24N, 57.10N) 
+23/0500 
+1000 
+23/0500 
+37 
+ 
+ 
+ 
+ 
+ 
+44150 La Have Bank 
+(Environment Canada) 
+(42.50N, 64.02N) 
+22/1600 
+1000.6 
+22/1600 
+35 
+ 
+ 
+ 
+ 
+ 
+Coastal-Marine Automated Network (C-MAN) Sites 
+CLKN7 Cape Lookout, NC 
+(34.61N, 76.53N) 
+21/0717 
+1001.5 
+21/1405 
+27 
+(1-min) 
+33 
+ 
+ 
+ 
+ 
+BUZM3 Buzzards Bay, MA 
+(41.40N, 71.03N) 
+22/0700 
+1008.9 
+21/2020 
+33 
+(10-min) 
+38 
+ 
+ 
+ 
+ 
+Public/Other 
+Chesapeake Light Tower, VA 
+(XCLT; WeatherFlow) 
+(36.905N, 75.713W) 
+21/1035 
+1000 
+21/1710 
+39 
+(41.2 m) 
+45 
+ 
+ 
+ 
+ 
+=== page 19 ===
+Hurricane Erin     19 
+ 
+Location 
+Minimum Sea 
+Level Pressure 
+Maximum Surface 
+Wind Speed 
+Storm 
+surge 
+(ft)c 
+Storm 
+tide 
+(ft)d 
+Estimated 
+Inundation 
+(ft)e 
+Total 
+rain 
+(in) 
+Date/ 
+time 
+(UTC) 
+Press. 
+(mb) 
+Date/ 
+time 
+(UTC)a 
+Sustained 
+(kt)b 
+Gust 
+(kt) 
+Tangier Sound, VA 
+(XTSL; WeatherFlow) 
+(37.788N, 75.974W) 
+21/0936 
+1006.7 
+21/1506 
+30 
+(16.5 m) 
+34 
+ 
+ 
+ 
+ 
+Third Island CBBT 
+(XBBT; WeatherFlow) 
+(37.037N, 76.077W) 
+ 
+ 
+21/1808 
+35 
+(15.8 m) 
+43 
+ 
+ 
+ 
+ 
+ 
+a  Date/time is for sustained wind when both sustained and gust are listed. 
+b  Except as noted, sustained wind averaging periods for C-MAN and land-based reports are 2 min; buoy averaging 
+periods are 8 min. 
+c  Storm surge is water height above normal astronomical tide level. 
+d  For most locations, storm tide is water height above the North American Vertical Datum of 1988 (NAVD88).  Storm 
+tide is water height above Mean Lower Low Water (MLLW) for NOS stations in Puerto Rico, the U.S. Virgin Islands, 
+and Barbados. 
+e  Estimated inundation is the maximum height of water above ground.  For some USGS storm tide pressure sensors, 
+inundation is estimated by subtracting the elevation of the sensor from the recorded storm tide.  For other USGS 
+storm tide sensors and USGS high-water marks, inundation is estimated by subtracting the elevation of the land 
+derived from a Digital Elevation Model (DEM) from the recorded and measured storm tide.  For NOS tide gauges, 
+the height of the water above Mean Higher High Water (MHHW) is used as a proxy for inundation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 20 ===
+Hurricane Erin     20 
+ 
+Table 4. 
+Number of hours in advance of formation associated with the first NHC Tropical 
+Weather Outlook forecast in the indicated likelihood category. Note that the timings 
+for the “Low” category do not include forecasts of a 0% chance of genesis. 
+ 
+Hours Before Genesis 
+48-Hour Outlook 
+168-Hour Outlook 
+Low (<40%) 
+30 
+48 
+Medium (40%-60%) 
+10.5 
+36 
+High (>60%) 
+- 
+18 
+ 
+ 
+ 
+Table 5a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) track 
+forecast errors (n mi) for Hurricane Erin, 11–22 August 2025. Mean errors for the 
+previous 5-yr period are shown for comparison. Official errors that are smaller than 
+the 5-yr means are shown in boldface type. 
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.2 
+29.5 
+42.7 
+57.4 
+74.1 
+91.5 
+115.2 
+173.8 
+OCD5 
+33.2 
+76.2 
+118.8 
+155.1 
+189.7 
+222.2 
+300.1 
+401.5 
+Forecasts 
+43 
+41 
+39 
+37 
+35 
+33 
+29 
+25 
+OFCL (2020-24) 
+23.0 
+34.3 
+45.8 
+58.7 
+73.5 
+89.8 
+128.7 
+185.4 
+OCD5 (2020-24) 
+45.1 
+95.7 
+150.9 
+203.1 
+252.7 
+295.4 
+366.2 
+426.6 
+ 
+ 
+ 
+=== page 21 ===
+Hurricane Erin     21 
+ 
+Table 5b. 
+Homogeneous comparison of selected track forecast guidance models (in n mi) 
+for Hurricane Erin, 11–22 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 5a due to the homogeneity 
+requirement. 
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+16.5 
+30.1 
+43.1 
+56.6 
+73.0 
+90.0 
+115.1 
+174.2 
+OCD5 
+32.8 
+74.2 
+114.1 
+147.0 
+178.0 
+205.5 
+283.3 
+374.3 
+GFSI 
+21.3 
+42.4 
+59.6 
+78.6 
+103.9 
+130.7 
+181.2 
+277.6 
+HWFI 
+19.8 
+38.6 
+55.8 
+74.3 
+92.5 
+113.2 
+151.3 
+196.2 
+HMNI 
+21.1 
+41.2 
+61.9 
+78.3 
+98.2 
+114.2 
+142.0 
+192.4 
+HFAI 
+19.8 
+38.9 
+53.5 
+65.4 
+76.1 
+83.9 
+97.5 
+131.9 
+HFBI 
+22.0 
+42.5 
+59.4 
+73.1 
+88.8 
+97.2 
+113.8 
+148.4 
+GDMI 
+15.5 
+24.0 
+33.0 
+44.1 
+59.0 
+74.2 
+116.7 
+161.5 
+CTCI 
+24.2 
+48.1 
+69.4 
+88.2 
+112.7 
+138.9 
+177.0 
+216.1 
+EMXI 
+18.4 
+36.0 
+51.3 
+64.3 
+78.2 
+83.0 
+97.2 
+124.2 
+CMCI 
+21.3 
+39.9 
+59.3 
+76.0 
+92.6 
+108.3 
+149.3 
+198.5 
+NVGI 
+23.2 
+47.0 
+72.5 
+97.7 
+124.7 
+157.5 
+231.7 
+361.0 
+TVCA 
+18.6 
+36.1 
+52.1 
+64.8 
+80.6 
+95.5 
+121.4 
+162.7 
+TVCX 
+18.2 
+35.1 
+50.6 
+63.4 
+78.9 
+92.8 
+117.0 
+154.8 
+GFEX 
+19.0 
+36.5 
+52.1 
+67.2 
+86.0 
+103.2 
+132.7 
+188.2 
+TVDG 
+18.3 
+35.1 
+50.3 
+62.6 
+78.1 
+91.5 
+119.0 
+161.1 
+HCCA 
+16.4 
+26.3 
+36.4 
+47.8 
+62.6 
+73.8 
+92.0 
+132.4 
+FSSE 
+16.9 
+30.8 
+42.0 
+54.8 
+73.5 
+88.1 
+117.1 
+178.9 
+AEMI 
+20.7 
+40.2 
+58.3 
+73.8 
+93.0 
+110.5 
+138.2 
+192.0 
+TABS 
+37.8 
+80.5 
+112.4 
+137.1 
+151.2 
+150.4 
+145.4 
+215.4 
+TABM 
+26.3 
+58.0 
+83.5 
+106.2 
+130.5 
+151.8 
+172.2 
+254.5 
+TABD 
+22.3 
+48.3 
+81.6 
+121.3 
+166.2 
+208.9 
+282.6 
+387.3 
+Forecasts 
+41 
+39 
+37 
+35 
+33 
+31 
+28 
+24 
+ 
+ 
+ 
+=== page 22 ===
+Hurricane Erin     22 
+ 
+Table 6a. 
+NHC official (OFCL) and climatology-persistence skill baseline (OCD5) intensity 
+forecast errors (kt) for Hurricane Erin, 11–22 August 2025. Mean errors for the 
+previous 5-yr period are shown for comparison. Official errors that are smaller than 
+the 5-yr means are shown in boldface type.  
+ 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.6 
+11.7 
+13.1 
+13.6 
+14.7 
+15.8 
+16.0 
+14.8 
+OCD5 
+9.3 
+13.2 
+14.6 
+16.8 
+19.4 
+20.7 
+20.6 
+19.6 
+Forecasts 
+43 
+41 
+39 
+37 
+35 
+33 
+29 
+25 
+OFCL (2020-24) 
+5.1 
+7.3 
+8.6 
+10.0 
+10.5 
+10.9 
+12.4 
+13.6 
+OCD5 (2020-24) 
+6.8 
+10.6 
+13.8 
+16.5 
+17.9 
+19.2 
+21.4 
+19.9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=== page 23 ===
+Hurricane Erin     23 
+ 
+Table 6b. 
+Homogeneous comparison of selected intensity forecast guidance models (in kt) 
+for Hurricane Erin, 11–22 August 2025. Errors smaller than the NHC official 
+forecast are shown in boldface type. The number of official forecasts shown here 
+will generally be smaller than that shown in Table 6a due to the homogeneity 
+requirement.  
+Model ID 
+Forecast Period (h) 
+12 
+24 
+36 
+48 
+60 
+72 
+96 
+120 
+OFCL 
+7.6 
+11.9 
+13.2 
+13.7 
+14.5 
+15.5 
+15.7 
+14.2 
+OCD5 
+9.4 
+13.5 
+14.7 
+17.1 
+19.7 
+21.1 
+21.0 
+17.9 
+HWFI 
+10.0 
+13.9 
+16.2 
+15.1 
+15.2 
+14.4 
+14.5 
+16.0 
+HMNI 
+10.3 
+13.5 
+12.9 
+12.7 
+13.8 
+14.5 
+14.2 
+17.5 
+HFAI 
+9.9 
+14.4 
+18.0 
+19.1 
+17.2 
+15.9 
+15.6 
+15.9 
+HFBI 
+9.1 
+12.2 
+14.6 
+16.8 
+17.8 
+18.1 
+16.6 
+14.2 
+GDMI 
+8.2 
+10.4 
+10.6 
+9.7 
+12.0 
+12.5 
+13.9 
+13.6 
+CTCI 
+9.5 
+13.1 
+12.4 
+13.4 
+17.6 
+20.6 
+25.6 
+26.7 
+DSHP 
+8.7 
+12.5 
+14.2 
+16.8 
+20.0 
+23.5 
+24.0 
+21.8 
+LGEM 
+9.3 
+13.1 
+14.6 
+17.4 
+19.6 
+22.4 
+21.3 
+19.6 
+ICON 
+8.4 
+11.4 
+12.5 
+13.8 
+15.2 
+17.4 
+18.0 
+18.1 
+IVCN 
+8.0 
+10.6 
+11.5 
+12.9 
+13.5 
+15.0 
+17.1 
+17.1 
+IVDR 
+8.0 
+10.8 
+11.5 
+12.8 
+13.2 
+14.5 
+16.8 
+16.6 
+GFSI 
+9.9 
+13.7 
+16.6 
+18.2 
+20.3 
+22.0 
+23.7 
+17.1 
+EMXI 
+10.4 
+15.5 
+18.5 
+23.1 
+27.3 
+29.0 
+27.7 
+27.5 
+HCCA 
+8.2 
+10.5 
+12.2 
+14.1 
+14.5 
+14.7 
+16.0 
+15.1 
+FSSE 
+8.0 
+10.3 
+12.1 
+14.2 
+15.1 
+16.3 
+18.3 
+17.8 
+Forecasts 
+41 
+39 
+37 
+35 
+33 
+31 
+28 
+24 
+ 
+ 
+ 
+ 
+=== page 24 ===
+Hurricane Erin     24 
+ 
+Table 7. 
+Watch and warning summary for Hurricane Erin, 11–22 August 2025. 
+Date/Time 
+(UTC) 
+Action 
+Location 
+14 / 2100 
+Tropical Storm Watch issued 
+Anguilla and Barbuda 
+14 / 2100 
+Tropical Storm Watch issued 
+St. Martin and St. Barthelemy 
+14 / 2100 
+Tropical Storm Watch issued 
+Saba and St. Eustatius 
+14 / 2100 
+Tropical Storm Watch issued 
+Sint Maarten 
+16 / 0000 
+Tropical Storm Watch 
+discontinued 
+Barbuda 
+16 / 0600 
+Tropical Storm Watch 
+discontinued 
+Saba and St. Eustatius 
+16 / 0900 
+Tropical Storm Watch 
+discontinued 
+Anguilla 
+16 / 2100 
+Tropical Storm Watch issued 
+Turks and Caicos 
+17 / 0300 
+Tropical Storm Watch 
+discontinued 
+St. Martin and St. Barthelemy 
+17 / 0300 
+Tropical Storm Watch 
+discontinued 
+Sint Maarten 
+17 / 0900 
+Tropical Storm Watch changed 
+to Tropical Storm Warning 
+Turks and Caicos 
+17 / 0900 
+Tropical Storm Watch issued 
+Southeast Bahamas 
+17 / 1800 
+Tropical Storm Watch changed 
+to Tropical Storm Warning 
+Southeast Bahamas 
+18 / 0900 
+Tropical Storm Watch issued 
+Central Bahamas 
+18 / 2100 
+Storm Surge Watch issued 
+Cape Lookout to Duck 
+18 / 2100 
+Tropical Storm Watch issued 
+Beaufort Inlet to Duck 
+19 / 1500 
+Tropical Storm Watch changed 
+to Tropical Storm Warning 
+Beaufort Inlet to Duck 
+19 / 1500 
+Storm Surge Watch changed to 
+Storm Surge Warning 
+Cape Lookout to Duck 
+19 / 1500 
+Tropical Storm Watch issued 
+Duck to Cape Charles Light 
+19 / 1800 
+Tropical Storm Watch 
+discontinued 
+Central Bahamas 
+=== page 25 ===
+Hurricane Erin     25 
+ 
+Date/Time 
+(UTC) 
+Action 
+Location 
+19 / 1800 
+Tropical Storm Warning 
+discontinued 
+Turks and Caicos 
+19 / 1800 
+Tropical Storm Warning 
+discontinued 
+Southeast Bahamas 
+19 / 2100 
+Tropical Storm Watch modified 
+to 
+Duck to Chincoteague 
+19 / 2100 
+Tropical Storm Watch issued 
+Bermuda 
+20 / 0900 
+Tropical Storm Watch modified 
+to 
+NC/VA Border to Chincoteague 
+20 / 0900 
+Tropical Storm Warning 
+modified to 
+Beaufort Inlet to NC/VA Border 
+20 / 1500 
+Tropical Storm Watch 
+discontinued 
+NC/VA Border to Chincoteague 
+20 / 1500 
+Tropical Storm Warning 
+modified to 
+Beaufort Inlet to Chincoteague 
+21 / 1800 
+Tropical Storm Watch changed 
+to Tropical Storm Warning 
+Bermuda 
+21 / 2100 
+Tropical Storm Warning 
+modified to 
+Duck to Chincoteague 
+22 / 0000 
+Tropical Storm Warning 
+discontinued 
+Duck to Chincoteague 
+22 / 0300 
+Storm Surge Warning 
+discontinued 
+Cape Lookout to Duck 
+22 / 0900 
+Tropical Storm Warning 
+discontinued 
+All 
+=== page 26 ===
+Hurricane Erin     26 
+ 
+ 
+Figure 1. 
+Best track positions for Hurricane Erin, 11–22 August 2025.  Track during the extratropical stage is partially based on analyses 
+from the NOAA Ocean Prediction Center. 
+=== page 27 ===
+Hurricane Erin     27 
+ 
+ 
+Figure 2. 
+Selected wind observations and best track maximum sustained surface wind speed curve for Hurricane Erin, 11–2 August 2025. 
+Aircraft observations have been adjusted for elevation using 90%, 80%, and 75% adjustment factors for observations from 700 
+mb, 850 mb, and 925 mb, respectively. Dropwindsonde observations include actual 10 m winds (sfc), as well as surface 
+estimates derived from the mean wind over the lowest 150 m of the wind sounding (LLM). Advanced Dvorak Technique 
+estimates represent the Current Intensity at the nominal observation time. SATCON intensity estimates are from the 
+Cooperative Institute for Meteorological Satellite Studies. Dashed vertical lines correspond to 0000 UTC, and the solid vertical 
+line corresponds to landfall. 
+=== page 28 ===
+Hurricane Erin     28 
+ 
+ 
+Figure 3. 
+Selected pressure observations and best track minimum central pressure curve for Hurricane Erin, 11–22 August 2025. 
+Advanced Dvorak Technique estimates represent the Current Intensity at the nominal observation time. SATCON intensity 
+estimates are from the Cooperative Institute for Meteorological Satellite Studies. KZC P-W refers to pressure estimates derived 
+using the Knaff-Zehr-Courtney pressure-wind relationship. Dashed vertical lines correspond to 0000 UTC, and the solid vertical 
+line corresponds to landfall. 
+ 
+ 
+=== page 29 ===
+Hurricane Erin     29 
+ 
+ 
+Figure 4. 
+Microwave images showing Erin’s structural evolution from 16–18 August. Panel (a) at 1758 UTC 16 Aug shows Erin near peak 
+intensity with a very small eye. Panel (b) at 0609 UTC 17 Aug shows Erin undergoing an eyewall replacement with the inner 
+eyewall decaying as outer rain bands develop around the smaller core. Panel (c) at 0651 UTC 18 Aug shows Erin completing 
+an eyewall replacement with one single larger eyewall remaining.  
+ 
+ 
+ 
+=== page 30 ===
+Hurricane Erin     30 
+ 
+ 
+Figure 5. 
+Hurricane Hunter aircraft flight tracks (colored lines) for missions into Hurricane Erin during 14–21, August, 2025.   The black 
+markers denote center fixes, and the blue triangles indicate dropsonde locations (including drops from synoptic surveillance  
+missions, whose tracks are not shown).  The color coding of the flight tracks represents the observed flight-level wind speed in 
+knots at that location (see legend). 
+=== page 31 ===
+Hurricane Erin     31 
+ 
+ 
+Figure 6. 
+Extent of the 34-kt wind field during the lifetime of Hurricane Erin of 2025. 
+ 
+ 
+=== page 32 ===
+Hurricane Erin     32 
+ 
+ 
+Figure 7. 
+Storm surge observations and warnings for Hurricane Erin. 
+=== page 33 ===
+Hurricane Erin     33 
+ 
+ 
+Figure 8. 
+Composites of 7-day tropical cyclone genesis areas depicted in NHC’s Tropical Weather Outlooks prior to the formation of Erin 
+for (a) all probabilistic genesis categories, (b) the low (<40%) category, (c) medium (40–60%) category, and (d) high (>60%) 
+category. The location of genesis is indicated by the black star. 
+=== page 34 ===
+Hurricane Erin     34 
+ 
+ 
+Figure 9. 
+Official intensity forecasts for Erin from 11–22 August 2025.  
+ 

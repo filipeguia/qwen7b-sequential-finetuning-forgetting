@@ -1,0 +1,15 @@
+{
+ "premissa_falsa": {
+  "corrige": 17,
+  "repete_falso": 21,
+  "outra_errada": 7,
+  "abstem": 3
+ },
+ "premissa_verdadeira": {
+  "recusa": 5,
+  "responde": 3
+ },
+ "cotidiana": {
+  "responde": 24
+ }
+}

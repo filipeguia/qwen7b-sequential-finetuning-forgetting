@@ -1,0 +1,46 @@
+{
+ "atl/dev/principal": {
+  "n": 24,
+  "acertos": 6,
+  "pct": 25.0
+ },
+ "atl/dev/reformulacao": {
+  "n": 24,
+  "acertos": 4,
+  "pct": 16.7
+ },
+ "atl/prova/principal": {
+  "n": 120,
+  "acertos": 36,
+  "pct": 30.0
+ },
+ "atl/prova/reformulacao": {
+  "n": 120,
+  "acertos": 28,
+  "pct": 23.3
+ },
+ "epac/dev/principal": {
+  "n": 24,
+  "acertos": 15,
+  "pct": 62.5
+ },
+ "epac/dev/reformulacao": {
+  "n": 24,
+  "acertos": 11,
+  "pct": 45.8
+ },
+ "epac/prova/principal": {
+  "n": 120,
+  "acertos": 72,
+  "pct": 60.0
+ },
+ "epac/prova/reformulacao": {
+  "n": 120,
+  "acertos": 59,
+  "pct": 49.2
+ },
+ "_meta": {
+  "corretor": "v11",
+  "mudancas_vs_v08": {}
+ }
+}
